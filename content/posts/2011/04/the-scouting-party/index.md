@@ -1,0 +1,13 @@
+---
+title: "The Scouting Party"
+date: 2011-04-06
+draft: false
+categories: ["Book Review", "History"]
+tags: ["baden-powell", "bsa-history"]
+---
+I have spent some memorable hours reading an advance copy of David C. Scott and Brendan Murphy’s new book The Scouting Party; a thoroughly researched, unflinching account of the founding and first decade of the BSA focused on  the lives of Earnest Thompson Seton, Robert Baden-Powell and Daniel Carter Beard. To my knowledge no one has so thoroughly analyzed the events and personalities involved in the founding of the BSA.
+Histories of the BSA’s early years are typically encapsulations that may mention the differences between Seton, Beard and Baden-Powell in passing but The Scouting Party takes these matters up in incredible detail mappings out the troubled relationships of these three men through their letters and writings.
+Rather than legend or hagiography this account is a work of careful reportage leading to a deeper understanding of the resilient and vital ideas created in this maelstrom of personalities.The result is is an inspiring account of ideas too big for any one man’s work. Despite their deep animosities for one another Seton, Powell and Beard ultimately created a remarkable organization. Clearly such an expansive vision would never have been realized without this dynamic tension.
+The calculating hand of our first National Scout Executive, James West, and the somewhat mercenary machinations of publisher William D. Boyce weave through the narrative; two men who were crucial in bringing the work of far more visionary men to a practical reality.
+We learn that Seton first envisioned the key concepts central to the basis of Scouting, Baden-Powell’s disciplined pragmatism was vital in bringing Seton’s somewhat woolly, inaccessible vision, to reality and Beard’s contributions were important to popularizing the movement in its formative years.
+Each of these wildly divergent personalities were all key in forming the BSA as we know it. Having a measured, scholarly look at them in their own words as they forged this organization is incredibly valuable to our collective future. As we continue work to bring the promises of Scouting to reality we will encounter similar conflicts of style, personality and ideas. We can overcome these challenges and continue to weave together a vital, relevant, movement that answers the needs of the future while remaining firmly rooted in the vision of its creation.

@@ -1,0 +1,15 @@
+---
+title: "The Left Handshake"
+date: 2011-04-16
+draft: false
+categories: ["History"]
+tags: ["scouting-history", "wwii"]
+---
+In his book, The Left Handshake Hilary St. George Saunders recounts the history of the Boy Scout Movement during the Second World War. 1939-1945. The book is available in PDF format
+It is story of how scouts in occupied countries aided resistance  movements, maintained their troops and provided many public services often at great personal risk.
+Poland, The Warsaw Uprising-
+“After sixty-three days of bitter fighting, the insurrection was crushed, and on the 3 rd October, 1944, Warsaw fell for the second time. It was a cold, grey day, and in a house in Wilcza Street more than a hundred Scouts and Guides had gathered together. They knew it well, for some of them had helped in the hospital which had once been set up there. Now all that remained was a skeleton of scarred brick and mortar. A few were Scoutmasters who had commanded Scout units in the Home Army, but the great majority of that silent band was made up of boys and girls from the age of twelve upwards, all of whom had been heavily engaged in the fighting. They had carried messages, manned first-aid posts and fire parties, looked after homeless children, operated the Scout post office, printed and delivered newspapers, sung songs to divert terrified civilians hidden in the cellars during a bombardment, cooked for the army. There they stood in a semi-circle in the ruins of their city, and of their number forty that morning were decorated with the Cross of Merit and the Cross of Gallantry by the Chief Commissioner.”
+Czechoslovakia-
+“When, a few weeks before the end of the war the Germans carried out a mass migration of prisoners-of-war from east to west Czechoslovakia, Scouts near the German boundary kidnapped some sixty American prisoners-of-war who had arrived in an exhausted and starving condition, hid them in the woods and fed them till their compatriots arrived to find them alive and well, and conversing with their hosts by means of the American Indian sign language.”
+Belgium-
+“In the Liege district fourteen regular members of a Rover Crew, of the average age of twenty-two, set up one of the first information sections. Under cover of their Scouting activities they spied on the enemy and sent frequent reports by radio to the Allies. As the war progressed, they became expert in picking up and hiding supplies dropped to the Resistance by parachute. All these Rovers, of whom half paid for their patriotism with their lives, lived ” a tremendous adventure. ” Six escaped eventually to England, and of these, five joined the parachute troops and the other became a fighter pilot. At one time or another, ten of them were in the hands of the Gestapo, and four in those of the Spanish police. Including the seven who were executed, twelve went to concentration camps. At the end of the war the Minister of National Defence awarded a special decoration to be sewn on the flag of this splendid Troop, a unique distinction of which Belgian Scouts are justly proud.”

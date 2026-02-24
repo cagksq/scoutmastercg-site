@@ -1,0 +1,37 @@
+---
+title: "What happens when Scouts take over?"
+date: 2011-04-16
+draft: false
+categories: ["Outdoor Skills", "Youth Leadership"]
+tags: ["fire-making", "recruiting", "spl", "tents", "webelos", "youth-led"]
+---
+Tom Gillard is a Scoutmaster in Tullahoma Tennessee. We struck up a correspondence after he was part of a session about the patrol method I presented over the internet for a group of Scouters attending a Merit Badge University. Over the past couple of months Tom has written to tell me about his experiences applying the patrol method in his Troop.
+Tom is no newcomer to Scouting but he wanted to work towards strengthening his youth leadership. He shares the same reservations and doubts we all have when we really jump off into the deep end and unreservedly invest our youth leaders with real responsibility.
+Here’s Tom’s latest installment – I think you’ll find it inspiring:
+Our plans for this month’s outing changed suddenly leaving one week for the Patrol Leader’s Council to adapt. No sweat for them.  They don’t have the same appreciation of time that us older folks have.
+Anyway we usually have an “advancement weekend” for the newly crossed over Webelos, so this is what they started planning.  The permission slips were taken up on the Monday prior to the outing so at least they knew who was going.  A couple of the older Scouts helped them plan a menu, which I wish I’d seen before I saw the Ramen noodles on Saturday night, but…anyway.
+Equipment check? Almost none. We had 6 of the 9 new Scouts and 10 of the older ones going out.  I was still worried…
+Monday night I sent the SPL an advancement report that outlined what each Scout needed for their next rank. I asked him to give us the most’ bang for the buck’ he could while we were camping.  He came up with a schedule and quite a few of the requirements that are best done while out in the woods.  Not bad…
+No calls from anyone all week.
+Saturday I was actually quite apprehensive.  The acting SPL (the real one couldn’t be there) showed up. I gave him the roster and asked him to start checking them off and when all arrived, get them to the vehicles and prepare to leave.  It worked with just a little questioning on my part.  “How many are we missing?  If we are all here shouldn’t we load up and go?”
+I had most of the older Scouts in my suburban. Between their chatter on the drive to our campsite I asked them to tell me what their mission was this weekend.  One of them piped up; “If the older Scouts hadn’t helped us we wouldn’t be where we are today, so we’re here to help these new Scouts start advancing.”  I thought I should probably stop the car and wipe my teary eyes, but I said, “Good, that’s good!”  The others agreed with him.
+They had said the words but could they dance the dance?  I asked more questions about how they would be doing things during the drive.
+When we arrived I ran though your instructional methods with them, (circle-up, round robin, etc.)  Finally they went on their merry way…
+I sat down to watch with two other ‘seasoned’ ASM’s (they are on board with the idea of the Scouts leading), and 4 ‘new’ dads.  I warned them that, while it may be painful to watch, we were letting the Scouts handle things.
+With little to no prompting the older Scouts put the new Scouts into smaller groups and started instructing. Of course they forgot a lot of what I had told them about instructing earlier but I didn’t care: I was proud that they were taking charge!
+I wandered around casually asking if they needed anything, then returning to my chair. One of the ASM’s was keeping the new dads busy showing them map and compass skills.
+As the day progressed we adults remarked what a good job everyone was doing.  At lunch I let the Scouts know that they were doing a WONDERFUL job.  They had a 2 hour session, 2 hour lunch and then another 2 hour session then free time for the rest of the day.
+On their first camping trip with the troop we have a ceremonial welcome for our new Scouts.  I had asked the older Scouts about doing this. They remembered the ceremony and wanted to do it for the new Scouts. We set out 12 candles down the road to our camp. The candles are lit and the younger scouts are led past. An older Scout is standing at each candle. He gives the Scout sign and repeats his point of the Scout law. When they reach the end of the road the new Scouts arrive at a campfire.  I had each of them pick up a stick and bring it to the campfire. I used your SM minute about sticks
+The new dads were suitably impressed by the ceremony.
+Most importantly I watched 6 new Scouts bond with the older Scouts during the day. The older Scouts accepted them without question and without being compelled to do so.
+I commended the Scouts at every opportunity for how well they carried out the whole weekend.
+I know that the next outing could very well be a complete disaster. But times like these you hope that, in their own teenage way, they are actually getting the message!
+Like I’ve told you before we were around 70% youth led. I knew we could do better and it looks like our older Scouts were really capable of doing this all along. I was just scared to let go completely.  I know they can surprise you when you least expect it, but WOW what a wonderful weekend it was.
+Of course there were the eggs cooked on a stove that was way to hot, the bugs that flew into our supper and the unfortunate spiders that wandered into the tent; as you said endless entertainment!
+Thanks again for the support you are giving me and others!
+YIS, Tom
+Tom’s story is a familiar one. It takes some real courage to put the responsibility for things in the hands of the Scouts. But that’s where the responsibility belongs.
+Tom wasn’t totally comfortable with this – none of us ever really are! We worry and fret over whether the Scouts are catching on. But, time and time again, they step up and surprise us with their skill and competence.
+If you give your Scouts few responsibilities they’ll be a little responsible.
+If you give them more responsibility they’ll be more responsible.
+If you give them complete responsibility they’ll be completely responsible.
