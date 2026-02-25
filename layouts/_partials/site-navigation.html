@@ -1,6 +1,6 @@
-<nav class="pv3 ph3 ph4-ns" role="navigation">
+<nav class="pv3 ph3 ph4-ns" role="navigation" style="background-color: #556B2F;">
   <div class="flex-l center items-center justify-between">
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-black dark-gray dib no-underline">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw6 dib no-underline" style="color: #C3B091;">
       {{ with .Site.Params.site_logo }}
         <img src="{{ urls.RelURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
       {{ else }}
@@ -12,8 +12,8 @@
       {{ if .Site.Menus.main }}
         <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
           {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-            <a class="hover-black dark-gray no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
+          <li class="list f5 f4-ns fw6 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <a class="no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}" style="color: #C3B091; font-weight: 600;">
               {{ .Name }}
             </a>
           </li>

@@ -4,13 +4,14 @@
     {{ .Content }}
   </article>
 
-  <div class="pa3 pa4-ns w-100 w-70-ns center">
-    <h2 class="f3 fw6 ttu tracked mb4">Browse by Topic</h2>
-    <div class="flex flex-wrap">
+  <div class="pa3 pa4-ns w-100 w-60-ns center">
+    <h2 class="f4 fw6 ttu tracked mb3" style="color: #3B4D1E;">Browse by Topic</h2>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
       {{ range .Site.Taxonomies.categories.ByCount }}
-        <a href="{{ .Page.RelPermalink }}" class="link dim br2 ph3 pv2 mb3 mr3 f5 fw5 white bg-dark-gray">
-          {{ .Page.Title }}
-          <span class="f6 o-60 ml1">({{ .Count }})</span>
+        <a href="{{ .Page.RelPermalink }}" class="topic-link link dim pv2 ph3 f5 fw6 br2 flex justify-between items-center"
+           style="background-color: #3B4D1E; color: #C3B091; text-decoration: none;">
+          <span>{{ .Page.Title }}</span>
+          <span class="f6 fw4 ml2" style="opacity: 0.75;">({{ .Count }})</span>
         </a>
       {{ end }}
     </div>
