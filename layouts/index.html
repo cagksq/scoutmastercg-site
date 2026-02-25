@@ -5,14 +5,16 @@
   </article>
 
   <div class="pa3 pa4-ns w-100 w-60-ns center">
-    <h2 class="f4 fw6 ttu tracked mb3" style="color: #3B4D1E;">Browse by Topic</h2>
+    <h2 class="f4 fw6 ttu tracked mb3" style="color: #3B4D1E;">Browse Posts By Topic</h2>
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
       {{ range .Site.Taxonomies.categories.ByCount }}
-        <a href="{{ .Page.RelPermalink }}" class="topic-link link dim pv2 ph3 f5 fw6 br2 flex justify-between items-center"
-           style="background-color: #3B4D1E; color: #C3B091; text-decoration: none;">
-          <span>{{ .Page.Title }}</span>
-          <span class="f6 fw4 ml2" style="opacity: 0.75;">({{ .Count }})</span>
-        </a>
+        {{ if ne .Page.Title "Podcast" }}
+          <a href="{{ .Page.RelPermalink }}" class="topic-link link dim pv2 ph3 f5 fw6 br2 flex justify-between items-center"
+             style="background-color: #3B4D1E; color: #C3B091; text-decoration: none;">
+            <span>{{ .Page.Title }}</span>
+            <span class="f6 fw4 ml2" style="opacity: 0.75;">({{ .Count }})</span>
+          </a>
+        {{ end }}
       {{ end }}
     </div>
   </div>
