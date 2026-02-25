@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray">
+    {{ .Content }}
+  </article>
+
+  <div class="pa3 pa4-ns w-100 w-70-ns center">
+    <h2 class="f3 fw6 ttu tracked mb4">Browse by Topic</h2>
+    <div class="flex flex-wrap">
+      {{ range .Site.Taxonomies.categories.ByCount }}
+        <a href="{{ .Page.RelPermalink }}" class="link dim br2 ph3 pv2 mb3 mr3 f5 fw5 white bg-dark-gray">
+          {{ .Page.Title }}
+          <span class="f6 o-60 ml1">({{ .Count }})</span>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+
+{{ end }}

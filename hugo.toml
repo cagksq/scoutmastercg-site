@@ -1,0 +1,37 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "ScoutmasterCG Archive"
+theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Blog Archive"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Podcast Archive"
+    url = "/podcasts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Topics"
+    url = "/categories/"
+    weight = 4
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Support"
+    url = "/support/"
+    weight = 6
+

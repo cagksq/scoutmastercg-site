@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <div class="pa3 pa4-ns center mw8">
+    <table style="width:100%; border-collapse:collapse;">
+      {{ range sort .Pages ".Params.episode" "asc" }}
+        {{ $ep := .Params.episode }}
+        {{ $title := .Title }}
+
+        {{/* Strip "Scoutmaster Podcast NNN" or "Podcast NNN" prefix to get subtitle */}}
+        {{ $subtitle := $title | replaceRE `(?i)^(scoutmaster\s+)?podcast\s+\d+\s*[-–—]?\s*` "" }}
+        {{ if eq $subtitle "" }}{{ $subtitle = $title }}{{ end }}
+
+        <tr style="border-bottom: 1px solid #e0e0e0;">
+          <td style="padding: 10px 8px; vertical-align:top; width:60px; text-align:right;">
+            <span style="font-size:0.65rem; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:#888;">
+              {{ if $ep }}EP {{ $ep }}{{ end }}
+            </span>
+          </td>
+          <td style="padding: 10px 12px; vertical-align:top;">
+            <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">
+              <strong style="font-size:1rem; color:#222;">{{ $subtitle }}</strong><br>
+              <span style="font-size:0.75rem; color:#999;">{{ .Date.Format "January 2, 2006" }}</span>
+            </a>
+          </td>
+        </tr>
+      {{ end }}
+    </table>
+  </div>
+{{ end }}

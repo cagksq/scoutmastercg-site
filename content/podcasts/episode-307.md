@@ -1,0 +1,26 @@
+---
+title: "Scoutmaster Podcast 307 - How Scouts Do What No One Else Does"
+date: 2016-03-14
+draft: false
+episode: 307
+categories: ["Podcast"]
+---
+
+{{< audio src="/audio/ScoutmasterPodcast307.mp3" >}}
+
+I am not thinking about the nature of Scouting activities…
+When Scouting is happening, when it's really popping and sizzling along, Scouts are doing things that few, if any of their peers are doing.
+I am not thinking about the nature of their activities, that's something we've discussed many times before, what I am thinking about is the amount of trust and autonomy they have in carrying out those activities. That's something few, of any of their peers get to experience.
+Why is this trust and autonomy important?
+And, perhaps more interestingly and frustratingly, why is the kind of trust required to allow this autonomy so difficult to create and maintain?
+In This Podcast
+Intro
+[1:06]
+How Scouts Do What No One Else Does
+[8:02]
+Email Question – How much planning?
+[16:27]
+This podcast is brought to you by
+Patrons
+&
+Backers

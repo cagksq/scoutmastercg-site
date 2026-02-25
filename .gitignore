@@ -1,0 +1,13 @@
+# Hugo build output
+public/
+resources/
+.hugo_build.lock
+
+# Audio files (too large for git — host separately)
+static/audio/
+
+# macOS
+.DS_Store
+
+# Old backup
+content.BAD.091818
