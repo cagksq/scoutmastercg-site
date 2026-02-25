@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <div class="pa3 pa4-ns center mw8">
+    <table style="width:100%; border-collapse:collapse;">
+      {{ range .Pages.ByDate }}
+        <tr style="border-bottom: 1px solid #e0e0e0;">
+          <td style="padding: 10px 8px; vertical-align:top; width:100px; text-align:right;">
+            <span style="font-size:0.65rem; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:#888;">
+              {{ .Date.Format "Jan 2006" }}
+            </span>
+          </td>
+          <td style="padding: 10px 12px; vertical-align:top;">
+            <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">
+              <strong style="font-size:1rem; color:#222;">{{ .Title }}</strong>
+            </a>
+          </td>
+        </tr>
+      {{ end }}
+    </table>
+  </div>
+{{ end }}
