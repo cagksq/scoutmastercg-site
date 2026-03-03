@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://scoutmastercg.com/"
 languageCode = "en-us"
 title = "ScoutmasterCG Archive"
 theme = "ananke"
@@ -21,17 +21,12 @@ theme = "ananke"
     weight = 3
 
   [[menu.main]]
-    name = "Topics"
-    url = "/categories/"
-    weight = 4
-
-  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 5
+    weight = 4
 
   [[menu.main]]
     name = "Support"
     url = "/support/"
-    weight = 6
+    weight = 5
 
