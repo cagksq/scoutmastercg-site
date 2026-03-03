@@ -20,7 +20,7 @@ He also staffed his council's summer camp for twelve years, including two season
 
 Almost all of my writing and speaking here focuses on the idea that Scouting works when the Scouts are in charge and adults know when to get out of the way. I said this in a hundred different ways over fifteen years, and every troop I've ever known has struggled with it, including mine.
 
-The patrol method is the engine of all of this. Not as a slogan or a box to check, but as a living thing — patrols that plan their own campouts, patrol leaders who lead by example rather than authority, Scouts who make real decisions with real consequences. *The Patrol Leader's Real Power and Authority* gets at what that actually means in practice. So does the *A New Scoutmaster* series, a twelve-chapter work of fiction I based on the real stories readers and listeners shared with me over the years — a new Scoutmaster named Chuck Grant, trying to restore the patrol method in a troop that has forgotten how. This series became my book *So Far, So Good*.
+The patrol method is the engine of all of this. Not as a slogan or a box to check, but as a living thing — patrols that plan their own campouts, patrol leaders who lead by example rather than authority, Scouts who make real decisions with real consequences. [The Patrol Leader's Real Power and Authority](/posts/the-patrol-leader-s-real-power-and-authority/) gets at what that actually means in practice. So does the [A New Scoutmaster](/posts/a-new-scoutmaster-chapter-one/) series, a twelve-chapter work of fiction I based on the real stories readers and listeners shared with me over the years — a new Scoutmaster named Chuck Grant, trying to restore the patrol method in a troop that has forgotten how. This series became my book *So Far, So Good*.
 
 There's also a lot here about what volunteering actually costs. *Hitting the Wall* is about the moment every dedicated Scouter eventually reaches — when communication breaks down, nothing works, and the get-up-and-go gets up and leaves. *How Scouters Deal with Disappointment* and *Stepping Down and Stepping Back* treat the inner life of a Scout leader as something worth taking seriously.
 
@@ -44,8 +44,8 @@ Clarke's current writing is available at [cagksq.com](https://cagksq.com).
 
 My retirement coincided with significant changes in the BSA's membership policies, and some may conclude I left in protest. The opposite is true.
 
-I had advocated for the admission of LGBTQ members and leaders — in posts like *Jay's Story*, *Confessions of a Straight as an Order of the Arrow Boy Scout*, and *BSA ends the ban on gay leaders* — for many years before those changes came.
+I had advocated for the admission of LGBTQ members and leaders — in posts like [Jay's Story](/posts/jay-s-story/), [Confessions of a Straight as an Order of the Arrow Boy Scout](/posts/confessions-of-a-straight-as-an-order-of-the-arrow-boy-scout/), and [BSA ends the ban on gay leaders](/posts/bsa-ends-the-ban-on-gay-leaders/) — for many years before those changes came.
 
-The same goes for girls in the BSA; *Girls in the BSA?* and *BSA Separate But Equal Plan for Girls* make my position plain.
+The same goes for girls in the BSA; [Girls in the BSA?](/posts/girls-in-the-bsa/) and [BSA Separate But Equal Plan for Girls](/posts/bsa-separate-but-equal-plan-for-girls/) make my position plain.
 
-While I'm on the subject: there is one change I have long advocated still to be made. The BSA continues to exclude non-believers, which I have never been able to reconcile with Scouting's stated universality. *A Scout's Duty to God*, *Freedom of and from Religion*, and *Access and Discrimination* explain why.
+While I'm on the subject: there is one change I have long advocated still to be made. The BSA continues to exclude non-believers, which I have never been able to reconcile with Scouting's stated universality. [A Scout's Duty to God](/posts/a-scout-s-duty-to-god/), [Freedom of and from Religion](/posts/freedom-of-and-from-religion/), and [Access and Discrimination](/posts/access-and-discrimination/) explain why.

@@ -1,13 +1,18 @@
 {{ define "main" }}
 
-  {{ with .Content }}
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray">
-    {{ . }}
-  </article>
-  {{ end }}
+  {{/* Hero */}}
+  <div class="tc pv5 ph3" style="border-bottom: 1px solid #ddd;">
+    <p class="welcome-heading mb2">Welcome…</p>
+    {{ with .Content }}
+    <div class="center lh-copy nested-links" style="max-width: 34em; font-size: 1.05rem; color: #555;">
+      {{ . }}
+    </div>
+    {{ end }}
+  </div>
 
-  <div class="pa3 pa4-ns center" style="max-width: 36em;">
-    <h2 class="f5 fw6 ttu tracked mb4" style="color: #3B4D1E; letter-spacing: .15em;">Browse Posts By Topic</h2>
+  {{/* Topic list */}}
+  <div class="center ph3 pv5" style="max-width: 52em;">
+    <h2 class="tc f6 fw6 ttu tracked mb5" style="color: #3B4D1E; letter-spacing: .2em;">Browse By Topic</h2>
     {{ $descs := dict
         "patrol-method"          "The heart of everything. Youth leadership, patrol life, the PLC, senior patrol leader, greenbar leadership. The argument that Scouting works when boys run it."
         "scoutmasters-job"       "What the adult role actually is — and isn't. Training, responsibilities, working with the committee, safe scouting, youth protection. How to lead without taking over."
@@ -18,22 +23,24 @@
         "scouting-ideals"        "Citizenship, reverence, service, the Scout Oath and Law as living ideas rather than ritual recitation. BP's Blog lives here."
         "scouting-history-ideas" "Historical figures, original sources, the broader Scouting movement, surveys, the BSA's institutional decisions."
     }}
-    {{ range .Site.Taxonomies.categories.ByCount }}
-      {{ if ne .Term "podcast" }}
-        {{ $desc := index $descs .Term }}
-        <div class="mb4 pl3" style="border-left: 4px solid #3B4D1E;">
-          <a href="{{ .Page.RelPermalink }}" style="text-decoration: none;">
-            <span class="f4 fw7 db mb1" style="color: #3B4D1E;">
-              {{ strings.Replace .Term "-" " " | title }}
-            </span>
-          </a>
-          {{ if $desc }}
-            <p class="f6 i mid-gray mt0 mb1" style="line-height: 1.5;">{{ $desc }}</p>
-          {{ end }}
-          <span class="f7 fw5" style="color: #3B4D1E; opacity: 0.6;">{{ .Count }} posts</span>
-        </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem 3rem;">
+      {{ range .Site.Taxonomies.categories.ByCount }}
+        {{ if ne .Term "podcast" }}
+          {{ $desc := index $descs .Term }}
+          <div style="border-top: 2px solid #3B4D1E; padding-top: 1rem;">
+            <a href="{{ .Page.RelPermalink }}" style="text-decoration: none;">
+              <span class="db fw7 mb1" style="font-size: 1.1rem; color: #3B4D1E; font-family: 'Playfair Display', serif;">
+                {{ strings.Replace .Term "-" " " | title }}
+              </span>
+            </a>
+            {{ if $desc }}
+              <p class="f6 i mt1 mb2" style="color: #666; line-height: 1.6;">{{ $desc }}</p>
+            {{ end }}
+            <span class="f7 fw5 ttu tracked" style="color: #3B4D1E; opacity: 0.55; letter-spacing: .08em;">{{ .Count }} posts</span>
+          </div>
+        {{ end }}
       {{ end }}
-    {{ end }}
+    </div>
   </div>
 
 {{ end }}
