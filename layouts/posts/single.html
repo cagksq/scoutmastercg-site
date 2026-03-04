@@ -22,15 +22,6 @@
       {{- partials.Include "tags.html" . -}}
     </div>
 
-    <!-- Share panel -->
-    <div style="margin:2rem 0; padding:1rem 1.25rem; background:#f9f9f7; border:1px solid #e8e8e4; border-radius:4px; font-size:0.875rem;">
-      <strong style="display:block; margin-bottom:0.75rem; font-size:0.65rem; letter-spacing:0.12em; text-transform:uppercase; color:#888;">Share</strong>
-      <button onclick="copyPostLink()" style="margin-right:0.75rem; padding:0.4rem 0.9rem; background:#3B4D1E; color:#fff; border:none; border-radius:3px; cursor:pointer; font-size:0.8rem;">Copy link</button>
-      <a href="mailto:?subject={{ .Title | urlize }}&body={{ .Permalink }}" style="padding:0.4rem 0.9rem; background:#fff; color:#3B4D1E; border:1px solid #3B4D1E; border-radius:3px; cursor:pointer; font-size:0.8rem; text-decoration:none;">Email</a>
-      <span id="post-copy-confirm" style="display:none; margin-left:0.75rem; color:#3B4D1E; font-size:0.8rem; font-weight:600;">✓ Copied!</span>
-    </div>
-
-    <!-- Category + prev/next in category -->
     {{ if .Params.categories }}
       {{ $cat := index .Params.categories 0 }}
       {{ $catSlug := $cat | urlize }}
@@ -52,25 +43,36 @@
           {{ end }}
         {{ end }}
 
-        <div style="border-top:1px solid #e0e0e0; padding-top:1.5rem; margin-top:1rem; margin-bottom:3rem;">
-          <div style="margin-bottom:1.25rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.1em; color:#888;">
-            Filed under: <a href="{{ $catPage.RelPermalink }}" style="color:#3B4D1E; font-weight:600; text-decoration:none;">{{ $catLabel }}</a>
+        <div class="post-footer" style="border-top:1px solid #ddd; margin-top:2.5rem; padding-top:1.25rem; margin-bottom:3rem;">
+
+          <!-- Category + Share row -->
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.75rem; flex-wrap:wrap; gap:0.5rem;">
+            <a href="{{ $catPage.RelPermalink }}" style="font-size:0.7rem; font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:#3B4D1E; text-decoration:none; background:#edf2e6; padding:4px 10px; border-radius:3px;">{{ $catLabel }}</a>
+            <span style="font-size:0.8rem; color:#888;">
+              <button onclick="copyPostLink()" style="background:none; border:none; cursor:pointer; color:#3B4D1E; font-size:0.8rem; padding:0; font-family:inherit;">Copy link</button>
+              <span style="margin:0 0.4rem; color:#ccc;">·</span>
+              <a href="mailto:?subject={{ .Title }}&body={{ .Permalink }}" style="color:#3B4D1E; text-decoration:none;">Email</a>
+              <span id="post-copy-confirm" style="display:none; margin-left:0.5rem; color:#3B4D1E; font-weight:600;">✓</span>
+            </span>
           </div>
-          <nav style="display:flex; justify-content:space-between; align-items:flex-start; font-size:0.875rem;">
+
+          <!-- Prev / Next row -->
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem;">
             {{ if $prevPage }}
-            <a href="{{ $prevPage.RelPermalink }}" style="color:#3B4D1E; text-decoration:none; max-width:45%;">
-              <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:4px;">← Earlier</span>
-              {{ $prevPage.Title }}
+            <a href="{{ $prevPage.RelPermalink }}" style="color:#222; text-decoration:none; padding:1rem; border:1px solid #e8e8e4; border-radius:4px; display:block;">
+              <span style="display:block; font-size:0.6rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:6px;">← Earlier</span>
+              <span style="font-size:0.875rem; color:#3B4D1E; line-height:1.4;">{{ $prevPage.Title }}</span>
             </a>
-            {{ else }}<span></span>{{ end }}
+            {{ else }}<div></div>{{ end }}
 
             {{ if $nextPage }}
-            <a href="{{ $nextPage.RelPermalink }}" style="color:#3B4D1E; text-decoration:none; text-align:right; max-width:45%;">
-              <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:4px;">Later →</span>
-              {{ $nextPage.Title }}
+            <a href="{{ $nextPage.RelPermalink }}" style="color:#222; text-decoration:none; padding:1rem; border:1px solid #e8e8e4; border-radius:4px; display:block; text-align:right;">
+              <span style="display:block; font-size:0.6rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:6px;">Later →</span>
+              <span style="font-size:0.875rem; color:#3B4D1E; line-height:1.4;">{{ $nextPage.Title }}</span>
             </a>
-            {{ else }}<span></span>{{ end }}
-          </nav>
+            {{ else }}<div></div>{{ end }}
+          </div>
+
         </div>
       {{ end }}
     {{ end }}
