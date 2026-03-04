@@ -2,7 +2,8 @@
 title: "B-P's Blog - Leadership"
 date: 2016-08-23
 draft: false
-categories: ["patrol-method", "scouting-ideals"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20160823091009/http://scoutmastercg.com:80/b-ps-blog-leadership/"
 ---
 

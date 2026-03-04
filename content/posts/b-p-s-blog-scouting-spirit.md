@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Scouting Spirit"
 date: 2016-10-29
 draft: false
-categories: ["scoutmasters-job", "scouting-ideals"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20161029232518/http://scoutmastercg.com:80/b-p-s-blog-scouting-spirit/"
 ---
 

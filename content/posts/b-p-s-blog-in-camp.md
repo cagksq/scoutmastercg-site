@@ -2,7 +2,8 @@
 title: "B.P.'S Blog -In Camp"
 date: 2014-06-15
 draft: false
-categories: ["scouting-ideals"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20141012080444/http://scoutmastercg.com:80/b-p-s-blog-camp/"
 ---
 

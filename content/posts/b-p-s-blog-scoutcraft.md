@@ -2,7 +2,8 @@
 title: "B-P's Blog - Scoutcraft"
 date: 2017-06-16
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170616183837/http://scoutmastercg.com/b-ps-blog-scoutcraft/"
 ---
 

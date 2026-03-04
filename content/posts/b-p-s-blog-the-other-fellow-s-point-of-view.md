@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - The Other Fellow's Point of View"
 date: 2014-10-12
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20141012080957/http://scoutmastercg.com:80/b-p-s-blog-fellows-point-view/"
 ---
 

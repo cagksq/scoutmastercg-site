@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - The Game of Scouting"
 date: 2015-03-22
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170711181656/http://scoutmastercg.com/b-p-s-blog-the-game-of-scouting/"
 ---
 

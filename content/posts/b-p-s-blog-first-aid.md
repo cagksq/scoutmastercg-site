@@ -2,7 +2,8 @@
 title: "B.P.'S Blog - First Aid"
 date: 2014-05-25
 draft: false
-categories: ["outdoors", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20141012081438/http://scoutmastercg.com:80/b-p-s-blog-first-aid/"
 ---
 

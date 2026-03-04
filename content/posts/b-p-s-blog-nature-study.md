@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Nature Study"
 date: 2015-02-21
 draft: false
-categories: ["outdoors"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150221064753/http://scoutmastercg.com:80/b-p-s-blog-3/"
 ---
 

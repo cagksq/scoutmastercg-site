@@ -2,7 +2,8 @@
 title: "B.P.'s -Blog - Don't"
 date: 2014-10-19
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150312030408/http://scoutmastercg.com:80/b-p-s-blog/"
 ---
 

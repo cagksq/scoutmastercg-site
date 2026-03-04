@@ -2,7 +2,8 @@
 title: "B.P.'S Blog - Efficiency Badges"
 date: 2014-05-11
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20141012080952/http://scoutmastercg.com:80/b-p-s-blog-efficiency-badges/"
 ---
 

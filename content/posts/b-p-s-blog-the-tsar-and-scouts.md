@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - The Tsar and Scouts"
 date: 2017-07-11
 draft: false
-categories: ["scouting-history-ideas", "scouting-ideals"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170711192809/http://scoutmastercg.com/b-p-s-blog-the-tsar-and-scouts/"
 ---
 

@@ -2,7 +2,8 @@
 title: "B-P's Blog - Fundamental Ethics"
 date: 2017-07-11
 draft: false
-categories: ["scouting-ideals"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170711185802/http://scoutmastercg.com/b-ps-blog-fundamental-ethics/"
 ---
 

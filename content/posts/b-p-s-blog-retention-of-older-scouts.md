@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Retention of Older Scouts"
 date: 2017-09-01
 draft: false
-categories: ["scouts"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170901035049/http://scoutmastercg.com/b-p-s-blog-retention-of-older-scouts/"
 ---
 

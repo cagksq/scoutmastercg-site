@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Overseas Scouts"
 date: 2014-07-27
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170920101110/http://scoutmastercg.com/b-p-s-blog-overseas-scouts/"
 ---
 

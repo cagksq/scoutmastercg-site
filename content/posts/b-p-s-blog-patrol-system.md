@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Patrol System"
 date: 2014-10-12
 draft: false
-categories: ["patrol-method"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170421120101/http://scoutmastercg.com:80/b-p-s-blog-patrol-system/"
 ---
 

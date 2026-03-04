@@ -2,7 +2,8 @@
 title: "B.P.'S Blog - Education"
 date: 2014-06-29
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20141012080457/http://scoutmastercg.com:80/b-p-s-blog-education/"
 ---
 

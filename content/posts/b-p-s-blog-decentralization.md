@@ -2,7 +2,8 @@
 title: "B-P's Blog - Decentralization"
 date: 2014-08-25
 draft: false
-categories: ["scoutmasters-job"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20140825045450/http://scoutmastercg.com/decentralizatio/"
 ---
 

@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Self-education"
 date: 2015-03-03
 draft: false
-categories: ["scouting-ideals"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150303084318/http://scoutmastercg.com:80/b-p-s-blog-self-education/"
 ---
 

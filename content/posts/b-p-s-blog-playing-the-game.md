@@ -2,7 +2,8 @@
 title: "B.P.'S Blog - Playing the Game"
 date: 2014-10-12
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20141012081007/http://scoutmastercg.com:80/b-p-s-blog-playing-game-2/"
 ---
 

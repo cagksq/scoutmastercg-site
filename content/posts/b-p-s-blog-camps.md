@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Camps"
 date: 2014-04-20
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150409054231/http://scoutmastercg.com:80/b-p-s-blog-camps/"
 ---
 

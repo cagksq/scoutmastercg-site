@@ -2,7 +2,8 @@
 title: "B-P's Blog - Drawing"
 date: 2017-07-11
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170711191533/http://scoutmastercg.com/b-ps-blog-drawing/"
 ---
 

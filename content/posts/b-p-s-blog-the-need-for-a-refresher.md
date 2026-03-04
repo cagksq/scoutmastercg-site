@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - The Need for a Refresher"
 date: 2014-07-20
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20141012081017/http://scoutmastercg.com:80/b-p-s-blog-the-need-for-a-refresher/"
 ---
 

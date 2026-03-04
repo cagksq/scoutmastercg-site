@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Happiness"
 date: 2016-03-11
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20160311005538/http://scoutmastercg.com:80/b-p-s-blog-happiness/"
 ---
 

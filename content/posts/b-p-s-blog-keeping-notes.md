@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Keeping Notes"
 date: 2017-07-11
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170711195053/http://scoutmastercg.com/b-p-s-blog-keeping-notes/"
 ---
 

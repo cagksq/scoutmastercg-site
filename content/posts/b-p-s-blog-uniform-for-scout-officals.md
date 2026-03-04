@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Uniform for Scout Officals"
 date: 2014-08-17
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20140903150701/http://scoutmastercg.com:80/b-p-s-blog-uniform-for-scout-officals/"
 ---
 

@@ -17,3 +17,5 @@ categories:
     value: "scouts"
   - label: "Book Reviews"
     value: "book-reviews"
+  - label: "B.P.'s Blog"
+    value: "bps-blog"

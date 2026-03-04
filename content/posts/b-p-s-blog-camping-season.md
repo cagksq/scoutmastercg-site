@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Camping Season"
 date: 2014-11-30
 draft: false
-categories: ["outdoors"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150303084254/http://scoutmastercg.com:80/b-p-s-blog-camping-season/"
 ---
 

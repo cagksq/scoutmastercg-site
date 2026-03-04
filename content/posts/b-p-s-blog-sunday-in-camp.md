@@ -2,7 +2,8 @@
 title: "B-P's Blog - Sunday in Camp"
 date: 2015-10-17
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20151017205348/http://scoutmastercg.com/b-ps-blog-sunday-in-camp/?replytocom=78953"
 ---
 

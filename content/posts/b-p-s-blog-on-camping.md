@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - On Camping"
 date: 2014-08-03
 draft: false
-categories: ["outdoors"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20140903150617/http://scoutmastercg.com:80/b-p-s-blog-on-camping/"
 ---
 

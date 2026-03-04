@@ -2,7 +2,8 @@
 title: "B.P.'S Blog - International Brotherhood"
 date: 2014-06-22
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150915103202/http://scoutmastercg.com/b-p-s-blog-international-brotherhood/"
 ---
 

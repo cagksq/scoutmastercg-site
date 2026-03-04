@@ -2,7 +2,8 @@
 title: "B-P's Blog - I Was A Boy"
 date: 2017-06-06
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170606101444/http://scoutmastercg.com/b-ps-blog-i-was-a-boy/"
 ---
 

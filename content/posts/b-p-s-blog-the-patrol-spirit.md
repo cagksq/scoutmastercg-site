@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - The Patrol Spirit"
 date: 2014-09-14
 draft: false
-categories: ["patrol-method", "scouting-ideals"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170920104422/http://scoutmastercg.com/b-p-s-blog-patrol-spirit/"
 ---
 

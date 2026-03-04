@@ -2,7 +2,8 @@
 title: "B-P's Blog - Transition"
 date: 2015-05-10
 draft: false
-categories: ["scoutmasters-life"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150610025114/http://scoutmastercg.com:80/b-ps-blog-transition/"
 ---
 

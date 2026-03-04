@@ -2,7 +2,8 @@
 title: "B-P's Blog - Adventure"
 date: 2016-08-23
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20160823153516/http://scoutmastercg.com:80/b-ps-blog-adventure/"
 ---
 

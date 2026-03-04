@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Listen"
 date: 2015-04-02
 draft: false
-categories: ["scouting-history-ideas", "outdoors"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150402073551/http://scoutmastercg.com:80/b-p-s-blog-listen/"
 ---
 

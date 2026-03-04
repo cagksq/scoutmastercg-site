@@ -2,7 +2,8 @@
 title: "B-P's Blog - Happifying"
 date: 2015-07-05
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20151220131128/http://scoutmastercg.com/b-ps-blog-happifying/?replytocom=79737"
 ---
 

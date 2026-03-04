@@ -2,7 +2,8 @@
 title: "B-P's Blog - Faith, Hope, and Love"
 date: 2015-11-22
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20170606125411/http://scoutmastercg.com/b-ps-blog-faith-hope-and-love/"
 ---
 

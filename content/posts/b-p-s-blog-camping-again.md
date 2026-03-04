@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Camping Again"
 date: 2015-04-09
 draft: false
-categories: ["outdoors"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150409072919/http://scoutmastercg.com:80/b-p-s-blog-camping/"
 ---
 

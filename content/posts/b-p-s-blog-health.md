@@ -2,7 +2,8 @@
 title: "B-P's Blog - Health"
 date: 2015-07-26
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150906071155/http://scoutmastercg.com/b-ps-blog-health/"
 ---
 

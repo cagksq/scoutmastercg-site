@@ -2,7 +2,8 @@
 title: "B-P's Blog - Synthetic Scouting"
 date: 2015-10-11
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20160823154216/http://scoutmastercg.com:80/b-ps-blog-synthetic-scouting/"
 ---
 

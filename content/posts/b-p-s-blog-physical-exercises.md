@@ -2,7 +2,8 @@
 title: "B.P.'s Blog - Physical Exercises"
 date: 2015-02-21
 draft: false
-categories: ["scouting-history-ideas"]
+categories:
+  - bps-blog
 wayback_url: "https://web.archive.org/web/20150221064726/http://scoutmastercg.com:80/b-p-s-blog-2/"
 ---
 
