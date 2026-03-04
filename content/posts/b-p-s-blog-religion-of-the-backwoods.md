@@ -2,6 +2,7 @@
 title: "B.P.'s Blog - Religion of the Backwoods"
 date: 2015-03-03
 draft: false
+image: "/images/bp1.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20150303084546/http://scoutmastercg.com:80/b-p-s-blog-religion-backwoods/"

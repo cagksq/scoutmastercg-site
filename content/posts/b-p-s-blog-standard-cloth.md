@@ -2,6 +2,7 @@
 title: "B.P.'s Blog - Standard Cloth"
 date: 2014-12-28
 draft: false
+image: "/images/bp5.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20150912205843/http://scoutmastercg.com/b-p-s-blog-standard-cloth/"

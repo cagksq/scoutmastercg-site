@@ -2,6 +2,7 @@
 title: "B-P's Blog - Acting"
 date: 2015-04-19
 draft: false
+image: "/images/bp5.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20170711182750/http://scoutmastercg.com/b-ps-blog-acting/"

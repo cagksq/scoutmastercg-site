@@ -2,6 +2,7 @@
 title: "B-P's Blog - Jollifying Scouting"
 date: 2015-09-06
 draft: false
+image: "/images/bp4.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20160823154022/http://scoutmastercg.com:80/b-ps-blog-jollifying-scouting/"

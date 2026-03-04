@@ -2,6 +2,7 @@
 title: "B.P.'s Blog - Religion"
 date: 2014-07-06
 draft: false
+image: "/images/bp2.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20141012080507/http://scoutmastercg.com:80/b-p-s-blog-religion/"

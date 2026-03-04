@@ -2,6 +2,7 @@
 title: "B.P.'S Blog - Our Aim in Boy Scouts"
 date: 2014-05-04
 draft: false
+image: "/images/bp4.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20141012081515/http://scoutmastercg.com:80/our-aim-in-boy-scouts/"

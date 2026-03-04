@@ -2,6 +2,7 @@
 title: "B.P.'s Blog - Patrol Reports"
 date: 2014-09-07
 draft: false
+image: "/images/bp2.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20141019000300/http://scoutmastercg.com:80/b-p-s-blog-patrol-reports/"

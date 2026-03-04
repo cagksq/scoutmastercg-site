@@ -2,6 +2,7 @@
 title: "B.P.'s Blog - First-class Scout"
 date: 2014-10-05
 draft: false
+image: "/images/bp4.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20150312035352/http://scoutmastercg.com:80/b-p-s-blog-first-class-scout/"

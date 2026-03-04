@@ -2,6 +2,7 @@
 title: "B.P.'s Blog - Real Camping"
 date: 2015-02-21
 draft: false
+image: "/images/bp1.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20150221064900/http://scoutmastercg.com:80/b-p-s-blog-real-camping/"

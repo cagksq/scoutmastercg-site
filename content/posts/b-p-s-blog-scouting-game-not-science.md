@@ -2,6 +2,7 @@
 title: "B-P's Blog - Scouting - Game, not Science"
 date: 2015-07-19
 draft: false
+image: "/images/bp4.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20160823153532/http://scoutmastercg.com:80/b-ps-blog-scouting-game-not-science/"

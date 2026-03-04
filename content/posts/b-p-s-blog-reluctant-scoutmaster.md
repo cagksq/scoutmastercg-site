@@ -2,6 +2,7 @@
 title: "B-P's Blog - Reluctant Scoutmaster"
 date: 2016-08-23
 draft: false
+image: "/images/bp5.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20160823153716/http://scoutmastercg.com:80/b-ps-blog-reluctant-scoutmaster/"

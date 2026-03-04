@@ -2,6 +2,7 @@
 title: "B-P's Blog - Scoutcraft"
 date: 2017-06-16
 draft: false
+image: "/images/bp5.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20170616183837/http://scoutmastercg.com/b-ps-blog-scoutcraft/"

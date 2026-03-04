@@ -2,6 +2,7 @@
 title: "B.P.'s Blog - What is Scouting?"
 date: 2015-04-29
 draft: false
+image: "/images/bp4.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20150429075908/http://scoutmastercg.com:80/b-p-s-blog-scouting/"

@@ -21,6 +21,10 @@
          title="Edit in CMS">✎ Edit</a>
     </header>
 
+    {{ with .Params.image }}
+    <img src="{{ . }}" alt="{{ $.Title }}" style="width:100%; max-width:100%; height:auto; display:block; margin-bottom:1.5rem; border-radius:4px;">
+    {{ end }}
+
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray w-100">
       {{- .Content -}}
       {{- partials.Include "tags.html" . -}}

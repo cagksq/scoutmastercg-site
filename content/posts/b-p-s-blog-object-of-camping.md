@@ -2,6 +2,7 @@
 title: B.P.'s Blog - Object of Camping
 date: 2014-03-30
 draft: false
+image: "/images/bp4.png"
 categories:
   - bps-blog
 wayback_url: https://web.archive.org/web/20150919182657/http://scoutmastercg.com/b-p-s-blog-object-camping/

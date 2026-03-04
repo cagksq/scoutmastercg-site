@@ -2,6 +2,7 @@
 title: "B-P's Blog - Jamborees"
 date: 2015-09-13
 draft: false
+image: "/images/bp5.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20160823153527/http://scoutmastercg.com:80/b-ps-blog-jamborees/"

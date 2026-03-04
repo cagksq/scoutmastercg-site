@@ -2,6 +2,7 @@
 title: "B.P.'s Blog - International Scouting"
 date: 2015-02-15
 draft: false
+image: "/images/bp5.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20150225073448/http://scoutmastercg.com:80/b-p-s-blog-international-scouting/"

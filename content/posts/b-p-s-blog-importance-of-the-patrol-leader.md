@@ -2,6 +2,7 @@
 title: "B.P.'s Blog - Importance of the Patrol Leader"
 date: 2014-11-02
 draft: false
+image: "/images/bp3.png"
 categories:
   - bps-blog
 wayback_url: "https://web.archive.org/web/20150912185757/http://scoutmastercg.com/b-p-s-blog-importance-patrol-leader/"
