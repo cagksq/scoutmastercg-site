@@ -1,9 +1,10 @@
 ---
-title: "Troop Based High Adventure Program | Part 2"
+title: Troop Based High Adventure Programs | Part 2
 date: 2015-09-19
 draft: false
-categories: ["outdoors"]
-wayback_url: "https://web.archive.org/web/20150919205443/http://scoutmastercg.com/troop-based-high-adventure-program-part-2/"
+categories:
+  - outdoors
+wayback_url: https://web.archive.org/web/20150919205443/http://scoutmastercg.com/troop-based-high-adventure-program-part-2/
 ---
 
 Where to go and what to do for your high adventure program? The simple answer is just about anywhere and just about anything. It may be a week of backpacking, canoeing, touring, cycling, boating or the adventure of your choice. You don’t need to travel very far, look at nearby state and national parks, talk to your Scouting colleagues, check out council-based programs at local summer camps. Once you have an idea of a destination making the trip a reality requires four things: Vision and Leadership Someone has to say “let’s go!” and show others that it is actually possible. This can be more challenging than you may think, especially with the first Troop based trip.
