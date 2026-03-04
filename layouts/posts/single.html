@@ -34,7 +34,7 @@
     {{ if .Params.categories }}
       {{ $cat := index .Params.categories 0 }}
       {{ $catSlug := $cat | urlize }}
-      {{ $catLabel := $cat | strings.Replace "-" " " | title }}
+      {{ $catLabel := strings.Replace $cat "-" " " | title }}
       {{ $catPage := $.Site.GetPage (printf "categories/%s" $catSlug) }}
       {{ if $catPage }}
         {{ $catPages := $catPage.Pages.ByDate }}
