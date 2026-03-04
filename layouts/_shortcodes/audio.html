@@ -1,21 +1,45 @@
 <div class="audio-player mv3">
-  <audio id="player-{{ .Ordinal }}" controls preload="metadata" style="width:100%; max-width:600px;">
+  <audio id="player-{{ .Ordinal }}" controls preload="metadata" data-phase="intro" style="width:100%; max-width:600px;">
     <source src="https://audio.scoutmastercg.com/intro.mp3" type="audio/mpeg">
   </audio>
 </div>
 <script>
 (function() {
   var player = document.getElementById("player-{{ .Ordinal }}");
-  var intro = "https://audio.scoutmastercg.com/intro.mp3";
   var episode = "{{ .Get `src` }}";
   var playedIntro = false;
+  var playedKey = "smcg_played_" + window.location.pathname;
+  var resumeKey = "smcg_resume_" + window.location.pathname;
+
+  // Determine seek target: ?t= param takes priority over saved resume
+  var params = new URLSearchParams(window.location.search);
+  var tParam = parseFloat(params.get("t")) || 0;
+  var savedTime = parseInt(localStorage.getItem(resumeKey)) || 0;
+  var seekTarget = tParam > 0 ? tParam : (savedTime > 30 ? savedTime : 0);
 
   player.addEventListener("ended", function() {
     if (!playedIntro) {
       playedIntro = true;
+      player.dataset.phase = "episode";
       player.src = episode;
-      player.play();
+      player.addEventListener("loadedmetadata", function() {
+        if (seekTarget > 0) player.currentTime = seekTarget;
+        player.play();
+      }, { once: true });
+    } else {
+      // Episode finished — mark played, clear resume
+      localStorage.setItem(playedKey, "true");
+      localStorage.removeItem(resumeKey);
+      var badge = document.getElementById("played-badge");
+      if (badge) badge.style.display = "inline";
     }
   });
+
+  // Save resume position every 5 seconds while playing
+  setInterval(function() {
+    if (playedIntro && !player.paused && !player.ended && player.currentTime > 0) {
+      localStorage.setItem(resumeKey, Math.floor(player.currentTime));
+    }
+  }, 5000);
 })();
 </script>

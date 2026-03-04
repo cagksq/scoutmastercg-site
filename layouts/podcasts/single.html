@@ -13,12 +13,21 @@
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
       </h1>
-      {{ if not .Date.IsZero }}
-      <time class="f6 mv4 dib tracked" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
-        {{- .Date | time.Format "January 2, 2006" -}}
-      </time>
-      {{ end }}
+      <div style="display:flex; align-items:center; flex-wrap:wrap; gap:1rem; margin:0.5rem 0 1rem;">
+        {{ if not .Date.IsZero }}
+        <time class="f6 tracked" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
+          {{- .Date | time.Format "January 2, 2006" -}}
+        </time>
+        {{ end }}
+        <span id="played-badge" style="display:none; font-size:0.7rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:#3B4D1E; background:#edf2e6; padding:2px 8px; border-radius:3px;">✓ Listened</span>
+      </div>
     </header>
+
+    <div id="resume-banner" style="display:none; background:#f5f5f0; border-left:3px solid #3B4D1E; padding:0.6rem 1rem; margin:0.5rem 0 1.5rem; font-size:0.875rem; color:#444; border-radius:0 3px 3px 0;">
+      You left off at <strong id="resume-time"></strong> —
+      <a href="#" id="resume-link" style="color:#3B4D1E; font-weight:600;">Resume</a>
+      <span onclick="document.getElementById('resume-banner').style.display='none'" style="float:right; cursor:pointer; color:#aaa;">✕</span>
+    </div>
 
     {{ with .Params.image }}
     <div class="mv4">
@@ -30,5 +39,75 @@
       {{- .Content -}}
       {{- partials.Include "tags.html" . -}}
     </div>
+
+    <!-- Share panel -->
+    <div style="margin:2rem 0; padding:1rem 1.25rem; background:#f9f9f7; border:1px solid #e8e8e4; border-radius:4px; font-size:0.875rem;">
+      <strong style="display:block; margin-bottom:0.75rem; font-size:0.65rem; letter-spacing:0.12em; text-transform:uppercase; color:#888;">Share this episode</strong>
+      <button onclick="copyEpisodeLink()" style="margin-right:0.75rem; padding:0.4rem 0.9rem; background:#3B4D1E; color:#fff; border:none; border-radius:3px; cursor:pointer; font-size:0.8rem;">Copy link</button>
+      <button onclick="copyTimestampLink()" style="padding:0.4rem 0.9rem; background:#fff; color:#3B4D1E; border:1px solid #3B4D1E; border-radius:3px; cursor:pointer; font-size:0.8rem;">Share from here</button>
+      <span id="copy-confirm" style="display:none; margin-left:0.75rem; color:#3B4D1E; font-size:0.8rem; font-weight:600;">✓ Copied!</span>
+    </div>
+
+    <!-- Prev / Next navigation -->
+    <nav style="display:flex; justify-content:space-between; align-items:flex-start; padding:1.5rem 0; border-top:1px solid #e0e0e0; margin-bottom:3rem;">
+      {{ with .Next }}
+      <a href="{{ .RelPermalink }}" style="color:#3B4D1E; text-decoration:none; max-width:45%; font-size:0.875rem;">
+        <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:4px;">← Earlier</span>
+        {{ .Title }}
+      </a>
+      {{ else }}<span></span>{{ end }}
+
+      {{ with .Prev }}
+      <a href="{{ .RelPermalink }}" style="color:#3B4D1E; text-decoration:none; max-width:45%; text-align:right; font-size:0.875rem;">
+        <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:4px;">Later →</span>
+        {{ .Title }}
+      </a>
+      {{ else }}<span></span>{{ end }}
+    </nav>
   </article>
+
+  <script>
+  (function() {
+    var pageKey = window.location.pathname;
+    var playedKey = "smcg_played_" + pageKey;
+    var resumeKey = "smcg_resume_" + pageKey;
+
+    if (localStorage.getItem(playedKey)) {
+      document.getElementById("played-badge").style.display = "inline";
+    }
+
+    var params = new URLSearchParams(window.location.search);
+    if (!params.get("t")) {
+      var saved = parseInt(localStorage.getItem(resumeKey));
+      if (saved && saved > 30) {
+        var mins = Math.floor(saved / 60);
+        var secs = saved % 60;
+        document.getElementById("resume-time").textContent = mins + ":" + (secs < 10 ? "0" : "") + secs;
+        document.getElementById("resume-banner").style.display = "block";
+        document.getElementById("resume-link").addEventListener("click", function(e) {
+          e.preventDefault();
+          window.location.href = pageKey + "?t=" + saved;
+        });
+      }
+    }
+  })();
+
+  function copyEpisodeLink() {
+    var url = window.location.origin + window.location.pathname;
+    navigator.clipboard.writeText(url).then(showCopyConfirm);
+  }
+
+  function copyTimestampLink() {
+    var audio = document.querySelector("audio");
+    var t = (audio && audio.dataset.phase === "episode") ? Math.floor(audio.currentTime) : 0;
+    var url = window.location.origin + window.location.pathname + (t > 0 ? "?t=" + t : "");
+    navigator.clipboard.writeText(url).then(showCopyConfirm);
+  }
+
+  function showCopyConfirm() {
+    var el = document.getElementById("copy-confirm");
+    el.style.display = "inline";
+    setTimeout(function() { el.style.display = "none"; }, 2000);
+  }
+  </script>
 {{ end }}
