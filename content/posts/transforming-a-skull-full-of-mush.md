@@ -1,6 +1,6 @@
 ---
 title: "Transforming a \"Skull Full of Mush\""
-date: 2026-03-04
+date: 2011-06-02
 draft: false
 categories: ["leadership"]
 ---
