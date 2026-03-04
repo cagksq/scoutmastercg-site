@@ -36,6 +36,8 @@ The archive covers 2005 to 2019. When I retired from actively serving as a Scout
 
 A number of kind folks have contacted me over the ensuing years wondering about my health and the site content. My health is fine at this writing (spring of 2025) and this archive answers the second question.
 
+One of the best things about the blog was interacting with readers and listeners. I want to thank everyone who participated in discussions, contributed to my work, and supported Scoutmastercg.com.
+
 I've said everything I intend to say on the subject — roughly a thousand times, as it turns out, and it's all here. Please don't write asking for more; there isn't any. Step away from this screen and go outside with some Scouts. That's my best advice, and it's free.
 
 Clarke's current writing is available at [cagksq.com](https://cagksq.com).
