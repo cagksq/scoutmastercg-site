@@ -15,3 +15,5 @@ categories:
     value: "scoutmasters-life"
   - label: "Scouts"
     value: "scouts"
+  - label: "Book Reviews"
+    value: "book-reviews"
