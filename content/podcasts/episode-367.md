@@ -6,7 +6,7 @@ episode: 367
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-367.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-367.mp3" >}}
 
 Why is Scouting designed around youth leadership?
 Most Scouters think a youth led troop is the brass ring of Scouting. What exactly do we mean when we talk about youth leadership?

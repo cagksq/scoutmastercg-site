@@ -6,7 +6,7 @@ episode: 317
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-317.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-317.mp3" >}}
 
 What is the
 ninth

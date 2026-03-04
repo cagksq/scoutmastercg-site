@@ -6,7 +6,7 @@ episode: 365
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-365.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-365.mp3" >}}
 
 What's the difference between Patrol system and Patrol method?
 I have never found any actual difference between those terms in Scouting literature, but I will share acouple of thoughts to differentiate between patrol system and patrol method in a way you may find helpful.

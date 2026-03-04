@@ -6,7 +6,7 @@ episode: 345
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-345.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-345.mp3" >}}
 
 We encourage active Scouts a number of ways …
 … but at the heart of the matter there's only two things that make a difference, and  I'll discuss those two key points in this week's podcast. The same things that make active Scouts can help us increase activity at roundtables and other functions like courts of honor. We may be looking for answers in all the wrong places, or think low attendance or interest is caused by things beyond our control, I think it's simpler than that.

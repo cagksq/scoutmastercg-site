@@ -6,7 +6,7 @@ episode: 355
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-355.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-355.mp3" >}}
 
 What do I do now?
 A Scout misbehaves, makes a mistake, or even consciously does something wrong, and things spin out of control, now what?

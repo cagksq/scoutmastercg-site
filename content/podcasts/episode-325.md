@@ -6,7 +6,7 @@ episode: 325
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-325.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-325.mp3" >}}
 
 I hope you had a great summer…
 The picture for this week's podcast is one of my favorite campsites on Proulx lake in Ontario Canada's Algonquin Provincial Park. We took twenty people in three crews this year and had a great time.

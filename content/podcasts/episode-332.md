@@ -6,7 +6,7 @@ episode: 332
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-332.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-332.mp3" >}}
 
 It is our responsibility to assure there's a shared expectation…
 … and our Scouts understand them. Scout aged children are not going to interpret gentle reminders, they'd prefer to have to have things clearly spelled out. They are literalists, they don't take hints. You can be direct without being unpleasant.

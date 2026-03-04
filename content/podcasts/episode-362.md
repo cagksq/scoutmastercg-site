@@ -6,7 +6,7 @@ episode: 362
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-362.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-362.mp3" >}}
 
 Thinking of Scouters as coaches …
 … can help us understand our role in the game. These are just analogies – we aren't

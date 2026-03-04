@@ -6,7 +6,7 @@ episode: 328
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-328.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-328.mp3" >}}
 
 If things aren't moving along the problem may be obvious…
 .. like our understanding of the relationship between the program, advancement, and positions of responsibility.

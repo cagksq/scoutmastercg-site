@@ -6,7 +6,7 @@ episode: 286
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-286.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-286.mp3" >}}
 
 What are the basic principles behind Scouts taking on positions of responsibility in Scouting?
 Our procedures are based on something more than policy or practice they have to have a basis in principles, in what makes Scouting what it is. If you understand the basic principles the procedures explain themselves.

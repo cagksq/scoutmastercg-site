@@ -6,7 +6,7 @@ episode: 360
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-360.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-360.mp3" >}}
 
 Thank you for being a Scouter!
 Today I have a short story to share (with apologies to Clement Clarke Moore) I first read on Podcast 248 to wish readers and listeners happy holidays. The story includes Scouters in neckerchiefs, silence imploring, settling ourselves for a long winter's snoring.

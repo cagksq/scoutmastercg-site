@@ -6,7 +6,7 @@ episode: 244
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-244.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-244.mp3" >}}
 
 Listen to your Scouts…
 and you'll hear lots of answers! I discuss listening in this week's “Scoutmaster in Seven Minutes or Less”. In the email segment of this podcast we answer questions about activities that fulfill more than one requirement, how adults can train youth leaders to provide a good, quality program without taking it over themselves, unit leadership elections, the formation of high adventure patrols, and finding a position of responsibility for a Scout who wasn't elected to one.

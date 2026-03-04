@@ -6,7 +6,7 @@ episode: 341
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-341.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-341.mp3" >}}
 
 Telling has limited usefulness in developing youth leadership …
 … asking is what really gets things moving along. This week I'll explain how to ask questions in exchange for offering advice or telling Scouts how to do things. This is a powerful tool to get them doing the kind of thinking that fosters leadership development.

@@ -6,7 +6,7 @@ episode: 272
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-272.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-272.mp3" >}}
 
 There's always plenty to talk about when it comes to the Eagle Scout!
 In this week's podcast I'll opine (and preach a little) about our Eagle Scout attitudes and answer email questions about troop meeting chaos and an advancement mistake.

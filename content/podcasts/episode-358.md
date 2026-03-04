@@ -6,7 +6,7 @@ episode: 358
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-358.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-358.mp3" >}}
 
 Scout advancement is not adults judging Scouts…
 … it's Scouts meeting requirements with the support of adult volunteers – in Scout advancement we are all on the same side.

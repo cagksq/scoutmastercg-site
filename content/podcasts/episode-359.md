@@ -6,7 +6,7 @@ episode: 359
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-359.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-359.mp3" >}}
 
 Imagine two Scout troops, troop A and troop B.
 Both troops have “average” Scouts (whatever that means) who do what average Scouts do. Both have a well defined procedural approach to discipline and misbehavior.

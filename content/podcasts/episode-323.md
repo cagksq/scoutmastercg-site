@@ -6,7 +6,7 @@ episode: 323
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-323.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-323.mp3" >}}
 
 Scout camp is a privilege, an opportunity, and an obligation.
 We get just so many great good places in life, and one of my favorites is our Scout camp. The history, names, stories and traditions are specific to our camp, but they share common threads with every Scout camp.

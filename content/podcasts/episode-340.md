@@ -6,7 +6,7 @@ episode: 340
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-340.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-340.mp3" >}}
 
 Another
 visit with two Eagle Scouts on the Appalachian Trail …

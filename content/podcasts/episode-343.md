@@ -6,7 +6,7 @@ episode: 343
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-343.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-343.mp3" >}}
 
 Scout advancement questions are often easy to answer …
 … if you simply take things at face value. It's actually all pretty easy to understand. Problems arise when Scouters don't challenge their own assumptions after they have read the requirements or directions and policies in the Guide to Advancement.

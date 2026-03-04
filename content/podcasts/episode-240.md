@@ -6,7 +6,7 @@ episode: 240
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-240.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-240.mp3" >}}
 
 Elections, Boards of Review, and Conferences
 Should a Scout be denied a

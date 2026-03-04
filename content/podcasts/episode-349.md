@@ -6,7 +6,7 @@ episode: 349
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-349.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-349.mp3" >}}
 
 Should we ask Scouts to sign “leadership contracts”?
 A couple of decades ago I tried Scout contracts, it was a mistake.

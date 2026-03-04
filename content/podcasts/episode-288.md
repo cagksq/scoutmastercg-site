@@ -6,7 +6,7 @@ episode: 288
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-288.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-288.mp3" >}}
 
 Is Scouting a system of measurement?
 Scouting is more, much, much, more, than a system of measurement, yet it has lots of “yardsticks”.  Baden-Powell wrote “

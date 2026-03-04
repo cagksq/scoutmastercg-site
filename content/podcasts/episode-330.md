@@ -6,7 +6,7 @@ episode: 330
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-330.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-330.mp3" >}}
 
 A Scoutmaster is not…
 … the boss of a company and youth leadership are not employees we discipline or hire and fire.

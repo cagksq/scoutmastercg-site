@@ -6,7 +6,7 @@ episode: 280
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-280.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-280.mp3" >}}
 
 This encore presentation features an interview with Kevin Callan, the happy camper, the most famous camping and canoeing expert you've never heard of.
 Kevin is a Canadian, a

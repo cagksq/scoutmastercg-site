@@ -6,7 +6,7 @@ episode: 361
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-361.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-361.mp3" >}}
 
 We've heard this before, right?
 Baden-Powell employed the “Scouting is a game” analogy long before anyone else, and it is the best analogy I've found for explaining the wonderfully complex, intriguing, idea that is Scouting.

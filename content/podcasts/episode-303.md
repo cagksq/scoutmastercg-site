@@ -6,7 +6,7 @@ episode: 303
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-303.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-303.mp3" >}}
 
 How do you decide who ends up in what patrol?
 Patrols are not about managing Scouts, they are not an artificial construct. If you look at patrols from the perspective of your Scouts there's the only thing that's actually important – and that's what we'll talk about on this podcast.

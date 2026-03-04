@@ -6,7 +6,7 @@ episode: 100
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-100.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-100.mp3" >}}
 
 This week the Scoutmaster Podcast takes a holiday but there's a lot of work going on behind the scenes;
 Next Monday we'll publish podcast number 99 .

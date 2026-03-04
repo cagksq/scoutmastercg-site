@@ -6,7 +6,7 @@ episode: 276
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-276.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-276.mp3" >}}
 
 This encore presentation features an interview with the authors of
 Working the Patrol Method,

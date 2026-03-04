@@ -6,7 +6,7 @@ episode: 152
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-152.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-152.mp3" >}}
 
 My special, heartfelt, thanks to all of you who have joined in listening and reading over the past year!
 In this podcast I'll replay excerpts from some of this year's interviews.

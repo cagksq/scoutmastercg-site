@@ -6,7 +6,7 @@ episode: 316
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-316.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-316.mp3" >}}
 
 What has a Mesoamerican Step Pyramid got to do with this?
 Today I want to talk about leadership, but I want to see if I can get you to come along with me and really examine what this means in Scouting.

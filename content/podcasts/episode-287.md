@@ -6,7 +6,7 @@ episode: 287
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-287.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-287.mp3" >}}
 
 When is a group of Scouts a Troop, and when are they a patrol?
 We begin answering that question by forgetting everything we think we know and building a logical approach, by serving the interests of the individual Scout rather than the interest of an organizational chart. Small troops are going to function a little differently than larger ones, but both serve to achieve the same aim.

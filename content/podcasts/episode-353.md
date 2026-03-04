@@ -6,7 +6,7 @@ episode: 353
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-353.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-353.mp3" >}}
 
 I'll be brief, well, kind of…
 … join me as I talk about two key ideas for Scouters I hope you find helpful .

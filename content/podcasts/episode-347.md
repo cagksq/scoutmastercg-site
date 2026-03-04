@@ -6,7 +6,7 @@ episode: 347
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-347.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-347.mp3" >}}
 
 You've used an iterative process before …
 … whether you know it or not. Iteration means trying something out in a slightly or wholly different way if it does not succeed when first tried.

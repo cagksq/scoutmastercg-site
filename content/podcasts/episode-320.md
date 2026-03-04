@@ -6,7 +6,7 @@ episode: 320
 categories: ["Podcast"]
 ---
 
-{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-320.mp3" >}}
+{{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-320.mp3" >}}
 
 Scouting needs gardeners more than managers or officers.
 Scouting isn't the science of management or military discipline, it's much more like a garden.
