@@ -1,6 +1,6 @@
 ---
 title: "Troop Based High Adventure Programs | Part 1"
-date: 2015-09-20
+date: 2015-09-19
 draft: false
 categories: ["outdoors"]
 wayback_url: "https://web.archive.org/web/20150920031556/http://scoutmastercg.com/troop-based-high-adventure-programs/"

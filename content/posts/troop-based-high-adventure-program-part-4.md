@@ -1,6 +1,6 @@
 ---
 title: Troop Based High Adventure Programs | Part 4
-date: 2015-09-19
+date: 2015-09-21
 draft: false
 categories:
   - outdoors

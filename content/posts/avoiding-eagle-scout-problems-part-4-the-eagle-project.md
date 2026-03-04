@@ -1,6 +1,6 @@
 ---
 title: "Avoiding Eagle Scout Problems - Part 4 -The Eagle Project"
-date: 2012-12-20
+date: 2009-11-05
 draft: false
 categories: ["advancement"]
 wayback_url: "https://web.archive.org/web/20121220013125/http://www.scoutmastercg.com:80/avoiding-eagle-scout-problems-part-4/"
