@@ -1,9 +1,10 @@
 ---
-title: "Why Scouting?"
+title: Why Scouting?
 date: 2005-11-01
 draft: false
-categories: ["scouting-history-ideas"]
-wayback_url: "https://web.archive.org/web/20150304230425/http://scoutmastercg.com:80/boys_universall/"
+categories:
+  - About Scouting
+wayback_url: https://web.archive.org/web/20150304230425/http://scoutmastercg.com:80/boys_universall/
 ---
 
 Observe a community or classroom anywhere in the world and you will conclude that boys instinctively form groups, adopt uniforms, establish standards, develop a credo and create initiatory challenges.
