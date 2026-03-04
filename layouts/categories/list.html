@@ -1,5 +1,8 @@
 {{ define "main" }}
   <div class="pt2 pa3 pa4-ns center mw8">
+    {{ with .Content }}
+    <p style="font-family:'Roboto',sans-serif; font-size:1.05rem; color:#444; line-height:1.7; max-width:42rem; margin-bottom:2rem; border-left:3px solid #3B4D1E; padding-left:1rem;">{{ . }}</p>
+    {{ end }}
     <table style="width:100%; border-collapse:collapse;">
       {{ range .Pages.ByDate }}
         <tr style="border-bottom: 1px solid #e0e0e0;">
