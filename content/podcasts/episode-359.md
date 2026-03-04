@@ -2,6 +2,7 @@
 title: "Podcast 359 - A Tale of Two Scout Troops"
 date: 2017-12-11
 draft: false
+image: "/images/podcasts/episode-359.png"
 episode: 359
 categories: ["Podcast"]
 ---

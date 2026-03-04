@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 345- Active Scouts and Scouters"
 date: 2017-04-10
 draft: false
+image: "/images/podcasts/episode-345.png"
 episode: 345
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 340 - On the Appalachian Trail Again"
 date: 2017-03-06
 draft: false
+image: "/images/podcasts/episode-340.png"
 episode: 340
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 203 - Merit Badges at Meetings?"
 date: 2016-03-15
 draft: false
+image: "/images/podcasts/episode-203.png"
 episode: 203
 categories: ["Podcast"]
 ---

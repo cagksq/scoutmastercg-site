@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 306 - Scouts Planning"
 date: 2016-03-11
 draft: false
+image: "/images/podcasts/episode-306.png"
 episode: 306
 categories: ["Podcast"]
 ---

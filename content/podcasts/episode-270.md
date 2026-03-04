@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 270 - The Story Of Kazik"
 date: 2015-06-08
 draft: false
+image: "/images/podcasts/episode-270.png"
 episode: 270
 categories: ["Podcast"]
 ---

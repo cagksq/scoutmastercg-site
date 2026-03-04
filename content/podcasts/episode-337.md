@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 337 - Scouts and Money"
 date: 2017-02-06
 draft: false
+image: "/images/podcasts/episode-337.png"
 episode: 337
 categories: ["Podcast"]
 ---

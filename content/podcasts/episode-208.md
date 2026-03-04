@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 208 - Difficult Behavior 2"
 date: 2017-05-22
 draft: false
+image: "/images/podcasts/episode-208.png"
 episode: 208
 categories: ["Podcast"]
 ---

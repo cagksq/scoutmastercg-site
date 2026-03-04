@@ -2,6 +2,7 @@
 title: "Podcast 362 - Scouters as Coaches"
 date: 2018-02-05
 draft: false
+image: "/images/podcasts/episode-362.png"
 episode: 362
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 197"
 date: 2013-11-28
 draft: false
+image: "/images/podcasts/episode-197.png"
 episode: 197
 categories: ["Podcast"]
 ---

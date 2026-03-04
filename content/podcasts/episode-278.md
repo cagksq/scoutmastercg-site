@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 278 - Eagle Scout History"
 date: 2015-08-03
 draft: false
+image: "/images/podcasts/episode-278.png"
 episode: 278
 categories: ["Podcast"]
 ---

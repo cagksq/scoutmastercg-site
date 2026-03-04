@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 269 - Parents and Summer Camp"
 date: 2015-06-01
 draft: false
+image: "/images/podcasts/episode-269.png"
 episode: 269
 categories: ["Podcast"]
 ---

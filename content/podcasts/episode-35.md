@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 35"
 date: 2014-08-23
 draft: false
+image: "/images/podcasts/episode-035.png"
 episode: 35
 categories: ["Podcast"]
 ---

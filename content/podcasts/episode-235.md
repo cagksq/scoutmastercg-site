@@ -2,6 +2,7 @@
 title: "Podcast 235 - Patrol Method 1"
 date: 2015-03-12
 draft: false
+image: "/images/podcasts/episode-235.png"
 episode: 235
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 313 - Troop Leader Guidebook"
 date: 2016-04-25
 draft: false
+image: "/images/podcasts/episode-313.png"
 episode: 313
 categories: ["Podcast"]
 ---

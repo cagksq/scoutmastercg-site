@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 348 - Who Leads Scout Leaders?"
 date: 2017-05-08
 draft: false
+image: "/images/podcasts/episode-348.png"
 episode: 348
 categories: ["Podcast"]
 ---

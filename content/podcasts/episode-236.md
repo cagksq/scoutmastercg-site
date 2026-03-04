@@ -2,6 +2,7 @@
 title: "Podcast 236 - Patrol Method 2"
 date: 2015-03-06
 draft: false
+image: "/images/podcasts/episode-236.png"
 episode: 236
 categories: ["Podcast"]
 ---

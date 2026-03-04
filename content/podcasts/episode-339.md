@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 339 - Service Rank Requirements"
 date: 2017-02-27
 draft: false
+image: "/images/podcasts/episode-339.png"
 episode: 339
 categories: ["Podcast"]
 ---

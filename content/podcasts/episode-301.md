@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 301- Your Scouting Vision"
 date: 2016-02-01
 draft: false
+image: "/images/podcasts/episode-301.png"
 episode: 301
 categories: ["Podcast"]
 ---

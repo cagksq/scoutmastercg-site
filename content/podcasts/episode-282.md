@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 282 - Process and Practice"
 date: 2015-09-04
 draft: false
+image: "/images/podcasts/episode-282.png"
 episode: 282
 categories: ["Podcast"]
 ---

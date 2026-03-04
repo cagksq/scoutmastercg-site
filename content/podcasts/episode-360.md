@@ -2,6 +2,7 @@
 title: "Podcast 360 - Happy Holidays!"
 date: 2017-12-18
 draft: false
+image: "/images/podcasts/episode-360.png"
 episode: 360
 categories: ["Podcast"]
 ---

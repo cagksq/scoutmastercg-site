@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 190 - Do You Have What It Takes?"
 date: 2015-11-01
 draft: false
+image: "/images/podcasts/episode-190.png"
 episode: 190
 categories: ["Podcast"]
 ---

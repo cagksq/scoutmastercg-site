@@ -2,6 +2,7 @@
 title: "Podcast 231 - Responsibility and Leadership"
 date: 2015-09-16
 draft: false
+image: "/images/podcasts/episode-231.png"
 episode: 231
 categories: ["Podcast"]
 ---

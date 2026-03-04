@@ -2,6 +2,7 @@
 title: "Podcast 299 - Patience"
 date: 2016-01-19
 draft: false
+image: "/images/podcasts/episode-299.png"
 episode: 299
 categories: ["Podcast"]
 ---

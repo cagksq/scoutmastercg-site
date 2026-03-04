@@ -2,6 +2,7 @@
 title: "Podcast 238 - Patrol Method 4"
 date: 2017-07-23
 draft: false
+image: "/images/podcasts/episode-238.png"
 episode: 238
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Podcast 329 - Merit Badges"
 date: 2016-11-14
 draft: false
+image: "/images/podcasts/episode-329.png"
 episode: 329
 categories: ["Podcast"]
 ---

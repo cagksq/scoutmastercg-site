@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 205 0- Evaluating \"Leadership\""
 date: 2015-09-16
 draft: false
+image: "/images/podcasts/episode-205.png"
 episode: 205
 categories: ["Podcast"]
 ---

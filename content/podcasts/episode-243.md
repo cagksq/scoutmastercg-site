@@ -2,6 +2,7 @@
 title: "Podcast 243 - What is the Context of Scouting?"
 date: 2015-03-12
 draft: false
+image: "/images/podcasts/episode-243.png"
 episode: 243
 categories: ["Podcast"]
 ---

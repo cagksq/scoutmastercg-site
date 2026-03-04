@@ -2,6 +2,7 @@
 title: "Podcast 257- Who Leads Who?"
 date: 2015-03-15
 draft: false
+image: "/images/podcasts/episode-257.png"
 episode: 257
 categories: ["Podcast"]
 ---

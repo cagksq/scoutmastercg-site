@@ -2,6 +2,7 @@
 title: "Podcast 361 - Scouting is a Game"
 date: 2018-01-29
 draft: false
+image: "/images/podcasts/episode-361.png"
 episode: 361
 categories: ["Podcast"]
 ---

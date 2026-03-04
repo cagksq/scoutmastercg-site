@@ -2,6 +2,7 @@
 title: "Podcast 293 - Peace Scouting"
 date: 2015-11-19
 draft: false
+image: "/images/podcasts/episode-293.png"
 episode: 293
 categories: ["Podcast"]
 ---

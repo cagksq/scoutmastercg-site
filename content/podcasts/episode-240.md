@@ -2,6 +2,7 @@
 title: "Podcast 240 -Elections, Reviews, & Conferences"
 date: 2014-10-20
 draft: false
+image: "/images/podcasts/episode-240.png"
 episode: 240
 categories: ["Podcast"]
 ---

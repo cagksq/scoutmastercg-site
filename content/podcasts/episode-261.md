@@ -2,6 +2,7 @@
 title: "Podcast 261 - Avoiding the Troop Program Death Spiral"
 date: 2016-06-13
 draft: false
+image: "/images/podcasts/episode-261.png"
 episode: 261
 categories: ["Podcast"]
 ---

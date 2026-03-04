@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 260 Paperwork!"
 date: 2015-03-30
 draft: false
+image: "/images/podcasts/episode-260.png"
 episode: 260
 categories: ["Podcast"]
 ---

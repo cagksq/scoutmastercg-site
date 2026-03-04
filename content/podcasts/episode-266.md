@@ -2,6 +2,7 @@
 title: "Podcast 266 - Scouting Source Code 3"
 date: 2015-05-22
 draft: false
+image: "/images/podcasts/episode-266.png"
 episode: 266
 categories: ["Podcast"]
 ---

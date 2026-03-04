@@ -2,6 +2,7 @@
 title: "Podcast 241- Reviewing, Retesting, O.A., and Webelos"
 date: 2014-11-18
 draft: false
+image: "/images/podcasts/episode-241.png"
 episode: 241
 categories: ["Podcast"]
 ---

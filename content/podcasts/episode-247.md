@@ -2,6 +2,7 @@
 title: "Podcast 247 - Compliance or Obedience?"
 date: 2014-12-08
 draft: false
+image: "/images/podcasts/episode-247.png"
 episode: 247
 categories: ["Podcast"]
 ---

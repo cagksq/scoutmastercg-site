@@ -2,6 +2,7 @@
 title: "Podcast 265 - Scouting Source Code 2"
 date: 2015-05-03
 draft: false
+image: "/images/podcasts/episode-265.png"
 episode: 265
 categories: ["Podcast"]
 ---

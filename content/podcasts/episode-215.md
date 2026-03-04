@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 215 - Reflection"
 date: 2014-10-03
 draft: false
+image: "/images/podcasts/episode-215.png"
 episode: 215
 categories: ["Podcast"]
 ---

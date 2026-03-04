@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 302 - A Scout IS... - Scoutmastercg.com"
 date: 2016-03-15
 draft: false
+image: "/images/podcasts/episode-302.png"
 episode: 302
 categories: ["Podcast"]
 ---

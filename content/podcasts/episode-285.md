@@ -2,6 +2,7 @@
 title: "Outside Influences - Podcast 285"
 date: 2015-11-27
 draft: false
+image: "/images/podcasts/episode-285.png"
 episode: 285
 categories: ["Podcast"]
 ---

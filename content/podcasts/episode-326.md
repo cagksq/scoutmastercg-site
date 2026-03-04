@@ -2,6 +2,7 @@
 title: "Podcast 326 - Advice for the Senior Patrol Leader"
 date: 2016-08-29
 draft: false
+image: "/images/podcasts/episode-326.png"
 episode: 326
 categories: ["Podcast"]
 ---

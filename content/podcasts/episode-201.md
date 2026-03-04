@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 201 - Thank You!"
 date: 2015-09-16
 draft: false
+image: "/images/podcasts/episode-201.png"
 episode: 201
 categories: ["Podcast"]
 ---

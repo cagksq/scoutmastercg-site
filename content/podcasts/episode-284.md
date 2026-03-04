@@ -2,6 +2,7 @@
 title: "Podcast 284 - Assistant Scoutmasters"
 date: 2016-05-08
 draft: false
+image: "/images/podcasts/episode-284.png"
 episode: 284
 categories: ["Podcast"]
 ---

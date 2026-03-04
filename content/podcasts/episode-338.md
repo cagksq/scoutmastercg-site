@@ -2,6 +2,7 @@
 title: "Eagles on the Appalachian Trail - Podcast 338"
 date: 2017-02-13
 draft: false
+image: "/images/podcasts/episode-338.png"
 episode: 338
 categories: ["Podcast"]
 ---

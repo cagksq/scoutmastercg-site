@@ -2,6 +2,7 @@
 title: "Podcast 252 - Merit Badge Books?"
 date: 2015-02-01
 draft: false
+image: "/images/podcasts/episode-252.png"
 episode: 252
 categories: ["Podcast"]
 ---

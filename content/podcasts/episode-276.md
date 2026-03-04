@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 276 - Patrol Method"
 date: 2015-07-20
 draft: false
+image: "/images/podcasts/episode-276.png"
 episode: 276
 categories: ["Podcast"]
 ---

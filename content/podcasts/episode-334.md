@@ -2,6 +2,7 @@
 title: "Podcast 334 - Do Parents Understand Scouting?"
 date: 2017-01-16
 draft: false
+image: "/images/podcasts/episode-334.png"
 episode: 334
 categories: ["Podcast"]
 ---

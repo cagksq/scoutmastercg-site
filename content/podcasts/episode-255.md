@@ -2,6 +2,7 @@
 title: "Podcast 255 - High Adventure!"
 date: 2016-07-16
 draft: false
+image: "/images/podcasts/episode-255.png"
 episode: 255
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Scouting's Future - Scoutmaster Podcast 324"
 date: 2016-07-19
 draft: false
+image: "/images/podcasts/episode-324.png"
 episode: 324
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Podcast 229 - Resolving Serious Misbehavior"
 date: 2017-05-22
 draft: false
+image: "/images/podcasts/episode-229.png"
 episode: 229
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Encore Podcast 1 - A Greeting Card"
 date: 2017-03-17
 draft: false
+image: "/images/podcasts/episode-001.png"
 episode: 1
 categories: ["Podcast"]
 ---

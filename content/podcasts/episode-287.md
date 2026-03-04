@@ -2,6 +2,7 @@
 title: "Podcast 287 - Small Troops"
 date: 2015-10-05
 draft: false
+image: "/images/podcasts/episode-287.png"
 episode: 287
 categories: ["Podcast"]
 ---

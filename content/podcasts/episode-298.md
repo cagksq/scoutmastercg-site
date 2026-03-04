@@ -2,6 +2,7 @@
 title: "New Rank Requirements - Podcast 298"
 date: 2016-01-16
 draft: false
+image: "/images/podcasts/episode-298.png"
 episode: 298
 categories: ["Podcast"]
 ---

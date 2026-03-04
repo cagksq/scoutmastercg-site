@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 288 - Yardsticks"
 date: 2015-10-12
 draft: false
+image: "/images/podcasts/episode-288.png"
 episode: 288
 categories: ["Podcast"]
 ---

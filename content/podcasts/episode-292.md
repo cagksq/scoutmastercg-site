@@ -2,6 +2,7 @@
 title: "Podcast 292 - Do What Scouts Do"
 date: 2015-11-19
 draft: false
+image: "/images/podcasts/episode-292.png"
 episode: 292
 categories: ["Podcast"]
 ---

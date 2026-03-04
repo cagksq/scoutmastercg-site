@@ -2,6 +2,7 @@
 title: "Podcast 237 - Patrol Method 3"
 date: 2017-05-22
 draft: false
+image: "/images/podcasts/episode-237.png"
 episode: 237
 categories: ["Podcast"]
 ---

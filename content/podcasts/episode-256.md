@@ -2,6 +2,7 @@
 title: "Podcast 256 - Modifying Advancement"
 date: 2015-04-30
 draft: false
+image: "/images/podcasts/episode-256.png"
 episode: 256
 categories: ["Podcast"]
 ---

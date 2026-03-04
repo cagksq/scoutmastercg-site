@@ -2,6 +2,7 @@
 title: "Podcast 291- No Time for Scouts?"
 date: 2015-11-09
 draft: false
+image: "/images/podcasts/episode-291.png"
 episode: 291
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 312 - Summer Camp!"
 date: 2016-04-18
 draft: false
+image: "/images/podcasts/episode-312.png"
 episode: 312
 categories: ["Podcast"]
 ---

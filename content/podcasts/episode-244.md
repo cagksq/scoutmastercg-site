@@ -2,6 +2,7 @@
 title: "Podcast 244 - Listen to Your Scouts"
 date: 2014-11-17
 draft: false
+image: "/images/podcasts/episode-244.png"
 episode: 244
 categories: ["Podcast"]
 ---

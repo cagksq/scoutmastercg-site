@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 212 - Contracts? Troop Size?"
 date: 2014-10-08
 draft: false
+image: "/images/podcasts/episode-212.png"
 episode: 212
 categories: ["Podcast"]
 ---

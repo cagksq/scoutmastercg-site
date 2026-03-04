@@ -2,6 +2,7 @@
 title: "Podcast 305 - Thurman on Patrols"
 date: 2016-05-12
 draft: false
+image: "/images/podcasts/episode-305.png"
 episode: 305
 categories: ["Podcast"]
 ---

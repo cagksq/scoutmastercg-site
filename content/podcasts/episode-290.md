@@ -2,6 +2,7 @@
 title: "Podcast 290 - Goodwill and Cooperation"
 date: 2015-12-31
 draft: false
+image: "/images/podcasts/episode-290.png"
 episode: 290
 categories: ["Podcast"]
 ---

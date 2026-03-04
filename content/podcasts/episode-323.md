@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 323 - Scout Camp!"
 date: 2016-07-11
 draft: false
+image: "/images/podcasts/episode-323.png"
 episode: 323
 categories: ["Podcast"]
 ---

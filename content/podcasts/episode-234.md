@@ -2,6 +2,7 @@
 title: "Podcast 234 - Assume Goodwill"
 date: 2015-03-08
 draft: false
+image: "/images/podcasts/episode-234.png"
 episode: 234
 categories: ["Podcast"]
 ---

@@ -1,0 +1,34 @@
+{{ define "header" }}
+  {{ partials.Include "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $page := . }}
+
+  <article class="mw7 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+        {{ .CurrentSection.Title }}
+      </aside>
+      <h1 class="f1 athelas mt3 mb1">
+        {{- .Title -}}
+      </h1>
+      {{ if not .Date.IsZero }}
+      <time class="f6 mv4 dib tracked" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
+        {{- .Date | time.Format "January 2, 2006" -}}
+      </time>
+      {{ end }}
+    </header>
+
+    {{ with .Params.image }}
+    <div class="mv4">
+      <img src="{{ . }}" alt="{{ $page.Title }}" style="width:100%; max-width:600px; display:block; border-radius:4px;">
+    </div>
+    {{ end }}
+
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray w-100">
+      {{- .Content -}}
+      {{- partials.Include "tags.html" . -}}
+    </div>
+  </article>
+{{ end }}

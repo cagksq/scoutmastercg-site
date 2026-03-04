@@ -2,6 +2,7 @@
 title: "Podcast 254 - Behavior Problems"
 date: 2015-02-17
 draft: false
+image: "/images/podcasts/episode-254.png"
 episode: 254
 categories: ["Podcast"]
 ---

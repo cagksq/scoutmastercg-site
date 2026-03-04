@@ -2,6 +2,7 @@
 title: "Podcast 300 - Start, Stop, Continue"
 date: 2016-01-25
 draft: false
+image: "/images/podcasts/episode-300.png"
 episode: 300
 categories: ["Podcast"]
 ---

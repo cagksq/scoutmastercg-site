@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 191 - Courts of Honor"
 date: 2013-10-20
 draft: false
+image: "/images/podcasts/episode-191.png"
 episode: 191
 categories: ["Podcast"]
 ---

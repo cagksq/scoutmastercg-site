@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 213 - Youth Leader Training"
 date: 2014-10-03
 draft: false
+image: "/images/podcasts/episode-213.png"
 episode: 213
 categories: ["Podcast"]
 ---

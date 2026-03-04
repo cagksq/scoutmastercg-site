@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 341 - Leadership, Asking, and Telling"
 date: 2017-03-13
 draft: false
+image: "/images/podcasts/episode-341.png"
 episode: 341
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 321- Brownsea Island Moment"
 date: 2016-06-20
 draft: false
+image: "/images/podcasts/episode-321.png"
 episode: 321
 categories: ["Podcast"]
 ---

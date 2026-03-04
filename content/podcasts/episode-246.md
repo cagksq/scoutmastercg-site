@@ -2,6 +2,7 @@
 title: "Podcast 246 - Classes, Chow, and More!"
 date: 2016-06-04
 draft: false
+image: "/images/podcasts/episode-246.png"
 episode: 246
 categories: ["Podcast"]
 ---

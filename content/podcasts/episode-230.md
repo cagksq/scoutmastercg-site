@@ -2,6 +2,7 @@
 title: "Podcast 230 - The Internal Standard"
 date: 2017-07-04
 draft: false
+image: "/images/podcasts/episode-230.png"
 episode: 230
 categories: ["Podcast"]
 ---

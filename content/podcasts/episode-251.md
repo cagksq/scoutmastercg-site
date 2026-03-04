@@ -2,6 +2,7 @@
 title: "Podcast 251 - Make the most of being a Scouter"
 date: 2015-02-28
 draft: false
+image: "/images/podcasts/episode-251.png"
 episode: 251
 categories: ["Podcast"]
 ---

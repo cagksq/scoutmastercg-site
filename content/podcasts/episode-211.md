@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 211 - Troop's First Year - Scoutmastercg.com"
 date: 2016-01-04
 draft: false
+image: "/images/podcasts/episode-211.png"
 episode: 211
 categories: ["Podcast"]
 ---

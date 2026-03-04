@@ -2,6 +2,7 @@
 title: "Podcast 325 - Email Answers"
 date: 2016-08-22
 draft: false
+image: "/images/podcasts/episode-325.png"
 episode: 325
 categories: ["Podcast"]
 ---

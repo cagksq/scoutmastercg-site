@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 268 - Rank Requirements"
 date: 2015-09-16
 draft: false
+image: "/images/podcasts/episode-268.png"
 episode: 268
 categories: ["Podcast"]
 ---

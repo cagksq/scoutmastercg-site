@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 356 Energy and Vision"
 date: 2017-11-20
 draft: false
+image: "/images/podcasts/episode-356.png"
 episode: 356
 categories: ["Podcast"]
 ---

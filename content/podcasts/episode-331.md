@@ -2,6 +2,7 @@
 title: "Rules and Scouting Ideals - Podcast 331"
 date: 2016-11-28
 draft: false
+image: "/images/podcasts/episode-331.png"
 episode: 331
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 210 - Interview with Girl Guides"
 date: 2014-02-24
 draft: false
+image: "/images/podcasts/episode-210.png"
 episode: 210
 categories: ["Podcast"]
 ---

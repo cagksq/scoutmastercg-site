@@ -2,6 +2,7 @@
 title: "Podcast 283 - Self Organized Learning"
 date: 2015-11-09
 draft: false
+image: "/images/podcasts/episode-283.png"
 episode: 283
 categories: ["Podcast"]
 ---

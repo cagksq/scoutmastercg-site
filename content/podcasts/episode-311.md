@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 311 - Scout Camping"
 date: 2016-04-11
 draft: false
+image: "/images/podcasts/episode-311.png"
 episode: 311
 categories: ["Podcast"]
 ---

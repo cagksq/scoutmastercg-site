@@ -2,6 +2,7 @@
 title: "Podcast 316 - Scouting is Discovery"
 date: 2016-05-16
 draft: false
+image: "/images/podcasts/episode-316.png"
 episode: 316
 categories: ["Podcast"]
 ---

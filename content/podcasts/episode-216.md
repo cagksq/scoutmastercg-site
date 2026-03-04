@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 216 - Peer Pressure"
 date: 2014-10-12
 draft: false
+image: "/images/podcasts/episode-216.png"
 episode: 216
 categories: ["Podcast"]
 ---

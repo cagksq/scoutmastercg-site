@@ -2,6 +2,7 @@
 title: "Podcast 228 - Parents & Summer Camp"
 date: 2014-10-09
 draft: false
+image: "/images/podcasts/episode-228.png"
 episode: 228
 categories: ["Podcast"]
 ---

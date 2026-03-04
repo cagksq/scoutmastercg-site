@@ -2,6 +2,7 @@
 title: "Podcast 259 - Socratic Scouting"
 date: 2015-03-31
 draft: false
+image: "/images/podcasts/episode-259.png"
 episode: 259
 categories: ["Podcast"]
 ---

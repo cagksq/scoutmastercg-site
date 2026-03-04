@@ -2,6 +2,7 @@
 title: "Podcast 250- What is an Eagle Scout?"
 date: 2015-01-17
 draft: false
+image: "/images/podcasts/episode-250.png"
 episode: 250
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Podcast 258 - Scouting's Most Important Volunteers - Scoutmastercg.com"
 date: 2016-03-12
 draft: false
+image: "/images/podcasts/episode-258.png"
 episode: 258
 categories: ["Podcast"]
 ---

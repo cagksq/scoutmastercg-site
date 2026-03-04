@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 204"
 date: 2014-02-12
 draft: false
+image: "/images/podcasts/episode-204.png"
 episode: 204
 categories: ["Podcast"]
 ---

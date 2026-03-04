@@ -2,6 +2,7 @@
 title: "Scouting in One Sentence - Podcast 218"
 date: 2014-07-06
 draft: false
+image: "/images/podcasts/episode-218.png"
 episode: 218
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Podcast 233 - Patrol Leader's Council - Scoutmastercg.com"
 date: 2014-10-11
 draft: false
+image: "/images/podcasts/episode-233.png"
 episode: 233
 categories: ["Podcast"]
 ---

@@ -2,6 +2,7 @@
 title: "Scoutmaster Podcast 303 - Patrols"
 date: 2016-02-16
 draft: false
+image: "/images/podcasts/episode-303.png"
 episode: 303
 categories: ["Podcast"]
 ---

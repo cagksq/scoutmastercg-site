@@ -2,6 +2,7 @@
 title: "Podcast 245 - The Emperor has no clothes"
 date: 2014-11-24
 draft: false
+image: "/images/podcasts/episode-245.png"
 episode: 245
 categories: ["Podcast"]
 ---
