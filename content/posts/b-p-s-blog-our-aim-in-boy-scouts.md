@@ -1,17 +1,22 @@
 ---
-title: "B.P.'S Blog - Our Aim in Boy Scouts"
+title: B.P.'S Blog - Our Aim in Boy Scouts
 date: 2014-05-04
 draft: false
-image: "/images/bp4.png"
+image: /images/bp4.png
 categories:
   - bps-blog
-wayback_url: "https://web.archive.org/web/20141012081515/http://scoutmastercg.com:80/our-aim-in-boy-scouts/"
+wayback_url: https://web.archive.org/web/20141012081515/http://scoutmastercg.com:80/our-aim-in-boy-scouts/
 ---
-
 During his lifetime Robert Baden-Powell, founder of the worldwide Scouting movement, wrote many books and articles directed to Scouters. Here's a selection from his writings.
 
 > IN the Army we have certain points to aim for in training our men; but in the long course of years the steps in training have become so absorbing and important that in many cases the aim has come to be lost sight of. Take, for instance, the sword exercise. Here a number of recruits are instructed in the use of the sword in order to become expert fighters with it. They are put into a squad and drilled to stand in certain positions and to deliver certain cuts, thrusts, and guards on a certain approved plan. So soon as they can do this accurately and together like one man — and it is the work of months to effect this — they are passed as efficient swordsmen, but they can no more fight an enemy than can my boot. The aim of their instruction has been overlooked in the development of the steps to it.
 >
-> I hope the same mistake is never likely to occur with us in the Boy Scouts. We must keep the great aim ever before us and make our steps lead to it all the time. This aim is to make our race a nation of energetic, capable workers, good citizens, whether for life in Britain or overseas. The best principle to this end is to get the boys to learn for themselves by giving them a curriculum which appeals to them, rather than by hammering it into them in some form of dry-bones instruction. We have to remember that the mass of the boys are already tired with hours of school or workshop, and our training should, therefore, be in the form of recreation, and this should be out of doors as much as possible. That is the object of our badges and games, our examples and standards. If you would read through your Scouting for Boys once more, with the Great Aim always before you, you will see its meaning the more clearly. And the Great Aim means not only the practice of give-and-take with your own officers, but also with other organisations working to the same end. In a big movement for a big object there is no room for little personal efforts; we have to sink minor ideas and link arms in a big “combine” to deal effectively with the whole. We in the Boy Scouts are players in the same team with the Boys’ Brigade, Church Lads, Y.M.C.A., and Education Department, and others. Co-operation is the only way if we mean to win success. May,
+> I hope the same mistake is never likely to occur with us in the Boy Scouts. We must keep the great aim ever before us and make our steps lead to it all the time. This aim is to make our race a nation of energetic, capable workers, good citizens, whether for life in Britain or overseas. The best principle to this end is to get the boys to learn for themselves by giving them a curriculum which appeals to them, rather than by hammering it into them in some form of dry-bones instruction. 
 >
-> 1910. From B.P.’s Outlook
+> We have to remember that the mass of the boys are already tired with hours of school or workshop, and our training should, therefore, be in the form of recreation, and this should be out of doors as much as possible. That is the object of our badges and games, our examples and standards. 
+>
+> If you would read through your Scouting for Boys once more, with the Great Aim always before you, you will see its meaning the more clearly. And the Great Aim means not only the practice of give-and-take with your own officers, but also with other organisations working to the same end. 
+>
+> In a big movement for a big object there is no room for little personal efforts; we have to sink minor ideas and link arms in a big “combine” to deal effectively with the whole. We in the Boy Scouts are players in the same team with the Boys’ Brigade, Church Lads, Y.M.C.A., and Education Department, and others. Co-operation is the only way if we mean to win success. 
+
+From B.P.’s Outlook
