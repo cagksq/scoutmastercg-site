@@ -20,17 +20,9 @@ collections:
       - { label: "Draft", name: "draft", widget: "hidden", default: false }
       - label: "Categories"
         name: "categories"
-        widget: "select"
-        multiple: true
-        options:
-          - { label: "Outdoors", value: "outdoors" }
-          - { label: "Scouting Ideals", value: "scouting-ideals" }
-          - { label: "Patrol Method", value: "patrol-method" }
-          - { label: "Advancement", value: "advancement" }
-          - { label: "Scoutmaster's Job", value: "scoutmasters-job" }
-          - { label: "Scouting History & Ideas", value: "scouting-history-ideas" }
-          - { label: "Scoutmaster's Life", value: "scoutmasters-life" }
-          - { label: "Scouts", value: "scouts" }
+        widget: "list"
+        hint: "Type category slugs, e.g: outdoors, patrol-method, scoutmasters-job — see Settings › Categories for the full list"
+        field: { label: "Category", name: "category", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "podcasts"
@@ -43,3 +35,17 @@ collections:
       - { label: "Episode", name: "episode", widget: "number" }
       - { label: "Draft", name: "draft", widget: "hidden", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "settings"
+    label: "Settings"
+    files:
+      - name: "categories"
+        label: "Categories"
+        file: "data/categories.yaml"
+        fields:
+          - name: "categories"
+            label: "Categories"
+            widget: "list"
+            fields:
+              - { label: "Name", name: "label", widget: "string" }
+              - { label: "Slug (used in posts)", name: "value", widget: "string" }
