@@ -11,6 +11,7 @@ collections:
     folder: "content/posts"
     create: true
     slug: "{{slug}}"
+    preview_path: "posts/{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
