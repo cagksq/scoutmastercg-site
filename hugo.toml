@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "ScoutmasterCG Archive"
 theme = "ananke"
 
+[params]
+  favicon = "/favicon.svg"
+
 [menu]
 
   [[menu.main]]
