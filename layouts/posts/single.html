@@ -58,8 +58,9 @@
 
           <!-- Category + position -->
           <div style="text-align:center; margin-bottom:1.25rem;">
+            <span style="display:block; font-size:0.75rem; color:rgba(255,255,255,0.55); margin-bottom:6px;">In the category</span>
             <a href="{{ $catPage.RelPermalink }}" style="color:#fff; text-decoration:none; font-size:1.6rem; font-weight:600;">{{ $catLabel }}</a>
-            <span style="color:rgba(255,255,255,0.45); font-size:0.85rem; margin-left:0.5rem;">· post {{ $postNum }} of {{ len $catPages }}</span>
+            <span style="display:block; color:rgba(255,255,255,0.45); font-size:0.85rem; margin-top:4px;">post {{ $postNum }} of {{ len $catPages }}</span>
           </div>
 
           <!-- Prev / Next row -->
