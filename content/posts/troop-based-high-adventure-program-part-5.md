@@ -1,9 +1,10 @@
 ---
-title: "Troop Based High Adventure Program | Part 5"
+title: Troop Based High Adventure Programs | Part 5
 date: 2015-09-19
 draft: false
-categories: ["outdoors"]
-wayback_url: "https://web.archive.org/web/20150919194555/http://scoutmastercg.com/troop-based-high-adventure-program-part-5/"
+categories:
+  - outdoors
+wayback_url: https://web.archive.org/web/20150919194555/http://scoutmastercg.com/troop-based-high-adventure-program-part-5/
 ---
 
 The success of any high adventure program is more about the people you go with than the place you go . A prime trek in Philmont, the crown jewel of Scout Camps, under crystal blue skies in moderate temperatures with no bugs and five star meals becomes a slow death march with a dysfunctional, poorly prepared, poorly led crew.
