@@ -43,40 +43,50 @@
           {{ end }}
         {{ end }}
 
-        <div class="post-footer" style="background:#3B4D1E; color:#fff; margin-top:2.5rem; margin-bottom:3rem; padding:1.5rem; border-radius:4px;">
+        <div class="post-footer" style="background:#3B4D1E; color:#fff; margin-top:2.5rem; margin-bottom:3rem; border-radius:4px; overflow:hidden;">
 
-          <!-- Filed Under + Share row -->
-          <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:0.75rem; margin-bottom:1.5rem;">
-            <div>
-              <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.12em; color:rgba(255,255,255,0.55); margin-bottom:5px;">Filed Under</span>
-              <a href="{{ $catPage.RelPermalink }}" style="font-size:1.25rem; font-weight:600; color:#fff; text-decoration:none;">{{ $catLabel }}</a>
+          <!-- Yellow accent line -->
+          <div style="height:4px; background:#FFE066;"></div>
+
+          <div style="padding:1.5rem 1.75rem;">
+
+            <!-- Filed Under + Share row -->
+            <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:1.5rem; padding-bottom:1.25rem; border-bottom:1px solid rgba(255,255,255,0.15); margin-bottom:1.5rem;">
+
+              <div>
+                <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.12em; color:rgba(255,255,255,0.55); margin-bottom:6px;">Filed Under</span>
+                <a href="{{ $catPage.RelPermalink }}" style="font-family:'Playfair Display',serif; font-size:1.4rem; font-weight:700; color:#fff; text-decoration:none;">{{ $catLabel }}</a>
+                <span style="display:block; font-size:0.8rem; color:rgba(255,255,255,0.45); margin-top:4px;">{{ len $catPages }} posts</span>
+              </div>
+
+              <div style="border-left:1px solid rgba(255,255,255,0.15); padding-left:1.5rem;">
+                <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.12em; color:rgba(255,255,255,0.55); margin-bottom:6px;">Share</span>
+                <button onclick="copyPostLink()" style="background:none; border:none; cursor:pointer; color:#fff; font-size:1.1rem; padding:0; font-family:inherit;">Copy link</button>
+                <span style="margin:0 0.6rem; color:rgba(255,255,255,0.3);">·</span>
+                <a href="mailto:?subject={{ .Title }}&body={{ .Permalink }}" style="color:#fff; text-decoration:none; font-size:1.1rem;">Email</a>
+                <span id="post-copy-confirm" style="display:none; margin-left:0.5rem; color:#FFE066; font-weight:600;">✓ Copied</span>
+              </div>
+
             </div>
-            <div style="text-align:right;">
-              <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.12em; color:rgba(255,255,255,0.55); margin-bottom:5px;">Share</span>
-              <button onclick="copyPostLink()" style="background:none; border:none; cursor:pointer; color:#fff; font-size:1.1rem; padding:0; font-family:inherit;">Copy link</button>
-              <span style="margin:0 0.5rem; color:rgba(255,255,255,0.35);">·</span>
-              <a href="mailto:?subject={{ .Title }}&body={{ .Permalink }}" style="color:#fff; text-decoration:none; font-size:1.1rem;">Email</a>
-              <span id="post-copy-confirm" style="display:none; margin-left:0.5rem; color:#FFE066; font-weight:600;">✓ Copied</span>
+
+            <!-- Prev / Next row -->
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:1.5rem;">
+              {{ if $prevPage }}
+              <a href="{{ $prevPage.RelPermalink }}" style="color:#fff; text-decoration:none; display:block;">
+                <span style="display:block; font-size:0.75rem; font-weight:700; letter-spacing:0.08em; color:rgba(255,255,255,0.5); margin-bottom:8px;">← Earlier</span>
+                <span style="font-size:1.1rem; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">{{ $prevPage.Title }}</span>
+              </a>
+              {{ else }}<div></div>{{ end }}
+
+              {{ if $nextPage }}
+              <a href="{{ $nextPage.RelPermalink }}" style="color:#fff; text-decoration:none; display:block; text-align:right;">
+                <span style="display:block; font-size:0.75rem; font-weight:700; letter-spacing:0.08em; color:rgba(255,255,255,0.5); margin-bottom:8px;">Later →</span>
+                <span style="font-size:1.1rem; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">{{ $nextPage.Title }}</span>
+              </a>
+              {{ else }}<div></div>{{ end }}
             </div>
+
           </div>
-
-          <!-- Prev / Next row -->
-          <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem; border-top:1px solid rgba(255,255,255,0.2); padding-top:1.25rem;">
-            {{ if $prevPage }}
-            <a href="{{ $prevPage.RelPermalink }}" style="color:#fff; text-decoration:none; display:block;">
-              <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:rgba(255,255,255,0.5); margin-bottom:6px;">← Earlier</span>
-              <span style="font-size:1.1rem; line-height:1.4;">{{ $prevPage.Title }}</span>
-            </a>
-            {{ else }}<div></div>{{ end }}
-
-            {{ if $nextPage }}
-            <a href="{{ $nextPage.RelPermalink }}" style="color:#fff; text-decoration:none; display:block; text-align:right;">
-              <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:rgba(255,255,255,0.5); margin-bottom:6px;">Later →</span>
-              <span style="font-size:1.1rem; line-height:1.4;">{{ $nextPage.Title }}</span>
-            </a>
-            {{ else }}<div></div>{{ end }}
-          </div>
-
         </div>
       {{ end }}
     {{ end }}
