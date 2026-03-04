@@ -1,0 +1,47 @@
+{{ define "header" }}
+  {{ partials.Include "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $page := . }}
+
+  <article class="mw7 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+        {{ .CurrentSection.Title }}
+      </aside>
+      <h1 class="f1 athelas mt3 mb1">
+        {{- .Title -}}
+      </h1>
+      {{ if not .Date.IsZero }}
+      <time class="f6 mv4 dib tracked" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
+        {{- .Date | time.Format "January 2, 2006" -}}
+      </time>
+      {{ end }}
+    </header>
+
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray w-100">
+      {{- .Content -}}
+      {{- partials.Include "tags.html" . -}}
+    </div>
+
+    <!-- Share panel -->
+    <div style="margin:2rem 0; padding:1rem 1.25rem; background:#f9f9f7; border:1px solid #e8e8e4; border-radius:4px; font-size:0.875rem;">
+      <strong style="display:block; margin-bottom:0.75rem; font-size:0.65rem; letter-spacing:0.12em; text-transform:uppercase; color:#888;">Share</strong>
+      <button onclick="copyPostLink()" style="margin-right:0.75rem; padding:0.4rem 0.9rem; background:#3B4D1E; color:#fff; border:none; border-radius:3px; cursor:pointer; font-size:0.8rem;">Copy link</button>
+      <a href="mailto:?subject={{ .Title | urlize }}&body={{ .Permalink }}" style="padding:0.4rem 0.9rem; background:#fff; color:#3B4D1E; border:1px solid #3B4D1E; border-radius:3px; cursor:pointer; font-size:0.8rem; text-decoration:none;">Email</a>
+      <span id="post-copy-confirm" style="display:none; margin-left:0.75rem; color:#3B4D1E; font-size:0.8rem; font-weight:600;">✓ Copied!</span>
+    </div>
+  </article>
+
+  <script>
+  function copyPostLink() {
+    var url = window.location.origin + window.location.pathname;
+    navigator.clipboard.writeText(url).then(function() {
+      var el = document.getElementById("post-copy-confirm");
+      el.style.display = "inline";
+      setTimeout(function() { el.style.display = "none"; }, 2000);
+    });
+  }
+  </script>
+{{ end }}
