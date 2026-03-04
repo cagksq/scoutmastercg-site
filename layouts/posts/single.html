@@ -28,7 +28,7 @@
       {{ $catLabel := strings.Replace $cat "-" " " | title }}
       {{ $catPage := $.Site.GetPage (printf "categories/%s" $catSlug) }}
       {{ if $catPage }}
-        {{ $catPages := $catPage.Pages.ByDate }}
+        {{ $catPages := $catPage.Pages }}
         {{ $current := . }}
         {{ $prevPage := "" }}
         {{ $nextPage := "" }}
