@@ -1,9 +1,10 @@
 ---
-title: "Troop Based High Adventure Program | Part 6"
+title: Troop Based High Adventure Programs | Part 6
 date: 2015-09-19
 draft: false
-categories: ["outdoors"]
-wayback_url: "https://web.archive.org/web/20150919225722/http://scoutmastercg.com/troop-based-high-adventure-program-part-6/"
+categories:
+  - outdoors
+wayback_url: https://web.archive.org/web/20150919225722/http://scoutmastercg.com/troop-based-high-adventure-program-part-6/
 ---
 
 Detailed preparation is the key to any successful high adventure program.
