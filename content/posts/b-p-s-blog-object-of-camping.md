@@ -2,12 +2,12 @@
 title: B.P.'s Blog - Object of Camping
 date: 2014-03-30
 draft: false
-image: "/images/bp4.png"
+image: /images/bp4.png
 categories:
   - bps-blog
 wayback_url: https://web.archive.org/web/20150919182657/http://scoutmastercg.com/b-p-s-blog-object-camping/
 ---
-During his lifetime Robert Baden-Powell, founder of the worldwide Scouting movement, wrote many books and articles directed to Scouters. Each Sunday I’ll publish a selection from his writings in the hope that you’ll draw inspiration and understanding from his timeless ideas. 
+During his lifetime Robert Baden-Powell, founder of the worldwide Scouting movement, wrote many books and articles directed to Scouters. Here's a selection from his writings in the hope that you’ll draw inspiration and understanding from his timeless ideas. 
 
 > THE object of a camp is (a) to meet the boy’s desire for the open-air life of the Scout, and (b) to put him completely in the hands of his Scoutmaster for a definite period for individual training in character and initiative and in physical and moral development.
 >
