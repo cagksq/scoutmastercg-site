@@ -2,7 +2,7 @@
 title: "Transforming a \"Skull Full of Mush\""
 date: 2011-06-02
 draft: false
-categories: ["leadership"]
+categories: ["scoutmasters-job"]
 ---
 
 "The Paper Chase" started as a novel, was made into a movie and, finally, a TV series in the 1970's. The story follows a law student in his first year at Harvard.
