@@ -15,6 +15,10 @@
         {{- .Date | time.Format "January 2, 2006" -}}
       </time>
       {{ end }}
+      <a id="cms-edit-link"
+         href="/admin/#/collections/posts/entries/{{ .File.ContentBaseName }}"
+         style="display:none; float:right; font-size:0.75rem; color:#3B4D1E; text-decoration:none; border:1px solid #3B4D1E; border-radius:3px; padding:2px 8px; font-family:'Roboto',sans-serif; opacity:0.7;"
+         title="Edit in CMS">✎ Edit</a>
     </header>
 
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray w-100">
@@ -87,6 +91,20 @@
   </article>
 
   <script>
+  (function() {
+    function showEditIfAdmin() {
+      if (window.netlifyIdentity && window.netlifyIdentity.currentUser()) {
+        document.getElementById("cms-edit-link").style.display = "inline";
+      }
+    }
+    if (window.netlifyIdentity) {
+      showEditIfAdmin();
+      window.netlifyIdentity.on("login", showEditIfAdmin);
+    } else {
+      window.addEventListener("load", showEditIfAdmin);
+    }
+  })();
+
   function copyPostLink() {
     var url = window.location.origin + window.location.pathname;
     navigator.clipboard.writeText(url).then(function() {
