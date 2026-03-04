@@ -1,6 +1,6 @@
 ---
 title: "To Build a Fire"
-date: 2011-04-19
+date: 2005-11-01
 draft: false
 categories: ["outdoors"]
 wayback_url: "https://web.archive.org/web/20150310042258/http://scoutmastercg.com:80/to_build_a_fire/"

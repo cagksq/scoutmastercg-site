@@ -1,6 +1,6 @@
 ---
 title: "Walden"
-date: 2013-10-12
+date: 2005-12-01
 draft: false
 categories: ["outdoors"]
 wayback_url: "https://web.archive.org/web/20150310042302/http://scoutmastercg.com:80/walden/"

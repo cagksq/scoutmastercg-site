@@ -1,6 +1,6 @@
 ---
 title: "Competition"
-date: 2014-08-24
+date: 2005-11-01
 draft: false
 categories: ["scoutmasters-job"]
 wayback_url: "https://web.archive.org/web/20140824233023/http://scoutmastercg.com/competition/"

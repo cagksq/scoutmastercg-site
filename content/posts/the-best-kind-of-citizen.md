@@ -1,6 +1,6 @@
 ---
 title: "The Best Kind of Citizen"
-date: 2014-08-22
+date: 2005-12-01
 draft: false
 categories: ["scouting-ideals"]
 wayback_url: "https://web.archive.org/web/20140822214920/http://scoutmastercg.com/the_best_kind_o/"

@@ -1,6 +1,6 @@
 ---
 title: "Self Evident Truth"
-date: 2015-03-02
+date: 2005-11-01
 draft: false
 categories: ["scouting-ideals"]
 wayback_url: "https://web.archive.org/web/20150302021749/http://scoutmastercg.com:80/self_evident_tr/"

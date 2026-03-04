@@ -1,6 +1,6 @@
 ---
 title: "Real Responsibility"
-date: 2015-09-19
+date: 2005-11-01
 draft: false
 categories: ["patrol-method"]
 wayback_url: "https://web.archive.org/web/20150919193805/http://scoutmastercg.com/real_responsibi/"

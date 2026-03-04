@@ -1,6 +1,6 @@
 ---
 title: "Management or Leadership?"
-date: 2014-08-25
+date: 2005-11-01
 draft: false
 categories: ["advancement"]
 wayback_url: "https://web.archive.org/web/20140825083733/http://scoutmastercg.com/management_or_l/"

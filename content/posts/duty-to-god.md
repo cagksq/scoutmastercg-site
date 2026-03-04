@@ -1,6 +1,6 @@
 ---
 title: "Duty to God"
-date: 2011-06-05
+date: 2005-11-01
 draft: false
 categories: ["scouting-ideals"]
 wayback_url: "https://web.archive.org/web/20141009225147/http://scoutmastercg.com:80/duty_to_god/"

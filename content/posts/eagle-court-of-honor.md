@@ -1,6 +1,6 @@
 ---
 title: "Eagle Court of Honor"
-date: 2005-12-22
+date: 2005-12-01
 draft: false
 categories: ["advancement"]
 wayback_url: "https://web.archive.org/web/20121126064530/http://www.scoutmastercg.com:80/2005/12/eagle_court_of_honor/"

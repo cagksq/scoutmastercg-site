@@ -1,6 +1,6 @@
 ---
 title: "Scout Factory"
-date: 2014-08-22
+date: 2005-12-01
 draft: false
 categories: ["scoutmasters-job"]
 wayback_url: "https://web.archive.org/web/20140822181701/http://scoutmastercg.com/scout_factory/"

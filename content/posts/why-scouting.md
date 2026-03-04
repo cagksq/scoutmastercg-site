@@ -1,6 +1,6 @@
 ---
 title: "Why Scouting?"
-date: 2012-10-17
+date: 2005-11-01
 draft: false
 categories: ["scouting-history-ideas"]
 wayback_url: "https://web.archive.org/web/20150304230425/http://scoutmastercg.com:80/boys_universall/"

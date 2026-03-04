@@ -1,6 +1,6 @@
 ---
 title: "ACLU v. BSA"
-date: 2014-10-17
+date: 2005-12-01
 draft: false
 categories: ["scouting-history-ideas"]
 wayback_url: "https://web.archive.org/web/20141017150406/http://scoutmastercg.com:80/aclu_v_bsa/"

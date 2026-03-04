@@ -1,6 +1,6 @@
 ---
 title: "Unite or Divide"
-date: 2015-03-02
+date: 2006-01-01
 draft: false
 categories: ["scouting-ideals"]
 wayback_url: "https://web.archive.org/web/20150302021845/http://scoutmastercg.com:80/unite_or_divide/"

@@ -1,6 +1,6 @@
 ---
 title: "Thinking Patriotism"
-date: 2013-01-04
+date: 2005-12-01
 draft: false
 categories: ["scouting-ideals"]
 wayback_url: "https://web.archive.org/web/20141018003033/http://scoutmastercg.com:80/thoughtful_patr/"

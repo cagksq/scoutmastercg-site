@@ -1,6 +1,6 @@
 ---
 title: "Dutch Oven Pineapple Upside Down Cake"
-date: 2012-09-27
+date: 2006-01-01
 draft: false
 categories: ["scouting-ideals"]
 wayback_url: "https://web.archive.org/web/20150304044108/http://scoutmastercg.com:80/dutch_oven_pine/"

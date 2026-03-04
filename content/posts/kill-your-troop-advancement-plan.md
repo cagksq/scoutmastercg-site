@@ -1,6 +1,6 @@
 ---
 title: "Kill Your Troop Advancement Plan"
-date: 2014-08-22
+date: 2005-12-01
 draft: false
 categories: ["advancement"]
 wayback_url: "https://web.archive.org/web/20140822162857/http://scoutmastercg.com/kill_your_troop/"
