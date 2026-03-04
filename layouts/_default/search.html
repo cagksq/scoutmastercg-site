@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="mw7 center ph3 pv4">
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <style>
+    :root {
+      --pagefind-ui-primary: #3B4D1E;
+      --pagefind-ui-text: #333;
+      --pagefind-ui-font: 'Roboto', sans-serif;
+      --pagefind-ui-border-radius: 4px;
+    }
+    .pagefind-ui__search-input {
+      font-size: 1.1rem;
+    }
+    .pagefind-ui__result-title a {
+      color: #3B4D1E;
+    }
+  </style>
+  <div id="search"></div>
+  <script src="/pagefind/pagefind-ui.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', function() {
+      new PagefindUI({ element: "#search", showSubResults: true, resetStyles: false });
+    });
+  </script>
+</div>
+{{ end }}
