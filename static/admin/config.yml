@@ -1,0 +1,42 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: static/images
+public_folder: /images
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Draft", name: "draft", widget: "hidden", default: false }
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options:
+          - { label: "Outdoors", value: "outdoors" }
+          - { label: "Scouting Ideals", value: "scouting-ideals" }
+          - { label: "Patrol Method", value: "patrol-method" }
+          - { label: "Advancement", value: "advancement" }
+          - { label: "Scoutmaster's Job", value: "scoutmasters-job" }
+          - { label: "Scouting History & Ideas", value: "scouting-history-ideas" }
+          - { label: "Scoutmaster's Life", value: "scoutmasters-life" }
+          - { label: "Scouts", value: "scouts" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "podcasts"
+    label: "Podcasts"
+    folder: "content/podcasts"
+    create: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Episode", name: "episode", widget: "number" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
