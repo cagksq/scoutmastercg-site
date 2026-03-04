@@ -1,9 +1,10 @@
 ---
-title: "Troop Based High Adventure Program | Part 4"
+title: Troop Based High Adventure Programs | Part 4
 date: 2015-09-19
 draft: false
-categories: ["outdoors"]
-wayback_url: "https://web.archive.org/web/20150919180328/http://scoutmastercg.com/troop-based-high-adventure-program-part-4/"
+categories:
+  - outdoors
+wayback_url: https://web.archive.org/web/20150919180328/http://scoutmastercg.com/troop-based-high-adventure-program-part-4/
 ---
 
 Training and skill development is important to the success of a Troop based high adventure program.
