@@ -6,7 +6,7 @@ episode: 309
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast309.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-309.mp3" >}}
 
 The single most important thing a Scout parents need to know is …
 This is the second of three podcasts about Scout parents.

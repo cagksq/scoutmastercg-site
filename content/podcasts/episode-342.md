@@ -6,7 +6,7 @@ episode: 342
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast342.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-342.mp3" >}}
 
 There are two ways of recruiting Scouts that actually work …
 … and I've have tried just about everything, special meetings, special trips, flyers, etc. None of those things has ever netted us one single new Scout.

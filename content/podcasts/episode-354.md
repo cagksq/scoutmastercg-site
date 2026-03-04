@@ -6,7 +6,7 @@ episode: 354
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast354.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-354.mp3" >}}
 
 Should gender define Scouting?
 This week I want to discuss responses to a post I published last week about gender in Scouting:

@@ -6,7 +6,7 @@ episode: 371
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast371.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-371.mp3" >}}
 
 Webelos dens as patrols and more older Scout issues …
 Catching up on email questions this week I'll talk about Webelos dens working the patrol method and discuss the causes of at least some older Scout problems. (If you listen very carefully you may detect a rant this week).

@@ -6,7 +6,7 @@ episode: 350
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast350.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-350.mp3" >}}
 
 Who “owns” the pack, troop or crew?
 Scouting Charters are held by a chartering organization owns all of the assets of a Scout unit.

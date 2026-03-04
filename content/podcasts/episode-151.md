@@ -6,7 +6,7 @@ episode: 151
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast151.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-151.mp3" >}}
 
 In this edition of the Scoutmaster Podcast:
 Scoutmaster Panel discussion with Larry Geiger, Tom Gillard and Walter Underwood about discipline and punishment in Scouting, we also touch on Scouts using electronic devices during meetings and activities.

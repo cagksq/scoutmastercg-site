@@ -6,4 +6,4 @@ episode: 20
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast20.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-020.mp3" >}}

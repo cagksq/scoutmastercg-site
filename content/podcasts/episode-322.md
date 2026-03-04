@@ -6,7 +6,7 @@ episode: 322
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast322.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-322.mp3" >}}
 
 Scouting is something Scouts do for themselves …
 … rather than a program of activities presented for them.

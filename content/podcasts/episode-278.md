@@ -6,7 +6,7 @@ episode: 278
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast278.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-278.mp3" >}}
 
 This encore presentation features an interview with author Mike Malone about his book about what it means to be an Eagle Scout,
 Mike is an award-winning author and experienced Scouter with an impressive resume of leadership.

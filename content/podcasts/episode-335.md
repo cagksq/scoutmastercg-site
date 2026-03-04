@@ -6,7 +6,7 @@ episode: 335
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast335.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-335.mp3" >}}
 
 I have had plenty of Scouts seize the opportunity to be cold, wet, and miserable…
 … but that usually only happens once or twice, then they learn not to be cold and miserable. When it's raining they have the opportunity to take your word for it and be prepared, or to learn by experience.

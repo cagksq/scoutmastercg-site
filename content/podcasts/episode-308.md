@@ -6,7 +6,7 @@ episode: 308
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast308.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-308.mp3" >}}
 
 What should Scout parents do if a child want's to quit Scouts?…
 This is the first of three podcasts about Scout parents.

@@ -6,7 +6,7 @@ episode: 311
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast311.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-311.mp3" >}}
 
 What constitutes a night of Scout camping?
 You'll find the qualifier “under the auspices of Scouting” or something similar in advancement requirements that describe nights of camping. What, exactly, does this mean? I'll give you my best answer to this and other email questions that we'll discuss in this podcast.

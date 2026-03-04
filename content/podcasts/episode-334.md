@@ -6,7 +6,7 @@ episode: 334
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast334.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-334.mp3" >}}
 
 How well do Parents understand Scouting?
 Should we expect them to?

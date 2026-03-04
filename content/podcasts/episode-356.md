@@ -6,7 +6,7 @@ episode: 356
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast356.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-356.mp3" >}}
 
 Expertise and experience are overrated
 Scouts need Scouters with energy and vision more than Scouters with expertise and experience. Scouts don't care what you know, they respond to who you are.

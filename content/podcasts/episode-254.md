@@ -6,4 +6,4 @@ episode: 254
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast254.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-254.mp3" >}}

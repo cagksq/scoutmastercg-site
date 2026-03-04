@@ -6,7 +6,7 @@ episode: 344
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast344.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-344.mp3" >}}
 
 Personal schedules are just one of the things that affect a Scout patrol
 …

@@ -6,7 +6,7 @@ episode: 331
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast331.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-331.mp3" >}}
 
 We aren't working to control the conduct
 of young people.

@@ -6,7 +6,7 @@ episode: 313
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast313.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-313.mp3" >}}
 
 Have you seen the first volume of the Troop Leader Guidebook?
 Join Walter Underwood and myself as we review the first volume of the Troop Leader Guidebook.

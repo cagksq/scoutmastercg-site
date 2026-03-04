@@ -6,6 +6,6 @@ episode: 184
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast184.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-184.mp3" >}}
 
 1 Comment

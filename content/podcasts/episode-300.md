@@ -6,7 +6,7 @@ episode: 300
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast300.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-300.mp3" >}}
 
 What works, what doesn't and what's new?
 The Scoutmaster blog started with it's first post in October of 2005, just over ten years ago (it's titled

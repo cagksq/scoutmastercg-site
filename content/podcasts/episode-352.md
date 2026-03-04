@@ -6,7 +6,7 @@ episode: 352
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast352.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-352.mp3" >}}
 
 Hey! I'm still here, are you?
 My summer break stretched into the fall a little! Spend some time catching up with me in this briefer edition of the podcast, lots to talk about!

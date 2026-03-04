@@ -6,7 +6,7 @@ episode: 301
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast301.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-301.mp3" >}}
 
 What's your vision for Scouting?
 Have you ever taken the time to really examine your Scouting vision, how you picture where you are headed as a Scouter?

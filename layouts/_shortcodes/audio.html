@@ -1,6 +1,21 @@
 <div class="audio-player mv3">
-  <audio controls preload="metadata" style="width:100%; max-width:600px;">
-    <source src="{{ .Get "src" }}" type="audio/mpeg">
-    Your browser does not support the audio element.
+  <audio id="player-{{ .Ordinal }}" controls preload="metadata" style="width:100%; max-width:600px;">
+    <source src="https://audio.scoutmastercg.com/intro.mp3" type="audio/mpeg">
   </audio>
 </div>
+<script>
+(function() {
+  var player = document.getElementById("player-{{ .Ordinal }}");
+  var intro = "https://audio.scoutmastercg.com/intro.mp3";
+  var episode = "{{ .Get `src` }}";
+  var playedIntro = false;
+
+  player.addEventListener("ended", function() {
+    if (!playedIntro) {
+      playedIntro = true;
+      player.src = episode;
+      player.play();
+    }
+  });
+})();
+</script>

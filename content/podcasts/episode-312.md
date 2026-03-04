@@ -6,7 +6,7 @@ episode: 312
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast312.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-312.mp3" >}}
 
 How about your Scouts? How about their parents?
 This podcast features advice for Scouters attending

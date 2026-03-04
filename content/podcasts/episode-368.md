@@ -6,7 +6,7 @@ episode: 368
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast368.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-368.mp3" >}}
 
 Scouting discipline is constructive…
 … because it builds character through applying the Scout oath and law.

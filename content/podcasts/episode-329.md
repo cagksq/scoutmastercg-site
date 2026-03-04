@@ -6,7 +6,7 @@ episode: 329
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast329.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-329.mp3" >}}
 
 There's always more questions about merit badges…
 … then I have useful answers because the vast majority of problems with merit badges are structural rather than procedural. But I hate missing an opportunity for a good, old fashioned rant. Listen in while I climb on my soapbox and opine about what I think the problem is, and how it could (but likely won't) be fixed.

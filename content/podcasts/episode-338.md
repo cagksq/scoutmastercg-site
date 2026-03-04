@@ -6,7 +6,7 @@ episode: 338
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast338.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-338.mp3" >}}
 
 This should be fun!
 This week there's no deep dive into policies, no procedural advice or philosophizing, just a conversation with two of my old Eagle Scouts who headed out for a hike last week.

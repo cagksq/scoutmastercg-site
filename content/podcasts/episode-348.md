@@ -6,7 +6,7 @@ episode: 348
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast348.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-348.mp3" >}}
 
 If the Scouts are leading themselves who is leading the Scout leaders?
 This week I'll field a couple of email questions that ask the question “who leads the Scout leaders?”

@@ -6,7 +6,7 @@ episode: 310
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast310.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-310.mp3" >}}
 
 We work with our Scouts as they come to us….
 I'll discuss two different parent-related issues in this third (and final) in a series of podcasts about Scout parents –

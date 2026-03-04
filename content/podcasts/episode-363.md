@@ -6,7 +6,7 @@ episode: 363
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast363.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-363.mp3" >}}
 
 Thinking of Scouts as players …
 … fills out the analogy of Scouting as a game. Players volunteer to participate in the game. The most important volunteers in Scouting have more power and influence than the highest official. Without their participation, Scouting would come to a complete halt. They bring endless energy, resources, and real transformational power to their role. They are the only volunteers we simply cannot afford to lose.

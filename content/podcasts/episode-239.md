@@ -6,7 +6,7 @@ episode: 239
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast239.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-239.mp3" >}}
 
 Help!
 Everyone needs help, right? Most Scouters, at one time or another, find ourselves overwhelmed, discouraged and help-less. Don't worry, you aren't alone, and there's a way out! See if the

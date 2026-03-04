@@ -6,7 +6,7 @@ episode: 326
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast326.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-326.mp3" >}}
 
 My son was frustrated, decided to change troops, and was elected senior patrol leader in his new troop.
 The Scoutmaster is a man of good intentions but with a commanding presence. Over time he has taken to leading himself because it's easier and less messy.

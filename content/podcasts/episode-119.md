@@ -6,4 +6,4 @@ episode: 119
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast119.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-119.mp3" >}}

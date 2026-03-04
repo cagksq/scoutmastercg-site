@@ -6,7 +6,7 @@ episode: 269
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast269.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-269.mp3" >}}
 
 We prepare our Scouts, but how about their parents?
 How can we help parents make it though the first week of summer camp? Entrusting the full-time care of your child to someone for such a long time, for the first time, can be challenging for parents. In this podcast I offer some ideas you can share with parents tp make their child's stay at summer camp easier on the folks at home.  I'll also have answers to email questions about patrol method safety, merit badge counselling, and adult supervision of patrol activities.

@@ -6,7 +6,7 @@ episode: 351
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast351.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-351.mp3" >}}
 
 Some Scouting problems are just nettlesome…
 … they aren't discipline problems, or particularly disruptive, just nettlesome, irritating, like stinging nettles.

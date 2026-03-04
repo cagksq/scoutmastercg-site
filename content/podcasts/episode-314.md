@@ -6,7 +6,7 @@ episode: 314
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast314.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-314.mp3" >}}
 
 Lots of answers that you may find useful!
 It's been a little while since I answered some email questions, so this is catch-up week.

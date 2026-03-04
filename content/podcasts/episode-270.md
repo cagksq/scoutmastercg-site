@@ -6,7 +6,7 @@ episode: 270
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast270.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-270.mp3" >}}
 
 You may have more in common with Kazik than you first suspect!
 This podcast is one story that I think you'll find inspiring and significant; a story of Scout spirit against seemingly insurmountable odds.

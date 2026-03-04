@@ -6,7 +6,7 @@ episode: 321
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast321.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-321.mp3" >}}
 
 21 boys boarded a boat in Poole Harbor…
 … they had no way of knowing they were pioneering a movement for millions of young people around the world. Several lived well into old age to vividly recount their experiences decades later.

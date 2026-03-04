@@ -6,7 +6,7 @@ episode: 337
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast337.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-337.mp3" >}}
 
 We ended up drawing a kind of dividing line …
 … between adult and Scout responsibilities, and it has a lot to do with Scouts and money.

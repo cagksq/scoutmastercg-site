@@ -6,7 +6,7 @@ episode: 324
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast324.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-324.mp3" >}}
 
 In an often pessimistic world Scouting's future is inherently optimistic.
 Scouting is greater than a hedge against the perilous future, or a return to a storied past. We typically associate the future with technological advances. While technology will have a big role in shaping our future there are, perhaps, greater factors to consider.

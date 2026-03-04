@@ -6,4 +6,4 @@ episode: 281
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast281.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-281.mp3" >}}

@@ -6,7 +6,7 @@ episode: 315
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast315.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-315.mp3" >}}
 
 I want to share a great source for developing your skills!
 Outdoor leadership is different. What works at a Troop meeting or in the boardroom does not always translate well on a week-long backpacking or canoeing trip. Scouting offers great administrative training and valuable supplemental training in outdoor skills and safety. What we don't have is a comprehensive training course in the group dynamics of long-term outdoor trips.

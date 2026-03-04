@@ -6,7 +6,7 @@ episode: 333
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast333.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-333.mp3" >}}
 
 Do you have quarterly Scout parent meetings?
 I'll answer an email question about parent's meetings in this podcast. On our quarterly Scout parent meetings that include a court of honor. Everyone arrives at about 7PM, the Scouts go outside to play a game and the committee chair and whomever needs to (depending on what is going on, if there's a fundraiser it may be the person running that) talk to their parents for  about 15-20 minutes about what is happening the next quarter.

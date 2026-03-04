@@ -6,4 +6,4 @@ episode: 237
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast237.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-237.mp3" >}}

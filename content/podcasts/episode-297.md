@@ -6,7 +6,7 @@ episode: 297
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast297.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-297.mp3" >}}
 
 Wait just a darn minute,
 one

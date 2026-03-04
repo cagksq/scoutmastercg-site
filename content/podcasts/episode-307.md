@@ -6,7 +6,7 @@ episode: 307
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast307.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-307.mp3" >}}
 
 I am not thinking about the nature of Scouting activities…
 When Scouting is happening, when it's really popping and sizzling along, Scouts are doing things that few, if any of their peers are doing.

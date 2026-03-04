@@ -6,7 +6,7 @@ episode: 1
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast1.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-001.mp3" >}}
 
 CaspMac
 from United States

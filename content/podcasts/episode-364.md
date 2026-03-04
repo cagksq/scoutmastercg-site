@@ -6,7 +6,7 @@ episode: 364
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast364.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-364.mp3" >}}
 
 Some aspects of the Scouting game look like flaws…
 … but they are features we must not alter. Games restrict or constrain play through rules, the laws of physics, or human limitations and Scouting is no exception.

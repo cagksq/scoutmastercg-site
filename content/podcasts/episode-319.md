@@ -6,7 +6,7 @@ episode: 319
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast319.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-319.mp3" >}}
 
 Are Scoutmaster's Conferences a retest?
 Can assistant Scoutmasters do them?

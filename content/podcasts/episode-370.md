@@ -6,7 +6,7 @@ episode: 370
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast370.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-370.mp3" >}}
 
 Working with older Scouts between the ages of 14-18 …
 … is both challenging and rewarding.

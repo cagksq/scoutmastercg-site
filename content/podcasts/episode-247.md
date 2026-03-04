@@ -6,7 +6,7 @@ episode: 247
 categories: ["Podcast"]
 ---
 
-{{< audio src="/audio/ScoutmasterPodcast247.mp3" >}}
+{{< audio src="https://audio.scoutmastercg.com/scoutmaster-podcast-247.mp3" >}}
 
 What's the difference between demanding compliance and getting voluntary obedience?
 The answer may have a lot to do with the tone of your voice (literally and figuratively). In this podcast I answer emails about an particular
