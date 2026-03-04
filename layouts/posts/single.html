@@ -29,6 +29,52 @@
       <a href="mailto:?subject={{ .Title | urlize }}&body={{ .Permalink }}" style="padding:0.4rem 0.9rem; background:#fff; color:#3B4D1E; border:1px solid #3B4D1E; border-radius:3px; cursor:pointer; font-size:0.8rem; text-decoration:none;">Email</a>
       <span id="post-copy-confirm" style="display:none; margin-left:0.75rem; color:#3B4D1E; font-size:0.8rem; font-weight:600;">✓ Copied!</span>
     </div>
+
+    <!-- Category + prev/next in category -->
+    {{ if .Params.categories }}
+      {{ $cat := index .Params.categories 0 }}
+      {{ $catSlug := $cat | urlize }}
+      {{ $catLabel := $cat | strings.Replace "-" " " | title }}
+      {{ $catPage := $.Site.GetPage (printf "categories/%s" $catSlug) }}
+      {{ if $catPage }}
+        {{ $catPages := $catPage.Pages.ByDate }}
+        {{ $current := . }}
+        {{ $prevPage := "" }}
+        {{ $nextPage := "" }}
+        {{ range $i, $p := $catPages }}
+          {{ if eq $p.RelPermalink $current.RelPermalink }}
+            {{ if gt $i 0 }}
+              {{ $prevPage = index $catPages (sub $i 1) }}
+            {{ end }}
+            {{ if lt (add $i 1) (len $catPages) }}
+              {{ $nextPage = index $catPages (add $i 1) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        <div style="border-top:1px solid #e0e0e0; padding-top:1.5rem; margin-top:1rem; margin-bottom:3rem;">
+          <div style="margin-bottom:1.25rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.1em; color:#888;">
+            Filed under: <a href="{{ $catPage.RelPermalink }}" style="color:#3B4D1E; font-weight:600; text-decoration:none;">{{ $catLabel }}</a>
+          </div>
+          <nav style="display:flex; justify-content:space-between; align-items:flex-start; font-size:0.875rem;">
+            {{ if $prevPage }}
+            <a href="{{ $prevPage.RelPermalink }}" style="color:#3B4D1E; text-decoration:none; max-width:45%;">
+              <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:4px;">← Earlier</span>
+              {{ $prevPage.Title }}
+            </a>
+            {{ else }}<span></span>{{ end }}
+
+            {{ if $nextPage }}
+            <a href="{{ $nextPage.RelPermalink }}" style="color:#3B4D1E; text-decoration:none; text-align:right; max-width:45%;">
+              <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:4px;">Later →</span>
+              {{ $nextPage.Title }}
+            </a>
+            {{ else }}<span></span>{{ end }}
+          </nav>
+        </div>
+      {{ end }}
+    {{ end }}
+
   </article>
 
   <script>
