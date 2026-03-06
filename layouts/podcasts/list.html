@@ -1,59 +1,289 @@
 {{ define "main" }}
-  <div class="pa3 pa4-ns center mw8">
+  <style>
+    #podcast-list { display: flex; flex-direction: column; }
+    .year-rows    { display: flex; flex-direction: column; }
 
-    <div id="listen-progress" style="margin-bottom:1.5rem; font-size:0.8rem; color:#888; display:none;">
-      <span id="listen-count">0</span> of {{ len .Pages }} episodes listened
-      <span style="display:inline-block; margin-left:0.75rem; height:6px; width:120px; background:#e0e0e0; border-radius:3px; vertical-align:middle;">
-        <span id="listen-bar" style="display:block; height:6px; background:#3B4D1E; border-radius:3px; width:0%;"></span>
-      </span>
+    @media (min-width: 600px) {
+      #podcast-list {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 0;
+        row-gap: 0.85rem;
+        align-items: start;
+        background-image: linear-gradient(to bottom, #d8d8d8, #d8d8d8);
+        background-size: 1px 100%;
+        background-position: center top;
+        background-repeat: no-repeat;
+      }
+      .year-group { margin-bottom: 0; }
+      .year-group:nth-child(odd)  { margin-right: 0.85rem; }
+      .year-group:nth-child(even) { margin-left:  0.85rem; }
+    }
+
+    .pc-search {
+      flex: 1; min-width: 160px;
+      padding: 0.4rem 0.85rem;
+      border: 1px solid #ddd; border-radius: 20px;
+      font-size: 0.875rem;
+      transition: border-color 0.15s, box-shadow 0.15s;
+      background: #fff;
+    }
+    .pc-search:focus {
+      border-color: #3B4D1E; outline: none;
+      box-shadow: 0 0 0 2px rgba(59,77,30,0.15);
+    }
+    .pc-sort-btn {
+      padding: 0.4rem 0.9rem;
+      background: #fff; border: 1px solid #ddd; border-radius: 20px;
+      cursor: pointer; font-size: 0.8rem; color: #666;
+      white-space: nowrap; transition: background 0.12s, border-color 0.12s, color 0.12s;
+    }
+    .pc-sort-btn:hover { background: #f5f8f0; border-color: #a8b89a; color: #3B4D1E; }
+
+    .year-group {
+      border: 1px solid #d8d8d8;
+      border-radius: 5px;
+      overflow: hidden;
+      margin-bottom: 0.85rem;
+      background: #fff;
+    }
+    .year-header {
+      display: flex; align-items: center; gap: 0.55rem;
+      padding: 0.45rem 0.75rem;
+      background: #f2f6eb;
+      border-bottom: 1px solid #c8d8a8;
+      cursor: pointer; user-select: none;
+    }
+    .year-header-title { font-size: 0.9rem; color: #3B4D1E; font-weight: 700; transition: color 0.15s; }
+    .year-header:hover { background: #eaf1df; }
+    .year-header:hover .year-header-title { color: #2a3a10; }
+    .year-ep-badge {
+      font-size: 0.65rem; color: #5a7a40; font-weight: 600;
+    }
+    .year-toggle { margin-left: auto; font-size: 0.7rem; color: #aaa; }
+
+    .ep-row {
+      display: flex; align-items: center; gap: 0.55rem;
+      padding: 0.45rem 0.75rem;
+      border-bottom: 1px solid #ebebeb;
+      border-left: 3px solid transparent;
+      transition: background 0.1s, border-left-color 0.1s;
+    }
+    .year-rows .ep-row:last-child { border-bottom: none; }
+    .ep-row:hover { background: #f6f9f1; border-left-color: #5a9a35; }
+
+    .ep-topic {
+      font-size: 0.88rem; color: #222;
+      text-decoration: none;
+      transition: color 0.1s;
+    }
+    .ep-topic:hover { color: #3B4D1E; }
+    .ep-topic-muted { color: #999; font-style: italic; }
+    .ep-date {
+      font-size: 0.65rem; color: #bbb;
+      margin-left: 0.4rem;
+    }
+    .ep-row:hover .ep-date { color: #999; }
+  </style>
+
+  <div class="pa3 pa4-ns center" style="max-width:88rem;">
+
+    {{/* Featured / Start Here */}}
+    {{ $featured := where .Pages ".Params.featured" true }}
+    {{ with index $featured 0 }}
+      {{ $ft := .Title }}
+      {{ $ftSub := $ft | replaceRE `(?i)^(scoutmaster\s+)?(encore\s+)?podcast\s+\d+\s*[-–—]\s*` "" }}
+      {{ $ftNum := $ft | replaceRE `(?i)^(scoutmaster\s+)?(encore\s+)?podcast\s+(\d+).*$` "$3" }}
+      <a href="{{ .RelPermalink }}" style="display:block; text-decoration:none; background:#f0f4e8; border:1px solid #c8d8a8; border-left:3px solid #3B4D1E; border-radius:0 4px 4px 0; padding:0.8rem 1.1rem; margin-bottom:1.4rem; color:inherit;">
+        <div style="font-size:0.58rem; font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:#3B4D1E; margin-bottom:0.3rem;">★ Start Here · Ep {{ $ftNum }}</div>
+        <strong style="font-size:0.95rem; color:#222;">{{ $ftSub }}</strong>
+      </a>
+    {{ end }}
+
+    {{/* Controls */}}
+    <div style="display:flex; align-items:center; gap:0.55rem; margin-bottom:0.5rem; flex-wrap:wrap;">
+      <input type="search" id="ep-search" class="pc-search" placeholder="Search episodes…">
+      <button id="sort-toggle" class="pc-sort-btn">Newest first ↕</button>
+      <span id="result-count" style="font-size:0.75rem; color:#bbb;"></span>
+    </div>
+    <hr style="border:none; border-top:1px solid #e0e0e0; margin:0.6rem 0 0.7rem;">
+    <p style="font-size:0.7rem; color:#bbb; margin:0 0 1.1rem; line-height:1.6;">
+      Click the <span style="display:inline-block; width:9px; height:9px; border-radius:50%; background:#4a8c2a; vertical-align:middle;"></span> dot to mark played — turns <span style="display:inline-block; width:9px; height:9px; border-radius:50%; background:#c0392b; vertical-align:middle;"></span> red. Saved in this browser.
+    </p>
+
+    {{/* Year groups */}}
+    <div id="podcast-list">
+      {{ range (.Pages.GroupByDate "2006") }}
+        <div class="year-group" data-year="{{ .Key }}">
+
+          <div class="year-header">
+            <strong class="year-header-title">{{ .Key }}</strong>
+            <span class="year-ep-badge">· {{ len .Pages }} episodes</span>
+            <span class="year-toggle">▾</span>
+          </div>
+
+          <div class="year-rows">
+            {{ range sort .Pages ".Params.episode" "desc" }}
+              {{ $title    := .Title }}
+              {{ $subtitle := .Params.subtitle | default (.Title | replaceRE `(?i)^(scoutmaster\s+)?(encore\s+)?podcast\s+\d+\s*[-–—]\s*` "") }}
+              {{ $hasSub   := and (ne $subtitle "") (ne $subtitle $title) }}
+
+              <div class="ep-row"
+                   data-path="{{ .RelPermalink }}"
+                   data-search="{{ $title | lower }} {{ $subtitle | lower }} {{ .Params.episode }}">
+
+                {{ if $hasSub }}
+                  <span style="font-size:0.88rem; color:#333; font-weight:700; width:32px; text-align:right; flex-shrink:0;">{{ .Params.episode }}</span>
+                {{ else }}
+                  <a href="{{ .RelPermalink }}" style="font-size:0.88rem; color:#3B4D1E; font-weight:700; width:32px; text-align:right; flex-shrink:0; text-decoration:none;">{{ .Params.episode }}</a>
+                {{ end }}
+
+                {{ if .Params.missing }}
+                  <span style="display:inline-block; width:11px; height:11px; border-radius:50%; background:#ccc; flex-shrink:0;"></span>
+                {{ else }}
+                  <span class="listened-dot" data-path="{{ .RelPermalink }}" title="Mark as listened"
+                        style="display:inline-block; width:11px; height:11px; border-radius:50%; background:#4a8c2a; cursor:pointer; flex-shrink:0; transition:background 0.15s;"></span>
+                {{ end }}
+
+                <div style="flex:1; min-width:0;">
+                  {{ if $hasSub }}<a href="{{ .RelPermalink }}" class="ep-topic">{{ $subtitle }}</a>{{ else }}<a href="{{ .RelPermalink }}" class="ep-topic" style="font-style:italic; color:#888;">No title recorded</a>{{ end }}{{ if .Params.missing }}<span style="font-size:0.6rem; color:#bbb; font-style:italic; margin-left:{{ if $hasSub }}0.4rem{{ else }}0{{ end }};">missing</span>{{ else }}<span class="ep-date">{{ .Date.Format "Jan '06" }}</span>{{ end }}
+                  <a class="cms-edit-link" href="/admin/#/collections/podcasts/entries/{{ .File.ContentBaseName }}"
+                     style="display:none; margin-left:0.5rem; font-size:0.7rem; color:#bbb; text-decoration:none;" title="Edit in CMS">✎</a>
+                </div>
+
+              </div>
+            {{ end }}
+          </div>
+
+        </div>
+      {{ end }}
     </div>
 
-    <table style="width:100%; border-collapse:collapse;">
-      {{ range sort .Pages ".Params.episode" "asc" }}
-        {{ $ep := .Params.episode }}
-        {{ $title := .Title }}
+    <div id="no-results" style="display:none; padding:2.5rem; text-align:center; color:#aaa; font-size:0.9rem;">
+      No episodes match your search.
+    </div>
 
-        {{/* Strip "Scoutmaster Podcast NNN" or "Podcast NNN" prefix to get subtitle */}}
-        {{ $subtitle := $title | replaceRE `(?i)^(scoutmaster\s+)?podcast\s+\d+\s*[-–—]?\s*` "" }}
-        {{ if eq $subtitle "" }}{{ $subtitle = $title }}{{ end }}
-
-        <tr class="ep-row" data-path="{{ .RelPermalink }}" style="border-bottom: 1px solid #e0e0e0; transition: opacity 0.2s;">
-          <td style="padding: 10px 8px; vertical-align:middle; width:70px; text-align:right; white-space:nowrap;">
-            <span style="font-size:0.65rem; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:#888;">
-              {{ if $ep }}EP {{ $ep }}{{ end }}
-            </span>
-            <span class="ep-check" style="display:none; color:#3B4D1E; font-size:0.75rem; margin-left:3px;">✓</span>
-          </td>
-          <td style="padding: 10px 12px; vertical-align:top;">
-            <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">
-              <strong style="font-size:1rem; color:#222;">{{ $subtitle }}</strong><br>
-              <span style="font-size:0.75rem; color:#999;">{{ .Date.Format "January 2, 2006" }}</span>
-            </a>
-          </td>
-        </tr>
-      {{ end }}
-    </table>
   </div>
 
   <script>
   (function() {
-    var rows = document.querySelectorAll(".ep-row");
-    var total = rows.length;
-    var count = 0;
+    var list      = document.getElementById("podcast-list");
+    var searchEl  = document.getElementById("ep-search");
+    var sortBtn   = document.getElementById("sort-toggle");
+    var noResults = document.getElementById("no-results");
+    var countEl   = document.getElementById("result-count");
 
-    rows.forEach(function(row) {
-      var key = "smcg_played_" + row.dataset.path;
-      if (localStorage.getItem(key)) {
-        row.querySelector(".ep-check").style.display = "inline";
-        row.style.opacity = "0.5";
-        count++;
-      }
+    var newestFirst  = true;
+    var query        = "";
+    var collapsedYrs = new Set();
+
+    // --- Listened dots ---
+    document.querySelectorAll(".listened-dot").forEach(function(dot) {
+      var key = "smcg_played_" + dot.dataset.path;
+      var row = dot.closest(".ep-row");
+      if (localStorage.getItem(key)) { markListened(dot, row, true); }
+      dot.addEventListener("click", function(e) {
+        e.preventDefault(); e.stopPropagation();
+        var on = !!localStorage.getItem(key);
+        if (on) { localStorage.removeItem(key); markListened(dot, row, false); }
+        else    { localStorage.setItem(key, "1"); markListened(dot, row, true); }
+      });
+    });
+    function markListened(dot, row, on) {
+      dot.style.background = on ? "#c0392b" : "#4a8c2a";
+      row.style.opacity    = on ? "0.4"     : "1";
+    }
+
+    // --- Year collapse ---
+    document.querySelectorAll(".year-header").forEach(function(hdr) {
+      hdr.addEventListener("click", function() {
+        var grp  = hdr.closest(".year-group");
+        var yr   = grp.dataset.year;
+        var rows = grp.querySelector(".year-rows");
+        var tog  = hdr.querySelector(".year-toggle");
+        if (collapsedYrs.has(yr)) {
+          collapsedYrs.delete(yr);
+          rows.style.display = "flex";
+          rows.style.flexDirection = newestFirst ? "column" : "column-reverse";
+          tog.textContent = "▾";
+        } else {
+          collapsedYrs.add(yr);
+          rows.style.display = "none";
+          tog.textContent = "▸";
+        }
+      });
     });
 
-    if (count > 0) {
-      document.getElementById("listen-count").textContent = count;
-      document.getElementById("listen-bar").style.width = Math.round(count / total * 100) + "%";
-      document.getElementById("listen-progress").style.display = "block";
+    // --- Sort ---
+    sortBtn.addEventListener("click", function() {
+      newestFirst = !newestFirst;
+      sortBtn.textContent = newestFirst ? "Newest first ↕" : "Oldest first ↕";
+      applySort();
+    });
+    function applySort() {
+      var groups = list.querySelectorAll(".year-group");
+      var total  = groups.length;
+      if (window.getComputedStyle(list).display === "grid") {
+        groups.forEach(function(grp, i) {
+          grp.style.order = newestFirst ? i : (total - 1 - i);
+        });
+      } else {
+        list.style.flexDirection = newestFirst ? "column" : "column-reverse";
+      }
+      document.querySelectorAll(".year-rows").forEach(function(yr) {
+        yr.style.flexDirection = newestFirst ? "column" : "column-reverse";
+      });
+    }
+
+    // --- Search ---
+    searchEl.addEventListener("input", function() {
+      query = this.value.toLowerCase().trim();
+      applySearch();
+    });
+    function applySearch() {
+      var total = 0;
+      document.querySelectorAll(".year-group").forEach(function(grp) {
+        var yearRows = grp.querySelector(".year-rows");
+        var tog      = grp.querySelector(".year-toggle");
+        var yr       = grp.dataset.year;
+        var visible  = 0;
+        grp.querySelectorAll(".ep-row").forEach(function(row) {
+          var match = !query || row.dataset.search.indexOf(query) > -1;
+          row.style.display = match ? "flex" : "none";
+          if (match) visible++;
+        });
+        if (visible === 0) {
+          grp.style.display = "none";
+        } else {
+          grp.style.display = "block";
+          if (query) {
+            yearRows.style.display = "flex";
+            yearRows.style.flexDirection = newestFirst ? "column" : "column-reverse";
+            tog.textContent = "▾";
+          } else {
+            if (collapsedYrs.has(yr)) {
+              yearRows.style.display = "none";
+              tog.textContent = "▸";
+            }
+          }
+          total += visible;
+        }
+      });
+      noResults.style.display = (query && total === 0) ? "block" : "none";
+      countEl.textContent = query ? (total + " result" + (total !== 1 ? "s" : "")) : "";
+    }
+
+    // --- CMS edit links ---
+    if (window.netlifyIdentity) {
+      function showCmsLinks() {
+        if (window.netlifyIdentity.currentUser()) {
+          document.querySelectorAll(".cms-edit-link").forEach(function(el) {
+            el.style.display = "inline";
+          });
+        }
+      }
+      showCmsLinks();
+      window.netlifyIdentity.on("login", showCmsLinks);
     }
   })();
   </script>

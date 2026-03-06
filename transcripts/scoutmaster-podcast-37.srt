@@ -1,0 +1,888 @@
+1
+00:00:00,040 --> 00:00:02,120
+And now for you, Scoutmaster.
+
+2
+00:00:08,640 --> 00:00:11,900
+I had a really interesting discussion with a Girl Scout leader the other day.
+
+3
+00:00:12,140 --> 00:00:12,340
+Yeah.
+
+4
+00:00:13,260 --> 00:00:19,620
+She said that the girls were being taught to find their bearings by reading the moss on the bark on trees
+
+5
+00:00:19,620 --> 00:00:22,380
+and following the flight of migratory birds.
+
+6
+00:00:23,060 --> 00:00:27,800
+She said they get so good at this, they can locate street addresses by reading the stars.
+
+7
+00:00:27,800 --> 00:00:36,280
+They can read maps in a pinch and they don't hesitate to walk into a gas station or a convenience store to ask for directions.
+
+8
+00:00:37,580 --> 00:00:43,640
+And I said, well, that's really great, but I don't understand why you're emphasizing all this so much.
+
+9
+00:00:44,380 --> 00:00:50,700
+And she said, this is one of our priorities is teaching girls to find their way in case they should ever find themselves with a Boy Scout.
+
+10
+00:00:54,019 --> 00:00:55,760
+Hey, this is podcast number 37.
+
+11
+00:00:57,800 --> 00:01:00,099
+Hey!
+
+12
+00:01:24,580 --> 00:01:26,479
+Welcome back to the Scoutmaster Podcast.
+
+13
+00:01:26,480 --> 00:01:27,680
+This is Clark Green.
+
+14
+00:01:29,040 --> 00:01:30,740
+This is podcast number 37.
+
+15
+00:01:31,400 --> 00:01:38,300
+And it's not going to be quite as long as the other podcasts because I have got lots of irons in the fire this week.
+
+16
+00:01:38,660 --> 00:01:46,640
+But I had a four-day weekend with my wife down in West Virginia attending a wedding for one of my scouting friends
+
+17
+00:01:46,640 --> 00:01:50,900
+who I worked with back at our scout camp about 20 years ago.
+
+18
+00:01:50,900 --> 00:01:54,760
+So we were very honored to go down and be part of that event.
+
+19
+00:01:55,240 --> 00:01:59,140
+So that's been, that kind of cut into podcasting time.
+
+20
+00:01:59,280 --> 00:02:07,880
+The other things I'm working on, the other irons in the fire, I'm preparing for a scout college or scout university or whatever they call it.
+
+21
+00:02:07,880 --> 00:02:13,260
+It's kind of a unified adult training event that our council is presenting in a week or two.
+
+22
+00:02:13,340 --> 00:02:15,060
+And I've got a couple of courses to prepare.
+
+23
+00:02:15,900 --> 00:02:20,780
+I'm also working on some interviews that will be featured in future podcasts.
+
+24
+00:02:20,780 --> 00:02:30,440
+Two of those interviews are going to be with some scouters who have been fans of the blog and the podcast and who have been frequent commenters.
+
+25
+00:02:30,660 --> 00:02:32,900
+I thought it was about time to ring them up and talk to them.
+
+26
+00:02:33,500 --> 00:02:36,800
+They're from opposite ends of the country.
+
+27
+00:02:36,800 --> 00:02:46,280
+And I'm very curious as to what they're doing and how things are going and how they work with their leadership position in scouting.
+
+28
+00:02:46,620 --> 00:02:51,380
+I'll also be interviewing the authors of a new book called Working the Patrol Method.
+
+29
+00:02:51,660 --> 00:02:54,000
+I'm going to recommend that you get the book.
+
+30
+00:02:54,620 --> 00:03:02,980
+I will be talking more about it when I interview the authors and I want to have a more formal review on the blog at one point.
+
+31
+00:03:02,980 --> 00:03:13,440
+But it is well worth your time and I will have a link on the blog at scoutmaster.typepad.com.
+
+32
+00:03:13,799 --> 00:03:22,980
+T-Y-P-E-P-A-D, scoutmaster.typepad.com, where you can find the book and purchase it if you so desire.
+
+33
+00:03:23,459 --> 00:03:31,399
+And I also wanted to make sure to catch up with some emails that I have received in the past couple of weeks.
+
+34
+00:03:31,400 --> 00:03:33,460
+Joe P. wrote,
+
+35
+00:03:33,660 --> 00:03:36,760
+Great podcast as always. Keep up the hard work. It really helps.
+
+36
+00:03:36,840 --> 00:03:41,060
+Well, it really helps when people write and send in a vote of confidence, Joe.
+
+37
+00:03:41,260 --> 00:03:43,140
+So I certainly do appreciate it.
+
+38
+00:03:44,420 --> 00:03:45,580
+Will H. wrote,
+
+39
+00:03:46,260 --> 00:03:49,300
+I enjoyed the podcast as always and the jokes as well.
+
+40
+00:03:50,360 --> 00:03:53,340
+Well, Will, that makes exactly two of us, I think.
+
+41
+00:03:53,880 --> 00:03:56,880
+My family doesn't enjoy the jokes as much as I do.
+
+42
+00:03:57,300 --> 00:03:58,440
+Perhaps it's my delivery.
+
+43
+00:03:58,440 --> 00:04:02,660
+Oh, yeah. I get the same effect around here.
+
+44
+00:04:02,760 --> 00:04:05,040
+My family doesn't enjoy the jokes very much either.
+
+45
+00:04:08,220 --> 00:04:09,660
+I don't think it's the delivery.
+
+46
+00:04:10,280 --> 00:04:11,680
+Don't worry about it, Will.
+
+47
+00:04:12,280 --> 00:04:13,520
+It's probably the joke.
+
+48
+00:04:14,079 --> 00:04:17,700
+So, I'm in my second year as an assistant scoutmaster.
+
+49
+00:04:17,820 --> 00:04:22,900
+Our troop leadership is heading in the right direction now that we have who I think is a great senior patrol leader.
+
+50
+00:04:22,900 --> 00:04:29,060
+The best part is the boys think he is as well and the program comes alive as you describe in your podcast.
+
+51
+00:04:29,159 --> 00:04:30,640
+Very pleased to see it for myself.
+
+52
+00:04:30,820 --> 00:04:33,000
+Well, Joe, it really works, doesn't it?
+
+53
+00:04:33,479 --> 00:04:36,299
+I mean, this scouting thing, it really happens.
+
+54
+00:04:36,859 --> 00:04:44,200
+Thanks, Clark, for opening my eyes to the fact that we really need to constantly see things from the boys' perspective
+
+55
+00:04:44,200 --> 00:04:47,420
+and that chaos is all a part of it.
+
+56
+00:04:47,800 --> 00:04:49,420
+Yeah, it looks like chaos to us.
+
+57
+00:04:50,039 --> 00:04:50,940
+That's for sure.
+
+58
+00:04:51,360 --> 00:04:52,760
+And that was from Will H.
+
+59
+00:04:52,920 --> 00:04:55,420
+And thanks for getting in touch, Will.
+
+60
+00:04:55,880 --> 00:04:57,080
+Mike wrote that,
+
+61
+00:04:57,080 --> 00:05:00,840
+I continue to enjoy your podcast and I like the direction you're going.
+
+62
+00:05:01,539 --> 00:05:04,640
+The series on developing a scout-led troop is encouraging.
+
+63
+00:05:05,240 --> 00:05:10,260
+I find it true that the first decisive point is changing the adults' paradigm.
+
+64
+00:05:10,940 --> 00:05:12,700
+We adults don't like change.
+
+65
+00:05:12,820 --> 00:05:13,740
+We like tradition.
+
+66
+00:05:14,640 --> 00:05:20,000
+And when you talk about a gradual approach and encouraging any sign of initiative in the boys,
+
+67
+00:05:20,099 --> 00:05:24,599
+I'm greatly heartened because that is the tack that I have taken.
+
+68
+00:05:24,940 --> 00:05:26,799
+We can't both be wrong, can we?
+
+69
+00:05:27,280 --> 00:05:28,080
+Oh, yeah.
+
+70
+00:05:28,539 --> 00:05:30,060
+I sure hope not, Mike.
+
+71
+00:05:30,219 --> 00:05:33,859
+But, you know, we'll give it a shot, right?
+
+72
+00:05:34,080 --> 00:05:34,780
+See if it works.
+
+73
+00:05:36,800 --> 00:05:38,539
+Anyway, I'm going on a short deployment,
+
+74
+00:05:38,979 --> 00:05:43,200
+so I've marked all your old podcasts as unplayed in iTunes so I can listen to them again.
+
+75
+00:05:43,799 --> 00:05:44,719
+Keep up the good work.
+
+76
+00:05:44,799 --> 00:05:46,580
+You're making a difference in at least one troop.
+
+77
+00:05:47,280 --> 00:05:50,380
+And is there any way I can get the older podcasts?
+
+78
+00:05:50,740 --> 00:05:52,140
+Well, yeah, Mike.
+
+79
+00:05:52,140 --> 00:05:53,940
+First of all, thanks for the kind words.
+
+80
+00:05:53,940 --> 00:06:02,620
+And second of all, all the podcasts are available at the blog, scoutmaster.typepad.com.
+
+81
+00:06:02,680 --> 00:06:03,360
+Did I mention that?
+
+82
+00:06:03,560 --> 00:06:04,200
+I think I did.
+
+83
+00:06:04,540 --> 00:06:12,200
+You've given me the impetus to go ahead and add to my to-do list a way to find the older podcasts a lot easier.
+
+84
+00:06:12,200 --> 00:06:15,400
+Right now you have to get on the blog and kind of muddle around and search for them.
+
+85
+00:06:15,860 --> 00:06:21,300
+But I will, in the near future, make them much easier to find.
+
+86
+00:06:21,539 --> 00:06:22,219
+How about that?
+
+87
+00:06:22,479 --> 00:06:27,260
+The other thing I've been working on is a survey of how we apply the patrol method.
+
+88
+00:06:27,260 --> 00:06:38,560
+And if you'll go to the blog, you'll see a link to the survey in the upper right-hand corner of the blog.
+
+89
+00:06:38,880 --> 00:06:45,920
+And if you have a few moments, and you can go ahead and I think it's about 20 questions in that survey.
+
+90
+00:06:45,920 --> 00:06:52,780
+It's helping me put together some things both for the podcast and for the course, the adult training course I mentioned earlier.
+
+91
+00:06:53,380 --> 00:06:55,900
+And I've had about 50 respondents in the past week.
+
+92
+00:06:56,420 --> 00:07:01,200
+And I sure would appreciate your response to the questions and your comments.
+
+93
+00:07:01,200 --> 00:07:10,820
+I spent some fun time with Jerry, Scoutmaster Jerry, at the SMM podcast on PTC Media.
+
+94
+00:07:11,520 --> 00:07:13,140
+And I'll have a link to that on the blog.
+
+95
+00:07:13,340 --> 00:07:18,080
+Jerry got a bunch of us together on Skype and we had a little virtual roundtable there.
+
+96
+00:07:18,700 --> 00:07:22,740
+And he led a discussion, a far-ranging discussion of a lot of scouting stuff.
+
+97
+00:07:23,280 --> 00:07:24,480
+And it was great fun.
+
+98
+00:07:24,659 --> 00:07:25,940
+I look forward to doing it again.
+
+99
+00:07:25,940 --> 00:07:34,460
+Next in Scoutmaster Ship in 7 Minutes or Less, we're going to talk about the 20th century realities of the patrol method.
+
+100
+00:07:35,020 --> 00:07:39,880
+And how do we get patrols operating independent from the troop given the conditions that we're given right now.
+
+101
+00:07:40,500 --> 00:07:43,420
+So let's get started with that, shall we?
+
+102
+00:07:43,500 --> 00:07:47,800
+Scoutmaster Ship in 7 Minutes or Less.
+
+103
+00:07:47,800 --> 00:08:04,640
+Well, we've spent some time over the past several podcasts talking about applying the patrol system or method, kind of interchangeable terms, and strengthening your youth leadership.
+
+104
+00:08:06,320 --> 00:08:11,380
+Well, there are some important realities that we need to consider in doing these things.
+
+105
+00:08:11,380 --> 00:08:21,060
+And I'm especially concentrating here on the independent operation of patrols away from the organization of a troop.
+
+106
+00:08:21,200 --> 00:08:27,200
+One of the ways of understanding what I'm talking about here is to think a little bit about the history of scouting and the way scouting developed.
+
+107
+00:08:27,840 --> 00:08:35,159
+The principles of the patrol system, when first introduced, enabled scouts to operate in small groups and use their own initiative.
+
+108
+00:08:35,159 --> 00:08:42,740
+I think what really appealed to boys and accounted for the phenomenal growth of scouting in its early years was the appeal of real adventure,
+
+109
+00:08:43,459 --> 00:08:55,420
+offered by a program coupled with the challenge it offered to their patrol to plan its own activities and to be responsible for itself for discipline without adult oversight and interference.
+
+110
+00:08:55,420 --> 00:09:09,120
+The patrol system recognizes the natural desire in boys to form into gangs or groups or clubs or whatever label you want to put on it in their neighborhoods and schools.
+
+111
+00:09:10,160 --> 00:09:16,360
+And these kind of naturally forming gangs became the first patrols and started scouting.
+
+112
+00:09:17,459 --> 00:09:21,900
+When the first scout patrols were formed, there were no such thing as a scoutmaster.
+
+113
+00:09:22,959 --> 00:09:24,240
+Think about that now.
+
+114
+00:09:24,240 --> 00:09:27,880
+Boys got Baden-Powell's Scouting for Boys book.
+
+115
+00:09:28,200 --> 00:09:29,140
+They read about it.
+
+116
+00:09:29,380 --> 00:09:30,900
+They got excited about the concept.
+
+117
+00:09:31,240 --> 00:09:32,280
+They got their buddies together.
+
+118
+00:09:32,520 --> 00:09:33,560
+And they started scouting.
+
+119
+00:09:33,760 --> 00:09:41,880
+They learned, after a while, that they would need some help and advice from someone older in order to carry out some of the more adventurous activities.
+
+120
+00:09:42,840 --> 00:09:47,880
+And to be able to function, to do things, they were going to need a little bit of help.
+
+121
+00:09:48,400 --> 00:09:53,380
+And this is the way that the role of scoutmaster came into existence.
+
+122
+00:09:53,380 --> 00:09:58,080
+Just to be an aide, an assistant, an advisor to a patrol of scouts.
+
+123
+00:09:58,080 --> 00:10:03,920
+In the first few decades of scouting, patrols were more or less arranged around neighborhoods.
+
+124
+00:10:05,060 --> 00:10:09,420
+Now, if you think back, you know, in America, we're looking at 1910.
+
+125
+00:10:09,800 --> 00:10:11,240
+Well, things have changed a little bit.
+
+126
+00:10:11,940 --> 00:10:16,300
+In that era, a boy's friends and playmates were usually within walking distance of his home.
+
+127
+00:10:16,300 --> 00:10:19,719
+Now, a boy's circle of friends is likely to be much farther away.
+
+128
+00:10:20,199 --> 00:10:21,939
+Now, it's really quite a bit different.
+
+129
+00:10:22,319 --> 00:10:28,620
+Because things are different, this means that the members of a patrol can live a fair distance from each other.
+
+130
+00:10:28,699 --> 00:10:32,699
+And the only way that they're going to be able to get together is by having somebody drive them.
+
+131
+00:10:33,500 --> 00:10:36,699
+That means that parents and adults are going to get involved with that.
+
+132
+00:10:36,700 --> 00:10:44,520
+And this is going to have a pretty significant influence on when and where patrols can meet and the involvement of adults in those meetings.
+
+133
+00:10:44,760 --> 00:10:52,280
+I think we can also all accept that scout age boys are a lot more closely scheduled with formal activities than they once were.
+
+134
+00:10:52,820 --> 00:10:56,400
+I mean, even in my lifetime, that's changed pretty exponentially.
+
+135
+00:10:56,400 --> 00:11:06,040
+Their discretionary time is limited by the demands of homework, too, which seems to have grown like crazy since I was in middle school and high school.
+
+136
+00:11:06,660 --> 00:11:09,439
+I mean, in middle school and high school, homework was fairly unknown.
+
+137
+00:11:10,600 --> 00:11:12,660
+To me, at least.
+
+138
+00:11:14,480 --> 00:11:17,760
+Maybe that's why I didn't get very good grades.
+
+139
+00:11:17,880 --> 00:11:18,260
+Who knows?
+
+140
+00:11:18,260 --> 00:11:31,120
+These challenges of place and time in our era have caused patrol meetings and outings independent from the troop and from adult oversight to be really very rare.
+
+141
+00:11:32,000 --> 00:11:33,140
+And this is being borne out.
+
+142
+00:11:33,220 --> 00:11:38,700
+I mentioned this survey that I'm working with, this online survey that I'm doing about the patrol system.
+
+143
+00:11:39,100 --> 00:11:45,500
+And one of the questions is, you know, how often do your patrols meet independent of the troop?
+
+144
+00:11:45,500 --> 00:11:51,820
+By a good margin, the most common answer is they never operate independently from the troop.
+
+145
+00:11:52,800 --> 00:12:00,560
+We know that scouts are going to benefit from operating independently from the troop, just with their patrol.
+
+146
+00:12:01,100 --> 00:12:06,060
+I think we believe in that sort of thing, but we're stymied by the logistics of carrying it out.
+
+147
+00:12:06,060 --> 00:12:16,800
+Now, one promising strategy in addressing these logistical problems is replacing existing troop activities with those that are based on patrols functioning independently.
+
+148
+00:12:17,420 --> 00:12:19,739
+And there's two different ways that this can happen.
+
+149
+00:12:19,880 --> 00:12:29,520
+One is to take a couple of the troop meetings you already have scheduled every month and to change them around and make them exclusively patrol meeting nights.
+
+150
+00:12:29,520 --> 00:12:35,000
+No troop opening, no senior patrol leader running things or anything like that.
+
+151
+00:12:35,420 --> 00:12:37,400
+The scouts show up, they work with their patrol.
+
+152
+00:12:38,020 --> 00:12:42,439
+It's up to their patrol leader to go ahead and plan activities for them.
+
+153
+00:12:42,780 --> 00:12:47,780
+And it doesn't necessarily have to be meeting right there in the same place that every other patrol is meeting.
+
+154
+00:12:48,340 --> 00:12:56,420
+Maybe there's a bowling alley, maybe there's a park, a pizza parlor, something like that nearby where they can go ahead and get together as a patrol.
+
+155
+00:12:56,420 --> 00:13:04,020
+The other way of dealing with this is to take a couple of troop campouts every year and turn them into patrol campouts,
+
+156
+00:13:04,579 --> 00:13:09,819
+where patrols are going to be doing totally different activities from one another,
+
+157
+00:13:10,260 --> 00:13:18,740
+where they'll probably be sited in the same camping space or park or maybe at the scout camp or something like that.
+
+158
+00:13:18,860 --> 00:13:20,560
+But they'll have their own campsite.
+
+159
+00:13:21,020 --> 00:13:22,380
+They'll be off on their own.
+
+160
+00:13:22,699 --> 00:13:25,560
+They'll be doing their own activities that their patrol has planned for them.
+
+161
+00:13:25,560 --> 00:13:30,339
+The other piece is making sure that, you know, our standard camping weekend,
+
+162
+00:13:30,939 --> 00:13:37,900
+that there's a good big chunk of time dedicated for patrols to do things that they're interested in doing,
+
+163
+00:13:38,219 --> 00:13:44,819
+that their patrol leader is prepared for them and that they can go ahead and pursue without the rest of the troop looking on.
+
+164
+00:13:45,040 --> 00:13:50,000
+In thinking about this, I went back to some of Baden-Powell's writings,
+
+165
+00:13:50,000 --> 00:13:54,380
+and I wanted to find out what his thinking was along these lines.
+
+166
+00:13:54,380 --> 00:13:56,040
+And here's what I found.
+
+167
+00:13:56,040 --> 00:13:57,720
+He wrote,
+
+168
+00:13:57,720 --> 00:14:27,720
+
+
+169
+00:14:27,720 --> 00:14:48,280
+And that's what Baden-Powell wrote in the year of 1910.
+
+170
+00:14:48,280 --> 00:14:53,140
+He saw that patrols were essential to scouting.
+
+171
+00:14:53,600 --> 00:14:55,400
+You can't have scouting without them.
+
+172
+00:14:56,199 --> 00:15:00,560
+And he also said that patrols should be kept intact under all circumstances.
+
+173
+00:15:01,199 --> 00:15:07,060
+Well, there's still a lot of things to figure out in how to take those broad underlying concepts
+
+174
+00:15:07,060 --> 00:15:09,680
+and apply them to the conditions that we have today.
+
+175
+00:15:09,760 --> 00:15:11,219
+But I think we're equal to the task.
+
+176
+00:15:11,959 --> 00:15:16,020
+We started a year or so ago, and I know that I've mentioned this before,
+
+177
+00:15:16,119 --> 00:15:22,339
+but we started a year or so ago replacing one or two of our troop meetings every month with patrol meetings.
+
+178
+00:15:22,900 --> 00:15:29,060
+And the patrol leaders have the entire responsibility for planning those meetings and making them happen.
+
+179
+00:15:29,060 --> 00:15:36,160
+The other thing we've done is we've built into our normal camping schedule very independent patrol-type activities.
+
+180
+00:15:36,800 --> 00:15:42,119
+One that I thought was particularly successful is we got to our scout camp on a Friday night,
+
+181
+00:15:42,579 --> 00:15:45,420
+and we all camped together as a troop on that Friday night.
+
+182
+00:15:45,780 --> 00:15:50,199
+Saturday morning, the scouts all packed their stuff up, put it in their backpacks,
+
+183
+00:15:50,439 --> 00:15:54,800
+and they each headed to a different area of camp to set up their patrol site.
+
+184
+00:15:54,800 --> 00:16:00,599
+Now, we went and looked in on them once or twice during the day on Saturday,
+
+185
+00:16:01,000 --> 00:16:07,959
+and they stayed in their own patrol campsite at a good distance from all the other patrols overnight on Saturday night,
+
+186
+00:16:08,040 --> 00:16:11,699
+and then they hiked back to a pickup point on Sunday morning, and it went beautifully.
+
+187
+00:16:12,260 --> 00:16:16,560
+And the scouts really, really enjoyed it, and there were absolutely no problem.
+
+188
+00:16:16,839 --> 00:16:21,400
+That's just some ideas and some underlying concepts for you to put into action.
+
+189
+00:16:21,520 --> 00:16:23,579
+I'd love to hear how you're doing that.
+
+190
+00:16:23,580 --> 00:16:28,060
+I know that, at least according to some of the survey answers that I've seen,
+
+191
+00:16:28,480 --> 00:16:34,420
+that people are actively supporting independent patrol activities and outings and things,
+
+192
+00:16:34,480 --> 00:16:36,700
+and I'd love to hear how you're making that happen.
+
+193
+00:16:36,780 --> 00:16:41,640
+So do get in touch with me, and I'm going to tell you how to do that in just a moment.
+
+194
+00:16:41,640 --> 00:17:00,560
+Thank you for listening.
+
+195
+00:17:00,560 --> 00:17:07,260
+You can read the Scoutmaster blog at scoutmaster.pipepad.com
+
+196
+00:17:07,260 --> 00:17:15,599
+You can follow the Scoutmaster blog on Facebook,
+
+197
+00:17:16,000 --> 00:17:20,319
+and you can follow us at scoutmastercg on Twitter.
+
+198
+00:17:20,319 --> 00:17:29,760
+You can subscribe to the Scoutmaster podcast on iTunes,
+
+199
+00:17:30,000 --> 00:17:33,520
+and when you do, feel free to leave a comment or a review or a rating.
+
+200
+00:17:34,159 --> 00:17:36,540
+You can contact me by email,
+
+201
+00:17:36,540 --> 00:17:38,020
+Clark Green,
+
+202
+00:17:38,020 --> 00:17:45,060
+with your comments and questions at clarkgreen at gmail.com.
+
+203
+00:17:45,060 --> 00:17:53,300
+That's C-L-A-R-K-E-G-R-E-E-N at gmail.com.
+
+204
+00:18:05,540 --> 00:18:10,879
+The Scoutmaster blog and the Scoutmaster podcast are not official publications of the Boy Scouts of America,
+
+205
+00:18:10,880 --> 00:18:14,920
+nor are they endorsed or sponsored by the Boy Scouts of America.
+
+206
+00:18:15,120 --> 00:18:18,540
+No, it's just me talking into a microphone,
+
+207
+00:18:19,160 --> 00:18:22,640
+trying to lend a hand to Scout leaders and perhaps have a bit of fun along the way.
+
+208
+00:18:24,000 --> 00:18:29,140
+And before we leave you, let's hear from our founder, Sir Robert Baden-Powell.
+
+209
+00:18:29,780 --> 00:18:32,100
+What have you to tell everyone today, Sir Robert?
+
+210
+00:18:33,040 --> 00:18:35,480
+Good luck to you, and good camping.
+
+211
+00:18:37,720 --> 00:18:38,900
+Why, thank you, sir.
+
+212
+00:18:38,900 --> 00:18:40,820
+Until next time.
+
+213
+00:19:08,900 --> 00:19:10,900
+By the way, thank you, sir.
+
+214
+00:19:11,460 --> 00:19:12,220
+Thank you, sir выд Tesmer and Siperavan.
+
+215
+00:19:12,220 --> 00:19:14,020
+Well, as you asked, I tried to
+
+216
+00:19:14,020 --> 00:19:29,820
+Beat the
+
+217
+00:19:29,820 --> 00:19:29,900
+Thank you.
+
+218
+00:19:29,900 --> 00:19:31,900
+Salon
+
+219
+00:19:31,900 --> 00:19:34,500
+Horr Oooh
+
+220
+00:19:34,500 --> 00:19:54,500
+your being able to
+
+221
+00:19:54,600 --> 00:20:02,500
+trust okay
+
+222
+00:20:02,500 --> 00:20:04,500
+Oh, yeah.
+

@@ -1,0 +1,26 @@
+{{ define "header" }}
+  {{ partials.Include "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="mw7 center ph3">
+    <header class="mt4 mb4">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+        Transcript
+      </aside>
+      <h1 class="f2 athelas mt3 mb1">{{ .Params.episode_title }}</h1>
+      {{ with .Params.subtitle }}
+      <p class="f4 mid-gray mt0 mb2 lh-title" style="font-style:italic;">{{ . }}</p>
+      {{ end }}
+      <a href="{{ .Params.episode_url }}" class="smcg-tp-back">← Back to episode</a>
+    </header>
+
+    <div class="smcg-tp-body">
+      {{- .Content -}}
+    </div>
+
+    <div style="margin:2rem 0 3rem; padding-top:1.5rem; border-top:1px solid #e8e8e8;">
+      <a href="{{ .Params.episode_url }}" style="color:#3B4D1E; font-size:0.875rem; text-decoration:none;">← Back to episode</a>
+    </div>
+  </article>
+{{ end }}

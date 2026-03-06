@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "ScoutmasterCG Archive"
 theme = "ananke"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   favicon = "/favicon.svg"
 

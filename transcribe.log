@@ -1,0 +1,85 @@
+Loading Whisper 'turbo' model on mps...
+  mps failed, falling back to cpu
+Model loaded. Processing episodes 1–50.
+
+[EP001] audio not found on S3 — skipping
+[EP002] audio not found on S3 — skipping
+[EP003] audio not found on S3 — skipping
+[EP004] audio not found on S3 — skipping
+[EP005] audio not found on S3 — skipping
+[EP006] audio not found on S3 — skipping
+[EP007] audio not found on S3 — skipping
+[EP008] audio not found on S3 — skipping
+[EP009] audio not found on S3 — skipping
+[EP010] audio not found on S3 — skipping
+[EP011] audio not found on S3 — skipping
+[EP012] downloading... 30.0 MB
+[EP012] transcribing... 329 segments — done
+[EP013] audio not found on S3 — skipping
+[EP014] audio not found on S3 — skipping
+[EP015] audio not found on S3 — skipping
+[EP016] audio not found on S3 — skipping
+[EP017] audio not found on S3 — skipping
+[EP018] audio not found on S3 — skipping
+[EP019] audio not found on S3 — skipping
+[EP020] audio not found on S3 — skipping
+[EP021] downloading... 59.9 MB
+[EP021] transcribing... 451 segments — done
+[EP022] downloading... 62.9 MB
+[EP022] transcribing... 690 segments — done
+[EP023] downloading... 51.5 MB
+[EP023] transcribing... 385 segments — done
+[EP024] downloading... 74.4 MB
+[EP024] transcribing... 402 segments — done
+[EP025] downloading... 50.6 MB
+[EP025] transcribing... 625 segments — done
+[EP026] downloading... 53.0 MB
+[EP026] transcribing... 239 segments — done
+[EP027] downloading... 47.3 MB
+[EP027] transcribing... 250 segments — done
+[EP028] downloading... 56.3 MB
+[EP028] transcribing... 276 segments — done
+[EP029] downloading... 54.1 MB
+[EP029] transcribing... 446 segments — done
+[EP030] downloading... 58.2 MB
+[EP030] transcribing... 348 segments — done
+[EP031] downloading... 57.3 MB
+[EP031] transcribing... 318 segments — done
+[EP032] downloading... 64.4 MB
+[EP032] transcribing... 398 segments — done
+[EP033] downloading... 62.6 MB
+[EP033] transcribing... 643 segments — done
+[EP034] audio not found on S3 — skipping
+[EP035] audio not found on S3 — skipping
+[EP036] audio not found on S3 — skipping
+[EP037] downloading... 46.3 MB
+[EP037] transcribing... 222 segments — done
+[EP038] downloading... 75.5 MB
+[EP038] transcribing... 536 segments — done
+[EP039] downloading... 46.9 MB
+[EP039] transcribing... 216 segments — done
+[EP040] downloading... 129.1 MB
+[EP040] transcribing... 755 segments — done
+[EP041] downloading... 58.5 MB
+[EP041] transcribing... 327 segments — done
+[EP042] downloading... 51.6 MB
+[EP042] transcribing... 286 segments — done
+[EP043] downloading... 60.4 MB
+[EP043] transcribing... 338 segments — done
+[EP044] downloading... 50.4 MB
+[EP044] transcribing... 336 segments — done
+[EP045] downloading... 48.0 MB
+[EP045] transcribing... 295 segments — done
+[EP046] downloading... 42.3 MB
+[EP046] transcribing... 179 segments — done
+[EP047] downloading... 55.6 MB
+[EP047] transcribing... 965 segments — done
+[EP048] downloading... 62.7 MB
+[EP048] transcribing... 302 segments — done
+[EP049] downloading... 47.1 MB
+[EP049] transcribing... 353 segments — done
+[EP050] downloading... 81.6 MB
+[EP050] transcribing... 648 segments — done
+
+Done.  Transcribed: 28  Skipped: 22  Failed: 0
+SRT files written to: transcripts/

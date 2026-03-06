@@ -1,45 +1,100 @@
-<div class="audio-player mv3">
-  <audio id="player-{{ .Ordinal }}" controls preload="metadata" data-phase="intro" style="width:100%; max-width:600px;">
-    <source src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/intro.mp3" type="audio/mpeg">
-  </audio>
+{{- $src := .Get "src" -}}
+{{- $ep  := .Page.Params.episode | default "" -}}
+{{- $sub := .Page.Params.subtitle | default "" -}}
+{{- $n   := .Ordinal -}}
+
+<div class="smcg-card" id="smcg-card-{{ $n }}">
+
+  <div class="smcg-card-header">
+    <span class="smcg-card-phase" id="smcg-card-phase-{{ $n }}">INTRO</span>
+    {{ with $ep }}<span class="smcg-card-ep">EP&nbsp;{{ . }}</span>{{ end }}
+    {{ with $sub }}<span class="smcg-card-sub">{{ . }}</span>{{ end }}
+  </div>
+
+  <div class="smcg-card-controls">
+    <button class="smcg-card-play" id="smcg-card-play-{{ $n }}" aria-label="Play">
+      <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+    </button>
+    <span class="smcg-card-time" id="smcg-card-time-{{ $n }}">0:00</span>
+    <div class="smcg-card-track" id="smcg-card-track-{{ $n }}">
+      <div class="smcg-card-fill" id="smcg-card-fill-{{ $n }}"></div>
+    </div>
+    <span class="smcg-card-dur" id="smcg-card-dur-{{ $n }}">–:––</span>
+  </div>
+
 </div>
+
 <script>
 (function() {
-  var player = document.getElementById("player-{{ .Ordinal }}");
-  var episode = "{{ .Get `src` }}";
-  var playedIntro = false;
-  var playedKey = "smcg_played_" + window.location.pathname;
-  var resumeKey = "smcg_resume_" + window.location.pathname;
+  var episode  = {{ $src }};
+  var epNum    = {{ $ep }};
+  var subtitle = {{ $sub }};
+  var pathname = window.location.pathname;
 
-  // Determine seek target: ?t= param takes priority over saved resume
-  var params = new URLSearchParams(window.location.search);
-  var tParam = parseFloat(params.get("t")) || 0;
-  var savedTime = parseInt(localStorage.getItem(resumeKey)) || 0;
+  var btnPlay = document.getElementById("smcg-card-play-" + {{ $n }});
+  var elTime  = document.getElementById("smcg-card-time-" + {{ $n }});
+  var elDur   = document.getElementById("smcg-card-dur-"  + {{ $n }});
+  var cTrack  = document.getElementById("smcg-card-track-" + {{ $n }});
+  var cFill   = document.getElementById("smcg-card-fill-"  + {{ $n }});
+  var cPhase  = document.getElementById("smcg-card-phase-" + {{ $n }});
+
+  var SVG_PLAY  = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
+  var SVG_PAUSE = '<svg viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
+
+  var params     = new URLSearchParams(window.location.search);
+  var tParam     = parseFloat(params.get("t")) || 0;
+  var savedTime  = parseInt(localStorage.getItem("smcg_resume_" + pathname)) || 0;
   var seekTarget = tParam > 0 ? tParam : (savedTime > 30 ? savedTime : 0);
 
-  player.addEventListener("ended", function() {
-    if (!playedIntro) {
-      playedIntro = true;
-      player.dataset.phase = "episode";
-      player.src = episode;
-      player.addEventListener("loadedmetadata", function() {
-        if (seekTarget > 0) player.currentTime = seekTarget;
-        player.play();
-      }, { once: true });
-    } else {
-      // Episode finished — mark played, clear resume
-      localStorage.setItem(playedKey, "true");
-      localStorage.removeItem(resumeKey);
-      var badge = document.getElementById("played-badge");
-      if (badge) badge.style.display = "inline";
+  function fmt(s) {
+    s = Math.floor(s || 0);
+    return Math.floor(s / 60) + ":" + (s % 60 < 10 ? "0" : "") + s % 60;
+  }
+
+  /* Sync card UI from global player state */
+  function sync(detail) {
+    if (!detail || detail.episode !== episode) return;
+    btnPlay.innerHTML = detail.playing ? SVG_PAUSE : SVG_PLAY;
+    elTime.textContent = fmt(detail.time);
+    // fill from global audio element directly
+    var ga = document.getElementById("smcg-audio");
+    if (ga && ga.duration && isFinite(ga.duration)) {
+      cFill.style.width = (detail.time / ga.duration * 100) + "%";
+      elDur.textContent = fmt(ga.duration);
+      var isEpisode = ga.dataset.phase === "episode";
+      cPhase.textContent = isEpisode ? "EPISODE" : "INTRO";
+      if (isEpisode) cPhase.classList.add("ep"); else cPhase.classList.remove("ep");
     }
+  }
+
+  document.addEventListener("smcg:state", function(e) { sync(e.detail); });
+
+  /* Sync immediately on load if this episode is already playing */
+  (function() {
+    if (!window.smcgPlayer) return;
+    var st = window.smcgPlayer.getState();
+    if (st.episode === episode) sync({ episode: episode, playing: st.playing, time: st.time });
+  })();
+
+  /* Play button */
+  btnPlay.addEventListener("click", function() {
+    if (!window.smcgPlayer) return;
+    window.smcgPlayer.load(episode, epNum, subtitle, pathname, seekTarget);
   });
 
-  // Save resume position every 5 seconds while playing
-  setInterval(function() {
-    if (playedIntro && !player.paused && !player.ended && player.currentTime > 0) {
-      localStorage.setItem(resumeKey, Math.floor(player.currentTime));
-    }
-  }, 5000);
+  /* Card progress bar seek */
+  cTrack.addEventListener("click", function(e) {
+    var ga = document.getElementById("smcg-audio");
+    if (!ga || !ga.duration) return;
+    var r = cTrack.getBoundingClientRect();
+    ga.currentTime = Math.max(0, Math.min(1, (e.clientX - r.left) / r.width)) * ga.duration;
+  });
+
+  /* seekTo — called by transcript timestamp links */
+  window.seekTo = function(seconds) {
+    if (window.smcgPlayer)
+      window.smcgPlayer.seekTo(seconds, episode, epNum, subtitle, pathname);
+  };
+
 })();
 </script>

@@ -13,11 +13,17 @@
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
       </h1>
+      {{ with .Params.subtitle }}
+      <p class="f4 mid-gray mt0 mb2 lh-title" style="font-style:italic;">{{ . }}</p>
+      {{ end }}
       <div style="display:flex; align-items:center; flex-wrap:wrap; gap:1rem; margin:0.5rem 0 1rem;">
         {{ if not .Date.IsZero }}
         <time class="f6 tracked" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
           {{- .Date | time.Format "January 2, 2006" -}}
         </time>
+        {{ end }}
+        {{ if .Params.transcript }}
+        <a href="{{ .RelPermalink }}transcript/" class="smcg-transcript-link">Transcript</a>
         {{ end }}
         <span id="played-badge" style="display:none; font-size:0.7rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:#3B4D1E; background:#edf2e6; padding:2px 8px; border-radius:3px;">✓ Listened</span>
       </div>
@@ -37,7 +43,6 @@
 
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray w-100">
       {{- .Content -}}
-      {{- partials.Include "tags.html" . -}}
     </div>
 
     <!-- Share panel -->
@@ -48,19 +53,30 @@
       <span id="copy-confirm" style="display:none; margin-left:0.75rem; color:#3B4D1E; font-size:0.8rem; font-weight:600;">✓ Copied!</span>
     </div>
 
-    <!-- Prev / Next navigation -->
+    <!-- Prev / Next navigation (episode-number scoped) -->
+    {{ $current := . }}
+    {{ $podcastSection := site.GetPage "podcasts" }}
+    {{ $sorted := sort $podcastSection.Pages ".Params.episode" "asc" }}
+    {{ $prevEp := "" }}
+    {{ $nextEp := "" }}
+    {{ range $i, $p := $sorted }}
+      {{ if eq $p.RelPermalink $current.RelPermalink }}
+        {{ if gt $i 0 }}{{ $prevEp = index $sorted (sub $i 1) }}{{ end }}
+        {{ if lt (add $i 1) (len $sorted) }}{{ $nextEp = index $sorted (add $i 1) }}{{ end }}
+      {{ end }}
+    {{ end }}
     <nav style="display:flex; justify-content:space-between; align-items:flex-start; padding:1.5rem 0; border-top:1px solid #e0e0e0; margin-bottom:3rem;">
-      {{ with .Next }}
-      <a href="{{ .RelPermalink }}" style="color:#3B4D1E; text-decoration:none; max-width:45%; font-size:0.875rem;">
+      {{ if $prevEp }}
+      <a href="{{ $prevEp.RelPermalink }}" style="color:#3B4D1E; text-decoration:none; max-width:45%; font-size:0.875rem;">
         <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:4px;">← Earlier</span>
-        {{ .Title }}
+        {{ $prevEp.Title }}
       </a>
       {{ else }}<span></span>{{ end }}
 
-      {{ with .Prev }}
-      <a href="{{ .RelPermalink }}" style="color:#3B4D1E; text-decoration:none; max-width:45%; text-align:right; font-size:0.875rem;">
+      {{ if $nextEp }}
+      <a href="{{ $nextEp.RelPermalink }}" style="color:#3B4D1E; text-decoration:none; max-width:45%; text-align:right; font-size:0.875rem;">
         <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:#aaa; margin-bottom:4px;">Later →</span>
-        {{ .Title }}
+        {{ $nextEp.Title }}
       </a>
       {{ else }}<span></span>{{ end }}
     </nav>
