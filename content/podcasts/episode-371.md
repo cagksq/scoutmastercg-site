@@ -1,6 +1,6 @@
 ---
-title: "Podcast 371 - Webelos Patrols and Older Scout Issues"
-date: 2018-04-23
+title: "Scoutmaster Podcast 371 - Webelos Patrols and Older Scout Issues"
+date: 2017-02-20
 draft: false
 episode: 371
 categories: ["Podcast"]

@@ -1,6 +1,6 @@
 ---
-title: "Podcast 259 - Socratic Scouting"
-date: 2015-03-31
+title: "Scoutmaster Podcast 259 - Socratic Scouting"
+date: 2014-12-29
 draft: false
 image: "/images/podcasts/episode-259.png"
 episode: 259

@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 351 Nettlesome Scouting Problems"
-date: 2017-06-05
+title: "Scoutmaster Podcast 351 - Nettlesome Scouting Problems"
+date: 2016-10-03
 draft: false
 image: "/images/podcasts/episode-351.png"
 episode: 351

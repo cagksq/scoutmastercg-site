@@ -1,6 +1,6 @@
 ---
-title: "Podcast 330 - A Scoutmaster is not..."
-date: 2016-11-21
+title: "Scoutmaster Podcast 330 - A Scoutmaster is not..."
+date: 2016-05-09
 draft: false
 image: "/images/podcasts/episode-330.png"
 episode: 330

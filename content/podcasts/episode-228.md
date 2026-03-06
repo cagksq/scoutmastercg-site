@@ -1,6 +1,6 @@
 ---
-title: "Podcast 228 - Parents & Summer Camp"
-date: 2014-10-09
+title: "Scoutmaster Podcast 228 - Parents & Summer Camp"
+date: 2014-05-26
 draft: false
 image: "/images/podcasts/episode-228.png"
 episode: 228

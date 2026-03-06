@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 350 Scouting Charters"
-date: 2017-05-22
+title: "Scoutmaster Podcast 350 - Scouting Charters"
+date: 2016-09-26
 draft: false
 episode: 350
 categories: ["Podcast"]

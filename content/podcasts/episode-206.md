@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 206 - Listening"
-date: 2014-10-12
+date: 2013-12-23
 draft: false
 image: "/images/podcasts/episode-206.png"
 episode: 206

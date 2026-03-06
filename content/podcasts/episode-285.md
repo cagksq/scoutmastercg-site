@@ -1,6 +1,6 @@
 ---
-title: "Outside Influences - Podcast 285"
-date: 2015-11-27
+title: "Scoutmaster Podcast 285 - Outside Influences"
+date: 2015-06-29
 draft: false
 image: "/images/podcasts/episode-285.png"
 episode: 285

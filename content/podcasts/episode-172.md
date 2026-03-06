@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 172 - Membership Review"
-date: 2013-06-11
+date: 2013-04-29
 draft: false
 episode: 172
 categories: ["Podcast"]

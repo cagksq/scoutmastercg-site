@@ -1,6 +1,6 @@
 ---
-title: "Podcast 364 - Playing the Scouting Game"
-date: 2018-02-27
+title: "Scoutmaster Podcast 364 - Playing the Scouting Game"
+date: 2017-01-02
 draft: false
 episode: 364
 categories: ["Podcast"]

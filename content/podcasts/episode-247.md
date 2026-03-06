@@ -1,6 +1,6 @@
 ---
-title: "Podcast 247 - Compliance or Obedience?"
-date: 2014-12-08
+title: "Scoutmaster Podcast 247 - Compliance or Obedience?"
+date: 2014-10-06
 draft: false
 image: "/images/podcasts/episode-247.png"
 episode: 247

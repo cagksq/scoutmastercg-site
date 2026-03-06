@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 152 - Happy New Year!"
-date: 2012-12-31
+date: 2012-12-10
 draft: false
 episode: 152
 categories: ["Podcast"]

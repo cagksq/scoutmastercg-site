@@ -1,6 +1,6 @@
 ---
-title: "Podcast 98 - Arrow of Light and Scout Badge, Mentoring Planning"
-date: 2011-12-19
+title: "Scoutmaster Podcast 98 - Arrow of Light and Scout Badge, Mentoring Planning"
+date: 2011-11-28
 draft: false
 episode: 98
 categories: ["Podcast"]

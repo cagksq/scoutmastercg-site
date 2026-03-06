@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 103 - Vision, Perspective & Determination"
-date: 2014-08-25
+date: 2012-01-02
 draft: false
 episode: 103
 categories: ["Podcast"]

@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 184 - Run to the Resource"
-date: 2013-08-26
+date: 2013-07-22
 draft: false
 episode: 184
 categories: ["Podcast"]

@@ -1,6 +1,6 @@
 ---
-title: "Podcast 119 Recruiting Volunteers"
-date: 2012-05-21
+title: "Scoutmaster Podcast 119 - Recruiting Volunteers"
+date: 2012-04-23
 draft: false
 episode: 119
 categories: ["Podcast"]

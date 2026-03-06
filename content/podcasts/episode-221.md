@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 221 - \"Real\" Responsibility - Scoutmastercg.com"
-date: 2014-10-03
+date: 2014-04-07
 draft: false
 image: "/images/podcasts/episode-221.png"
 episode: 221

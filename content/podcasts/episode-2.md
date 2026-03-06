@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 2 -Make the Most of Your Opportunity as a Scout Leader"
-date: 2014-10-12
+title: "Scoutmaster Podcast 2 - Make the Most of Your Opportunity as a Scout Leader"
+date: 2010-01-25
 draft: false
 episode: 2
 categories: ["Podcast"]

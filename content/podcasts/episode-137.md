@@ -1,6 +1,6 @@
 ---
-title: "Podcast 137 Four Percent"
-date: 2012-09-17
+title: "Scoutmaster Podcast 137 - Four Percent"
+date: 2012-08-27
 draft: false
 episode: 137
 categories: ["Podcast"]

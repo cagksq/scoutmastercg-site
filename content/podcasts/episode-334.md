@@ -1,6 +1,6 @@
 ---
-title: "Podcast 334 - Do Parents Understand Scouting?"
-date: 2017-01-16
+title: "Scoutmaster Podcast 334 - Do Parents Understand Scouting?"
+date: 2016-06-06
 draft: false
 image: "/images/podcasts/episode-334.png"
 episode: 334

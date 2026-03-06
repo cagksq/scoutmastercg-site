@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 275 - The Scouting Party"
-date: 2017-07-22
+date: 2015-04-20
 draft: false
 image: "/images/podcasts/episode-275.png"
 episode: 275

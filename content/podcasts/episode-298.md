@@ -1,6 +1,6 @@
 ---
-title: "New Rank Requirements - Podcast 298"
-date: 2016-01-16
+title: "Scoutmaster Podcast 298 - New Rank Requirements"
+date: 2015-09-28
 draft: false
 image: "/images/podcasts/episode-298.png"
 episode: 298

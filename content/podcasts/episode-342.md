@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 342 - Recruiting Scouts"
-date: 2017-03-20
+date: 2016-08-01
 draft: false
 image: "/images/podcasts/episode-342.png"
 episode: 342

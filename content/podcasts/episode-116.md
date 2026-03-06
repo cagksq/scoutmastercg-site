@@ -1,6 +1,6 @@
 ---
-title: "Podcast 116 Fun? and Partials"
-date: 2012-04-30
+title: "Scoutmaster Podcast 116 - Fun? and Partials"
+date: 2012-04-02
 draft: false
 episode: 116
 categories: ["Podcast"]

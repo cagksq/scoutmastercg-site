@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 219 - Brick Mason Knife Safety?"
-date: 2014-09-01
+date: 2014-03-24
 draft: false
 image: "/images/podcasts/episode-219.png"
 episode: 219

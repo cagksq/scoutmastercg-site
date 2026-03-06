@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 327- Scouts on probation?"
-date: 2016-11-01
+title: "Scoutmaster Podcast 327 - Scouts on probation?"
+date: 2016-04-18
 draft: false
 image: "/images/podcasts/episode-327.png"
 episode: 327

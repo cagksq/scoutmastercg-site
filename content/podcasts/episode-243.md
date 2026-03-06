@@ -1,6 +1,6 @@
 ---
-title: "Podcast 243 - What is the Context of Scouting?"
-date: 2015-03-12
+title: "Scoutmaster Podcast 243 - What is the Context of Scouting?"
+date: 2014-09-08
 draft: false
 image: "/images/podcasts/episode-243.png"
 episode: 243

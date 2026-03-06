@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 347 - Scouting is an Iterative Process"
-date: 2017-05-01
+date: 2016-09-05
 draft: false
 image: "/images/podcasts/episode-347.png"
 episode: 347

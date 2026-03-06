@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 3 - Centenary Observance"
-date: 2015-09-19
+date: 2010-02-01
 draft: false
 episode: 3
 categories: ["Podcast"]

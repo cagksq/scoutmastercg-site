@@ -1,6 +1,6 @@
 ---
 title: Encore Podcast 1 - A Greeting Card
-date: 2017-03-17
+date: 2010-01-18
 episode: 1
 draft: false
 image: /images/podcasts/episode-001.png

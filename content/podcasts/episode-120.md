@@ -1,6 +1,6 @@
 ---
-title: "Podcast 120 - Reflections for Scouts"
-date: 2012-05-28
+title: "Scoutmaster Podcast 120 - Reflections for Scouts"
+date: 2012-04-30
 draft: false
 episode: 120
 categories: ["Podcast"]

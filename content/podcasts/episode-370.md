@@ -1,6 +1,6 @@
 ---
-title: "Podcast 370 - Working With Older Scouts"
-date: 2018-04-16
+title: "Scoutmaster Podcast 370 - Working With Older Scouts"
+date: 2017-02-13
 draft: false
 episode: 370
 categories: ["Podcast"]

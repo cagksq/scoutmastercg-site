@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 343 - Scout Advancement Questions"
-date: 2017-03-27
+date: 2016-08-08
 draft: false
 image: "/images/podcasts/episode-343.png"
 episode: 343

@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 310 - Parents 3"
-date: 2016-04-04
+date: 2015-12-21
 draft: false
 image: "/images/podcasts/episode-310.png"
 episode: 310

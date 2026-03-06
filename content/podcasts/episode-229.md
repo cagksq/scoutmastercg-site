@@ -1,6 +1,6 @@
 ---
-title: "Podcast 229 - Resolving Serious Misbehavior"
-date: 2017-05-22
+title: "Scoutmaster Podcast 229 - Resolving Serious Misbehavior"
+date: 2014-06-02
 draft: false
 image: "/images/podcasts/episode-229.png"
 episode: 229

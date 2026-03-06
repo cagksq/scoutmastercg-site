@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 354 Gender and Scouting"
-date: 2017-10-09
+title: "Scoutmaster Podcast 354 - Gender and Scouting"
+date: 2016-10-24
 draft: false
 episode: 354
 categories: ["Podcast"]

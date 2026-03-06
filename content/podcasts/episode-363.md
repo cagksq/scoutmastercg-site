@@ -1,6 +1,6 @@
 ---
-title: "Podcast 363 - Scouts as Players"
-date: 2018-02-13
+title: "Scoutmaster Podcast 363 - Scouts as Players"
+date: 2016-12-26
 draft: false
 episode: 363
 categories: ["Podcast"]

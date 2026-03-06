@@ -1,6 +1,6 @@
 ---
-title: "Podcast 240 -Elections, Reviews, & Conferences"
-date: 2014-10-20
+title: "Scoutmaster Podcast 240 - Elections, Reviews, & Conferences"
+date: 2014-08-18
 draft: false
 image: "/images/podcasts/episode-240.png"
 episode: 240

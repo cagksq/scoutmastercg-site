@@ -1,6 +1,6 @@
 ---
-title: "Podcast 367- Developing Youth Leadership"
-date: 2018-03-19
+title: "Scoutmaster Podcast 367 - Developing Youth Leadership"
+date: 2017-01-23
 draft: false
 episode: 367
 categories: ["Podcast"]

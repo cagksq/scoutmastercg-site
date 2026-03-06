@@ -1,6 +1,6 @@
 ---
-title: "Podcast 132 - High Adventure Trips"
-date: 2012-08-13
+title: "Scoutmaster Podcast 132 - High Adventure Trips"
+date: 2012-07-23
 draft: false
 episode: 132
 categories: ["Podcast"]

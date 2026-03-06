@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 358 - Scout Advancement Judgement calls"
-date: 2017-12-04
+date: 2016-11-21
 draft: false
 image: "/images/podcasts/episode-358.png"
 episode: 358

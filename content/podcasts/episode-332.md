@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 332 - Shared Expectations"
-date: 2016-12-05
+date: 2016-05-23
 draft: false
 episode: 332
 categories: ["Podcast"]

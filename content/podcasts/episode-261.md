@@ -1,6 +1,6 @@
 ---
-title: "Podcast 261 - Avoiding the Troop Program Death Spiral"
-date: 2016-06-13
+title: "Scoutmaster Podcast 261 - Avoiding the Troop Program Death Spiral"
+date: 2015-01-12
 draft: false
 image: "/images/podcasts/episode-261.png"
 episode: 261

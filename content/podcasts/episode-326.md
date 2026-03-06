@@ -1,6 +1,6 @@
 ---
-title: "Podcast 326 - Advice for the Senior Patrol Leader"
-date: 2016-08-29
+title: "Scoutmaster Podcast 326 - Advice for the Senior Patrol Leader"
+date: 2016-04-11
 draft: false
 image: "/images/podcasts/episode-326.png"
 episode: 326

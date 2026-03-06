@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 227 - Outdoor Leadership"
-date: 2014-07-08
+date: 2014-05-19
 draft: false
 image: "/images/podcasts/episode-227.png"
 episode: 227

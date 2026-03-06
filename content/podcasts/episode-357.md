@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 357 Kevin Callan and Winter Camping"
-date: 2017-11-27
+title: "Scoutmaster Podcast 357 - Kevin Callan and Winter Camping"
+date: 2016-11-14
 draft: false
 image: "/images/podcasts/episode-357.png"
 episode: 357

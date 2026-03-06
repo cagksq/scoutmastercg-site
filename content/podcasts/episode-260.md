@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 260 Paperwork!"
-date: 2015-03-30
+title: "Scoutmaster Podcast 260 - Paperwork!"
+date: 2015-01-05
 draft: false
 image: "/images/podcasts/episode-260.png"
 episode: 260

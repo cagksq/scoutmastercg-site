@@ -1,6 +1,6 @@
 ---
-title: "Podcast 318 - Troop Leader Guidebook Vol. 2 PART TWO"
-date: 2016-05-30
+title: "Scoutmaster Podcast 318 - Troop Leader Guidebook Vol. 2 PART TWO"
+date: 2016-02-15
 draft: false
 image: "/images/podcasts/episode-318.png"
 episode: 318

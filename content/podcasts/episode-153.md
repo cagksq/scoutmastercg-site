@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 153"
-date: 2013-01-07
+date: 2012-12-17
 draft: false
 episode: 153
 categories: ["Podcast"]

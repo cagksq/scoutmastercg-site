@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 217 - Resolving Differences"
-date: 2014-09-03
+date: 2014-03-10
 draft: false
 image: "/images/podcasts/episode-217.png"
 episode: 217

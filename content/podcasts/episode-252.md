@@ -1,6 +1,6 @@
 ---
-title: "Podcast 252 - Merit Badge Books?"
-date: 2015-02-01
+title: "Scoutmaster Podcast 252 - Merit Badge Books?"
+date: 2014-11-10
 draft: false
 image: "/images/podcasts/episode-252.png"
 episode: 252

@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 307 - How Scouts Do What No One Else Does"
-date: 2016-03-14
+date: 2015-11-30
 draft: false
 image: "/images/podcasts/episode-307.png"
 episode: 307

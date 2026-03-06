@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 223 - How Scouting Works!"
-date: 2014-08-30
+date: 2014-04-21
 draft: false
 image: "/images/podcasts/episode-223.png"
 episode: 223

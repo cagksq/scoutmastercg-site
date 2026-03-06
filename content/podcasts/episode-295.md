@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 295 - Apples and Oranges"
-date: 2016-05-05
+date: 2015-09-07
 draft: false
 image: "/images/podcasts/episode-295.png"
 episode: 295

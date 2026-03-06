@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 355 When Scouts Misbehave"
-date: 2017-11-13
+title: "Scoutmaster Podcast 355 - When Scouts Misbehave"
+date: 2016-10-31
 draft: false
 image: "/images/podcasts/episode-355.png"
 episode: 355

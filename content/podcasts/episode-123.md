@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 123 - Summer Camp"
-date: 2014-08-24
+date: 2012-05-21
 draft: false
 episode: 123
 categories: ["Podcast"]

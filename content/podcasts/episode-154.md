@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 154 - Panel Discussion"
-date: 2013-01-14
+date: 2012-12-24
 draft: false
 episode: 154
 categories: ["Podcast"]

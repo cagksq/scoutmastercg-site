@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 352 Catching Up"
-date: 2017-09-18
+title: "Scoutmaster Podcast 352 - Catching Up"
+date: 2016-10-10
 draft: false
 image: "/images/podcasts/episode-352.png"
 episode: 352

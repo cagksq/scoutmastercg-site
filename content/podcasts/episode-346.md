@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 346 - On The Appalachian Trail Again"
-date: 2017-05-21
+date: 2016-08-29
 draft: false
 image: "/images/podcasts/episode-346.png"
 episode: 346

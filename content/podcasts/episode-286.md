@@ -1,6 +1,6 @@
 ---
-title: "Podcast 286 - Positions of Responsibility"
-date: 2015-09-28
+title: "Scoutmaster Podcast 286 - Positions of Responsibility"
+date: 2015-07-06
 draft: false
 image: "/images/podcasts/episode-286.png"
 episode: 286

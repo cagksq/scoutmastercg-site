@@ -1,6 +1,6 @@
 ---
-title: "Podcast 149 - A Scout is Reviewed"
-date: 2012-12-10
+title: "Scoutmaster Podcast 149 - A Scout is Reviewed"
+date: 2012-11-19
 draft: false
 episode: 149
 categories: ["Podcast"]

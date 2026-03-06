@@ -1,6 +1,6 @@
 ---
-title: "Podcast 139 - Observing Practice"
-date: 2012-10-01
+title: "Scoutmaster Podcast 139 - Observing Practice"
+date: 2012-09-10
 draft: false
 episode: 139
 categories: ["Podcast"]

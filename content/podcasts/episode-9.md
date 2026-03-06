@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 9"
-date: 2015-12-26
+date: 2010-03-15
 draft: false
 episode: 9
 categories: ["Podcast"]

@@ -1,6 +1,6 @@
 ---
-title: "Podcast 140 - Journey to Excellence"
-date: 2012-10-08
+title: "Scoutmaster Podcast 140 - Journey to Excellence"
+date: 2012-09-17
 draft: false
 episode: 140
 categories: ["Podcast"]

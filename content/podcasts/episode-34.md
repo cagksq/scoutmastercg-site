@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 34 - From Adult to Youth Leadership Part 1"
-date: 2010-09-13
+date: 2010-09-06
 draft: false
 image: "/images/podcasts/episode-034.png"
 episode: 34

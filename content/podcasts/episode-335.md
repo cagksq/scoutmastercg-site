@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 335 | The Opportunity Business"
-date: 2017-01-23
+title: "Scoutmaster Podcast 335 - The Opportunity Business"
+date: 2016-06-13
 draft: false
 image: "/images/podcasts/episode-335.png"
 episode: 335

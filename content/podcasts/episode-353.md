@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 353 Two Key Ideas for Scouters"
-date: 2017-09-25
+title: "Scoutmaster Podcast 353 - Two Key Ideas for Scouters"
+date: 2016-10-17
 draft: false
 episode: 353
 categories: ["Podcast"]

@@ -1,6 +1,6 @@
 ---
-title: "Podcast 361 - Scouting is a Game"
-date: 2018-01-29
+title: "Scoutmaster Podcast 361 - Scouting is a Game"
+date: 2016-12-12
 draft: false
 image: "/images/podcasts/episode-361.png"
 episode: 361

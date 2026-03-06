@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 171 - Homesickness"
-date: 2013-10-12
+date: 2013-04-22
 draft: false
 episode: 171
 categories: ["Podcast"]

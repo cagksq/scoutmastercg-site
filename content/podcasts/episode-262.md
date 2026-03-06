@@ -1,6 +1,6 @@
 ---
-title: "Podcast 262 - The Scale of Scouting"
-date: 2015-04-10
+title: "Scoutmaster Podcast 262 - The Scale of Scouting"
+date: 2015-01-19
 draft: false
 image: "/images/podcasts/episode-262.png"
 episode: 262

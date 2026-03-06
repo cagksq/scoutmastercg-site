@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 273 - Group Scouting"
-date: 2015-07-11
+date: 2015-04-06
 draft: false
 image: "/images/podcasts/episode-273.png"
 episode: 273

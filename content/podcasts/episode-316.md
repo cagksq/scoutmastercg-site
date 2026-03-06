@@ -1,6 +1,6 @@
 ---
-title: "Podcast 316 - Scouting is Discovery"
-date: 2016-05-16
+title: "Scoutmaster Podcast 316 - Scouting is Discovery"
+date: 2016-02-01
 draft: false
 image: "/images/podcasts/episode-316.png"
 episode: 316

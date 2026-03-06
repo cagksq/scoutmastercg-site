@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 333 Scout Parents"
-date: 2016-12-13
+title: "Scoutmaster Podcast 333 - Scout Parents"
+date: 2016-05-30
 draft: false
 image: "/images/podcasts/episode-333.png"
 episode: 333

@@ -1,6 +1,6 @@
 ---
-title: "Scouting in One Sentence - Podcast 218"
-date: 2014-07-06
+title: "Scoutmaster Podcast 218 - Scouting in One Sentence"
+date: 2014-03-17
 draft: false
 image: "/images/podcasts/episode-218.png"
 episode: 218

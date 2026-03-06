@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 80 - Working the Patrol Method Rebroadcast"
-date: 2013-10-11
+date: 2011-07-25
 draft: false
 episode: 80
 categories: ["Podcast"]

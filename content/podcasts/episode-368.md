@@ -1,6 +1,6 @@
 ---
-title: "Podcast 368- Constructive Discipline"
-date: 2018-03-26
+title: "Scoutmaster Podcast 368 - Constructive Discipline"
+date: 2017-01-30
 draft: false
 episode: 368
 categories: ["Podcast"]

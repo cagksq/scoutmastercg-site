@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 125 - Free Range Kids"
-date: 2013-08-10
+date: 2012-06-04
 draft: false
 episode: 125
 categories: ["Podcast"]

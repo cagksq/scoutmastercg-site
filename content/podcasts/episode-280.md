@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 280 - The Happy Camper"
-date: 2015-08-17
+date: 2015-05-25
 draft: false
 image: "/images/podcasts/episode-280.png"
 episode: 280

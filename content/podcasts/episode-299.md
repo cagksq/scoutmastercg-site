@@ -1,6 +1,6 @@
 ---
-title: "Podcast 299 - Patience"
-date: 2016-01-19
+title: "Scoutmaster Podcast 299 - Patience"
+date: 2015-10-05
 draft: false
 image: "/images/podcasts/episode-299.png"
 episode: 299

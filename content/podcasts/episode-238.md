@@ -1,6 +1,6 @@
 ---
-title: "Podcast 238 - Patrol Method 4"
-date: 2017-07-23
+title: "Scoutmaster Podcast 238 - Patrol Method 4"
+date: 2014-08-04
 draft: false
 image: "/images/podcasts/episode-238.png"
 episode: 238

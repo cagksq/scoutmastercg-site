@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 193"
-date: 2013-11-05
+date: 2013-09-23
 draft: false
 image: "/images/podcasts/episode-193.png"
 episode: 193

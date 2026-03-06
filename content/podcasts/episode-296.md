@@ -1,6 +1,6 @@
 ---
-title: "Podcast 296 - Choosing a New Scoutmaster"
-date: 2016-05-05
+title: "Scoutmaster Podcast 296 - Choosing a New Scoutmaster"
+date: 2015-09-14
 draft: false
 image: "/images/podcasts/episode-296.png"
 episode: 296

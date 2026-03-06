@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 4 -Merit Badge Quality"
-date: 2015-09-19
+title: "Scoutmaster Podcast 4 - Merit Badge Quality"
+date: 2010-02-08
 draft: false
 episode: 4
 categories: ["Podcast"]

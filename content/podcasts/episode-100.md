@@ -1,6 +1,6 @@
 ---
-title: "Podcast Holiday - Scoutmastercg.com"
-date: 2011-12-26
+title: "Scoutmaster Podcast 100 - Holiday"
+date: 2011-12-12
 draft: false
 episode: 100
 categories: ["Podcast"]

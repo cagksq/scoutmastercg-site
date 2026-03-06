@@ -1,6 +1,6 @@
 ---
-title: "Podcast 365 - Patrol System or Method?"
-date: 2018-03-05
+title: "Scoutmaster Podcast 365 - Patrol System or Method?"
+date: 2017-01-09
 draft: false
 episode: 365
 categories: ["Podcast"]

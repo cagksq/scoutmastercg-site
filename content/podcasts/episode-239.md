@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 239 - Help!"
-date: 2014-10-13
+date: 2014-08-11
 draft: false
 image: "/images/podcasts/episode-239.png"
 episode: 239

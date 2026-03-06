@@ -1,6 +1,6 @@
 ---
-title: "Podcast 122 Scoutmaster Panel Discussion"
-date: 2012-06-11
+title: "Scoutmaster Podcast 122 - Scoutmaster Panel Discussion"
+date: 2012-05-14
 draft: false
 episode: 122
 categories: ["Podcast"]

@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 267 - Email!"
-date: 2015-05-23
+date: 2015-02-23
 draft: false
 image: "/images/podcasts/episode-267.png"
 episode: 267

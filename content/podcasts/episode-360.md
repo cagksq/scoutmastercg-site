@@ -1,6 +1,6 @@
 ---
-title: "Podcast 360 - Happy Holidays!"
-date: 2017-12-18
+title: "Scoutmaster Podcast 360 - Happy Holidays!"
+date: 2016-12-05
 draft: false
 image: "/images/podcasts/episode-360.png"
 episode: 360

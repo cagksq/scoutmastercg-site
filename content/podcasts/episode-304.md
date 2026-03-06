@@ -1,6 +1,6 @@
 ---
 title: "Podcast 304 - Founder's Day - Scoutmastercg.com"
-date: 2016-02-22
+date: 2015-11-09
 draft: false
 image: "/images/podcasts/episode-304.png"
 episode: 304

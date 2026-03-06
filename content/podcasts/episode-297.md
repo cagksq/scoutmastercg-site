@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 297 - One Aim, One Method"
-date: 2015-12-14
+date: 2015-09-21
 draft: false
 image: "/images/podcasts/episode-297.png"
 episode: 297

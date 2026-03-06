@@ -1,6 +1,6 @@
 ---
-title: "Podcast 246 - Classes, Chow, and More!"
-date: 2016-06-04
+title: "Scoutmaster Podcast 246 - Classes, Chow, and More!"
+date: 2014-09-29
 draft: false
 image: "/images/podcasts/episode-246.png"
 episode: 246

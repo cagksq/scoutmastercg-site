@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 180 - The Boy from Aarhus"
-date: 2013-08-10
+date: 2013-06-24
 draft: false
 episode: 180
 categories: ["Podcast"]

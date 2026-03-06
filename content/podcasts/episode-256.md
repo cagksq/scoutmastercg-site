@@ -1,6 +1,6 @@
 ---
-title: "Podcast 256 - Modifying Advancement"
-date: 2015-04-30
+title: "Scoutmaster Podcast 256 - Modifying Advancement"
+date: 2014-12-08
 draft: false
 image: "/images/podcasts/episode-256.png"
 episode: 256

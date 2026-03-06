@@ -1,6 +1,6 @@
 ---
-title: "Podcast 245 - The Emperor has no clothes"
-date: 2014-11-24
+title: "Scoutmaster Podcast 245 - The Emperor has no clothes"
+date: 2014-09-22
 draft: false
 image: "/images/podcasts/episode-245.png"
 episode: 245

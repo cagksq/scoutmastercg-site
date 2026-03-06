@@ -1,6 +1,6 @@
 ---
-title: "Podcast 325 - Email Answers"
-date: 2016-08-22
+title: "Scoutmaster Podcast 325 - Email Answers"
+date: 2016-04-04
 draft: false
 image: "/images/podcasts/episode-325.png"
 episode: 325

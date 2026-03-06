@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 349 - Scout Contracts?"
-date: 2017-05-15
+date: 2016-09-19
 draft: false
 image: "/images/podcasts/episode-349.png"
 episode: 349

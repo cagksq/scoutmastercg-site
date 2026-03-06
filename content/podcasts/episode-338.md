@@ -1,6 +1,6 @@
 ---
-title: "Eagles on the Appalachian Trail - Podcast 338"
-date: 2017-02-13
+title: "Scoutmaster Podcast 338 - Eagles on the Appalachian Trail"
+date: 2016-07-04
 draft: false
 image: "/images/podcasts/episode-338.png"
 episode: 338

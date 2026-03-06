@@ -1,6 +1,6 @@
 ---
-title: "Podcast 362 - Scouters as Coaches"
-date: 2018-02-05
+title: "Scoutmaster Podcast 362 - Scouters as Coaches"
+date: 2016-12-19
 draft: false
 image: "/images/podcasts/episode-362.png"
 episode: 362

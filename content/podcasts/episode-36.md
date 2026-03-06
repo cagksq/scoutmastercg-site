@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 36"
-date: 2014-08-23
+date: 2010-09-20
 draft: false
 image: "/images/podcasts/episode-036.png"
 episode: 36

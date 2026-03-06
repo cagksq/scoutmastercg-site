@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 272 Eagle Scout Thoughts"
-date: 2015-06-22
+title: "Scoutmaster Podcast 272 - Eagle Scout Thoughts"
+date: 2015-03-30
 draft: false
 image: "/images/podcasts/episode-272.png"
 episode: 272

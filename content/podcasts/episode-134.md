@@ -1,6 +1,6 @@
 ---
-title: "Podcast 134 Scouting With Your Son - Neil Armstrong, Eagle Scout"
-date: 2012-08-27
+title: "Scoutmaster Podcast 134 - Scouting With Your Son - Neil Armstrong, Eagle Scout"
+date: 2012-08-06
 draft: false
 episode: 134
 categories: ["Podcast"]

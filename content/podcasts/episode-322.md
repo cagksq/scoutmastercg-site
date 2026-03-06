@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 322 - Youth Engagement"
-date: 2016-06-27
+date: 2016-03-14
 draft: false
 image: "/images/podcasts/episode-322.png"
 episode: 322

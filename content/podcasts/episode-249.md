@@ -1,6 +1,6 @@
 ---
-title: "Podcast 249 - So Far, So Good!"
-date: 2015-03-09
+title: "Scoutmaster Podcast 249 - So Far, So Good!"
+date: 2014-10-20
 draft: false
 image: "/images/podcasts/episode-249.png"
 episode: 249

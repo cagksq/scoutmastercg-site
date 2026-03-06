@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 214 - New Adult Leader"
-date: 2015-09-16
+date: 2014-02-17
 draft: false
 image: "/images/podcasts/episode-214.png"
 episode: 214

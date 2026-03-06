@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 226 - Scouts at Camp"
-date: 2014-08-23
+date: 2014-05-12
 draft: false
 image: "/images/podcasts/episode-226.png"
 episode: 226

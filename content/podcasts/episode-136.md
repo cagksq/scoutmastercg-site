@@ -1,6 +1,6 @@
 ---
-title: "Podcast 136 - Scoutmaster Panel Discussion with Enoch"
-date: 2012-09-10
+title: "Scoutmaster Podcast 136 - Scoutmaster Panel Discussion with Enoch"
+date: 2012-08-20
 draft: false
 episode: 136
 categories: ["Podcast"]

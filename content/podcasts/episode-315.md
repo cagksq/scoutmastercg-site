@@ -1,6 +1,6 @@
 ---
-title: "Podcast 315 - Outdoor Leadership"
-date: 2016-05-09
+title: "Scoutmaster Podcast 315 - Outdoor Leadership"
+date: 2016-01-25
 draft: false
 image: "/images/podcasts/episode-315.png"
 episode: 315

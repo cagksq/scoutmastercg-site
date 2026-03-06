@@ -1,6 +1,6 @@
 ---
-title: "Podcast 141 - Email Answers"
-date: 2012-10-15
+title: "Scoutmaster Podcast 141 - Email Answers"
+date: 2012-09-24
 draft: false
 episode: 141
 categories: ["Podcast"]

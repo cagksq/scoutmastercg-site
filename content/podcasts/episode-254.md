@@ -1,6 +1,6 @@
 ---
-title: "Podcast 254 - Behavior Problems"
-date: 2015-02-17
+title: "Scoutmaster Podcast 254 - Behavior Problems"
+date: 2014-11-24
 draft: false
 image: "/images/podcasts/episode-254.png"
 episode: 254

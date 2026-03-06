@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 6 - Moving from Adult to Youth Leadership"
-date: 2015-09-19
+date: 2010-02-22
 draft: false
 episode: 6
 categories: ["Podcast"]

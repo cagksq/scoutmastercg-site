@@ -1,6 +1,6 @@
 ---
-title: "Podcast 287 - Small Troops"
-date: 2015-10-05
+title: "Scoutmaster Podcast 287 - Small Troops"
+date: 2015-07-13
 draft: false
 image: "/images/podcasts/episode-287.png"
 episode: 287

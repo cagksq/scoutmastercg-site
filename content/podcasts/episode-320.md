@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 320 - The Garden"
-date: 2016-06-13
+date: 2016-02-29
 draft: false
 image: "/images/podcasts/episode-320.png"
 episode: 320

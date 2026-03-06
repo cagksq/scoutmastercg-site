@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 222- Interview with Darnall Daley"
-date: 2014-08-30
+title: "Scoutmaster Podcast 222 - Interview with Darnall Daley"
+date: 2014-04-14
 draft: false
 image: "/images/podcasts/episode-222.png"
 episode: 222

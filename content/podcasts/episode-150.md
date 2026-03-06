@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 150 - A Scout is Recognized"
-date: 2012-12-17
+date: 2012-11-26
 draft: false
 episode: 150
 categories: ["Podcast"]

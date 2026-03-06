@@ -1,6 +1,6 @@
 ---
-title: "Podcast 248 - Happy Holidays!"
-date: 2016-09-23
+title: "Scoutmaster Podcast 248 - Happy Holidays!"
+date: 2014-10-13
 draft: false
 image: "/images/podcasts/episode-248.png"
 episode: 248

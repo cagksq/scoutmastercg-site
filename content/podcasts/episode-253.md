@@ -1,6 +1,6 @@
 ---
-title: "Podcast 253 - Shared Expecations"
-date: 2015-02-05
+title: "Scoutmaster Podcast 253 - Shared Expecations"
+date: 2014-11-17
 draft: false
 image: "/images/podcasts/episode-253.png"
 episode: 253

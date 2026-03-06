@@ -1,6 +1,6 @@
 ---
-title: "Podcast 133 - Scoutmastercg.com"
-date: 2012-08-20
+title: "Scoutmaster Podcast 133 - Scoutmastercg.com"
+date: 2012-07-30
 draft: false
 episode: 133
 categories: ["Podcast"]

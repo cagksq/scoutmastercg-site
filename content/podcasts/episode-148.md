@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 148 - A Scout is Tested"
-date: 2012-12-03
+date: 2012-11-12
 draft: false
 episode: 148
 categories: ["Podcast"]

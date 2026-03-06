@@ -1,6 +1,6 @@
 ---
-title: "Podcast 104 - Qualifications for Youth Leaders"
-date: 2012-02-06
+title: "Scoutmaster Podcast 104 - Qualifications for Youth Leaders"
+date: 2012-01-09
 draft: false
 episode: 104
 categories: ["Podcast"]

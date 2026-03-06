@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 205 0- Evaluating \"Leadership\""
-date: 2015-09-16
+title: "Scoutmaster Podcast 205 - Evaluating Your Program"
+date: 2013-12-16
 draft: false
 image: "/images/podcasts/episode-205.png"
 episode: 205

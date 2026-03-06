@@ -1,6 +1,6 @@
 ---
-title: "Podcast 145 - Starting a New Troop"
-date: 2012-11-12
+title: "Scoutmaster Podcast 145 - Starting a New Troop"
+date: 2012-10-22
 draft: false
 episode: 145
 categories: ["Podcast"]

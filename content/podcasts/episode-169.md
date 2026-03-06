@@ -1,6 +1,6 @@
 ---
-title: "Scoutmaster Podcast 169 The Colorado Experiment 2"
-date: 2013-05-06
+title: "Scoutmaster Podcast 169 - The Colorado Experiment 2"
+date: 2013-04-08
 draft: false
 episode: 169
 categories: ["Podcast"]

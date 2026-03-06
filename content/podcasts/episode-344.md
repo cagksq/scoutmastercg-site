@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 344 - Patrols and Schedules"
-date: 2017-04-03
+date: 2016-08-15
 draft: false
 image: "/images/podcasts/episode-344.png"
 episode: 344

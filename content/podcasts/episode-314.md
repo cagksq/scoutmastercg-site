@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 314 - Scouting Email Questions"
-date: 2016-05-02
+date: 2016-01-18
 draft: false
 image: "/images/podcasts/episode-314.png"
 episode: 314

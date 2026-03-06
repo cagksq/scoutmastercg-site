@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 274 - 91st Dublin"
-date: 2015-07-11
+date: 2015-04-13
 draft: false
 image: "/images/podcasts/episode-274.png"
 episode: 274

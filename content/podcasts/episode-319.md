@@ -1,6 +1,6 @@
 ---
-title: "Podcast 319 - Scoutmaster Conferences & More"
-date: 2016-06-06
+title: "Scoutmaster Podcast 319 - Scoutmaster Conferences & More"
+date: 2016-02-22
 draft: false
 image: "/images/podcasts/episode-319.png"
 episode: 319

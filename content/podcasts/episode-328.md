@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 328 - Carts and Horses"
-date: 2016-11-07
+date: 2016-04-25
 draft: false
 image: "/images/podcasts/episode-328.png"
 episode: 328

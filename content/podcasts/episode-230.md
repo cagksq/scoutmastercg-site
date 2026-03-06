@@ -1,6 +1,6 @@
 ---
-title: "Podcast 230 - The Internal Standard"
-date: 2017-07-04
+title: "Scoutmaster Podcast 230 - The Internal Standard"
+date: 2014-06-09
 draft: false
 image: "/images/podcasts/episode-230.png"
 episode: 230

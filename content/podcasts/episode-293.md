@@ -1,6 +1,6 @@
 ---
-title: "Podcast 293 - Peace Scouting"
-date: 2015-11-19
+title: "Scoutmaster Podcast 293 - Peace Scouting"
+date: 2015-08-24
 draft: false
 image: "/images/podcasts/episode-293.png"
 episode: 293

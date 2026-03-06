@@ -1,6 +1,6 @@
 ---
-title: "Podcast 359 - A Tale of Two Scout Troops"
-date: 2017-12-11
+title: "Scoutmaster Podcast 359 - A Tale of Two Scout Troops"
+date: 2016-11-28
 draft: false
 image: "/images/podcasts/episode-359.png"
 episode: 359

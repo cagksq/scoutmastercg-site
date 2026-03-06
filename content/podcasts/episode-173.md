@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 173 - Policy Shift Issues"
-date: 2013-06-11
+date: 2013-05-06
 draft: false
 episode: 173
 categories: ["Podcast"]

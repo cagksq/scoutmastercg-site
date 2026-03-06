@@ -1,6 +1,6 @@
 ---
-title: "Podcast 264 - Scouting Source Code Part 1"
-date: 2015-05-10
+title: "Scoutmaster Podcast 264 - Scouting Source Code Part 1"
+date: 2015-02-02
 draft: false
 image: "/images/podcasts/episode-264.png"
 episode: 264

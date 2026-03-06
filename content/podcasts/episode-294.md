@@ -1,6 +1,6 @@
 ---
-title: "Podcast 294 - Cooperative Volunteering"
-date: 2015-11-27
+title: "Scoutmaster Podcast 294 - Cooperative Volunteering"
+date: 2015-08-31
 draft: false
 image: "/images/podcasts/episode-294.png"
 episode: 294

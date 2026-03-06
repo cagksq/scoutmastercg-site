@@ -1,6 +1,6 @@
 ---
-title: "Podcast 300 - Start, Stop, Continue"
-date: 2016-01-25
+title: "Scoutmaster Podcast 300 - Start, Stop, Continue"
+date: 2015-10-12
 draft: false
 image: "/images/podcasts/episode-300.png"
 episode: 300

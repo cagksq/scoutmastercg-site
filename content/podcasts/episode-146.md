@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 146 - Introduction to Advancement"
-date: 2012-11-19
+date: 2012-10-29
 draft: false
 episode: 146
 categories: ["Podcast"]

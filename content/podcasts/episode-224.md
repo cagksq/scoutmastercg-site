@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 224 - Kindling the Fire!"
-date: 2014-10-08
+date: 2014-04-28
 draft: false
 image: "/images/podcasts/episode-224.png"
 episode: 224

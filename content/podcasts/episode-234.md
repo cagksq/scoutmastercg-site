@@ -1,6 +1,6 @@
 ---
-title: "Podcast 234 - Assume Goodwill"
-date: 2015-03-08
+title: "Scoutmaster Podcast 234 - Assume Goodwill"
+date: 2014-07-07
 draft: false
 image: "/images/podcasts/episode-234.png"
 episode: 234

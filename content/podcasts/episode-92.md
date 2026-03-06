@@ -1,6 +1,6 @@
 ---
-title: "Podcast 92 - Scoutmaster, Troop Committee Relationship"
-date: 2011-11-07
+title: "Scoutmaster Podcast 92 - Scoutmaster, Troop Committee Relationship"
+date: 2011-10-17
 draft: false
 episode: 92
 categories: ["Podcast"]

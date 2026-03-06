@@ -1,6 +1,6 @@
 ---
-title: "Podcast 290 - Goodwill and Cooperation"
-date: 2015-12-31
+title: "Scoutmaster Podcast 290 - Goodwill and Cooperation"
+date: 2015-08-03
 draft: false
 image: "/images/podcasts/episode-290.png"
 episode: 290

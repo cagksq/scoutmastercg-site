@@ -1,6 +1,6 @@
 ---
 title: "Podcast 232 - Let's Get Started! - Scoutmastercg.com"
-date: 2014-10-08
+date: 2014-06-23
 draft: false
 image: "/images/podcasts/episode-232.png"
 episode: 232

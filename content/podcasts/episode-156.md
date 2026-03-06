@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 156 - Reading Requirements"
-date: 2013-01-28
+date: 2013-01-07
 draft: false
 episode: 156
 categories: ["Podcast"]

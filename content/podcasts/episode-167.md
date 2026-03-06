@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 167- Behavior Problems,Toten' Chip"
-date: 2017-06-01
+date: 2013-03-25
 draft: false
 episode: 167
 categories: ["Podcast"]

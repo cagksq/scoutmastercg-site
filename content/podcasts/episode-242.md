@@ -1,6 +1,6 @@
 ---
-title: "Podcast 242 -Campaign, Conduct, Camping, & Content"
-date: 2014-11-23
+title: "Scoutmaster Podcast 242 - Campaign, Conduct, Camping, & Content"
+date: 2014-09-01
 draft: false
 image: "/images/podcasts/episode-242.png"
 episode: 242

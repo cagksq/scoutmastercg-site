@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 309 - Scout Parents 2"
-date: 2016-03-28
+date: 2015-12-14
 draft: false
 image: "/images/podcasts/episode-309.png"
 episode: 309

@@ -1,6 +1,6 @@
 ---
 title: "Scoutmaster Podcast 168 - Email Answers"
-date: 2013-10-12
+date: 2013-04-01
 draft: false
 episode: 168
 categories: ["Podcast"]
