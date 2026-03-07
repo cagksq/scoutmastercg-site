@@ -1,5 +1,7 @@
 {{ define "main" }}
   <div class="pt2 pa3 pa4-ns center mw8">
+    <h1 style="font-family:'Playfair Display',serif; font-size:2.25rem; font-weight:700; color:#3B4D1E; text-align:center; margin:1.5rem 0 0.5rem;">{{ .Title | humanize | title }}</h1>
+    <p style="font-family:'Roboto',sans-serif; font-size:0.75rem; letter-spacing:0.12em; text-transform:uppercase; color:#aaa; text-align:center; margin:0 0 2rem;">{{ len .Pages }} posts</p>
     {{ with .Content }}
     <p style="font-family:'Roboto',sans-serif; font-size:1.05rem; color:#444; line-height:1.7; max-width:42rem; margin-bottom:2rem; border-left:3px solid #3B4D1E; padding-left:1rem;">{{ . }}</p>
     {{ end }}
@@ -15,6 +17,7 @@
             <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">
               <strong style="font-size:1rem; color:#222;">{{ .Title }}</strong>
             </a>
+            <div style="font-family:'Source Serif 4',Georgia,serif; font-size:0.85rem; color:#777; line-height:1.5; margin-top:3px;">{{ .Summary | truncate 120 }}</div>
           </td>
         </tr>
       {{ end }}

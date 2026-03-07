@@ -19,7 +19,8 @@ import urllib.error
 import tempfile
 import whisper
 
-TRANSCRIPTS_DIR = "transcripts"
+TRANSCRIPTS_DIR = "TRANSCRIPTS"
+LOCAL_AUDIO_DIR = "static/audio"
 URL_BASE        = (
     "https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/"
     "scoutmaster-podcast-{}.mp3"
@@ -73,24 +74,34 @@ def transcribe_episode(ep_num, model):
         print(f"[{label}] already transcribed — skipping")
         return "skip"
 
-    url = URL_BASE.format(ep_num)
-    if not url_exists(url):
-        print(f"[{label}] audio not found on S3 — skipping")
-        return "skip"
+    # Try local file first, then S3
+    local_path = os.path.join(LOCAL_AUDIO_DIR, f"ScoutmasterPodcast{ep_num}.mp3")
+    use_local  = os.path.exists(local_path)
 
-    # Download to a temp file
+    if not use_local:
+        url = URL_BASE.format(ep_num)
+        if not url_exists(url):
+            print(f"[{label}] audio not found locally or on S3 — skipping")
+            return "skip"
+
     tmp_path = None
     try:
-        with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp:
-            tmp_path = tmp.name
-
-        print(f"[{label}] downloading...", end=" ", flush=True)
-        urllib.request.urlretrieve(url, tmp_path)
-        size_mb = os.path.getsize(tmp_path) / 1_048_576
-        print(f"{size_mb:.1f} MB", flush=True)
+        if use_local:
+            print(f"[{label}] using local file...", end=" ", flush=True)
+            size_mb = os.path.getsize(local_path) / 1_048_576
+            print(f"{size_mb:.1f} MB", flush=True)
+            audio_path = local_path
+        else:
+            with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp:
+                tmp_path = tmp.name
+            print(f"[{label}] downloading...", end=" ", flush=True)
+            urllib.request.urlretrieve(url, tmp_path)
+            size_mb = os.path.getsize(tmp_path) / 1_048_576
+            print(f"{size_mb:.1f} MB", flush=True)
+            audio_path = tmp_path
 
         print(f"[{label}] transcribing...", end=" ", flush=True)
-        result   = model.transcribe(tmp_path, language="en", fp16=False)
+        result   = model.transcribe(audio_path, language="en", fp16=False)
         segments = result["segments"]
         write_srt(segments, srt_path)
         write_txt(segments, txt_path)
@@ -99,7 +110,6 @@ def transcribe_episode(ep_num, model):
 
     except Exception as e:
         print(f"FAILED: {e}", flush=True)
-        # Remove partial files
         for p in [srt_path, txt_path]:
             if os.path.exists(p):
                 os.unlink(p)

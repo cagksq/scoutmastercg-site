@@ -1,46 +1,42 @@
 {{ define "main" }}
 
   {{/* Hero */}}
-  <div class="tc pv5 ph3" style="border-bottom: 1px solid #ddd;">
-    <p class="welcome-heading mb2">Welcome…</p>
-    {{ with .Content }}
-    <div class="center lh-copy nested-links" style="max-width: 34em; font-size: 1.05rem; color: #555;">
-      {{ . }}
-    </div>
-    {{ end }}
+  <div class="smcg-hero">
+    <h1 class="smcg-hero-hed">15 years of thinking about<br>what makes Scouting work.</h1>
+    <p class="smcg-hero-sub"><a href="/podcasts/">372 podcast episodes</a> · 900+ blog posts · <a href="/about/">Clarke Green</a></p>
   </div>
 
-  {{/* Topic list */}}
-  <div class="center ph3 pv5" style="max-width: 52em;">
-    <h2 class="tc f6 fw6 ttu tracked mb5" style="color: #3B4D1E; letter-spacing: .2em;">Browse By Topic</h2>
-    {{ $descs := dict
-        "patrol-method"          "The heart of everything. Youth leadership, patrol life, the PLC, senior patrol leader, greenbar leadership. The argument that Scouting works when boys run it."
-        "scoutmasters-job"       "What the adult role actually is — and isn't. Training, responsibilities, working with the committee, safe scouting, youth protection. How to lead without taking over."
-        "scoutmasters-life"      "The personal side of volunteering. Discouragement, satisfaction, transitions, humor, reflection. What it costs and what it gives back."
-        "scouts"                 "Working with individual Scouts — behavior, special needs, older Scouts, parents, retention. The Scout as a person rather than a program participant."
-        "advancement"            "Boards of review, courts of honor, merit badges, Eagle, scoutmaster conferences, evaluating requirements. With a skeptical eye on advancement as an end in itself."
-        "outdoors"               "Camping, backpacking, canoeing, high adventure, cooking, skills, nature study, summer camp."
-        "scouting-ideals"        "Citizenship, reverence, service, the Scout Oath and Law as living ideas rather than ritual recitation. BP's Blog lives here."
-        "scouting-history-ideas" "Historical figures, original sources, the broader Scouting movement, surveys, the BSA's institutional decisions."
-    }}
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem 3rem;">
+{{/* Topic list */}}
+  {{ $descs := dict
+      "patrol-method"          "Youth leadership, patrol life, the PLC, senior patrol leader. The argument that Scouting works when boys run it."
+      "scoutmasters-job"       "What the adult role actually is — and isn't. Training, responsibilities, safe scouting, youth protection. How to lead without taking over."
+      "scoutmasters-life"      "The personal side of volunteering. Discouragement, satisfaction, transitions, humor. What it costs and what it gives back."
+      "scouts"                 "Working with individual Scouts — behavior, special needs, older Scouts, parents, retention."
+      "advancement"            "Boards of review, courts of honor, merit badges, Eagle, scoutmaster conferences. A skeptical eye on advancement as an end in itself."
+      "outdoors"               "Camping, backpacking, canoeing, high adventure, cooking, skills, nature study, summer camp."
+      "scouting-ideals"        "Citizenship, reverence, service, the Scout Oath and Law as living ideas rather than ritual recitation. BP's Blog lives here."
+      "scouting-history-ideas" "Historical figures, original sources, the broader Scouting movement, surveys, the BSA's institutional decisions."
+  }}
+  <section class="topics-section">
+    <h2 class="topics-heading">Browse 1,000+ Blog Posts by Topic</h2>
+    <div class="topics-list">
       {{ range .Site.Taxonomies.categories.ByCount }}
         {{ if ne .Term "podcast" }}
           {{ $desc := index $descs .Term }}
-          <div style="border-top: 2px solid #3B4D1E; padding-top: 1rem;">
-            <a href="{{ .Page.RelPermalink }}" style="text-decoration: none;">
-              <span class="db fw7 mb1" style="font-size: 1.1rem; color: #3B4D1E; font-family: 'Playfair Display', serif;">
-                {{ strings.Replace .Term "-" " " | title }}
-              </span>
-            </a>
-            {{ if $desc }}
-              <p class="f6 i mt1 mb2" style="color: #666; line-height: 1.6;">{{ $desc }}</p>
-            {{ end }}
-            <span class="f7 fw5 ttu tracked" style="color: #3B4D1E; opacity: 0.55; letter-spacing: .08em;">{{ .Count }} posts</span>
-          </div>
+          <a class="topic-row" href="{{ .Page.RelPermalink }}">
+            <div class="topic-row-body">
+              <div class="topic-row-name">{{ strings.Replace .Term "-" " " | title }}</div>
+              {{ if $desc }}<div class="topic-row-desc">{{ $desc }}</div>{{ end }}
+            </div>
+            <div class="topic-row-right">
+              <span class="topic-row-count">{{ .Count }}</span>
+              <span class="topic-row-posts">posts</span>
+            </div>
+            <span class="topic-row-arrow">›</span>
+          </a>
         {{ end }}
       {{ end }}
     </div>
-  </div>
+  </section>
 
 {{ end }}

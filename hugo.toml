@@ -17,17 +17,12 @@ theme = "ananke"
     weight = 1
 
   [[menu.main]]
-    name = "Blog Archive"
-    url = "/posts/"
-    weight = 2
-
-  [[menu.main]]
     name = "Podcast Archive"
     url = "/podcasts/"
     weight = 3
 
   [[menu.main]]
-    name = "About"
+    name = "Author Bio"
     url = "/about/"
     weight = 4
 

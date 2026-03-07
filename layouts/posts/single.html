@@ -57,11 +57,7 @@
 
           <!-- Share row -->
           <div style="padding-bottom:1.25rem; border-bottom:1px solid rgba(255,255,255,0.15); margin-bottom:1.5rem;">
-            <span style="display:block; font-size:0.65rem; text-transform:uppercase; letter-spacing:0.12em; color:rgba(255,255,255,0.55); margin-bottom:6px;">Share</span>
-            <button onclick="copyPostLink()" style="background:none; border:none; cursor:pointer; color:#fff; font-size:1.1rem; padding:0; font-family:inherit;">Copy link</button>
-            <span style="margin:0 0.6rem; color:rgba(255,255,255,0.3);">·</span>
-            <a href="mailto:?subject={{ .Title }}&body={{ .Permalink }}" style="color:#fff; text-decoration:none; font-size:1.1rem;">Email</a>
-            <span id="post-copy-confirm" style="display:none; margin-left:0.5rem; color:#FFE066; font-weight:600;">✓ Copied</span>
+            <button onclick="smcgOpenShare('{{ .Permalink }}', '{{ .Title | js }}', false)" class="smcg-share-btn">Share</button>
           </div>
 
           <!-- Category + position -->
@@ -109,13 +105,5 @@
     }
   })();
 
-  function copyPostLink() {
-    var url = window.location.origin + window.location.pathname;
-    navigator.clipboard.writeText(url).then(function() {
-      var el = document.getElementById("post-copy-confirm");
-      el.style.display = "inline";
-      setTimeout(function() { el.style.display = "none"; }, 2000);
-    });
-  }
   </script>
 {{ end }}

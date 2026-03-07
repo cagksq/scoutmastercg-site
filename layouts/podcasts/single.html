@@ -46,11 +46,8 @@
     </div>
 
     <!-- Share panel -->
-    <div style="margin:2rem 0; padding:1rem 1.25rem; background:#f9f9f7; border:1px solid #e8e8e4; border-radius:4px; font-size:0.875rem;">
-      <strong style="display:block; margin-bottom:0.75rem; font-size:0.65rem; letter-spacing:0.12em; text-transform:uppercase; color:#888;">Share this episode</strong>
-      <button onclick="copyEpisodeLink()" style="margin-right:0.75rem; padding:0.4rem 0.9rem; background:#3B4D1E; color:#fff; border:none; border-radius:3px; cursor:pointer; font-size:0.8rem;">Copy link</button>
-      <button onclick="copyTimestampLink()" style="padding:0.4rem 0.9rem; background:#fff; color:#3B4D1E; border:1px solid #3B4D1E; border-radius:3px; cursor:pointer; font-size:0.8rem;">Share from here</button>
-      <span id="copy-confirm" style="display:none; margin-left:0.75rem; color:#3B4D1E; font-size:0.8rem; font-weight:600;">✓ Copied!</span>
+    <div style="margin:2rem 0;">
+      <button onclick="smcgOpenShare('{{ .Permalink }}', '{{ .Title | js }}', true)" class="smcg-share-btn">Share</button>
     </div>
 
     <!-- Prev / Next navigation (episode-number scoped) -->
@@ -122,8 +119,7 @@
 
   function showCopyConfirm() {
     var el = document.getElementById("copy-confirm");
-    el.style.display = "inline";
-    setTimeout(function() { el.style.display = "none"; }, 2000);
+    if (el) { el.style.display = "inline"; setTimeout(function() { el.style.display = "none"; }, 2000); }
   }
   </script>
 {{ end }}

@@ -133,7 +133,7 @@ def detect_sections(groups):
     sections.append({"title": "INTRO", "note": joke_note, "groups": list(intro_groups)})
 
     # Scan remaining groups for named sections and features
-    for i, (start_s, text) in enumerate(groups):
+    for i, (start_s, text, *_) in enumerate(groups):
         if i in used:
             continue
         tl = text.lower()

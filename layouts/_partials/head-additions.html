@@ -1,18 +1,22 @@
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display:wght@700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <style>
-  body, h1, h2, h3, h4, h5, h6, p, a, li {
-    font-family: 'Roboto', sans-serif;
-  }
+  /* ── Type scale ───────────────────────────────────────── */
+  body { font-family: 'Source Serif 4', Georgia, serif; }
+  p, li, .nested-copy-line-height { font-size: 1.1rem; line-height: 1.8; }
+  nav, time, .smcg-sticky, .smcg-card, button, .f6, .f7 { font-family: 'Roboto', sans-serif; }
+  h1 { font-family: 'Playfair Display', serif; font-size: 2.75rem; font-weight: 700; line-height: 1.15; }
+  h2 { font-family: 'Playfair Display', serif; font-size: 1.85rem; font-weight: 700; }
+  h3 { font-family: 'Playfair Display', serif; font-size: 1.35rem; font-weight: 700; }
+  .f1.athelas { font-family: 'Playfair Display', serif; font-size: 2.5rem; font-weight: 700; }
+
+  /* ── Structural overrides ─────────────────────────────── */
   main > article, main > div, main > section {
     margin-top: 0 !important;
   }
   .flex-ns.mt5 { margin-top: 0.5rem !important; }
-  nav[role="navigation"] a:hover {
-    color: #ffffff !important;
-  }
   .post-footer a:hover {
     color: #FFE066 !important;
     text-decoration: none;
@@ -20,17 +24,75 @@
   .post-footer button:hover {
     color: #FFE066 !important;
   }
-  .welcome-heading {
+  /* ── Browse by Topic list ────────────────────────────── */
+  .topics-section { padding: 0; margin: 0; }
+  .topics-heading {
     font-family: 'Playfair Display', serif;
-    font-size: 3.5rem;
-    color: #3B4D1E;
-    line-height: 1.1;
-    margin-bottom: 1rem;
-    letter-spacing: -0.01em;
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #1a2a10;
+    text-align: center;
+    padding: 2.5rem 1.25rem 1.25rem;
+    border-bottom: 1px solid #ddd;
+    margin: 0;
   }
-  .topic-link:hover {
-    color: #ffffff !important;
-    background-color: #3B4D1E !important;
+  .topics-list { background: #fff; }
+  .topic-row {
+    display: flex;
+    align-items: center;
+    padding: 0.95rem 1.25rem;
+    border-bottom: 1px solid #ece8e0;
+    text-decoration: none;
+    gap: 0.75rem;
+    transition: background 0.1s;
+  }
+  .topic-row:hover { background: #f8f5f0; }
+  .topic-row:hover .topic-row-name { color: #527a40; }
+  .topic-row-body { flex: 1; min-width: 0; }
+  .topic-row-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #1a2a10;
+    line-height: 1.2;
+    margin-bottom: 2px;
+    transition: color 0.15s;
+  }
+  .topic-row-desc {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: #888;
+    line-height: 1.4;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .topic-row-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 1px;
+    flex-shrink: 0;
+  }
+  .topic-row-count {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #2d3d28;
+    line-height: 1;
+  }
+  .topic-row-posts {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.55rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #aaa;
+  }
+  .topic-row-arrow { font-size: 1.1rem; color: #c8c0aa; flex-shrink: 0; margin-left: 2px; }
+  @media (min-width: 640px) {
+    .topics-heading { padding: 2.5rem 2rem 1rem; }
+    .topic-row { padding: 1rem 2rem; }
   }
   .nested-copy-line-height p {
     text-indent: 1.5em;
@@ -59,6 +121,169 @@
   blockquote p:last-child {
     margin-bottom: 0;
   }
+
+  /* ── Hero ─────────────────────────────────────────────── */
+  .smcg-hero { padding: 3.5rem 1.5rem 2.5rem; background: #1a2744; text-align: center; }
+  .smcg-hero-hed { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 5vw, 3.25rem); font-weight: 700; color: #e8f0d8; line-height: 1.15; margin: 0 0 1rem; }
+  .smcg-hero-sub { font-family: 'Roboto', sans-serif; font-size: 0.95rem; color: #b8cfe8; letter-spacing: 0.04em; margin: 0; }
+  .smcg-hero-sub a { color: #b8cfe8; text-decoration: none; }
+  .smcg-hero-sub a:hover { color: #e8f0d8; }
+  .smcg-start-here { max-width: 34em; margin: 1.5rem auto; padding: 0 1.5rem 1.5rem; border-bottom: 1px solid #ddd; }
+  .smcg-start-here h2 { font-family: 'Playfair Display', serif; font-size: 1.25rem; color: #3B4D1E; margin-bottom: 1rem; }
+  .smcg-start-here ul { list-style: none; padding: 0; margin: 0; }
+  .smcg-start-here li { padding: 0.6rem 0; border-bottom: 1px solid #f0f0f0; }
+  .smcg-start-here a { color: #3B4D1E; text-decoration: none; font-size: 1.05rem; }
+  .smcg-start-here a:hover { text-decoration: underline; }
+
+  /* ── Navigation ───────────────────────────────────────── */
+  .smcg-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1.5rem;
+    background: #3B4D1E;
+    height: 48px;
+  }
+  .smcg-nav-brand {
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 0.06em;
+    color: #e8f0d8;
+    font-size: 1.35rem;
+    text-decoration: none;
+    flex-shrink: 0;
+  }
+  .smcg-nav-brand span { color: #a8cc72; }
+  .smcg-nav-links {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 1.75rem;
+    align-items: center;
+  }
+  .smcg-nav-links a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.82rem;
+    color: #C3B091;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+  }
+  .smcg-nav-links a:hover { color: #fff; }
+  @media (max-width: 600px) {
+    .smcg-nav-brand { display: none; }
+    .smcg-nav-links { gap: 1rem; }
+    .smcg-nav-links a { font-size: 0.75rem; }
+  }
+
+  /* ── Footer ───────────────────────────────────────────── */
+  .smcg-footer {
+    border-top: 1px solid #e0e0e0;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #999;
+    font-family: 'Roboto', sans-serif;
+  }
+  .smcg-footer nav { display: inline; }
+  .smcg-footer nav a {
+    color: #888;
+    text-decoration: none;
+    margin: 0 0.3rem;
+  }
+  .smcg-footer nav a:hover { color: #3B4D1E; }
+  .smcg-footer-admin {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.65rem;
+    color: #ccc;
+    text-decoration: none;
+  }
+
+  /* ── Share overlay ────────────────────────────────────── */
+  #smcg-share-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 10001;
+    background: rgba(0,0,0,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #smcg-share-overlay[hidden] { display: none; }
+  #smcg-share-modal {
+    background: #fff;
+    border-radius: 8px;
+    padding: 2rem;
+    max-width: 340px;
+    width: 90%;
+    position: relative;
+  }
+  #smcg-share-close {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.1rem;
+    color: #888;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+  }
+  #smcg-share-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem;
+    color: #222;
+    margin: 0 1.5rem 1.25rem 0;
+    font-weight: 700;
+    line-height: 1.3;
+  }
+  #smcg-share-options {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+  #smcg-share-options button,
+  #smcg-share-options a {
+    display: block;
+    padding: 0.6rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.875rem;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid #3B4D1E;
+  }
+  #smcg-share-options button { background: #3B4D1E; color: #fff; }
+  #smcg-share-options button:hover { background: #4f6a28; }
+  #smcg-share-options a { background: #fff; color: #3B4D1E; }
+  #smcg-share-options a:hover { background: #f4f8ee; }
+  #smcg-share-confirm {
+    display: block;
+    margin-top: 0.75rem;
+    color: #3B4D1E;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  .smcg-share-btn {
+    padding: 0.45rem 1rem;
+    background: none;
+    border: 1px solid #3B4D1E;
+    border-radius: 3px;
+    color: #3B4D1E;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.8rem;
+  }
+  .smcg-share-btn:hover { background: #3B4D1E; color: #fff; }
+  /* Share button inside dark post-footer */
+  .post-footer .smcg-share-btn { border-color: rgba(255,255,255,0.45); color: #fff; }
+  .post-footer .smcg-share-btn:hover { background: rgba(255,255,255,0.12); color: #fff; }
 
   /* ── Inline player card ──────────────────────────────── */
   .smcg-card {
@@ -391,6 +616,16 @@
     transition: opacity 0.15s;
   }
   .smcg-tp-listen:hover { opacity: 1; }
+  .smcg-tp-email-sep {
+    border: none;
+    border-top: 1px dashed #ccc;
+    margin: 1.2em 0 0.8em;
+  }
+  .smcg-tp-from {
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 0.2em !important;
+  }
   .smcg-tp-body p {
     font-size: 0.9rem;
     line-height: 1.85;
@@ -411,3 +646,58 @@
   }
   .smcg-transcript-link:hover { background: #e6f0da; }
 </style>
+
+<div id="smcg-share-overlay" hidden>
+  <div id="smcg-share-modal">
+    <button id="smcg-share-close">✕</button>
+    <p id="smcg-share-title"></p>
+    <div id="smcg-share-options">
+      <button onclick="smcgShareCopy()">Copy link</button>
+      <a id="smcg-share-email">Email</a>
+      <button id="smcg-share-ts" hidden onclick="smcgShareTimestamp()">Share from here</button>
+    </div>
+    <span id="smcg-share-confirm" hidden>✓ Copied</span>
+  </div>
+</div>
+
+<script>
+window.smcgOpenShare = function(url, title, hasTimestamp) {
+  document.getElementById('smcg-share-title').textContent = title;
+  var tsBtn = document.getElementById('smcg-share-ts');
+  if (hasTimestamp) { tsBtn.removeAttribute('hidden'); } else { tsBtn.hidden = true; }
+  window._smcgShareUrl = url;
+  var emailLink = document.getElementById('smcg-share-email');
+  emailLink.href = 'mailto:?subject=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(url);
+  document.getElementById('smcg-share-confirm').hidden = true;
+  document.getElementById('smcg-share-overlay').removeAttribute('hidden');
+};
+
+window.smcgShareCopy = function() {
+  navigator.clipboard.writeText(window._smcgShareUrl || window.location.href).then(function() {
+    var el = document.getElementById('smcg-share-confirm');
+    el.hidden = false;
+    setTimeout(function() { el.hidden = true; }, 2000);
+  });
+};
+
+window.smcgShareTimestamp = function() {
+  if (typeof copyTimestampLink === 'function') { copyTimestampLink(); }
+  var el = document.getElementById('smcg-share-confirm');
+  el.hidden = false;
+  setTimeout(function() { el.hidden = true; }, 2000);
+};
+
+document.addEventListener('DOMContentLoaded', function() {
+  var closeBtn = document.getElementById('smcg-share-close');
+  var overlay = document.getElementById('smcg-share-overlay');
+  if (closeBtn) closeBtn.addEventListener('click', function() { overlay.setAttribute('hidden', ''); });
+  if (overlay) overlay.addEventListener('click', function(e) {
+    if (e.target === overlay) overlay.setAttribute('hidden', '');
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && overlay && !overlay.hasAttribute('hidden')) {
+      overlay.setAttribute('hidden', '');
+    }
+  });
+});
+</script>
