@@ -2,7 +2,8 @@
 title: "Are We Really That Smart?"
 date: 2014-10-18
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20141018221740/http://scoutmastercg.com:80/are_we_really_t/"
 ---
 

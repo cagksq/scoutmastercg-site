@@ -2,7 +2,9 @@
 title: "Why Life to Eagle Guides?"
 date: 2012-12-20
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20140829175309/http://scoutmastercg.com/why-life-to-eagle-guides/?replytocom=266"
 ---
 

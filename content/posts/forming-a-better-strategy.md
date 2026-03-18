@@ -2,7 +2,9 @@
 title: "'Forming' a Better Strategy"
 date: 2014-08-25
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Scoutmaster Conference"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20140825004431/http://scoutmastercg.com/forming-a-better-strategy/"
 ---
 

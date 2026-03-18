@@ -2,7 +2,9 @@
 title: "Kandersteg International Scout Center"
 date: 2012-12-20
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "International Scouting"
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20150921144853/http://scoutmastercg.com/kandersteg-international-scout-center/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Troop Problems"
 date: 2012-10-18
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Adult Leadership Roles"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20121018083857/http://www.scoutmastercg.com:80/2006/07/troop_problems/"
 ---
 

@@ -3,8 +3,9 @@ title: "B-P's Blog - Out of Patience"
 date: 2015-07-12
 draft: false
 image: "/images/bp1.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20151220191209/http://scoutmastercg.com/b-ps-blog-out-of-patience/?replytocom=79834"
 ---
 

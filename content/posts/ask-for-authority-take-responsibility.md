@@ -2,7 +2,8 @@
 title: "Ask for Authority - Take Responsibility"
 date: 2013-07-18
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20151101144128/http://scoutmastercg.com:80/ask-for-authority-take-responsibility/"
 ---
 

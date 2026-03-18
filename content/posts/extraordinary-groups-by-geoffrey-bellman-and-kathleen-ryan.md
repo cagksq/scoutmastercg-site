@@ -2,8 +2,8 @@
 title: "Extraordinary Groups by Geoffrey Bellman and Kathleen Ryan"
 date: 2015-03-10
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20150310041717/http://scoutmastercg.com:80/extraordinary-groups/"
 ---
 

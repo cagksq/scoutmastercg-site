@@ -2,7 +2,8 @@
 title: "A Prespective on 'Difficult' Scouts"
 date: 2008-05-29
 draft: false
-categories: ["scouts"]
+topics:
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20140708040939/http://scoutmastercg.com/a-prespective-o/"
 ---
 

@@ -1,0 +1,704 @@
+1
+00:00:00,000 --> 00:00:05,680
+I'm John Clements and I'm the committee chair with Troops 692 in Casabary, Florida.
+
+2
+00:00:05,680 --> 00:00:10,480
+This edition of the Scoutmaster podcast is sponsored by patrons like me.
+
+3
+00:00:11,280 --> 00:00:14,240
+Thanks, Clark. And now to you, Scoutmaster.
+
+4
+00:00:20,640 --> 00:00:24,320
+So during our last visit to Condorsteg International Scout Center in Condorsteg,
+
+5
+00:00:24,320 --> 00:00:29,840
+Switzerland, one of my scouts said to me: you know, it would be really cool to be Swiss.
+
+6
+00:00:30,240 --> 00:00:33,600
+And I said: what makes you say that? And he says: well, the flag is a big plus.
+
+7
+00:00:35,680 --> 00:00:41,120
+Oh boy, we've done it again. Yes, this is podcast number 306..
+
+8
+00:01:00,800 --> 00:01:10,240
+Welcome back to the Scoutmaster podcast. This is Clark Green.
+
+9
+00:01:10,880 --> 00:01:15,680
+Let's take a look in the mailbag. Brian Hildebrand wrote in about our last podcast,
+
+10
+00:01:15,680 --> 00:01:24,480
+podcast 305. We discussed John Thurman and the patrol system And in that discussion
+
+11
+00:01:24,480 --> 00:01:30,320
+I related a story that John Thurman wrote about a brand new patrol in the early,
+
+12
+00:01:30,320 --> 00:01:36,560
+early days of scouting. And Brian Hildebrand wrote in and said: I really like that story.
+
+13
+00:01:36,560 --> 00:01:40,480
+The only thing left to imagine is where they got their hands on a scout handbook
+
+14
+00:01:40,480 --> 00:01:44,480
+And whether their parents even knew that they were going out camping or permitted them to go
+
+15
+00:01:44,480 --> 00:01:49,760
+that first night. And did the policemen show up? because he saw them out there camping, or
+
+16
+00:01:49,760 --> 00:01:54,560
+maybe one of their parents sent them looking for them. But this story of scouts before adult
+
+17
+00:01:54,560 --> 00:01:59,840
+scout involved in it was very interesting. Thanks for all you do for the scouting movement.
+
+18
+00:01:59,840 --> 00:02:04,080
+Well, thank you, Brian, for getting in touch. Another way to get in touch with us is through
+
+19
+00:02:04,080 --> 00:02:08,640
+a live chat session And we try to have a couple every week, usually Tuesday and Wednesday mornings.
+
+20
+00:02:09,280 --> 00:02:13,600
+Keep an eye on our Facebook feed and our Twitter feed And we'll let you know when
+
+21
+00:02:13,600 --> 00:02:18,880
+we're going to be live. at scoutmastercgcom- And a number of people checked in this past
+
+22
+00:02:18,880 --> 00:02:23,680
+week, We had some lively discussions And, in addition to our frequent fliers who've been on
+
+23
+00:02:23,680 --> 00:02:31,120
+the chat before, we heard from Sean Sherwin, who's a scout master of Troop 312 in Green River,
+
+24
+00:02:31,120 --> 00:02:37,920
+Wyoming. Eric Song, who's a training chair in Georgia, Mike Vale, who is with the first Almyra
+
+25
+00:02:37,920 --> 00:02:45,920
+scout group in Ontario. Rob M, who is a committee chair for PAC 135, an assistant scout master
+
+26
+00:02:45,920 --> 00:02:52,960
+with Troop 235 in North Plainfield, New Jersey. So come and join us when we have a live chat. We'd
+
+27
+00:02:52,960 --> 00:02:58,320
+love to hear from you. Over the past couple of weeks I've been talking about seminarcgcom
+
+28
+00:02:58,320 --> 00:03:04,560
+And this is going to be my take on kind of an interactive training and learning environment
+
+29
+00:03:04,560 --> 00:03:10,560
+for scouters And to make this feasible, to get it launched, we started working through
+
+30
+00:03:10,560 --> 00:03:14,320
+patreoncom. I'm going to talk to you more about that in a moment, But I want to let you
+
+31
+00:03:14,320 --> 00:03:20,480
+know. within the next week or so I want to have the introduction to our first seminar ready
+
+32
+00:03:20,480 --> 00:03:25,600
+to go, And this one is going to be about challenge learning and achievement in scouting-
+
+33
+00:03:25,600 --> 00:03:30,079
+And that's a fancy way for saying advancement. But there's a method to that title and it'll
+
+34
+00:03:30,079 --> 00:03:35,920
+be explained in the introduction. So keep an eye open for that and check us out at Patreon,
+
+35
+00:03:35,920 --> 00:03:41,600
+because I want to ask a favor of you. If what we're doing has helped you, if you're a regular
+
+36
+00:03:41,680 --> 00:03:48,160
+reader and listener, you can return the favor in one of two ways. You can support the podcast by
+
+37
+00:03:48,160 --> 00:03:54,079
+making a one-time payment and become a scoutmastercgcom backer, Or you can make a subscription
+
+38
+00:03:54,079 --> 00:04:00,640
+payment via Patreon by pledging $5 or more a month. That also helps us get seminarcg
+
+39
+00:04:00,640 --> 00:04:05,120
+off the ground. if you become a patron through Patreon, There's special premiums available
+
+40
+00:04:05,120 --> 00:04:10,400
+to anyone who becomes a patron or a backer. So here's how to make either of those things
+
+41
+00:04:10,400 --> 00:04:15,680
+happen. To become a backer, it's pretty simple: Go to scoutmastercgcom, click the support link
+
+42
+00:04:15,680 --> 00:04:19,840
+at the top of the page and you'll find a number of options there that will make you a backer
+
+43
+00:04:20,399 --> 00:04:26,080
+And I want to take a moment to personally thank Michael Nelson and Laura Hiley, who've become
+
+44
+00:04:26,080 --> 00:04:31,920
+backers since our last podcast. Now to become a patron, you can click the link to my Patreon
+
+45
+00:04:31,920 --> 00:04:41,200
+page in the podcast notes or you can go directly to wwwpatreoncom- backslash scoutmastercg. Patreon-
+
+46
+00:04:41,200 --> 00:04:49,600
+p-a-t-r-e-o-n dot com backslash scoutmastercg. And if you become a patron or a backer this
+
+47
+00:04:49,600 --> 00:04:54,240
+week, I'll make sure to thank you personally in our next podcast. Well, the remainder of this
+
+48
+00:04:54,240 --> 00:04:59,360
+podcast is going to be taken up with a discussion about planning and your patroller's council,
+
+49
+00:04:59,360 --> 00:05:04,240
+because I get a fair number of questions about that and it was the subject of some of our talk
+
+50
+00:05:04,240 --> 00:05:08,320
+during the live chat this week And I thought I'd take the opportunity to kind of lay out
+
+51
+00:05:09,200 --> 00:05:14,320
+some ideas about planning that might help you and your scouts, And that's going to take up the
+
+52
+00:05:14,320 --> 00:05:16,800
+remainder of the podcast. So let's get started, shall we?
+
+53
+00:05:16,800 --> 00:05:23,600
+He's my favorite all-time boy scout.
+
+54
+00:05:24,320 --> 00:05:30,400
+He's my favorite all-time boy scout.
+
+55
+00:05:45,840 --> 00:05:51,120
+The question of scouts, planning and the way the patroller's council plans and how those things
+
+56
+00:05:51,120 --> 00:05:56,880
+work is actually simple. but most simple things are kind of complex.
+
+57
+00:06:00,080 --> 00:06:05,520
+I mean, you know this is not something that you necessarily can reduce down to okay,
+
+58
+00:06:05,520 --> 00:06:11,440
+A, B, C: 1,, 2, 3.. This is how you do it. What you have to understand is why we do it first.
+
+59
+00:06:11,440 --> 00:06:18,240
+So I want to zoom way, way out, because I think there's one thing that will really help you
+
+60
+00:06:18,240 --> 00:06:24,880
+work with your patroller's council to form plans and it will make the whole planning process a lot
+
+61
+00:06:24,880 --> 00:06:30,080
+less difficult. So zoom in way, way out. We're zooming way way out because I need to begin
+
+62
+00:06:30,080 --> 00:06:35,760
+with one observation, and I want to contextualize that observation first by saying I am not a
+
+63
+00:06:35,760 --> 00:06:40,320
+big fan of people my age, and I'm 56 years old. I'm not a big fan of people my age
+
+64
+00:06:40,320 --> 00:06:46,000
+making that myopic judgment that things were better when we were younger or things were
+
+65
+00:06:46,000 --> 00:06:50,960
+better at some time in the indeterminate past, because this can't possibly be true,
+
+66
+00:06:50,960 --> 00:06:54,320
+because no matter where you put a pin in the long pageant of history,
+
+67
+00:06:54,960 --> 00:06:59,440
+older people were always saying that about younger people. They were always complaining
+
+68
+00:06:59,440 --> 00:07:04,320
+that things used to be great, now they're horrible. I don't buy it. I don't think you
+
+69
+00:07:04,320 --> 00:07:09,680
+should buy it either. So this observation is not about how great things used to be and
+
+70
+00:07:09,680 --> 00:07:15,120
+everything's horrible now. No, I wanted to just observe that things have changed since I was
+
+71
+00:07:15,120 --> 00:07:21,040
+the age of my scouts in this world. There are more options and choices available to people now
+
+72
+00:07:21,040 --> 00:07:26,080
+than there were when I was their age. Now, that's just an observation. I'm certainly not saying
+
+73
+00:07:26,080 --> 00:07:30,640
+that more options are bad, because I don't think objectively, that they are. I'm just saying that
+
+74
+00:07:30,640 --> 00:07:36,160
+this may help you, if you're in my generation, begin to understand the particular things that
+
+75
+00:07:36,160 --> 00:07:41,360
+we're dealing with when we're asking our scouts to sit down and think through and plan things.
+
+76
+00:07:41,440 --> 00:07:47,360
+Okay, so we've got that right. Let's stay zoomed out for a moment and just look at the idea of a
+
+77
+00:07:47,360 --> 00:07:53,200
+society or a culture and the number of options that people within that society or culture have.
+
+78
+00:07:53,200 --> 00:07:58,640
+Every progressive society believes in the freedom of choice and that more choice equals more freedom,
+
+79
+00:07:58,640 --> 00:08:02,560
+and more freedom equals greater welfare for the citizens in that society. right,
+
+80
+00:08:03,200 --> 00:08:09,120
+But we're learning that simply increasing options does not necessarily improve our welfare or our
+
+81
+00:08:09,120 --> 00:08:14,560
+lives. The more options there are, the easier it is to regret anything that we did not choose.
+
+82
+00:08:15,920 --> 00:08:20,000
+It's kind of a paradox, isn't it? If you want to really delve into that subject,
+
+83
+00:08:20,000 --> 00:08:24,800
+try googling the paradox of choice, because there's a lot to be said about it. But for the purposes
+
+84
+00:08:24,800 --> 00:08:30,400
+of our conversation, let's just agree that more options does not always make things better,
+
+85
+00:08:30,400 --> 00:08:34,960
+and actually there are a set of circumstances where having more options can make things
+
+86
+00:08:34,960 --> 00:08:40,560
+worse. Okay, so we got that right. So now we can zoom in a little bit, because when I get
+
+87
+00:08:40,560 --> 00:08:45,200
+questions from scouts about the way scouts plan, I usually hear one of two things.
+
+88
+00:08:45,840 --> 00:08:51,200
+The first one is that they don't plan very well or at all, And the second one is that
+
+89
+00:08:51,200 --> 00:08:55,440
+they always plan the same things and they want me to give them new and creative program ideas
+
+90
+00:08:55,440 --> 00:08:59,280
+for their scouts to do. And I think a lot of that has to do with the idea that we're convinced
+
+91
+00:08:59,280 --> 00:09:03,120
+that the more choices they have, the better things will be. And I'm telling you that
+
+92
+00:09:03,120 --> 00:09:08,160
+that's not necessarily so. We're worried that our scouts will be bored or that we'll lose older
+
+93
+00:09:08,160 --> 00:09:11,840
+scouts because they're doing the same thing all the time. And I'm going to say that's not
+
+94
+00:09:11,840 --> 00:09:18,400
+necessarily so, because the answer to all this is relatively simple. Scouting is not a product
+
+95
+00:09:18,400 --> 00:09:23,120
+that we choose to purchase off a shelf that comes in a number of sizes and colors.
+
+96
+00:09:23,120 --> 00:09:29,120
+It's a really a very simple thing. Scouting is a progressive set of experiences designed
+
+97
+00:09:29,120 --> 00:09:34,960
+to achieve a specific aim. So when you sit down with your scouts to plan the first question you
+
+98
+00:09:34,960 --> 00:09:41,680
+want to ask is not: what are we going to do. The first question you want to ask is: who are we?
+
+99
+00:09:41,680 --> 00:09:46,800
+And in the podcast notes I will link to my 15 minute patrol leader training,
+
+100
+00:09:46,800 --> 00:09:51,360
+one side of an eight and a half by 11 sheet. That's all, And this talks about the answer
+
+101
+00:09:51,360 --> 00:09:55,920
+to that question. So, in short, the answer to that question is when we ask: Hey, who are we?
+
+102
+00:09:55,920 --> 00:10:02,079
+while we're scouts, Then we can ask ourselves: what do scouts do? And those things become our plans.
+
+103
+00:10:02,079 --> 00:10:06,719
+Okay, scouts go camping and they learn skills and apply them to their activities, They
+
+104
+00:10:06,719 --> 00:10:11,280
+explore hobbies and careers, They serve their community, They're responsible to organize
+
+105
+00:10:11,280 --> 00:10:16,000
+and plan their own activities And they put the scout oath and law into practice. So, if
+
+106
+00:10:16,000 --> 00:10:20,160
+you follow my logic, fairly simple- We don't begin by asking: what are we going to do.
+
+107
+00:10:20,160 --> 00:10:23,599
+We begin by saying: who are we? Well, we're scouts. What do scouts do?
+
+108
+00:10:23,600 --> 00:10:27,200
+Huh, well, we're going to do the things that scouts do. Now, if that's not making sense,
+
+109
+00:10:27,200 --> 00:10:31,680
+let me give you this analogy: A basketball team is made up of basketball players and they play
+
+110
+00:10:31,680 --> 00:10:36,160
+the game of basketball. They don't go to the basketball court and say: what are we going to
+
+111
+00:10:36,160 --> 00:10:41,040
+do? What game will we play? No, they know. they've all sorted this out when they signed up to
+
+112
+00:10:41,040 --> 00:10:44,400
+be a basketball player. They know the game that they're going to play. When they get to the
+
+113
+00:10:44,400 --> 00:10:48,160
+basketball court, they don't begin by painting boundaries on the floor and setting up the
+
+114
+00:10:48,160 --> 00:10:51,840
+baskets, because that's already been determined. They don't sit down and discuss what rules
+
+115
+00:10:51,840 --> 00:10:55,440
+they're going to play by, because the rules have already been set up right. So when the
+
+116
+00:10:55,440 --> 00:11:00,240
+patrol leaders council sits down to plan, they do not begin with a blank sheet of paper.
+
+117
+00:11:00,240 --> 00:11:05,040
+Their scouts and scouts do specific things. The field of play is already determined and
+
+118
+00:11:05,040 --> 00:11:09,760
+the rules are already written. So there are a set of constraints that we have when we're scouts,
+
+119
+00:11:10,320 --> 00:11:14,720
+And these constraints do not mean an unlimited number of choices. Remember what we talked
+
+120
+00:11:14,720 --> 00:11:18,800
+about a moment ago. The idea of an unlimited number of choices seems like a really great idea,
+
+121
+00:11:18,800 --> 00:11:23,920
+because more choices means more freedom. but we know that that breaks down at a certain point
+
+122
+00:11:23,920 --> 00:11:29,520
+And more choices is not more freedom. More choices may mean a really baffling ordeal of
+
+123
+00:11:29,520 --> 00:11:33,280
+trying to figure out which one to choose. And here's an analogy for you With that:
+
+124
+00:11:33,280 --> 00:11:37,920
+go to the grocery store and go to the salad dressing aisle. How many salad dressings are
+
+125
+00:11:37,920 --> 00:11:44,000
+there? 100? 200? Who can choose? If you were asked to make a choice, you got to pick one
+
+126
+00:11:44,000 --> 00:11:48,480
+salad dressing there for the rest of your life. Good luck with that, because as soon as you
+
+127
+00:11:48,480 --> 00:11:51,920
+make a choice, all of the other options are going to be staring back at you and make you
+
+128
+00:11:51,920 --> 00:11:55,840
+doubt whether or not you've made the right choice, And so that choice doesn't bring you
+
+129
+00:11:55,840 --> 00:12:00,800
+satisfaction and fulfillment. The choice brings you uncertainty. That's the nature of choosing,
+
+130
+00:12:00,800 --> 00:12:05,360
+and especially in the present culture that we're living in, The number of choices that we have
+
+131
+00:12:05,360 --> 00:12:10,640
+does not necessarily equal fulfillment and happiness. So the idea of unlimited choice
+
+132
+00:12:10,640 --> 00:12:14,000
+is not necessarily a positive one. When we sit down with our scouts and say
+
+133
+00:12:14,000 --> 00:12:17,280
+here's a blank piece of paper, You can do anything you want, No, we have a game,
+
+134
+00:12:17,280 --> 00:12:22,400
+We have rules, We have a field of play. It's already all set up, and within those constraints,
+
+135
+00:12:22,400 --> 00:12:29,360
+you see, we can make a number of choices, And the number of those choices is practically
+
+136
+00:12:29,360 --> 00:12:35,199
+unlimited. And alls we have to do to triage that number of choices is to ask ourselves some
+
+137
+00:12:35,199 --> 00:12:40,720
+questions, You know, can we afford to do that particular activity? Is it logistically possible?
+
+138
+00:12:40,720 --> 00:12:46,400
+And the whole idea of planning then becomes much simpler. So let's go back and review this.
+
+139
+00:12:46,400 --> 00:12:51,680
+First of all, I would say that one observable change that's happened since I was the age of my
+
+140
+00:12:51,680 --> 00:12:56,959
+scouts is the number of choices available to them have grown exponentially. not only you know
+
+141
+00:12:56,959 --> 00:13:00,880
+the number of salad dressings available at the grocery store, but the number of choices they
+
+142
+00:13:00,880 --> 00:13:05,840
+have in their lives for who they can be and what they will do, And what we do is. we normally
+
+143
+00:13:05,840 --> 00:13:11,760
+equate welfare with freedom, freedom with the number of choices, But we also understand that
+
+144
+00:13:11,760 --> 00:13:18,560
+just adding options to the list is not necessarily the best thing for us. An unlimited number of
+
+145
+00:13:18,560 --> 00:13:25,120
+choices can result in confusion and dissatisfaction, not focus and fulfillment. right, We don't begin
+
+146
+00:13:25,120 --> 00:13:30,960
+planning by asking: what do you want to do. We begin planning by asking who are we, And the
+
+147
+00:13:30,960 --> 00:13:37,520
+answer is: we're scouts. And then we ask ourselves: what do scouts do? Well, we have a defined
+
+148
+00:13:37,520 --> 00:13:44,880
+field of play and a defined set of rules by which we play our game, And so it is within those constraints
+
+149
+00:13:44,880 --> 00:13:50,880
+that we begin making choices about what we want to do. to dial all of this heady talk down to a very,
+
+150
+00:13:50,880 --> 00:13:56,319
+very practical level, Check out my 15 minute patrol leader training, because scouts do very
+
+151
+00:13:56,319 --> 00:14:01,680
+specific things to achieve a very specific set of aims, And so those are the things that we're
+
+152
+00:14:01,680 --> 00:14:05,680
+going to plan on doing. I hope that makes sense, And I'd like to hear your comments and
+
+153
+00:14:05,680 --> 00:14:10,160
+reactions and questions about what I've talked about today. So I want you to get in touch with me.
+
+154
+00:14:10,160 --> 00:14:21,600
+It's a very simple thing to do, And you're going to find out how to do it in just a moment.
+
+155
+00:14:26,160 --> 00:14:32,240
+Well, thank you for listening to this 306th edition of the Scoutmaster podcast.
+
+156
+00:14:32,320 --> 00:14:39,440
+Here's how to keep in touch. Go to scoutmastercgcom. You can read over 1600 articles in the blog
+
+157
+00:14:39,440 --> 00:14:44,560
+and listen to over 300 editions of the Scoutmaster podcast. You can also
+
+158
+00:14:45,520 --> 00:14:51,040
+subscribe to receive updates by email to the blog and the podcast, And you can touch
+
+159
+00:14:51,040 --> 00:14:56,880
+base with us through the vast panorama of social media. We've got 12,000 folks who
+
+160
+00:14:56,880 --> 00:15:01,920
+like Scoutmaster blog on Facebook, a chorus of 1500 tweeters on Twitter,
+
+161
+00:15:01,920 --> 00:15:08,240
+and we pin Pultritudinous pictures. We profit them publicly with 2400 other prolific
+
+162
+00:15:08,240 --> 00:15:13,840
+Pinterest pinners, And you can watch as the Scoutmaster CG on YouTube. But if none of that
+
+163
+00:15:13,840 --> 00:15:17,439
+really works for you, if Twitter makes you better, if you can't face Facebook,
+
+164
+00:15:17,439 --> 00:15:21,600
+you've no interest in Pinterest, and don't put the you in YouTube, That's all right,
+
+165
+00:15:21,600 --> 00:15:29,200
+Bunky, Just sail into the late 1990s and fire off an email. Yes, it's easy to do. I'm always
+
+166
+00:15:29,200 --> 00:15:43,680
+available at Clark at scoutmastercgcom, CLA RKE at scoutmastercgcom, And if none of that works,
+
+167
+00:15:43,680 --> 00:15:49,600
+scroll your question out on a piece of paper hermetically, seal it in a glass bottle and
+
+168
+00:15:49,600 --> 00:15:54,080
+bury it in any campfire circle. I will receive that question and send you an answer,
+
+169
+00:15:54,080 --> 00:15:59,600
+because I have agents everywhere. By now, it should be abundantly clear that the Scoutmaster blog
+
+170
+00:15:59,600 --> 00:16:03,280
+and the Scoutmaster podcast and all the other stuff that we're doing is not
+
+171
+00:16:03,280 --> 00:16:08,720
+endorsed or sponsored by any scouting organization. Oh, my goodness. no, It's just me with a
+
+172
+00:16:08,720 --> 00:16:13,280
+microphone and a way to get on the internet and people listen to the things that I record,
+
+173
+00:16:13,280 --> 00:16:17,440
+And it's unbelievable, isn't it? And I just try and lend a hand to my fellow
+
+174
+00:16:17,520 --> 00:16:22,640
+scouts and have a little bit of fun along the way. And speaking of fun, here he is
+
+175
+00:16:22,640 --> 00:16:29,520
+our founder, Sir Robert Baden-Powell. Sir Robert, Good luck to you and good camping.
+
+176
+00:16:29,520 --> 00:16:36,720
+Oh, I thank you, sir, Until next time, everyone.
+

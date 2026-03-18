@@ -2,7 +2,9 @@
 title: "Bedwetting and Scouts"
 date: 2016-04-23
 draft: false
-categories: ["outdoors", "advancement"]
+topics:
+  - "Mentoring & Coaching"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20160423030822/http://scoutmastercg.com:80/bedwetting-and-scouts/"
 ---
 

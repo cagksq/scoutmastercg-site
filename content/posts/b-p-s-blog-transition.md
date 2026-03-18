@@ -3,8 +3,9 @@ title: "B-P's Blog - Transition"
 date: 2015-05-10
 draft: false
 image: "/images/bp5.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150610025114/http://scoutmastercg.com:80/b-ps-blog-transition/"
 ---
 

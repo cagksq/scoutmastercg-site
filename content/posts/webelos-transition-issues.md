@@ -2,7 +2,8 @@
 title: "Webelos Transition Issues"
 date: 2015-09-19
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150919143748/http://scoutmastercg.com/webelos_transit/"
 ---
 

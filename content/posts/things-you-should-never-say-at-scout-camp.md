@@ -2,7 +2,8 @@
 title: "Things You Should Never Say at Scout Camp"
 date: 2013-07-01
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Scout Activities & Games"
 wayback_url: "https://web.archive.org/web/20150313214238/http://scoutmastercg.com:80/things-you-should-never-say-at-scout-camp/"
 ---
 

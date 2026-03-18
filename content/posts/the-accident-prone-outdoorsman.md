@@ -2,7 +2,9 @@
 title: "The Accident Prone Outdoorsman"
 date: 2013-10-11
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20151014175928/http://scoutmastercg.com/outdoorsafe-out/"
 ---
 

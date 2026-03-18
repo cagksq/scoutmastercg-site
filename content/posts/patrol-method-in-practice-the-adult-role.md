@@ -2,7 +2,9 @@
 title: "Patrol Method in Practice - The Adult Role"
 date: 2013-01-26
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Patrol Method"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20130126084116/http://www.scoutmastercg.com:80/patrol-method-in-practice-the-adult-role/"
 ---
 

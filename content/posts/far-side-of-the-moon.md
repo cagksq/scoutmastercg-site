@@ -2,7 +2,9 @@
 title: "Far Side of the Moon"
 date: 2015-04-02
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Parent Relations"
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20150402034153/http://scoutmastercg.com:80/far-side-of-the-moon/"
 ---
 

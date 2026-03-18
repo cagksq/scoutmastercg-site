@@ -2,7 +2,8 @@
 title: "An Ontario Scouting Adventure"
 date: 2014-08-30
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20170514210907/http://scoutmastercg.com:80/an-ontario-scouting-adventure/"
 ---
 

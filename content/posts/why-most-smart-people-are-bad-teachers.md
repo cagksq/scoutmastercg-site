@@ -2,7 +2,9 @@
 title: "Why Most Smart People are Bad Teachers."
 date: 2012-09-18
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Mentoring & Coaching"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20130101163502/http://www.scoutmastercg.com:80/why-most-smart-people-are-bad-teachers/"
 ---
 

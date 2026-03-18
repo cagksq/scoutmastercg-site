@@ -2,7 +2,8 @@
 title: "Scout Fundraising"
 date: 2013-10-12
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Fundraising & Finances"
 wayback_url: "https://web.archive.org/web/20150920030008/http://scoutmastercg.com/scout_fundraisi/"
 ---
 

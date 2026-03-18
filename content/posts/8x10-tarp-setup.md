@@ -2,7 +2,8 @@
 title: "8x10 Tarp Setup"
 date: 2007-06-19
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20141009014603/http://scoutmastercg.com:80/tarps/"
 ---
 

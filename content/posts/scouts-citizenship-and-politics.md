@@ -2,7 +2,9 @@
 title: "Scouts , Citizenship and Politics"
 date: 2014-10-11
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Citizenship & Patriotism"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20141011011719/http://scoutmastercg.com:80/scouts-citizens/"
 ---
 

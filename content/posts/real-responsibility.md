@@ -2,7 +2,9 @@
 title: "Real Responsibility"
 date: 2005-11-01
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150919193805/http://scoutmastercg.com/real_responsibi/"
 ---
 

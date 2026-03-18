@@ -2,7 +2,9 @@
 title: "What is a Scout Vacation?"
 date: 2013-10-11
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Camping"
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20141223165017/http://scoutmastercg.com:80/what-is-a-scout-vacation/"
 ---
 

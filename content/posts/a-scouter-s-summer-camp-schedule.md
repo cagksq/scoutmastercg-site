@@ -2,7 +2,9 @@
 title: "A Scouter's Summer Camp Schedule"
 date: 2013-06-19
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20160919093612/http://scoutmastercg.com:80/scouters-summer-camp-schedule/"
 ---
 

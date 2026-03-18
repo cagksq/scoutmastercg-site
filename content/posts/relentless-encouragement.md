@@ -2,7 +2,9 @@
 title: "Relentless Encouragement"
 date: 2013-10-29
 draft: false
-categories: ["scouts"]
+topics:
+  - "Mentoring & Coaching"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20131029061341/http://www.scoutmastercg.com:80/relentless-encouragement/"
 ---
 

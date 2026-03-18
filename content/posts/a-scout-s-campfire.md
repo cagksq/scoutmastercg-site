@@ -2,7 +2,9 @@
 title: "A Scout's Campfire"
 date: 2006-11-02
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Camping"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150919075827/http://scoutmastercg.com/a_scouts_campfi/"
 ---
 

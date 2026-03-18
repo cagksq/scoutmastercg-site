@@ -2,7 +2,8 @@
 title: "High Adventure Plans"
 date: 2012-09-11
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20170514213513/http://scoutmastercg.com:80/high-adventure-plans/"
 ---
 

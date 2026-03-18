@@ -2,7 +2,9 @@
 title: "What is a \"Boy-Led Troop\"?"
 date: 2017-05-18
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20170518194918/http://scoutmastercg.com/what-is-a-boy-led-troop/"
 ---
 

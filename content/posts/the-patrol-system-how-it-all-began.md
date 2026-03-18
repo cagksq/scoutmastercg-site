@@ -2,7 +2,9 @@
 title: "The Patrol System - How it All Began"
 date: 2009-08-10
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Patrol Method"
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20140825072404/http://scoutmastercg.com/the-patrol-system-how-it-all-began/"
 ---
 

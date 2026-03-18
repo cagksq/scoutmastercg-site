@@ -2,7 +2,9 @@
 title: "A New Scoutmaster - Chapter Four"
 date: 2014-12-06
 draft: false
-categories: ["patrol-method", "scoutmasters-job"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20141206153712/http://scoutmastercg.com:80/new-scoutmaster-chapter-four/"
 ---
 

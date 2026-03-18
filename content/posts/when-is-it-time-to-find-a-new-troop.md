@@ -2,7 +2,9 @@
 title: "When is it time to find a new Troop?"
 date: 2016-07-28
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Parent Relations"
+  - "Scout Parents"
 wayback_url: "https://web.archive.org/web/20160728000007/http://scoutmastercg.com:80/when-is-it-time/"
 ---
 

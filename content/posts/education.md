@@ -2,10 +2,9 @@
 title: "Education"
 date: 2005-11-01
 draft: false
-categories:
-  - scouting-ideals
+topics:
+  - "Quotes & Brief Reflections"
 ---
-
 Knowledge acquired under compulsion obtains no hold on the mind.
 -Plato
 

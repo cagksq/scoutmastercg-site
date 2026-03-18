@@ -2,7 +2,8 @@
 title: "High Adventure Facts and Myths"
 date: 2011-08-30
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20170918114236/http://scoutmastercg.com/high-adventure-facts-and-myths/"
 ---
 

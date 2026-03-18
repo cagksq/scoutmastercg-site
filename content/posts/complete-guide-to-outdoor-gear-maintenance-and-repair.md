@@ -2,8 +2,8 @@
 title: "Complete Guide to Outdoor Gear Maintenance and Repair"
 date: 2013-10-12
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20150912043458/http://scoutmastercg.com/camping-gear-repair-and-maintainence/"
 ---
 

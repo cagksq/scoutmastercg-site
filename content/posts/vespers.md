@@ -2,7 +2,9 @@
 title: "Vespers"
 date: 2005-11-01
 draft: false
-categories: ["scouting-ideals", "outdoors"]
+topics:
+  - "Spirituality & Religion"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20140707205929/http://scoutmastercg.com/vespers/"
 ---
 

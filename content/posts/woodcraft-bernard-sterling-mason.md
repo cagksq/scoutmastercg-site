@@ -2,8 +2,8 @@
 title: "Woodcraft - Bernard Sterling Mason"
 date: 2012-05-03
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20140901032041/http://scoutmastercg.com/bernard-sterling-mason/?replytocom=8293"
 ---
 

@@ -2,7 +2,9 @@
 title: "Program - Canned or Fresh?"
 date: 2008-04-30
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20150919044716/http://scoutmastercg.com/program-canne/"
 ---
 

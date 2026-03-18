@@ -2,7 +2,9 @@
 title: "Lack of Volunteers?"
 date: 2012-11-05
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Volunteer Management & Burnout"
+  - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20150916201833/http://scoutmastercg.com/lack-of-volunteers/"
 ---
 

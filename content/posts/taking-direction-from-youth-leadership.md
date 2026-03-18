@@ -2,7 +2,9 @@
 title: "Taking Direction from Youth Leadership"
 date: 2013-10-12
 draft: false
-categories: ["patrol-method", "scoutmasters-job"]
+topics:
+  - "Youth Leadership Development"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20140707192638/http://scoutmastercg.com/finding-directi/"
 ---
 

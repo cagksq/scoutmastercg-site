@@ -1,0 +1,2843 @@
+1
+00:00:00,000 --> 00:00:02,120
+And now for you, Scoutmaster.
+
+2
+00:00:08,500 --> 00:00:10,700
+This is no joke, Okay, this is true.
+
+3
+00:00:10,940 --> 00:00:16,920
+Years ago, I taught principles of navigation for the Department of Natural Resources, for the hunter education class,
+
+4
+00:00:16,920 --> 00:00:19,780
+because we were picking up a lot of lost hunters every year,
+
+5
+00:00:20,440 --> 00:00:26,720
+And so they developed this questionnaire where they would ask these lost hunters a battery of different questions,
+
+6
+00:00:26,720 --> 00:00:30,900
+And one of the questions they asked them was: do you carry a compass?
+
+7
+00:00:31,820 --> 00:00:33,680
+And most of them did.
+
+8
+00:00:34,519 --> 00:00:41,680
+And so then the next question was: well, you know, why didn't you use the compass to, you know, find your way out of the woods?
+
+9
+00:00:42,440 --> 00:00:46,480
+And the answer was: well, you know, I tried, but I don't know how.
+
+10
+00:00:47,060 --> 00:00:51,820
+And then the next question was: well, if you don't know how, then why do you carry a compass?
+
+11
+00:00:51,820 --> 00:00:56,780
+And the answer- believe it or not- was: everyone should carry a compass in case they get lost.
+
+12
+00:00:59,040 --> 00:01:02,060
+So I don't know if that's a joke or not, but it's a true story.
+
+13
+00:01:03,120 --> 00:01:08,740
+This is Cliff Jacobson, and you're listening to the Scoutmaster Podcast with Clark Green.
+
+14
+00:01:09,800 --> 00:01:11,720
+Hey, this is podcast number 54..
+
+15
+00:01:11,720 --> 00:01:12,320
+Hey,
+
+16
+00:01:21,820 --> 00:01:42,740
+Welcome back to the Scoutmaster Podcast.
+
+17
+00:01:42,979 --> 00:01:44,199
+This is Clark Green.
+
+18
+00:01:44,200 --> 00:01:53,340
+So most of this podcast is an interview that I recently conducted with guide and author Cliff Jacobson, who's kind of one of my outdoor heroes.
+
+19
+00:01:53,840 --> 00:01:58,900
+There are a couple of his books that I keep very close to hand and I refer to very often.
+
+20
+00:01:59,320 --> 00:02:02,620
+We'll hear a little bit more about those in the interview.
+
+21
+00:02:03,200 --> 00:02:05,200
+Let me catch up with some correspondence here.
+
+22
+00:02:06,140 --> 00:02:07,800
+Mr Merritt writes: I love your podcast.
+
+23
+00:02:07,900 --> 00:02:10,180
+You're actually interesting to listen to.
+
+24
+00:02:10,180 --> 00:02:15,500
+You have great thoughts and it really helps me develop my troop's youth leadership.
+
+25
+00:02:16,320 --> 00:02:17,120
+Well, thank you, Mr Mayor.
+
+26
+00:02:18,220 --> 00:02:19,920
+I'm interesting to listen to.
+
+27
+00:02:21,100 --> 00:02:24,000
+You know we could take that in a lot of different ways.
+
+28
+00:02:25,360 --> 00:02:26,660
+I'll take it as a compliment.
+
+29
+00:02:27,520 --> 00:02:32,020
+Bill says this. I'm slowly working through the podcast archive and I'm now on number 42..
+
+30
+00:02:32,380 --> 00:02:34,900
+I am really enjoying your comments and suggestions.
+
+31
+00:02:35,500 --> 00:02:36,140
+Well, thanks, Bill.
+
+32
+00:02:36,660 --> 00:02:37,780
+Thanks for being in touch.
+
+33
+00:02:37,780 --> 00:02:49,420
+If you want to work your way through the archive along with Bill, if you go to scoutmastertypepadcom, you'll find a link right underneath the banner to the podcast archive.
+
+34
+00:02:49,860 --> 00:02:58,360
+You can work your way through too, and maybe we'll start a support group or something like that for the poor people who are trying to do that.
+
+35
+00:02:58,680 --> 00:03:05,140
+Here's a couple of comments from our discussion of Venture Patrols on Podcast 53, our last podcast,
+
+36
+00:03:05,140 --> 00:03:11,200
+Mike said this. he said that's an excellent solution for boys that want more high adventure in the troop.
+
+37
+00:03:11,320 --> 00:03:13,899
+I plan to incorporate the Venture Patrol in our troops soon.
+
+38
+00:03:14,420 --> 00:03:24,399
+Alan says this. the chart of the Explorer crew that you linked to on last week's podcast reminds me of what we did a few years ago when we put together a Philmont trip.
+
+39
+00:03:24,400 --> 00:03:30,220
+On alternate weekends the crew that we put together did training, hikes and went on treks.
+
+40
+00:03:30,780 --> 00:03:34,260
+Otherwise they were just a normal part of their troop and patrol.
+
+41
+00:03:34,880 --> 00:03:36,020
+The Philmont trip was over,
+
+42
+00:03:36,120 --> 00:03:41,560
+The scouts went back to their troop patrols and in a few cases, to a nearby Venture Crew.
+
+43
+00:03:42,240 --> 00:03:46,280
+In time most of these guys kind of gravitated towards the Venture Crew.
+
+44
+00:03:46,280 --> 00:03:51,700
+We didn't think about appointing a Venture Patrol leader who would replicate the way the Philmont crew operated.
+
+45
+00:03:52,220 --> 00:03:56,260
+I wondered, if we did this, would we have kept older boys closer to the troop?
+
+46
+00:03:56,700 --> 00:03:59,260
+Well, Alan, I've got a couple of thoughts on that.
+
+47
+00:03:59,520 --> 00:04:01,860
+It's good for guys to stay in scouting,
+
+48
+00:04:02,320 --> 00:04:05,880
+And if the way they're going to stay in scouting is to go to a Venture Crew, more power to them-
+
+49
+00:04:06,180 --> 00:04:06,880
+I think it's great.
+
+50
+00:04:07,440 --> 00:04:12,780
+I have found that the Venture Patrol concept does keep guys close to the troop.
+
+51
+00:04:12,780 --> 00:04:15,840
+I mean, that's kind of a fringe benefit of it
+
+52
+00:04:16,019 --> 00:04:23,240
+And it lets them do the things that they really want to go and do away from the quote-unquote little guys.
+
+53
+00:04:23,840 --> 00:04:26,080
+So here's another aspect of that.
+
+54
+00:04:26,220 --> 00:04:27,520
+Steve wrote in and said this:
+
+55
+00:04:27,980 --> 00:04:32,220
+Our troop's recently retired Scoutmaster has just finished creating a Venture Crew-
+
+56
+00:04:32,580 --> 00:04:34,520
+All the charter paperwork and everything-
+
+57
+00:04:35,060 --> 00:04:36,740
+And it's associated with our troop.
+
+58
+00:04:37,440 --> 00:04:39,460
+The scouts are easy to get started with the Ventures
+
+59
+00:04:39,460 --> 00:04:44,080
+And they've been eager to do that long before the crew became official,
+
+60
+00:04:44,260 --> 00:04:49,280
+As a matter of fact, they started planning special Venture activities they could do on normal troop outings
+
+61
+00:04:49,719 --> 00:04:57,440
+While they had a great time. it also created this kind of I'm not in your patrol, I'm a Venture attitude that prevailed throughout the campout.
+
+62
+00:04:57,960 --> 00:04:59,020
+Now how do you handle that?
+
+63
+00:04:59,359 --> 00:05:02,840
+How do you keep a virtual Venture Patrol virtual?
+
+64
+00:05:02,840 --> 00:05:16,679
+Without going into a really incredibly long explanation on this, Steve, the older boy program in scouting is something that is much discussed, much fretted over.
+
+65
+00:05:17,239 --> 00:05:19,099
+Lots of people talk about it.
+
+66
+00:05:19,640 --> 00:05:28,000
+You know our summer camps are very sensitive to offering these older scout opportunities so that boys just don't leave scouting in droves.
+
+67
+00:05:28,679 --> 00:05:31,719
+Here's my basic thinking on it.
+
+68
+00:05:31,720 --> 00:05:35,600
+But the older boy program in scouting is really easy.
+
+69
+00:05:35,720 --> 00:05:37,620
+They lead their troop.
+
+70
+00:05:38,940 --> 00:05:46,460
+Now this leads to the common complaints of: well, I don't want to have to pal around with these younger kids and blah blah. you know,
+
+71
+00:05:47,440 --> 00:05:48,780
+I understand that
+
+72
+00:05:48,900 --> 00:05:50,200
+And that is a real concern.
+
+73
+00:05:50,200 --> 00:06:00,240
+But while it might take some time to do, when you create a culture of responsibility and leadership amongst your older scouts, they're not going anywhere.
+
+74
+00:06:00,979 --> 00:06:02,680
+They will take to the job,
+
+75
+00:06:02,760 --> 00:06:03,740
+They'll take to the challenges,
+
+76
+00:06:03,900 --> 00:06:04,599
+They will love it
+
+77
+00:06:04,760 --> 00:06:09,780
+And they will stay with you all the way up through their graduation from high school
+
+78
+00:06:09,780 --> 00:06:13,080
+And they'll become key leaders within your troop.
+
+79
+00:06:14,159 --> 00:06:19,700
+So just a bit of advice there and kind of what the thinking behind it is.
+
+80
+00:06:19,700 --> 00:06:26,960
+Well, before we get too far into the podcast, I want to get into our interview with Cliff Jacobson.
+
+81
+00:06:27,219 --> 00:06:32,539
+There's a lot of links on the blog to books that we mention and to Cliff's website
+
+82
+00:06:32,820 --> 00:06:37,700
+And, like I said, I was just really excited to be able to spend some time and to speak with him.
+
+83
+00:06:37,700 --> 00:06:42,800
+And after the interview, well, I'll go over how you can get in touch with me through email and online
+
+84
+00:06:42,980 --> 00:06:45,599
+Without further ado. let's get started, shall we?
+
+85
+00:06:45,599 --> 00:06:45,700
+Let's get started,
+
+86
+00:06:45,700 --> 00:06:46,099
+Let's get started,
+
+87
+00:06:46,099 --> 00:06:46,700
+Let's get started,
+
+88
+00:06:46,700 --> 00:06:47,700
+Let's get started,
+
+89
+00:06:47,700 --> 00:06:49,680
+Let's get started.
+
+90
+00:06:49,680 --> 00:07:14,100
+Today I'm speaking with wilderness guide Cliff Jacobson, who's the author of over a dozen top-selling books on camping and canoeing.
+
+91
+00:07:14,100 --> 00:07:18,860
+Cliff's an environmental science teacher who retired after 34 years of teaching
+
+92
+00:07:18,860 --> 00:07:24,660
+And he's the 2003 recipient of the Legends of Paddling Award from the American Canoe Association.
+
+93
+00:07:25,120 --> 00:07:31,180
+As a distinguished Eagle Scout, Cliff continues to contribute to scouting through his articles in Scouting Magazine
+
+94
+00:07:31,440 --> 00:07:37,300
+And, as a matter of fact, if you look in the most current edition- that's the January- February 2011 edition-
+
+95
+00:07:37,360 --> 00:07:40,840
+you're going to find an article by Cliff about building fires in the rain,
+
+96
+00:07:41,560 --> 00:07:44,460
+And Cliff joins me today from his home in River Falls, Wisconsin.
+
+97
+00:07:44,620 --> 00:07:45,400
+Cliff, how are you doing?
+
+98
+00:07:45,400 --> 00:07:47,239
+Hey, yeah, listen, man,
+
+99
+00:07:47,320 --> 00:07:48,479
+Listen, I'm doing great here.
+
+100
+00:07:48,620 --> 00:07:51,340
+Listen, I appreciate the nice intro,
+
+101
+00:07:51,460 --> 00:07:56,799
+But I just got to say something about. thank you for mentioning the latest issue of Scouting Magazine.
+
+102
+00:07:56,800 --> 00:08:04,060
+But for your listeners, I think that particular article is a very interesting and unusual one,
+
+103
+00:08:05,340 --> 00:08:06,200
+And why?
+
+104
+00:08:06,360 --> 00:08:12,040
+Because if you look at the picture in there and you read it, it talks about an axe,
+
+105
+00:08:12,540 --> 00:08:12,780
+Right?
+
+106
+00:08:12,820 --> 00:08:17,000
+You know how traditionally the scouts have felt about axes,
+
+107
+00:08:17,000 --> 00:08:30,100
+And it took a lot of convincing for me to get the boys down in Texas to agree that it was important to be able to build a fire,
+
+108
+00:08:30,220 --> 00:08:32,159
+to be able to use an axe in that manner,
+
+109
+00:08:32,640 --> 00:08:32,740
+Right,
+
+110
+00:08:32,860 --> 00:08:36,520
+And so I think that's a real plus.
+
+111
+00:08:37,159 --> 00:08:38,039
+I think so too,
+
+112
+00:08:38,679 --> 00:08:38,820
+Yeah,
+
+113
+00:08:38,820 --> 00:08:43,039
+And I think scouts who embrace that method will find that it's perfectly safe
+
+114
+00:08:43,080 --> 00:08:45,580
+and you'll always be able to get a fire going for your boys.
+
+115
+00:08:45,580 --> 00:08:50,560
+Well, you know, a lot of times people look at a teenage boy and an axe
+
+116
+00:08:50,660 --> 00:08:53,520
+and they put those two things together and it spells catastrophe.
+
+117
+00:08:53,860 --> 00:08:55,760
+But that ain't necessarily so.
+
+118
+00:08:55,860 --> 00:08:56,760
+We both know that,
+
+119
+00:08:57,280 --> 00:08:57,620
+Yeah,
+
+120
+00:08:57,840 --> 00:09:00,220
+But anyway, I just thought I would mention it.
+
+121
+00:09:00,280 --> 00:09:00,840
+But, thank you,
+
+122
+00:09:01,080 --> 00:09:03,460
+I'm really curious about your time in Scouting.
+
+123
+00:09:03,840 --> 00:09:07,280
+Tell me a little bit about where you were Scouting and where you grew up.
+
+124
+00:09:07,620 --> 00:09:11,060
+Well, actually I grew up and I was born in Chicago-
+
+125
+00:09:12,020 --> 00:09:12,800
+Oh, no, kidding,
+
+126
+00:09:12,800 --> 00:09:13,500
+Yeah, yeah,
+
+127
+00:09:13,599 --> 00:09:17,880
+And I lived right in the heart of Chicago in a third-story apartment building,
+
+128
+00:09:18,099 --> 00:09:19,680
+and I hated every minute of it.
+
+129
+00:09:20,140 --> 00:09:25,420
+As long as I can remember, I had in my blood this idea that I wanted to go camping,
+
+130
+00:09:25,800 --> 00:09:28,660
+that I wanted to be outside, and I wanted to be outdoors camping,
+
+131
+00:09:29,240 --> 00:09:30,859
+And Chicago didn't have it,
+
+132
+00:09:30,860 --> 00:09:33,520
+And the thing that did was the Boy Scouts.
+
+133
+00:09:34,220 --> 00:09:40,360
+And so I embraced the Boy Scouts with full gusto and I belonged to one of those troops,
+
+134
+00:09:40,500 --> 00:09:41,100
+Troop 21..
+
+135
+00:09:41,320 --> 00:09:42,700
+I still remember Troop 21.
+
+136
+00:09:43,380 --> 00:09:46,460
+And we went camping once a month, rain or shine,
+
+137
+00:09:46,920 --> 00:09:49,800
+And that was absolutely the highlight of my life.
+
+138
+00:09:49,800 --> 00:09:55,500
+And the greatest compliment that anybody ever gave me was a Scoutmaster once said to me.
+
+139
+00:09:55,640 --> 00:09:59,380
+he said, Cliff, he says I've read your books. he said,
+
+140
+00:09:59,439 --> 00:10:01,560
+and I don't know who you think you're kidding.
+
+141
+00:10:01,699 --> 00:10:06,099
+He says, all you've done is taken all that old Boy Scout stuff and modernized it.
+
+142
+00:10:06,339 --> 00:10:09,300
+And I said, shh, promise me, you won't tell a soul,
+
+143
+00:10:10,040 --> 00:10:12,339
+You know. so yeah, I owe a lot to Scouting.
+
+144
+00:10:13,160 --> 00:10:17,500
+What do you think kept you involved and interested in Scouts as much as you were?
+
+145
+00:10:17,940 --> 00:10:19,460
+Oh, it was the camping period.
+
+146
+00:10:20,040 --> 00:10:21,600
+It was totally the camping.
+
+147
+00:10:22,120 --> 00:10:27,220
+And you know, we used to have a saying, and I think it's most Scouters still remember:
+
+148
+00:10:27,320 --> 00:10:30,380
+you take the outing out of Scouting, you take the Scouting out of the Boy.
+
+149
+00:10:30,480 --> 00:10:31,260
+Is that still a saying?
+
+150
+00:10:31,720 --> 00:10:32,880
+Yeah, it's still out there.
+
+151
+00:10:33,320 --> 00:10:33,600
+Yeah,
+
+152
+00:10:33,900 --> 00:10:35,940
+That to me is a major thing.
+
+153
+00:10:35,940 --> 00:10:42,320
+I mean because you know, face it, nobody is taking kids in the outdoors.
+
+154
+00:10:42,340 --> 00:10:44,100
+Now, just think about that.
+
+155
+00:10:44,540 --> 00:10:50,800
+Scouting is literally the last place on earth that takes kids out camping.
+
+156
+00:10:51,400 --> 00:10:56,800
+I mean, sure, there's some summer camps, but that's a once-a-year shot for a week or so
+
+157
+00:10:56,940 --> 00:10:58,460
+and then you're done with Scouting.
+
+158
+00:10:58,640 --> 00:10:59,280
+It's a lifestyle.
+
+159
+00:11:00,220 --> 00:11:01,700
+So you know, don't minimize it.
+
+160
+00:11:01,700 --> 00:11:07,960
+I would say to Scout leaders: boy, don't minimize the importance of taking kids on camping trips.
+
+161
+00:11:07,960 --> 00:11:12,540
+I would say that's the most important thing you can do is take them out on camping trips.
+
+162
+00:11:12,900 --> 00:11:19,580
+So when you were a Scout, I mean you didn't go and scale mountains or run rivers or anything like that,
+
+163
+00:11:19,620 --> 00:11:20,520
+You just went out camping.
+
+164
+00:11:20,660 --> 00:11:21,820
+Yeah, we went out camping,
+
+165
+00:11:22,080 --> 00:11:25,960
+We would just go out in the woods. that we used to have in those days.
+
+166
+00:11:26,040 --> 00:11:29,900
+Now this would be considered blasphemy today, but it was so fun when I was a kid.
+
+167
+00:11:29,900 --> 00:11:34,920
+Now, imagine a group of 14-year-olds- 13, 14-year-olds- going on a rifle hike.
+
+168
+00:11:35,020 --> 00:11:40,819
+We would take our .22 rifles and we'd go in the woods with our leaders and we'd just shoot at stuff,
+
+169
+00:11:41,340 --> 00:11:43,699
+We'd just plink, you know,
+
+170
+00:11:43,900 --> 00:11:47,079
+And we would have a couple of rifle hikes a year.
+
+171
+00:11:47,840 --> 00:11:51,100
+And there's no way you could do anything like that today.
+
+172
+00:11:51,100 --> 00:11:52,000
+I'm afraid not.
+
+173
+00:11:52,000 --> 00:11:54,740
+But I have vivid memories of the rifle hike.
+
+174
+00:11:54,880 --> 00:11:56,880
+You weren't too worried about where you went.
+
+175
+00:11:57,180 --> 00:12:04,780
+You weren't too worried about some kind of- you know, excellent program or diversion or something like that.
+
+176
+00:12:04,900 --> 00:12:07,320
+What you wanted to do was get out and sleep in a tent.
+
+177
+00:12:07,680 --> 00:12:09,700
+Yeah, that's exactly it.
+
+178
+00:12:09,940 --> 00:12:12,180
+And I mean people talk about going light today.
+
+179
+00:12:12,300 --> 00:12:13,180
+Are you kidding me?
+
+180
+00:12:13,540 --> 00:12:14,800
+I mean we went light
+
+181
+00:12:15,220 --> 00:12:19,280
+When we would hike. we'd do 20-mile hikes when I was like 13 years old,
+
+182
+00:12:19,280 --> 00:12:23,760
+And I think if my pack weighed 15 pounds, that was probably a lot
+
+183
+00:12:24,020 --> 00:12:25,319
+And it did everything I needed.
+
+184
+00:12:25,819 --> 00:12:31,720
+You know, it had my sleeping bag, my poncho, a little cook kit thing and a knife,
+
+185
+00:12:32,180 --> 00:12:33,920
+And I had a little hatchet. then,
+
+186
+00:12:34,079 --> 00:12:34,260
+Right,
+
+187
+00:12:34,319 --> 00:12:38,220
+And I think, you know, maybe I had a sweater or something like that.
+
+188
+00:12:38,339 --> 00:12:39,660
+That was pretty much it.
+
+189
+00:12:40,319 --> 00:12:41,699
+You know, you built a fire,
+
+190
+00:12:41,819 --> 00:12:43,020
+You put up your poncho,
+
+191
+00:12:43,380 --> 00:12:48,380
+And if it rained, well, you just learned how to rig a tarp so that you didn't get wet.
+
+192
+00:12:48,380 --> 00:12:50,400
+And if you did get wet, well, it was part of the game.
+
+193
+00:12:50,580 --> 00:12:51,840
+And you know, we had a lot of fun.
+
+194
+00:12:51,980 --> 00:12:54,120
+Well, and that's why boys join scouting,
+
+195
+00:12:54,340 --> 00:12:54,620
+Right,
+
+196
+00:12:54,620 --> 00:12:55,820
+Because that's what they want to do,
+
+197
+00:12:56,140 --> 00:12:56,540
+Exactly.
+
+198
+00:12:56,860 --> 00:12:59,560
+So you went on to become an Eagle Scout.
+
+199
+00:13:00,540 --> 00:13:00,860
+Yeah,
+
+200
+00:13:01,120 --> 00:13:03,380
+Do I have the date, the year right? 1956?
+
+201
+00:13:04,400 --> 00:13:06,740
+Yeah, that's right, 1956, yeah,
+
+202
+00:13:07,200 --> 00:13:10,840
+And what do you remember about that whole process putting that all together?
+
+203
+00:13:10,840 --> 00:13:13,380
+Well, you know, I was actually thinking about that.
+
+204
+00:13:13,640 --> 00:13:15,520
+I remember, of course, it was 21: merit badges.
+
+205
+00:13:15,800 --> 00:13:16,740
+Is it still 21?
+
+206
+00:13:16,740 --> 00:13:17,860
+It's 21,. yep,
+
+207
+00:13:17,860 --> 00:13:18,800
+Bill 21..
+
+208
+00:13:19,380 --> 00:13:24,160
+I vividly remember flunking life-saving three times.
+
+209
+00:13:24,580 --> 00:13:25,280
+Three times.
+
+210
+00:13:25,780 --> 00:13:27,080
+That was at summer camp,
+
+211
+00:13:27,260 --> 00:13:30,960
+And so it took me two years to get it, to get life-saving merit badges.
+
+212
+00:13:31,260 --> 00:13:32,520
+You had to have life-saving.
+
+213
+00:13:32,760 --> 00:13:35,720
+There was no way getting out of swimming and life-saving.
+
+214
+00:13:35,840 --> 00:13:39,380
+If you couldn't swim, you couldn't get your Eagle. in those days
+
+215
+00:13:39,460 --> 00:13:41,180
+They didn't have optional badges.
+
+216
+00:13:41,180 --> 00:13:45,680
+I think it's good now that we do for people who can't.
+
+217
+00:13:45,920 --> 00:13:48,099
+I don't remember a service project
+
+218
+00:13:48,599 --> 00:13:49,939
+Now. maybe I did one,
+
+219
+00:13:50,000 --> 00:13:50,780
+I don't remember it.
+
+220
+00:13:50,780 --> 00:13:53,280
+I don't remember in 1956 if we had one or not.
+
+221
+00:13:53,280 --> 00:13:58,640
+There's a lot of guys who would know who will let me know, who are listening to this.
+
+222
+00:13:58,760 --> 00:13:59,780
+Yeah, that would be interesting.
+
+223
+00:13:59,900 --> 00:14:02,660
+You know, maybe I had one, did one, but it was so long ago.
+
+224
+00:14:02,660 --> 00:14:07,920
+Oh, and I also remember the boys were generally older when they got their Eagles in.
+
+225
+00:14:07,980 --> 00:14:10,959
+There were very few Eagles before 15..
+
+226
+00:14:11,319 --> 00:14:12,140
+I was 16..
+
+227
+00:14:12,620 --> 00:14:14,660
+That was a pretty average age then.
+
+228
+00:14:15,000 --> 00:14:16,380
+That's still my experience today.
+
+229
+00:14:16,560 --> 00:14:18,199
+16 actually is a little young,
+
+230
+00:14:18,480 --> 00:14:22,699
+At least in my experience. they end up dragging their feet until they're 17 and a half.
+
+231
+00:14:22,699 --> 00:14:30,839
+Well, that's okay too, because I think you get a lot more experience as you get older,
+
+232
+00:14:30,840 --> 00:14:30,920
+Right?
+
+233
+00:14:31,700 --> 00:14:34,560
+But yeah, it was definitely the camping that drew me to scouting
+
+234
+00:14:34,720 --> 00:14:37,240
+And then in the summer I went to summer camp every summer
+
+235
+00:14:37,860 --> 00:14:39,940
+And that's how I got into the canoeing.
+
+236
+00:14:39,940 --> 00:14:40,320
+Uh-huh,
+
+237
+00:14:41,080 --> 00:14:42,340
+It was in summer camp.
+
+238
+00:14:42,360 --> 00:14:47,920
+Yeah, you talk about that a little bit in your introduction in one of your books, Expedition Canoeing.
+
+239
+00:14:47,920 --> 00:14:51,920
+I guess your first experiences were in one of the great old wood canvas canoes-
+
+240
+00:14:52,780 --> 00:14:53,420
+Oh, yeah, sure
+
+241
+00:14:53,500 --> 00:14:55,100
+I put a lot of miles on those babies-
+
+242
+00:14:56,000 --> 00:14:59,640
+Woodward Thompson's in Old Towns, Shell Lakes.
+
+243
+00:14:59,640 --> 00:15:02,280
+So that's where I learned how to paddle
+
+244
+00:15:02,500 --> 00:15:07,980
+And everything I learned in the outdoors. I basically learned in two ways: one from the Boy Scouts
+
+245
+00:15:08,100 --> 00:15:10,920
+and two from reading all the books in print on the subject.
+
+246
+00:15:11,120 --> 00:15:12,400
+And I just went out and did it.
+
+247
+00:15:12,640 --> 00:15:14,439
+Do you remember what camp it was?
+
+248
+00:15:14,580 --> 00:15:16,819
+Evanston Council was Camp Wabeningo,
+
+249
+00:15:16,960 --> 00:15:17,819
+I remember that.
+
+250
+00:15:18,340 --> 00:15:20,819
+And the Chicago Council was a wassapie
+
+251
+00:15:21,260 --> 00:15:24,220
+And there was three camps. but I went to Camp West,
+
+252
+00:15:24,220 --> 00:15:24,540
+Mm-hmm,
+
+253
+00:15:25,080 --> 00:15:25,900
+I still remember.
+
+254
+00:15:25,900 --> 00:15:32,080
+And the Chicago Council camp was more rugged than the. the Evanston Council camp was more,
+
+255
+00:15:32,080 --> 00:15:34,400
+more frilly, nicer mess hall.
+
+256
+00:15:35,980 --> 00:15:39,120
+You stayed in cabin type things
+
+257
+00:15:39,460 --> 00:15:39,680
+Right.
+
+258
+00:15:39,680 --> 00:15:42,860
+But in the Chicago camp you were intense the whole time.
+
+259
+00:15:43,440 --> 00:15:45,460
+I really liked the Chicago Council camp better.
+
+260
+00:15:45,540 --> 00:15:46,120
+It was more rugged.
+
+261
+00:15:46,120 --> 00:15:54,580
+You know, giving, making things more modern and making things easier is is not the answer.
+
+262
+00:15:54,680 --> 00:15:56,140
+It's not really not what kids want.
+
+263
+00:15:56,240 --> 00:15:59,060
+They don't want to. adults may want to sleep in a cabin.
+
+264
+00:15:59,680 --> 00:16:01,460
+Kids don't want to sleep in a cabin.
+
+265
+00:16:01,620 --> 00:16:05,280
+They may tell you, yeah, I want to sleep in a cabin, but they really don't.
+
+266
+00:16:05,280 --> 00:16:06,860
+You know, they want to be outside,
+
+267
+00:16:07,100 --> 00:16:07,240
+Right.
+
+268
+00:16:07,240 --> 00:16:12,960
+I mean, we found the same thing with when we took kids on canoe trips and and the boundary
+
+269
+00:16:12,960 --> 00:16:18,040
+waters, and in Ontario, we give them a real rough trip.
+
+270
+00:16:18,320 --> 00:16:23,320
+They're complaining like man when they're out there, you know, canoeing in the rain and
+
+271
+00:16:23,320 --> 00:16:26,040
+and and and hoofing all that gear over those portage trails,
+
+272
+00:16:26,200 --> 00:16:30,260
+But, boy, with the end of the trip, well, you just listen to them talk:
+
+273
+00:16:30,340 --> 00:16:31,540
+Oh, this was so cool, man,
+
+274
+00:16:31,560 --> 00:16:32,080
+We did this.
+
+275
+00:16:32,300 --> 00:16:36,700
+So you know, at the outset, if you ask these kids, they're going to tell you they want
+
+276
+00:16:36,700 --> 00:16:38,760
+the easy way, but deep down, they don't.
+
+277
+00:16:38,820 --> 00:16:39,700
+They want the challenges,
+
+278
+00:16:40,060 --> 00:16:44,340
+No matter when it was in the fifties or even right now today, they rise to that challenge
+
+279
+00:16:44,340 --> 00:16:47,500
+when they're, when they're given the latitude to be able to take it on
+
+280
+00:16:47,600 --> 00:16:48,240
+Right, right
+
+281
+00:16:48,280 --> 00:16:51,040
+And. and you know, I tell you it's not just boys either,
+
+282
+00:16:51,040 --> 00:16:51,860
+It's girls too,
+
+283
+00:16:52,560 --> 00:16:56,040
+You know. so I think one of the smartest things that the scouts did was it was include the
+
+284
+00:16:56,040 --> 00:17:01,320
+venture program, uh, and, and get girls involved, because they, they want to do the same thing.
+
+285
+00:17:01,560 --> 00:17:06,660
+You did go on. after you were an Eagle, became an Eagle Scout and you went on to uh become a teacher.
+
+286
+00:17:06,840 --> 00:17:08,620
+Well, actually I was a forester first.
+
+287
+00:17:09,180 --> 00:17:14,300
+I graduated in forestry and then I worked as a forester for the uh Bureau of Land Management
+
+288
+00:17:14,300 --> 00:17:15,060
+out in Oregon.
+
+289
+00:17:15,520 --> 00:17:19,460
+And then after that I went in the army and when I was in the army I did actually quite
+
+290
+00:17:19,460 --> 00:17:21,680
+a bit of teaching, you know, on military subjects,
+
+291
+00:17:22,080 --> 00:17:23,900
+And I said, gee, this teaching is kind of fun.
+
+292
+00:17:23,980 --> 00:17:29,340
+So then I went back to school, got a, got a uh certificate to teach biology and taught
+
+293
+00:17:29,340 --> 00:17:33,140
+that for a number of years and then came to Minnesota and taught environmental science
+
+294
+00:17:33,140 --> 00:17:33,900
+the rest of the time.
+
+295
+00:17:33,900 --> 00:17:34,360
+Mm-hmm,
+
+296
+00:17:34,520 --> 00:17:38,940
+You were uh teaching in Minnesota for all those 34 years.
+
+297
+00:17:39,040 --> 00:17:41,900
+No, I taught in Indiana for uh what was? I think
+
+298
+00:17:41,980 --> 00:17:43,240
+It's like five years in Indiana.
+
+299
+00:17:43,240 --> 00:17:48,620
+Then I came to uh Minnesota and I taught 29 years in Minnesota.
+
+300
+00:17:48,620 --> 00:17:53,100
+The trend was moving closer and closer to good canoe places. it sounds like
+
+301
+00:17:53,399 --> 00:17:55,100
+You know that is you hit it on the head.
+
+302
+00:17:55,199 --> 00:17:59,879
+That is exactly. that is exactly what happened, because at the end of my fifth year of teaching
+
+303
+00:17:59,879 --> 00:18:02,100
+in Indiana I wanted to come to Minnesota.
+
+304
+00:18:02,239 --> 00:18:05,560
+I wanted to see this place called the Boundary Waters. that I heard was so magical.
+
+305
+00:18:06,280 --> 00:18:08,659
+Took a canoe trip up here and I just fell in love with the area.
+
+306
+00:18:08,760 --> 00:18:10,439
+I said I got to get closer north,
+
+307
+00:18:10,540 --> 00:18:11,560
+I got to get further north.
+
+308
+00:18:11,620 --> 00:18:12,459
+How do I get there?
+
+309
+00:18:12,460 --> 00:18:13,720
+I'm moving to Minnesota.
+
+310
+00:18:14,080 --> 00:18:21,840
+Um, I sent out 350 job applications and then I got two job offers, one in Hastings, Minnesota,
+
+311
+00:18:21,840 --> 00:18:23,420
+and one in Portage, Wisconsin.
+
+312
+00:18:23,880 --> 00:18:25,500
+And so the rest is history.
+
+313
+00:18:25,980 --> 00:18:26,420
+Yeah,
+
+314
+00:18:26,420 --> 00:18:28,180
+You became an author.
+
+315
+00:18:28,440 --> 00:18:29,820
+How did how did that come about?
+
+316
+00:18:29,960 --> 00:18:33,360
+Well, that becoming a writer was really accidental.
+
+317
+00:18:33,620 --> 00:18:37,900
+I picked up a magazine and had an article in it called Canoeing with Rob Roy.
+
+318
+00:18:38,060 --> 00:18:39,040
+It was terrible.
+
+319
+00:18:39,500 --> 00:18:41,520
+I said this guy doesn't know what he's talking about.
+
+320
+00:18:41,940 --> 00:18:45,260
+So my wife said: well, if you can do better, go ahead.
+
+321
+00:18:45,840 --> 00:18:51,320
+So I sat down and I wrote the definitive guide to canoeing.
+
+322
+00:18:51,320 --> 00:18:58,860
+It was about 5,000 words of uh, and I sent it to, uh, Harry Roberts, who had a magazine
+
+323
+00:18:58,860 --> 00:19:02,419
+then called Will in this Camping, and Harry published it.
+
+324
+00:19:02,899 --> 00:19:06,960
+Uh, the next thing that happened was I was teaching school and the department of natural
+
+325
+00:19:06,960 --> 00:19:12,080
+resources had a bunch of activities for teachers, one of which was called fire building.
+
+326
+00:19:12,340 --> 00:19:16,840
+Well, in this particular activity, Dave, you go out and just collect a variety of woods
+
+327
+00:19:16,840 --> 00:19:18,439
+and things and see what burns best,
+
+328
+00:19:18,440 --> 00:19:20,240
+And I complained about it.
+
+329
+00:19:20,240 --> 00:19:22,200
+I said this is terrible advice,
+
+330
+00:19:22,640 --> 00:19:25,400
+DNR. people said, well, why don't you rewrite it for us?
+
+331
+00:19:25,640 --> 00:19:26,760
+I said, okay, I will
+
+332
+00:19:26,820 --> 00:19:27,640
+And I rewrote it.
+
+333
+00:19:27,720 --> 00:19:30,520
+And then they called me and they said, gee, this is really good,
+
+334
+00:19:30,560 --> 00:19:31,520
+We don't have to do anything to it.
+
+335
+00:19:31,520 --> 00:19:32,660
+You want to do more work for us?
+
+336
+00:19:33,000 --> 00:19:33,620
+I said, yeah,
+
+337
+00:19:33,680 --> 00:19:35,460
+And so that's kind of like how it started
+
+338
+00:19:35,660 --> 00:19:39,420
+And it just sort of mushroom, uh mushroomed into that.
+
+339
+00:19:39,800 --> 00:19:42,160
+How long have you been writing for Scouting Magazine, do you figure?
+
+340
+00:19:42,700 --> 00:19:45,000
+Well, I've been wrote for Boy's Life for a while.
+
+341
+00:19:45,340 --> 00:19:45,540
+Right,
+
+342
+00:19:46,160 --> 00:19:47,820
+Scouting is relatively new,
+
+343
+00:19:47,820 --> 00:19:50,720
+I think just the last, uh, the last couple of years.
+
+344
+00:19:50,720 --> 00:19:56,419
+But you know, I'm really thrilled uh to write uh for uh, Scouting Magazine and Boy's Life.
+
+345
+00:19:56,800 --> 00:19:58,060
+Uh, first of all, it's an honor,
+
+346
+00:19:58,560 --> 00:19:59,460
+It really is.
+
+347
+00:19:59,740 --> 00:20:05,800
+Of all the audiences that I work with, um, scouters are the most fun.
+
+348
+00:20:06,300 --> 00:20:07,800
+Scouters are looking for knowledge.
+
+349
+00:20:08,280 --> 00:20:13,439
+Scouters are one of the- the only- not one of, uh, one of the few groups on the planet that
+
+350
+00:20:13,440 --> 00:20:17,860
+understand that skills are more important than things, that you don't need a lot of expensive
+
+351
+00:20:17,860 --> 00:20:19,920
+stuff. if you know, if you know what you're doing,
+
+352
+00:20:20,140 --> 00:20:25,420
+They're not looking to go out and buy something new to to to solve, to solve their problems.
+
+353
+00:20:25,940 --> 00:20:26,380
+Yeah,
+
+354
+00:20:26,380 --> 00:20:31,940
+I really enjoy writing, writing for the Scouting Magazines and and sharing, uh, sharing stuff
+
+355
+00:20:31,940 --> 00:20:33,940
+like that. for that reason,
+
+356
+00:20:33,940 --> 00:20:39,280
+And, um, you, you also contributed uh section to one of the field books too, right,
+
+357
+00:20:39,480 --> 00:20:39,640
+Yeah,
+
+358
+00:20:39,720 --> 00:20:40,740
+The canoeing part,
+
+359
+00:20:40,900 --> 00:20:41,000
+Right
+
+360
+00:20:41,080 --> 00:20:41,240
+Yeah?
+
+361
+00:20:41,560 --> 00:20:42,000
+Yeah,
+
+362
+00:20:42,460 --> 00:20:47,080
+I've got two of your books that I keep, you know, within arm's reach and handy.
+
+363
+00:20:47,160 --> 00:20:49,300
+One of them is Expedition Canoeing.
+
+364
+00:20:49,420 --> 00:20:50,700
+Well, that was my Bible.
+
+365
+00:20:50,820 --> 00:20:52,600
+That's my all-time favorite book.
+
+366
+00:20:52,900 --> 00:20:57,840
+You first published it in 1984 and now it's in its fourth, 20th anniversary edition.
+
+367
+00:20:57,840 --> 00:21:02,260
+You know, while you do talk about gear and the choice of gear and things like that, you're
+
+368
+00:21:02,260 --> 00:21:06,040
+not uh, overly, uh fascinated with it.
+
+369
+00:21:06,139 --> 00:21:06,320
+Yeah,
+
+370
+00:21:06,320 --> 00:21:09,760
+And you really encourage people to build a set of skills.
+
+371
+00:21:10,179 --> 00:21:15,540
+There are two things that keep you alive in the outdoors, uh, skills and judgment.
+
+372
+00:21:16,040 --> 00:21:16,399
+Okay,
+
+373
+00:21:16,500 --> 00:21:20,939
+If you have few skills and a lot of judgment, you can survive.
+
+374
+00:21:21,060 --> 00:21:26,260
+And if you have lots and lots of skills and not so good at judging, the skills might get
+
+375
+00:21:26,260 --> 00:21:26,720
+you by.
+
+376
+00:21:26,720 --> 00:21:32,360
+And there's a book called Deep Survival which I would recommend uh your listeners to read.
+
+377
+00:21:32,440 --> 00:21:37,300
+It's basically the premise of the book. uh is, how is it that under severe conditions,
+
+378
+00:21:37,460 --> 00:21:40,460
+some people survive and others perish.
+
+379
+00:21:40,600 --> 00:21:45,760
+And one example in there that he tells, which I think sort of tells it all: 20 years ago or
+
+380
+00:21:45,760 --> 00:21:49,020
+sometime ago, there was a huge storm in one of the Western rivers.
+
+381
+00:21:49,280 --> 00:21:54,060
+If you, if you rafted the river at reasonable water levels, it was fun
+
+382
+00:21:54,060 --> 00:21:56,860
+If you got too high and terribly dangerous.
+
+383
+00:21:56,860 --> 00:22:00,780
+And there were a number of groups on the river that day. they were all professionally guided
+
+384
+00:22:00,780 --> 00:22:02,580
+groups that were of rafters,
+
+385
+00:22:02,580 --> 00:22:05,860
+And there was this one guy from someplace out east-
+
+386
+00:22:06,020 --> 00:22:06,679
+I can't remember
+
+387
+00:22:06,760 --> 00:22:07,540
+He was a pastor,
+
+388
+00:22:07,720 --> 00:22:09,439
+I can't remember what else about him.
+
+389
+00:22:10,220 --> 00:22:13,199
+And, uh, they were halfway down the river and they were camped out
+
+390
+00:22:13,280 --> 00:22:15,540
+And that night it rained and rained, and rained, and rained, and rained, and rained, and rained and
+
+391
+00:22:15,540 --> 00:22:15,720
+rained.
+
+392
+00:22:15,720 --> 00:22:19,560
+And they woke up the following morning and the professional rafters looked at the river.
+
+393
+00:22:19,660 --> 00:22:24,020
+the professional guys looked at the river, which had come up about 15 feet, and said, well,
+
+394
+00:22:24,100 --> 00:22:27,260
+we've never run at this high, but it should be fun.
+
+395
+00:22:28,040 --> 00:22:28,420
+Okay,
+
+396
+00:22:29,380 --> 00:22:36,360
+The um. the pastor looked at the river and he said, whoa, this does not look safe to me.
+
+397
+00:22:36,440 --> 00:22:37,720
+We're not going anywhere,
+
+398
+00:22:37,720 --> 00:22:39,260
+Boys, we're staying put.
+
+399
+00:22:39,260 --> 00:22:43,400
+He stayed put and all of his people in his charge were fine
+
+400
+00:22:43,560 --> 00:22:48,560
+And virtually every one of those raft trips had multiple capsizes and drownings,
+
+401
+00:22:49,060 --> 00:22:54,480
+And so the question is: how is it that these experienced rafters that had been down this
+
+402
+00:22:54,480 --> 00:22:58,740
+river hundreds or thousands of times chose to run it that day
+
+403
+00:22:58,840 --> 00:23:05,640
+And this pastor who, who was a pretty decent rafter but had nowhere near that experience,
+
+404
+00:23:05,640 --> 00:23:07,020
+chose to stay put?
+
+405
+00:23:07,020 --> 00:23:12,260
+And that's, that's one of the key things to survival.
+
+406
+00:23:12,400 --> 00:23:19,580
+There's, there's, uh, when I was a forester out in Oregon, I was a dumb kid, just 21 years
+
+407
+00:23:19,580 --> 00:23:19,900
+old,
+
+408
+00:23:20,420 --> 00:23:22,280
+And uh, this is Western Oregon
+
+409
+00:23:22,280 --> 00:23:28,940
+And if you step off the path in Western Oregon, you're in rhododendron and Douglas fir trees
+
+410
+00:23:28,940 --> 00:23:32,320
+And I mean, they turn you around. you'll never find your way out.
+
+411
+00:23:32,379 --> 00:23:36,740
+I was putting in a timber sale or changing a timber sale, and that you were supposed to change
+
+412
+00:23:36,740 --> 00:23:37,880
+it by ribboning. in
+
+413
+00:23:38,020 --> 00:23:41,800
+You, you would walk in and you had this uh, this, uh yellow flagging that you would put
+
+414
+00:23:41,800 --> 00:23:45,540
+on the to put on the trees that would show where the boundaries of the timber sale is.
+
+415
+00:23:45,880 --> 00:23:50,420
+But anyway, most normal people would start at the beginning and they would walk to the
+
+416
+00:23:50,420 --> 00:23:53,580
+end and then they would turn around and they would take off ribbons as they came back.
+
+417
+00:23:53,660 --> 00:23:54,060
+Right,
+
+418
+00:23:54,060 --> 00:23:55,440
+I didn't do that.
+
+419
+00:23:56,020 --> 00:24:01,000
+I started at the beginning, started pulling off ribbons and pretty soon I was in. I was
+
+420
+00:24:01,000 --> 00:24:04,500
+in there for about, uh, oh, I guess about- an hour
+
+421
+00:24:04,500 --> 00:24:07,220
+And all of a sudden I realized I didn't know where I was,
+
+422
+00:24:07,220 --> 00:24:09,120
+I didn't know what was going on,
+
+423
+00:24:09,340 --> 00:24:10,220
+Totally lost,
+
+424
+00:24:10,220 --> 00:24:16,420
+And I what I had. I had my silver compass and I had some water and uh, make a sandwich.
+
+425
+00:24:16,420 --> 00:24:21,000
+And and I said I know, the only way out of here is go due west and I will eventually
+
+426
+00:24:21,000 --> 00:24:22,820
+hit highway one-on-one in the ocean.
+
+427
+00:24:23,400 --> 00:24:24,840
+And that's what I did.
+
+428
+00:24:24,900 --> 00:24:30,080
+I walked for three days and on the third day, uh, morning of the third day, came out
+
+429
+00:24:30,080 --> 00:24:31,840
+to a little town called remote Oregon-
+
+430
+00:24:32,120 --> 00:24:33,320
+That's the name of the town-
+
+431
+00:24:33,320 --> 00:24:38,139
+And I was picked up by a um, uh, trucker on a log truck.
+
+432
+00:24:38,220 --> 00:24:45,840
+It took me back to my car and I drove home and, uh, I never told a soul, because foresters
+
+433
+00:24:45,840 --> 00:24:46,560
+don't get lost.
+
+434
+00:24:46,560 --> 00:24:53,399
+But the but the point, the point is, is the way I survived. that was simply because, one,
+
+435
+00:24:53,460 --> 00:24:54,399
+I had a compass.
+
+436
+00:24:55,040 --> 00:24:57,939
+Two, I knew if I headed west I would hit the ocean.
+
+437
+00:24:57,940 --> 00:25:03,420
+And three, I had what what they call a survival PMA, or positive mental latitude.
+
+438
+00:25:03,620 --> 00:25:07,880
+And another interesting point I want to make: you know when I started all this out, we didn't
+
+439
+00:25:07,880 --> 00:25:10,280
+have satellite phones and GPS units
+
+440
+00:25:11,220 --> 00:25:14,980
+And- and these wilderness trips were different than you- had to be really careful
+
+441
+00:25:15,220 --> 00:25:17,740
+If you got lost. you were lost.
+
+442
+00:25:17,920 --> 00:25:23,240
+I mean, you better be able to figure out where you were with a map and a compass. uh, because
+
+443
+00:25:23,240 --> 00:25:24,920
+you couldn't call anybody.
+
+444
+00:25:24,920 --> 00:25:30,080
+Then they came out with the satellite phone, which has totally changed the nature of wilderness
+
+445
+00:25:30,080 --> 00:25:30,600
+travel.
+
+446
+00:25:31,120 --> 00:25:33,880
+Now, in some respects it's made things safer
+
+447
+00:25:34,080 --> 00:25:36,920
+And in other respects it's made it way less safe.
+
+448
+00:25:37,100 --> 00:25:42,800
+You can depend on your gear to a point, but if you don't have the skills and the judgment,
+
+449
+00:25:44,080 --> 00:25:46,820
+there's the gears. just so much dead weight, isn't it?
+
+450
+00:25:47,300 --> 00:25:47,500
+Yeah
+
+451
+00:25:47,560 --> 00:25:49,980
+Well, you know, here's another factor we could add into this.
+
+452
+00:25:50,220 --> 00:25:52,820
+I call this downplay: your skills.
+
+453
+00:25:52,820 --> 00:26:00,720
+I guess what I'm saying is my skills of paddling these rapids are way better than I'm willing
+
+454
+00:26:00,720 --> 00:26:01,659
+to accept.
+
+455
+00:26:02,300 --> 00:26:11,620
+Um, I may be a class three, four whitewater capable paddler, but if it gets into low class
+
+456
+00:26:11,620 --> 00:26:16,980
+three, I want to either portage or wine or find some safe way around it.
+
+457
+00:26:16,980 --> 00:26:20,960
+So a judgment is you know, judgment is really important.
+
+458
+00:26:21,060 --> 00:26:22,940
+It takes a long time to develop judgment.
+
+459
+00:26:23,080 --> 00:26:24,880
+You're not going to do that in one or two seasons.
+
+460
+00:26:24,880 --> 00:26:31,260
+I wish the BSA would- would publish like an annual safety report with all the personal
+
+461
+00:26:31,260 --> 00:26:32,920
+information expunged,
+
+462
+00:26:32,920 --> 00:26:39,760
+But just as an analysis- you know what happened- maybe some conclusions about things that could
+
+463
+00:26:39,760 --> 00:26:44,420
+have been done differently or a different approach or where things kind of went south on somebody.
+
+464
+00:26:44,580 --> 00:26:45,500
+That's a good idea.
+
+465
+00:26:45,500 --> 00:26:51,100
+You know, I'm very interested in becoming a good judge of what's smart and what's not.
+
+466
+00:26:51,400 --> 00:26:54,420
+you know how to keep people safe and alive when you're out there,
+
+467
+00:26:55,680 --> 00:26:59,600
+And that's one of the things I really value about your writing too is there's a lot of
+
+468
+00:27:00,180 --> 00:27:02,520
+that's just in the background. all the time
+
+469
+00:27:02,560 --> 00:27:06,780
+They've done. they do that for whitewater accidents, uh, for what? people who you know
+
+470
+00:27:07,160 --> 00:27:10,500
+are drowning, and things like that in, uh, in whitewater.
+
+471
+00:27:10,500 --> 00:27:12,400
+So, yeah, I think that would be a really good idea.
+
+472
+00:27:12,520 --> 00:27:16,600
+You've led some pretty amazing expeditions up into Northern Canada.
+
+473
+00:27:17,300 --> 00:27:20,880
+Uh, is there anyone that stands out as being the most memorable for you?
+
+474
+00:27:21,400 --> 00:27:21,800
+Oh, yeah,
+
+475
+00:27:22,460 --> 00:27:22,860
+Yeah,
+
+476
+00:27:22,860 --> 00:27:23,880
+The Hood River, of course.
+
+477
+00:27:23,980 --> 00:27:25,560
+I mean, that's where Susie and I got married,
+
+478
+00:27:25,680 --> 00:27:26,400
+The second Hood River.
+
+479
+00:27:26,520 --> 00:27:27,560
+Tell me a little bit about that.
+
+480
+00:27:27,720 --> 00:27:32,920
+Uh, the wedding story is actually an expedition canoeing, but the Hood. the Hood is a is a
+
+481
+00:27:32,920 --> 00:27:40,040
+magical river because it combines, you know, muskox, caribou, uh, grizzly bears
+
+482
+00:27:40,040 --> 00:27:42,340
+With thundering falls, huge falls.
+
+483
+00:27:42,500 --> 00:27:47,820
+I mean Wilberforce Falls, where we were married- drops 160 feet through a three-mile canyon.
+
+484
+00:27:48,060 --> 00:27:50,840
+I mean US Niagara: drops 167 feet,
+
+485
+00:27:51,159 --> 00:27:52,460
+So you can see the magnitude
+
+486
+00:27:52,899 --> 00:27:56,560
+And that's like the third highest falls in North America, I believe.
+
+487
+00:27:56,980 --> 00:28:01,180
+Well, that was a. that was a magical trip because, you know, Susie and I got married on it.
+
+488
+00:28:01,480 --> 00:28:07,879
+Uh, the other trip that was most memorable to me was, uh, the North Knife River in um,
+
+489
+00:28:08,220 --> 00:28:09,720
+Manitoba floats into Hudson Bay.
+
+490
+00:28:09,720 --> 00:28:13,000
+I've actually done the North Knife, uh three times or four times,
+
+491
+00:28:13,060 --> 00:28:13,680
+I can't remember.
+
+492
+00:28:14,160 --> 00:28:19,840
+But on the last trip, um, we were chased, uh, we were chased downriver by a polar bear.
+
+493
+00:28:19,980 --> 00:28:23,460
+He came on. a polar bear came, uh, came on land after us.
+
+494
+00:28:23,680 --> 00:28:25,840
+We had a fire, a shot below his nose.
+
+495
+00:28:26,320 --> 00:28:28,320
+Uh, that was a pretty scary thing.
+
+496
+00:28:28,420 --> 00:28:32,660
+I mean, we saw. and then one of the trips on the North Knife, we saw it was saw 11
+
+497
+00:28:32,660 --> 00:28:33,260
+polar bears.
+
+498
+00:28:33,260 --> 00:28:39,780
+Um, so, uh, I would say I would say those two, the hood and the North Knife, are two of
+
+499
+00:28:39,780 --> 00:28:43,900
+my most memorable rivers. but you know, every river is memorable,
+
+500
+00:28:44,320 --> 00:28:45,920
+They're, all of them are wonderful.
+
+501
+00:28:46,340 --> 00:28:49,360
+You know, I sometimes I go to the Boundary Waters and I love that.
+
+502
+00:28:49,460 --> 00:28:50,300
+You know, I love that too.
+
+503
+00:28:50,340 --> 00:28:55,580
+The Boundary Waters isn't as isn't as adventurous as Northern Canada, but it's much more relaxing.
+
+504
+00:28:55,580 --> 00:29:00,860
+So I don't know, they're a lot, they're all. they all begin to flow together after a while.
+
+505
+00:29:00,980 --> 00:29:05,260
+The Hood River just kind of put a pin in the map on that for me.
+
+506
+00:29:05,480 --> 00:29:11,120
+Uh, you have to go first of all to the Northwest Territories of Canada and then you go to Yellowknife,
+
+507
+00:29:11,199 --> 00:29:14,800
+which would be- is a capital of the Northwest Territories,
+
+508
+00:29:15,300 --> 00:29:21,980
+Almost new north. roughly. you'll go to, uh, Bathurst Inlet on the Arctic Ocean, and that's
+
+509
+00:29:21,980 --> 00:29:23,399
+where the Hood River ends.
+
+510
+00:29:23,400 --> 00:29:26,140
+It ends at Bathurst Inlet on on the Arctic Ocean.
+
+511
+00:29:26,400 --> 00:29:27,480
+So you are out there.
+
+512
+00:29:27,500 --> 00:29:28,680
+Yeah, you're above the Arctic Circle.
+
+513
+00:29:28,960 --> 00:29:34,460
+Um, we did a river in the Yukon called the Snake. uh, the Snake River's above the Arctic Circle too.
+
+514
+00:29:34,520 --> 00:29:36,000
+That's even further north in the Hood.
+
+515
+00:29:36,520 --> 00:29:42,420
+There's something about the province of Nunavut, Northwest Territories, and the new province of Nunavut
+
+516
+00:29:42,800 --> 00:29:44,400
+that I just love. the topography,
+
+517
+00:29:45,240 --> 00:29:45,820
+I don't know why.
+
+518
+00:29:46,080 --> 00:29:47,520
+The wildlife is incredible.
+
+519
+00:29:47,740 --> 00:29:50,600
+I mean tens of thousands, hundreds of thousands of caribou.
+
+520
+00:29:50,600 --> 00:29:57,740
+And you know, when caribou decide they want to cross a body of water, the alpha male looks around, looks around.
+
+521
+00:29:57,840 --> 00:30:02,679
+When he decides to go, he jumps in and then they just all blindly follow.
+
+522
+00:30:02,680 --> 00:30:09,760
+So we're coming around a bend and we're sort of single-filing along the left edge because there's a rapid ahead.
+
+523
+00:30:10,000 --> 00:30:12,880
+The caribou are on this hilltop right to our left,
+
+524
+00:30:13,120 --> 00:30:14,040
+Thousands of them.
+
+525
+00:30:14,520 --> 00:30:17,320
+The alpha male comes over and he looks down into the water.
+
+526
+00:30:17,580 --> 00:30:20,280
+He doesn't see the canoes because we're too close to the bank.
+
+527
+00:30:20,280 --> 00:30:27,940
+And then he jumps and when he jumps his hooves miss Susie's head by just a foot or so.
+
+528
+00:30:28,100 --> 00:30:29,600
+I can feel the air,
+
+529
+00:30:29,740 --> 00:30:30,340
+I mean the back.
+
+530
+00:30:30,420 --> 00:30:32,860
+I can feel the wind from his body hit me in the face.
+
+531
+00:30:33,600 --> 00:30:40,000
+The other one of your books I keep close to hand and one of my favorite camping books is Camping's Top Secrets.
+
+532
+00:30:40,360 --> 00:30:41,399
+I like that book too.
+
+533
+00:30:41,440 --> 00:30:42,000
+That's a fun one.
+
+534
+00:30:42,000 --> 00:30:48,980
+It's in its third edition now and you keep revising and going over stuff, so it stays very relevant.
+
+535
+00:30:49,280 --> 00:30:51,660
+You have a favorite tip or piece of advice from the book?
+
+536
+00:30:51,880 --> 00:30:53,120
+Yeah, I guess I do,
+
+537
+00:30:53,700 --> 00:31:01,200
+And it's one of those bits of advice that it's a constant battle with people because they refuse to acknowledge it,
+
+538
+00:31:01,680 --> 00:31:09,840
+And it's this business of always put a plastic ground cloth inside your tent, not under the floor,
+
+539
+00:31:09,840 --> 00:31:13,800
+And so I do battle with people all the time over this.
+
+540
+00:31:14,300 --> 00:31:20,860
+I like to tell those of the folks out there blogging how floors got put into tents to begin with.
+
+541
+00:31:21,419 --> 00:31:27,580
+Floors were not put into tents to keep stuff out of the tent, believe it or not.
+
+542
+00:31:28,020 --> 00:31:31,879
+But you know, setting a tent up without a floor, you've got to know what you're doing,
+
+543
+00:31:32,480 --> 00:31:36,820
+Otherwise you keep moving stakes around because it's a rectangle, an unsupported rectangle.
+
+544
+00:31:36,820 --> 00:31:44,000
+So somebody got the idea to put a floor in a tent so it would just literally set the floor pattern so you could get the tent up easier.
+
+545
+00:31:44,200 --> 00:31:46,040
+That's why floors were put in tents.
+
+546
+00:31:46,659 --> 00:31:54,020
+The problem with the floor is any water that gets in the tent through seams in the floor stays inside the tent.
+
+547
+00:31:54,580 --> 00:31:58,840
+So that's why you need a ground cloth inside the floor and not underneath it.
+
+548
+00:31:58,840 --> 00:32:05,439
+But I would say that's the biggest, bestest tip that I can give anybody:
+
+549
+00:32:05,639 --> 00:32:08,899
+Don't put a ground cloth underneath the floor of the tent.
+
+550
+00:32:09,220 --> 00:32:10,959
+People think it protects the floor.
+
+551
+00:32:11,459 --> 00:32:12,720
+Actually it doesn't,
+
+552
+00:32:13,240 --> 00:32:17,080
+And I know all this is all heresy, I mean to a lot of people.
+
+553
+00:32:17,699 --> 00:32:20,240
+You know, and the way we discovered this was very interesting.
+
+554
+00:32:20,820 --> 00:32:22,679
+You know what a green stick break is.
+
+555
+00:32:22,680 --> 00:32:26,800
+Well, you take a green stick between your hands and you bend it until it breaks. okay,
+
+556
+00:32:26,920 --> 00:32:28,480
+The bottom compresses,
+
+557
+00:32:28,820 --> 00:32:30,360
+The top elongates
+
+558
+00:32:30,540 --> 00:32:33,520
+And then what happens is the top part snaps
+
+559
+00:32:33,820 --> 00:32:35,340
+But the bottom doesn't.
+
+560
+00:32:35,840 --> 00:32:38,720
+So a green stick always breaks from the top when it's bent.
+
+561
+00:32:39,140 --> 00:32:41,960
+Well, that's the same thing that happens to the floor of a tent.
+
+562
+00:32:42,420 --> 00:32:44,700
+The coating is on the inside of the floor,
+
+563
+00:32:44,700 --> 00:32:53,580
+So when the stick starts poking up through the floor of the tent, what happens is the fabric stretches and the coating breaks at the top.
+
+564
+00:32:54,200 --> 00:32:59,040
+If you put your ground cloth on the inside of the tent, it will prevent you from getting holes in the floor.
+
+565
+00:32:59,460 --> 00:33:05,200
+And if you put holes in the floor and you have a ground cloth on the inside, it doesn't matter because you've got a ground cloth on the inside.
+
+566
+00:33:05,600 --> 00:33:06,040
+Exactly,
+
+567
+00:33:06,200 --> 00:33:13,240
+If you put the ground cloth under the floor, then any water that gets trapped between the ground cloth and the floor gets pressure wicked into the tent.
+
+568
+00:33:13,240 --> 00:33:15,620
+So I'd say that's my favorite tip.
+
+569
+00:33:15,720 --> 00:33:18,700
+I'm definitely with you on the ground cloth inside of the tent.
+
+570
+00:33:18,800 --> 00:33:27,560
+As a matter of fact, believe it or not, you know my fallback if you didn't have a favorite tip, was to ask you about that one, because that's my favorite one.
+
+571
+00:33:28,820 --> 00:33:31,900
+What I want you to do is you just tell your buddies once to do this
+
+572
+00:33:32,080 --> 00:33:33,580
+And they won't do it.
+
+573
+00:33:33,580 --> 00:33:40,740
+So what you do is, after you set up camp, that night you go out on the little point out there, look towards the setting sun and you look up into the sky and say,
+
+574
+00:33:41,180 --> 00:33:42,760
+Oh God, please make it rain,
+
+575
+00:33:43,240 --> 00:33:43,680
+Okay.
+
+576
+00:33:45,020 --> 00:33:51,420
+And then if it rains that night and they get flooded out and they'll see that you're not, they won't say a word,
+
+577
+00:33:51,680 --> 00:33:54,000
+They will not say anything to you at all.
+
+578
+00:33:54,120 --> 00:33:57,060
+From that point on, they'll always put the ground cloth inside the tent.
+
+579
+00:33:57,780 --> 00:34:01,100
+I mean, I'm almost on a crusade about that.
+
+580
+00:34:01,100 --> 00:34:09,339
+Well, you know, when I wrote that article about putting the ground cloth inside the tent, one of the editors from Scouting Magazine called me up and said:
+
+581
+00:34:09,420 --> 00:34:10,779
+You know, don't you have this backwards, Cliff?
+
+582
+00:34:10,900 --> 00:34:11,759
+You know, is this an error?
+
+583
+00:34:12,159 --> 00:34:13,679
+I said no, it's not an error.
+
+584
+00:34:13,679 --> 00:34:18,339
+But, to their credit, they're willing to embrace new ideas
+
+585
+00:34:18,419 --> 00:34:19,259
+And I think that's great.
+
+586
+00:34:19,399 --> 00:34:22,159
+I saw this book maybe five or six years ago
+
+587
+00:34:22,580 --> 00:34:24,399
+And it said Camping's Top Secrets
+
+588
+00:34:24,400 --> 00:34:29,639
+And I think the subtitle is A Lexicon of Camping Tips. Only the Experts Know.
+
+589
+00:34:30,180 --> 00:34:33,060
+And I've been camping and going out for a number of years
+
+590
+00:34:33,180 --> 00:34:35,120
+And I thought, yeah, right,
+
+591
+00:34:35,240 --> 00:34:37,040
+There's not going to be a whole lot in this,
+
+592
+00:34:37,100 --> 00:34:38,860
+But I'll give the old guy a chance anyway,
+
+593
+00:34:38,980 --> 00:34:39,500
+Oh, thanks,
+
+594
+00:34:39,500 --> 00:34:42,960
+And there was a lot I didn't know,
+
+595
+00:34:43,719 --> 00:34:44,139
+Thank you.
+
+596
+00:34:44,280 --> 00:34:45,940
+So it's a worthy read.
+
+597
+00:34:46,179 --> 00:34:48,040
+It's a fun book too,
+
+598
+00:34:48,280 --> 00:34:54,620
+And then you can be converted to the sect of intent ground cloths
+
+599
+00:34:54,820 --> 00:34:56,860
+And we'll trade stories back and forth,
+
+600
+00:34:56,980 --> 00:34:57,500
+All right.
+
+601
+00:34:59,500 --> 00:35:04,280
+What authors influenced your writing and the way that you approach the outdoors?
+
+602
+00:35:04,960 --> 00:35:08,940
+Well, the number one total mentor was Calvin Ruttstrom.
+
+603
+00:35:09,580 --> 00:35:14,540
+His books, by the way, are back in print through University of Minnesota Press
+
+604
+00:35:15,160 --> 00:35:17,360
+And I would encourage folks to read them:
+
+605
+00:35:17,460 --> 00:35:26,240
+North American Canoe Country, New Way of the Wilderness, Wilderness Route Finder and Paradise Below Zero.
+
+606
+00:35:26,380 --> 00:35:27,680
+He wrote a whole slew of them
+
+607
+00:35:28,140 --> 00:35:29,700
+And I just loved the guy,
+
+608
+00:35:29,700 --> 00:35:38,120
+And actually his first book called The Way of the Wilderness. he was working for a Boy Scout camp, I think in Minnesota,
+
+609
+00:35:38,940 --> 00:35:42,380
+And they asked him to write a pamphlet for the boys
+
+610
+00:35:42,980 --> 00:35:45,980
+And so he wrote this pamphlet thing called The Way of the Wilderness
+
+611
+00:35:46,080 --> 00:35:50,840
+And it was so popular that it became. he turned it into a book called The New Way of the Wilderness.
+
+612
+00:35:51,620 --> 00:35:57,540
+Sig Olson, another very famous Minnesota writer. he was more of a descriptive writer.
+
+613
+00:35:57,540 --> 00:36:00,120
+He would describe the shimmering fish in the moonlight,
+
+614
+00:36:00,120 --> 00:36:03,120
+But Ruttstrom would tell you what hook and line to use to catch him.
+
+615
+00:36:03,620 --> 00:36:05,560
+So you know I was really a Ruttstrom fan
+
+616
+00:36:05,740 --> 00:36:14,100
+And he was really number one for me, followed by Horace Capehart who wrote Camping and Woodcraft in 1917.
+
+617
+00:36:14,600 --> 00:36:15,580
+And you know it's kind of interesting.
+
+618
+00:36:15,580 --> 00:36:22,900
+In 1917, Capehart had a little kit. you know his daily kit that he went on.
+
+619
+00:36:23,020 --> 00:36:24,600
+I think he weighed like something like nine pounds.
+
+620
+00:36:25,100 --> 00:36:26,080
+That was his total kit.
+
+621
+00:36:26,200 --> 00:36:27,660
+I mean, you're talking about going light today,
+
+622
+00:36:27,759 --> 00:36:28,440
+Give me a break.
+
+623
+00:36:28,819 --> 00:36:37,060
+And one of the things that Capehart observed in 1917 was that insect head nets should be colored black.
+
+624
+00:36:37,279 --> 00:36:38,560
+And the same thing on tents.
+
+625
+00:36:38,560 --> 00:36:45,500
+Look out the screen of a tent with light colored netting and it reflects the lights right back into your eyes again.
+
+626
+00:36:46,100 --> 00:36:46,200
+Right,
+
+627
+00:36:46,640 --> 00:36:49,140
+With black colored netting, you can see clearly.
+
+628
+00:36:49,500 --> 00:36:53,640
+So I tell people, well, just take a black magic marker and color the netting black.
+
+629
+00:36:53,779 --> 00:36:54,259
+You won't believe it.
+
+630
+00:36:54,259 --> 00:36:55,420
+Oh, that's not a bad idea,
+
+631
+00:36:55,540 --> 00:36:56,400
+That's a great idea.
+
+632
+00:36:56,940 --> 00:36:57,120
+Yeah,
+
+633
+00:36:57,400 --> 00:36:58,480
+Yeah, and it works.
+
+634
+00:36:58,580 --> 00:37:02,160
+I mean, just color the eye panel black and all of a sudden you'll see clearly.
+
+635
+00:37:02,160 --> 00:37:07,720
+And another one also was a guy, but his pen name was Nesmeck.
+
+636
+00:37:07,819 --> 00:37:09,160
+It was George Washington Sears.
+
+637
+00:37:09,279 --> 00:37:10,160
+He lived out in the Adirondacks
+
+638
+00:37:11,140 --> 00:37:14,100
+And he wrote a book called The Woodcraft and Camping in 1920.
+
+639
+00:37:14,299 --> 00:37:20,140
+And what's interesting is Capehart's book was Camping and Woodcraft, and Nesmeck's was Woodcraft and Camping,
+
+640
+00:37:20,220 --> 00:37:23,879
+So I guess they didn't, you know, care too much about titles and those.
+
+641
+00:37:24,020 --> 00:37:28,339
+But those were really the three guys, the three old timers, that inspired me most.
+
+642
+00:37:28,600 --> 00:37:30,339
+So what are you working on right now?
+
+643
+00:37:30,379 --> 00:37:31,399
+Any new books in the works
+
+644
+00:37:31,400 --> 00:37:33,840
+I have under revision.
+
+645
+00:37:34,140 --> 00:37:36,140
+We're revising the Boundary Waters book.
+
+646
+00:37:36,720 --> 00:37:39,760
+It's going to be a huge, major revision, going to full color.
+
+647
+00:37:39,840 --> 00:37:41,300
+It'll be a very nice book,
+
+648
+00:37:42,400 --> 00:37:47,000
+But it won't be out until next year or, I think, in the spring of 2012..
+
+649
+00:37:47,580 --> 00:37:51,960
+But basically what I'm happy doing, I'm happy keeping my books in print.
+
+650
+00:37:52,320 --> 00:37:56,020
+I really love writing for the Boy Scouts,
+
+651
+00:37:56,660 --> 00:37:59,340
+But I don't want to chain myself to a computer anymore
+
+652
+00:37:59,340 --> 00:38:03,320
+Now. as you know, I'm getting to the age now where I want to play.
+
+653
+00:38:03,680 --> 00:38:05,120
+I don't want to look at a computer screen,
+
+654
+00:38:05,420 --> 00:38:08,840
+But I still enjoy talking to groups and giving presentations and things like that.
+
+655
+00:38:08,860 --> 00:38:09,780
+That's a lot of fun for me.
+
+656
+00:38:09,780 --> 00:38:11,680
+You're headed off for the Rio Grande
+
+657
+00:38:12,140 --> 00:38:12,420
+Yep,
+
+658
+00:38:12,560 --> 00:38:12,780
+Yep
+
+659
+00:38:12,780 --> 00:38:13,680
+In about a week here.
+
+660
+00:38:13,880 --> 00:38:14,600
+That'll be great.
+
+661
+00:38:14,740 --> 00:38:17,440
+Well, once again, I really appreciate your time.
+
+662
+00:38:17,560 --> 00:38:18,680
+Thanks for talking with us
+
+663
+00:38:18,680 --> 00:38:21,879
+And we hope to talk to you again sometime.
+
+664
+00:38:22,520 --> 00:38:22,899
+Thanks, Clark,
+
+665
+00:38:23,020 --> 00:38:25,060
+Take care of yourself and best to all your listeners.
+
+666
+00:38:25,060 --> 00:38:44,480
+Once again, let me remind you that if you go to scoutmastertypepadcom,
+
+667
+00:38:44,660 --> 00:38:47,580
+you'll find links to the books that Cliff and I discussed,
+
+668
+00:38:47,759 --> 00:38:50,000
+as well as a link to Cliff's website.
+
+669
+00:38:50,000 --> 00:39:04,720
+Well, thanks for listening,
+
+670
+00:39:04,840 --> 00:39:05,860
+And here's how to keep in touch.
+
+671
+00:39:05,940 --> 00:39:09,040
+You can read the Scoutmaster blog at the same web address I just gave you:
+
+672
+00:39:09,140 --> 00:39:12,620
+scoutmastertypepadcom.
+
+673
+00:39:13,140 --> 00:39:16,900
+You can subscribe to the Scoutmaster newsletter once you get to the blog,
+
+674
+00:39:16,900 --> 00:39:20,400
+And that's a monthly digest of the Scoutmaster blog and podcast
+
+675
+00:39:20,400 --> 00:39:23,600
+and some great scouting resources around a monthly theme.
+
+676
+00:39:23,700 --> 00:39:26,700
+In February we're going to be talking about the history of scouting.
+
+677
+00:39:27,260 --> 00:39:30,580
+Every newsletter includes a giveaway from one of our affiliate sponsors
+
+678
+00:39:31,340 --> 00:39:34,880
+And in the January newsletter we had a $50 gift certificate to The Climb.
+
+679
+00:39:35,780 --> 00:39:37,700
+And congratulations to Joe McHoney.
+
+680
+00:39:38,200 --> 00:39:41,440
+Joe's a scouter with Troop 302 in Arlington, Massachusetts,
+
+681
+00:39:41,440 --> 00:39:47,200
+And he was selected randomly from all those who correctly answered our scouting trivia question,
+
+682
+00:39:47,700 --> 00:39:50,360
+which was: Sir Robert Baden-Powell, the founder of scouting,
+
+683
+00:39:50,480 --> 00:39:55,420
+rose to prominence as a national hero in Great Britain after what?
+
+684
+00:39:56,120 --> 00:39:59,040
+And that answer was the Siege of Mafeking-
+
+685
+00:39:59,640 --> 00:40:01,080
+The Siege of Mafeking.
+
+686
+00:40:01,640 --> 00:40:05,940
+You can get every post of the Scoutmaster blog and the Scoutmaster newsletter by email.
+
+687
+00:40:06,420 --> 00:40:08,960
+Go to the blog and look over in the right-hand column
+
+688
+00:40:08,960 --> 00:40:11,280
+and there's a couple of sign-up options there.
+
+689
+00:40:16,280 --> 00:40:19,060
+Subscribe to the Scoutmaster podcast on iTunes
+
+690
+00:40:19,220 --> 00:40:22,520
+and, when you do, feel free to leave a comment or a review or a rating.
+
+691
+00:40:22,840 --> 00:40:26,140
+And you can follow us at Scoutmaster Blog on Facebook, of course,
+
+692
+00:40:26,720 --> 00:40:29,420
+and ScoutmasterCG on Twitter.
+
+693
+00:40:29,420 --> 00:40:45,680
+If you have a question or a comment about today's podcast or anything you read on the Scoutmaster blog,
+
+694
+00:40:46,220 --> 00:40:52,380
+you can get in touch with me, Clark Green, at ClarkGreen at gmailcom.
+
+695
+00:40:52,380 --> 00:40:58,380
+That's C-L-A-R-K-E-G-R-E-E-N at gmailcom.
+
+696
+00:41:06,700 --> 00:41:11,080
+Remember, the Scoutmaster blog and the Scoutmaster podcast and the Scoutmaster newsletter
+
+697
+00:41:11,080 --> 00:41:13,640
+are not official publications of the Boy Scouts of America,
+
+698
+00:41:14,120 --> 00:41:17,500
+nor are they endorsed or sponsored by the Boy Scouts of America.
+
+699
+00:41:17,500 --> 00:41:20,640
+No, it's just me with a computer and a microphone,
+
+700
+00:41:21,660 --> 00:41:23,480
+You know, trying to lend a hand to Scout leaders
+
+701
+00:41:23,480 --> 00:41:25,400
+and perhaps have a little bit of fun along the way.
+
+702
+00:41:26,440 --> 00:41:29,640
+Well, before we leave you, let's hear from our founder, Sir Robert Baden-Powell.
+
+703
+00:41:30,340 --> 00:41:30,800
+Sir Robert,
+
+704
+00:41:31,560 --> 00:41:33,900
+Good luck to you and good camping.
+
+705
+00:41:34,640 --> 00:41:35,480
+Why? thank you, sir?
+
+706
+00:41:36,400 --> 00:41:37,380
+Until next time,
+
+707
+00:41:38,020 --> 00:41:55,880
+log in
+
+708
+00:41:56,020 --> 00:42:00,000
+Vancouver. auxi po'ers,
+
+709
+00:42:00,000 --> 00:42:01,620
+per sou
+
+710
+00:42:02,040 --> 00:42:03,160
+ior.
+
+711
+00:42:03,160 --> 00:42:33,140
+Thank you.

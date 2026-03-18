@@ -2,7 +2,9 @@
 title: "Scale and Scouting"
 date: 2015-04-09
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Patrol Method"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20150409053812/http://scoutmastercg.com:80/scale-and-scout/"
 ---
 

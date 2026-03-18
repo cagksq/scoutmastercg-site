@@ -2,7 +2,9 @@
 title: "What is Wood Badge?"
 date: 2012-11-26
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Adult Leadership Roles"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20121126064724/http://www.scoutmastercg.com:80/2012/09/wood-badge/"
 ---
 

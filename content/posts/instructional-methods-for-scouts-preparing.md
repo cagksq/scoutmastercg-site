@@ -2,7 +2,8 @@
 title: "Instructional Methods For Scouts - Preparing"
 date: 2006-08-15
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20140724093820/http://scoutmastercg.com/instructional_m_3/"
 ---
 

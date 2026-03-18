@@ -2,7 +2,9 @@
 title: "The Patrol Leader's Real Power and Authority"
 date: 2013-03-19
 draft: false
-categories: ["patrol-method", "scouting-ideals"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20150529003414/http://scoutmastercg.com:80/patrol-leader-real-power/?"
 ---
 

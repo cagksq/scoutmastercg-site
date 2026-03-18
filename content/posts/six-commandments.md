@@ -2,7 +2,9 @@
 title: "Six Commandments"
 date: 2005-11-01
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Parent Relations"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150313222528/http://scoutmastercg.com:80/six_commandment/"
 ---
 

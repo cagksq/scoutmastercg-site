@@ -2,7 +2,9 @@
 title: "High Adventure and Wilderness First Aid Training"
 date: 2014-08-23
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20140823185659/http://scoutmastercg.com/high-adventure-2/"
 ---
 

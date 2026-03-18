@@ -2,7 +2,9 @@
 title: "A Scout is Trustworthy - Scoutmaster Minute"
 date: 2013-09-01
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20151014174913/http://scoutmastercg.com/a-scout-is-trustworthy/"
 ---
 

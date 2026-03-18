@@ -2,7 +2,8 @@
 title: "A (Really) Highly Evolved Mess Kit"
 date: 2011-04-15
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20120626151724/http://www.scoutmastercg.com:80/2011/04/a-really-highly-evolved-mess-kit-2/"
 ---
 

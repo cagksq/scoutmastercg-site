@@ -2,7 +2,9 @@
 title: "Conduct, Character, and Scouting"
 date: 2015-08-28
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Character Development"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20150828231224/http://scoutmastercg.com:80/conduct-character-and-scouting/?"
 ---
 

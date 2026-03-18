@@ -1,0 +1,1572 @@
+1
+00:00:00,000 --> 00:00:06,160
+I'm Steve Kearns and I'm the District Advancement Chair with the Portola District in North Orange County, California.
+
+2
+00:00:06,160 --> 00:00:10,160
+This edition of the Scoutmaster Podcast is sponsored by backers like me.
+
+3
+00:00:10,160 --> 00:00:12,400
+And now the old Scoutmaster,
+
+4
+00:00:18,640 --> 00:00:26,560
+Rolled Amundsen, the polar explorer, a man who had plenty of adventures, said that an adventure is merely a bit of bad planning.
+
+5
+00:00:26,560 --> 00:00:30,000
+Yeah, I guess that's true, isn't it?
+
+6
+00:00:32,000 --> 00:00:35,040
+Oh, let's not have too many adventures, okay.
+
+7
+00:00:36,240 --> 00:00:38,800
+Hey, this is podcast number 283..
+
+8
+00:00:56,560 --> 00:01:12,960
+Welcome back to the Scoutmaster Podcast. This is Clark Green. This is a holiday weekend and so this is a holiday podcast.
+
+9
+00:01:12,960 --> 00:01:23,600
+We'll get back to our usual format next week, but this week I have something to share with you that I think could potentially revolutionize the way that you approach your work as a scouter.
+
+10
+00:01:23,600 --> 00:01:32,560
+It really is that interesting and that important, and I think it's worthy of taking up the remainder of this podcast. so let's get started, shall we?
+
+11
+00:01:54,560 --> 00:02:03,600
+I think what we need to look at is we need to look at learning as the product of educational self-organization.
+
+12
+00:02:03,600 --> 00:02:13,600
+If you allow the educational process to self-organize, then learning emerges. It's not about making learning happen, it's about letting it happen.
+
+13
+00:02:14,400 --> 00:02:24,640
+That was Dr Sugutramitra, and we're going to spend some time in this podcast kind of dissecting a TED talk that he gave a while back,
+
+14
+00:02:24,640 --> 00:02:36,640
+because I think it helps us get a handle on what I have talked about in the past, called the discovery process as the key to understanding the way that we work with scouts.
+
+15
+00:02:36,640 --> 00:02:48,640
+Now I'll have a link in the post that contains this podcast to the full TED talk that Dr Mitra gave, and I want to thank Craig Dixon for inspiring me to take another look at this.
+
+16
+00:02:48,640 --> 00:03:00,640
+I listened to this TED talk quite a while back and I went back and listened again, and I think there's a lot for us to pick up from Dr Mitra's work that will inform our work as scouts.
+
+17
+00:03:00,640 --> 00:03:08,640
+One of the things that's really difficult to get is the process involved in scouting. As I said, I've called the discovery process before,
+
+18
+00:03:08,640 --> 00:03:22,640
+and the reason that it's difficult for us to get a handle on it is because it's something that is basically kind of unfamiliar and kind of at odds with the way that we educate children in our school system.
+
+19
+00:03:22,640 --> 00:03:34,640
+I think it's important to say that I know a lot of teachers and I really value their work, and I don't want anybody to take this as an indictment of the way that we educate children,
+
+20
+00:03:34,640 --> 00:03:45,640
+because as soon as you start talking about school systems and teachers and the educational system in the United States. we just enter into the territory of a lot of arguments, right?
+
+21
+00:03:45,640 --> 00:03:53,640
+So what I would like you to do is put all that aside and just listen to what Dr Mitra has to say about the way that we educate children.
+
+22
+00:03:53,640 --> 00:04:00,640
+If you look at present day schooling the way it is, it's quite easy to figure out where it came from.
+
+23
+00:04:00,640 --> 00:04:09,640
+It came from about 300 years ago and it came from the last and the biggest of the empires on this planet.
+
+24
+00:04:09,640 --> 00:04:25,640
+Imagine trying to run the show, trying to run the entire planet without computers, without telephones, with data handwritten on pieces of paper and travelling by ships.
+
+25
+00:04:25,640 --> 00:04:37,640
+But the Victorians actually did it. What they did was amazing. They created a global computer made up of people.
+
+26
+00:04:37,640 --> 00:04:45,640
+It's still with us today. It's called the bureaucratic administrative machine.
+
+27
+00:04:45,640 --> 00:04:51,640
+In order to have that machine running, you need lots and lots of people.
+
+28
+00:04:51,640 --> 00:04:58,640
+They made another machine to produce those people: the school.
+
+29
+00:04:58,640 --> 00:05:08,640
+The schools would produce the people who would then become parts of the bureaucratic administrative machine.
+
+30
+00:05:08,640 --> 00:05:22,640
+They must be identical to each other. They must be so identical that you could pick one up from New Zealand and ship them to Canada and he would be instantly functional.
+
+31
+00:05:22,640 --> 00:05:31,640
+The Victorians were great engineers. They engineered a system that was so robust that is still with us today,
+
+32
+00:05:31,640 --> 00:05:41,640
+Continuously producing identical people for a machine that no longer exists.
+
+33
+00:05:41,640 --> 00:05:48,640
+The empire is gone. So what are we doing with that design that produces these identical people,
+
+34
+00:05:48,640 --> 00:05:55,640
+And what are we going to do next, if we ever are going to do anything else with it?
+
+35
+00:05:55,640 --> 00:06:04,640
+What we tend to do as scouters is to replicate that very highly engineered, very effective school approach to scouting,
+
+36
+00:06:04,640 --> 00:06:11,640
+And that means that we trade off the idea of self-organized learning or the discovery process,
+
+37
+00:06:11,640 --> 00:06:16,640
+Which is really at the heart of scouting and has been since it was founded.
+
+38
+00:06:16,640 --> 00:06:22,640
+So how do we understand more about the discovery process or self-organized learning?
+
+39
+00:06:22,640 --> 00:06:28,640
+Dr Mitra experimented with this, and I want to let him tell you the story of exactly what he did.
+
+40
+00:06:28,640 --> 00:06:32,640
+Well, I bumped into this whole thing completely by accident.
+
+41
+00:06:32,640 --> 00:06:37,640
+I used to teach people how to write computer programs in New Delhi 14 years ago,
+
+42
+00:06:37,640 --> 00:06:41,640
+And right next to where I used to work, there was a slum
+
+43
+00:06:41,640 --> 00:06:46,640
+And I used to think: how on earth are those kids ever going to learn to write computer programs,
+
+44
+00:06:46,640 --> 00:06:49,640
+Or should they not?
+
+45
+00:06:49,640 --> 00:06:53,640
+I made a hole in the boundary wall of the slum next to my office
+
+46
+00:06:53,640 --> 00:06:56,640
+and I stuck a computer inside it just to see what would happen
+
+47
+00:06:56,640 --> 00:06:59,640
+If I gave a computer to children who never would have one,
+
+48
+00:06:59,640 --> 00:07:02,640
+Didn't know any English, didn't know what the internet was.
+
+49
+00:07:02,640 --> 00:07:05,640
+The children came running in- it was three feet off the ground and they said:
+
+50
+00:07:05,640 --> 00:07:08,640
+what is this? And I said, yeah, you know, I don't know.
+
+51
+00:07:08,640 --> 00:07:13,640
+So they said: why have you put it there?
+
+52
+00:07:13,640 --> 00:07:14,640
+I said just like that.
+
+53
+00:07:14,640 --> 00:07:17,640
+And they said: can we touch it? I said if you wish to,
+
+54
+00:07:17,640 --> 00:07:20,640
+And I went away.
+
+55
+00:07:20,640 --> 00:07:23,640
+About eight hours later we found them browsing
+
+56
+00:07:23,640 --> 00:07:25,640
+and teaching each other how to browse.
+
+57
+00:07:25,640 --> 00:07:29,640
+So I said: but that's impossible because you know. how is it possible?
+
+58
+00:07:29,640 --> 00:07:31,640
+They don't know anything.
+
+59
+00:07:31,640 --> 00:07:34,640
+My colleagues said, no, it's a simple solution.
+
+60
+00:07:34,640 --> 00:07:38,640
+One of your students must have been passing by showed them how to use the mouse.
+
+61
+00:07:38,640 --> 00:07:40,640
+So I said, yeah, that's possible.
+
+62
+00:07:40,640 --> 00:07:42,640
+So I repeated the experiment.
+
+63
+00:07:42,640 --> 00:07:45,640
+I went 300 miles out of Delhi into a really remote village
+
+64
+00:07:45,640 --> 00:07:49,640
+with the chances of you know a passing software development engineer.
+
+65
+00:07:49,640 --> 00:07:53,640
+It was very little.
+
+66
+00:07:53,640 --> 00:07:56,640
+I repeated the experiment there.
+
+67
+00:07:56,640 --> 00:07:59,640
+There was no place to stay, so I stuck my computer in. I went away,
+
+68
+00:07:59,640 --> 00:08:02,640
+came back after a couple of months, found kids playing games on it
+
+69
+00:08:02,640 --> 00:08:03,640
+And they saw me.
+
+70
+00:08:03,640 --> 00:08:10,640
+They said we want a faster processor and a better mouse.
+
+71
+00:08:10,640 --> 00:08:13,640
+So I said: how on earth do you know all this?
+
+72
+00:08:13,640 --> 00:08:17,640
+And they said something very interesting to me in an irritated voice.
+
+73
+00:08:17,640 --> 00:08:20,640
+They said: you've given us a machine that works only in English,
+
+74
+00:08:20,640 --> 00:08:26,640
+So we had to teach ourselves English in order to use it.
+
+75
+00:08:26,640 --> 00:08:30,640
+That's the first time as a teacher that I heard the word
+
+76
+00:08:30,640 --> 00:08:33,640
+teach ourselves so casually.
+
+77
+00:08:33,640 --> 00:08:35,640
+So this is a fascinating idea.
+
+78
+00:08:35,640 --> 00:08:40,640
+Dr Mitra takes a computer, puts it in a hole in the wall in a slum in New Delhi
+
+79
+00:08:40,640 --> 00:08:46,640
+and lets children just work with the computer and they begin to learn things.
+
+80
+00:08:46,640 --> 00:08:48,640
+They organize their own learning
+
+81
+00:08:48,640 --> 00:08:50,640
+And the outcome doesn't seem very likely, does it?
+
+82
+00:08:50,640 --> 00:08:55,640
+Who would expect children to be able to do anything with something so complex
+
+83
+00:08:55,640 --> 00:08:59,640
+and so complicated? but they began to understand what it was
+
+84
+00:08:59,640 --> 00:09:02,640
+and began to understand how to use it.
+
+85
+00:09:02,640 --> 00:09:06,640
+And this is what I've talked about in the past as the discovery process in scouting:
+
+86
+00:09:06,640 --> 00:09:10,640
+Not making learning happen, but providing the opportunities,
+
+87
+00:09:10,640 --> 00:09:13,640
+creating the environment where this kind of learning happens.
+
+88
+00:09:13,640 --> 00:09:17,640
+Now we're not teaching our scouts the practicalities of how to use a computer.
+
+89
+00:09:17,640 --> 00:09:22,640
+Skills that we use and the activities that we use are very, very different from that.
+
+90
+00:09:22,640 --> 00:09:25,640
+But the basics are the same.
+
+91
+00:09:25,640 --> 00:09:29,640
+What it is- that, given the opportunity, given the right environment,
+
+92
+00:09:29,640 --> 00:09:32,640
+they will organize the way that they're going to learn
+
+93
+00:09:32,640 --> 00:09:34,640
+and they'll really get something out of it.
+
+94
+00:09:34,640 --> 00:09:38,640
+And we know that the point of this is not the skills themselves.
+
+95
+00:09:38,640 --> 00:09:43,640
+The skills are something that we use to develop their character
+
+96
+00:09:43,640 --> 00:09:48,640
+and develop the skills of learning, how to learn.
+
+97
+00:09:48,640 --> 00:09:50,640
+So let's go back to Dr Mitra for a moment,
+
+98
+00:09:50,640 --> 00:09:54,640
+because his first experiment was right outside his office.
+
+99
+00:09:54,640 --> 00:09:57,640
+The idea was that, oh, perhaps somebody with more knowledge
+
+100
+00:09:57,640 --> 00:09:59,640
+could have come along and taught the children.
+
+101
+00:09:59,640 --> 00:10:04,640
+So he moved that out to this more remote location and had the same result.
+
+102
+00:10:04,640 --> 00:10:08,640
+And then he decides this
+
+103
+00:10:08,640 --> 00:10:12,640
+People said: well, how far will it go? Where does it stop?
+
+104
+00:10:12,640 --> 00:10:18,640
+I decided I would destroy my own argument by creating an absurd proposition.
+
+105
+00:10:18,640 --> 00:10:22,640
+I made a hypothesis, a ridiculous hypothesis.
+
+106
+00:10:22,640 --> 00:10:24,640
+Tamil is a South Indian language
+
+107
+00:10:24,640 --> 00:10:27,640
+And I said: can Tamil-speaking children in a South Indian village
+
+108
+00:10:27,640 --> 00:10:32,640
+learn the biotechnology of DNA replication in English from a street-side computer?
+
+109
+00:10:32,640 --> 00:10:35,640
+And I said I'll measure them, They'll get a zero.
+
+110
+00:10:35,640 --> 00:10:38,640
+I'll leave it for a couple of months, I'll go back.
+
+111
+00:10:38,640 --> 00:10:40,640
+They'll get another zero.
+
+112
+00:10:40,640 --> 00:10:44,640
+I'll go back to the lab and say: we need teachers.
+
+113
+00:10:44,640 --> 00:10:48,640
+I found a village- It was called Kalikukpam, in Southern India.
+
+114
+00:10:48,640 --> 00:10:51,640
+I put in a whole lot of computers there,
+
+115
+00:10:51,640 --> 00:10:55,640
+Downloaded all kinds of stuff from the internet about DNA replication,
+
+116
+00:10:55,640 --> 00:10:58,640
+most of which I didn't understand.
+
+117
+00:10:58,640 --> 00:11:01,640
+The children came rushing and said: what's all this?
+
+118
+00:11:01,640 --> 00:11:05,640
+So I said it's very topical, very important.
+
+119
+00:11:05,640 --> 00:11:07,640
+It's all in English.
+
+120
+00:11:07,640 --> 00:11:10,640
+So they said: how can we understand such big English words
+
+121
+00:11:10,640 --> 00:11:12,640
+and diagrams and chemistry?
+
+122
+00:11:12,640 --> 00:11:15,640
+So by then I had developed a new pedagogical method,
+
+123
+00:11:15,640 --> 00:11:18,640
+So I applied that. I said I haven't the foggiest idea
+
+124
+00:11:19,640 --> 00:11:22,640
+And anyway, I'm going away.
+
+125
+00:11:27,640 --> 00:11:30,640
+So I left them for a couple of months.
+
+126
+00:11:30,640 --> 00:11:33,640
+They'd got a zero. I gave them a test.
+
+127
+00:11:33,640 --> 00:11:36,640
+I came back after two months and the children trooped in
+
+128
+00:11:36,640 --> 00:11:38,640
+and said: we've understood nothing.
+
+129
+00:11:38,640 --> 00:11:40,640
+So what did I expect?
+
+130
+00:11:40,640 --> 00:11:45,640
+So I said: okay, but how long did it take you before you decided
+
+131
+00:11:45,640 --> 00:11:47,640
+that you can't understand anything?
+
+132
+00:11:47,640 --> 00:11:49,640
+So they said: we haven't given up.
+
+133
+00:11:49,640 --> 00:11:51,640
+We look at it every single day.
+
+134
+00:11:51,640 --> 00:11:54,640
+So I said what Don't understand these screens?
+
+135
+00:11:54,640 --> 00:11:56,640
+and you keep staring at it for two months? what for?
+
+136
+00:11:56,640 --> 00:11:59,640
+So a little girl who you'll see just now.
+
+137
+00:11:59,640 --> 00:12:02,640
+she raised her hand and she says to me in broken Tamil and English:
+
+138
+00:12:02,640 --> 00:12:05,640
+she said: well, apart from the fact that improper replication
+
+139
+00:12:05,640 --> 00:12:07,640
+of the DNA molecule causes disease.
+
+140
+00:12:07,640 --> 00:12:09,640
+we haven't understood anything else.
+
+141
+00:12:09,640 --> 00:12:19,640
+So I tested them.
+
+142
+00:12:19,640 --> 00:12:21,640
+I got an educational impossibility:
+
+143
+00:12:21,640 --> 00:12:25,640
+zero to 30% in two months, in the tropical heat,
+
+144
+00:12:25,640 --> 00:12:27,640
+with their computer under the tree in a language
+
+145
+00:12:27,640 --> 00:12:29,640
+that they didn't know, doing something
+
+146
+00:12:29,640 --> 00:12:31,640
+that's a decade ahead of their time-
+
+147
+00:12:31,640 --> 00:12:33,640
+Absurd.
+
+148
+00:12:33,640 --> 00:12:37,640
+But I had to follow the Victorian norm.
+
+149
+00:12:37,640 --> 00:12:40,640
+30% is a fail.
+
+150
+00:12:40,640 --> 00:12:42,640
+How do I get them to pass?
+
+151
+00:12:42,640 --> 00:12:44,640
+I have to get them 20 more marks.
+
+152
+00:12:44,640 --> 00:12:46,640
+I couldn't find a teacher.
+
+153
+00:12:46,640 --> 00:12:48,640
+What I did find was a friend that they had
+
+154
+00:12:48,640 --> 00:12:51,640
+A 22-year-old girl who was an accountant
+
+155
+00:12:51,640 --> 00:12:53,640
+and she played with them all the time.
+
+156
+00:12:53,640 --> 00:12:55,640
+So I asked this girl: can you help them?
+
+157
+00:12:55,640 --> 00:12:58,640
+So she says absolutely not.
+
+158
+00:12:58,640 --> 00:13:00,640
+I didn't have science in school.
+
+159
+00:13:00,640 --> 00:13:03,640
+I have no idea what they're doing under the tree all day long.
+
+160
+00:13:03,640 --> 00:13:05,640
+I can't help you.
+
+161
+00:13:05,640 --> 00:13:08,640
+I'm really struck with the parallel
+
+162
+00:13:08,640 --> 00:13:10,640
+that this story has with the way
+
+163
+00:13:10,640 --> 00:13:12,640
+a lot of us become scouts.
+
+164
+00:13:12,640 --> 00:13:14,640
+In this very remote village,
+
+165
+00:13:14,640 --> 00:13:16,640
+Dr Mitra is doing another experiment
+
+166
+00:13:16,640 --> 00:13:19,640
+and he decides that he needs somebody as a catalyst.
+
+167
+00:13:19,640 --> 00:13:21,640
+He approaches this young woman
+
+168
+00:13:21,640 --> 00:13:25,640
+and she says: I have no skills at all.
+
+169
+00:13:25,640 --> 00:13:27,640
+I don't know what you're talking about.
+
+170
+00:13:27,640 --> 00:13:30,640
+I have no idea what they're doing under that tree all day.
+
+171
+00:13:30,640 --> 00:13:33,640
+And does that sound familiar to you?
+
+172
+00:13:33,640 --> 00:13:36,640
+Perhaps somebody approached you about becoming a scouter
+
+173
+00:13:36,640 --> 00:13:38,640
+and you said: I really doubt
+
+174
+00:13:38,640 --> 00:13:40,640
+that I would be very effective at doing this.
+
+175
+00:13:40,640 --> 00:13:42,640
+I have not a lot of experience working with children,
+
+176
+00:13:42,640 --> 00:13:44,640
+or I don't really know how to teach
+
+177
+00:13:44,640 --> 00:13:47,640
+and all the various excuses that we come up with.
+
+178
+00:13:47,640 --> 00:13:50,640
+But Dr Mitra's advice to this young lady
+
+179
+00:13:50,640 --> 00:13:54,640
+is one that we should really listen to very, very carefully,
+
+180
+00:13:54,640 --> 00:13:58,640
+because he explains how to facilitate
+
+181
+00:13:58,640 --> 00:14:01,640
+this self-organized learning process
+
+182
+00:14:01,640 --> 00:14:04,640
+very succinctly and very creatively.
+
+183
+00:14:04,640 --> 00:14:06,640
+I said I'll tell you what.
+
+184
+00:14:06,640 --> 00:14:08,640
+use the method of the grandmother.
+
+185
+00:14:08,640 --> 00:14:10,640
+So she says: what's that?
+
+186
+00:14:10,640 --> 00:14:11,640
+I said: stand behind them.
+
+187
+00:14:11,640 --> 00:14:13,640
+Whenever they do anything, you just say:
+
+188
+00:14:13,640 --> 00:14:15,640
+well, wow, I mean, how did you do that?
+
+189
+00:14:15,640 --> 00:14:17,640
+What's the next page?
+
+190
+00:14:17,640 --> 00:14:19,640
+Gosh, when I was your age, I could have never done that.
+
+191
+00:14:19,640 --> 00:14:21,640
+I mean, you know what grannies do.
+
+192
+00:14:21,640 --> 00:14:24,640
+So she did that. for two more months.
+
+193
+00:14:24,640 --> 00:14:26,640
+The scores jumped to 50%.
+
+194
+00:14:26,640 --> 00:14:28,640
+Encouragement seems to be the key.
+
+195
+00:14:28,640 --> 00:14:31,640
+If you look at all of the experiments that I did,
+
+196
+00:14:31,640 --> 00:14:37,640
+it was simply saying wow, saluting learning.
+
+197
+00:14:37,640 --> 00:14:41,640
+Let's take a closer look at Dr Mitra's granny method.
+
+198
+00:14:41,640 --> 00:14:45,640
+Be present, be encouraging, ask questions
+
+199
+00:14:45,640 --> 00:14:49,640
+and say wow and salute the results,
+
+200
+00:14:49,640 --> 00:14:51,640
+Acknowledge the results.
+
+201
+00:14:51,640 --> 00:14:53,640
+I think that bears repeating.
+
+202
+00:14:53,640 --> 00:14:58,640
+Be present, be encouraging, ask questions,
+
+203
+00:14:58,640 --> 00:15:04,640
+say wow and salute the learning that results.
+
+204
+00:15:04,640 --> 00:15:07,640
+The granny method is really radically different
+
+205
+00:15:07,640 --> 00:15:09,640
+than what we're familiar with,
+
+206
+00:15:09,640 --> 00:15:12,640
+which is the school method, which is: be the expert,
+
+207
+00:15:12,640 --> 00:15:15,640
+teach you know, lay everything out,
+
+208
+00:15:15,640 --> 00:15:19,640
+then help them practice everything and then test it.
+
+209
+00:15:19,640 --> 00:15:21,640
+Now, that method we know that's effective
+
+210
+00:15:21,640 --> 00:15:24,640
+and we know that's the way that our children learn
+
+211
+00:15:24,640 --> 00:15:26,640
+most things that they learn.
+
+212
+00:15:26,640 --> 00:15:29,640
+but that doesn't mean we should replicate
+
+213
+00:15:29,640 --> 00:15:32,640
+that kind of lecturing, practicing,
+
+214
+00:15:32,640 --> 00:15:35,640
+testing method in scouting,
+
+215
+00:15:35,640 --> 00:15:38,640
+because what we're trying to create
+
+216
+00:15:38,640 --> 00:15:40,640
+is something quite different than somebody
+
+217
+00:15:40,640 --> 00:15:43,640
+who can effectively pass a test.
+
+218
+00:15:43,640 --> 00:15:47,640
+We're trying to create a person of good character
+
+219
+00:15:47,640 --> 00:15:50,640
+with the confidence to learn for themselves.
+
+220
+00:15:50,640 --> 00:15:55,640
+Dr Mitra discusses something that helps inform that method.
+
+221
+00:15:55,640 --> 00:15:57,640
+There is evidence from neuroscience,
+
+222
+00:15:57,640 --> 00:15:59,640
+The reptilian part of our brain
+
+223
+00:15:59,640 --> 00:16:01,640
+which sits in the center of our brain.
+
+224
+00:16:01,640 --> 00:16:04,640
+when it's threatened it shuts down everything else.
+
+225
+00:16:04,640 --> 00:16:06,640
+It shuts down the prefrontal cortex,
+
+226
+00:16:06,640 --> 00:16:08,640
+the parts which learn.
+
+227
+00:16:08,640 --> 00:16:10,640
+It shuts all of that down.
+
+228
+00:16:10,640 --> 00:16:14,640
+Punishment and examinations are seen as threats.
+
+229
+00:16:14,640 --> 00:16:18,640
+We take our children, we make them shut their brains down
+
+230
+00:16:18,640 --> 00:16:21,640
+and then we say perform.
+
+231
+00:16:21,640 --> 00:16:24,640
+Why did they create a system like that?
+
+232
+00:16:24,640 --> 00:16:26,640
+Because it was needed.
+
+233
+00:16:26,640 --> 00:16:29,640
+There was an age, in the Age of Empires,
+
+234
+00:16:29,640 --> 00:16:33,640
+when you needed those people who can survive under threat.
+
+235
+00:16:33,640 --> 00:16:36,640
+When you're standing in a trench all alone,
+
+236
+00:16:36,640 --> 00:16:38,640
+if you could have survived, you're okay,
+
+237
+00:16:38,640 --> 00:16:40,640
+You passed.
+
+238
+00:16:40,640 --> 00:16:42,640
+If you didn't, you failed.
+
+239
+00:16:42,640 --> 00:16:45,640
+But the Age of Empires is gone.
+
+240
+00:16:45,640 --> 00:16:47,640
+So what's happening here?
+
+241
+00:16:47,640 --> 00:16:49,640
+I think what we need to look at
+
+242
+00:16:49,640 --> 00:16:51,640
+is we need to look at learning
+
+243
+00:16:51,640 --> 00:16:56,640
+as the product of educational self-organization.
+
+244
+00:16:56,640 --> 00:16:59,640
+If you allow the educational process to self-organize,
+
+245
+00:16:59,640 --> 00:17:01,640
+then learning emerges.
+
+246
+00:17:01,640 --> 00:17:04,639
+It's not about making learning happen,
+
+247
+00:17:04,639 --> 00:17:06,639
+It's about letting it happen.
+
+248
+00:17:06,639 --> 00:17:09,639
+The teacher sets the process in motion
+
+249
+00:17:09,639 --> 00:17:12,639
+and then she stands back in awe
+
+250
+00:17:12,639 --> 00:17:14,639
+and watches as learning happens.
+
+251
+00:17:14,640 --> 00:17:17,640
+I think that's what all this is pointing at.
+
+252
+00:17:17,640 --> 00:17:19,640
+So let's make sure we stay focused
+
+253
+00:17:19,640 --> 00:17:21,640
+on the way that we can apply this
+
+254
+00:17:21,640 --> 00:17:23,640
+in our work as scouters.
+
+255
+00:17:23,640 --> 00:17:26,640
+Understanding that the methods that we learned
+
+256
+00:17:26,640 --> 00:17:30,640
+in school and that our children still learn in school
+
+257
+00:17:30,640 --> 00:17:33,640
+is not the approach that we're looking at in scouting. right,
+
+258
+00:17:33,640 --> 00:17:35,640
+We're looking at the granny method
+
+259
+00:17:35,640 --> 00:17:37,640
+and the discovery process,
+
+260
+00:17:37,640 --> 00:17:40,640
+And that's the way scouting was built.
+
+261
+00:17:40,640 --> 00:17:42,640
+It was built to be experiential
+
+262
+00:17:42,640 --> 00:17:47,640
+and to have these self-organizing learning experiences.
+
+263
+00:17:47,640 --> 00:17:49,640
+I've talked about this on this theoretical level,
+
+264
+00:17:49,640 --> 00:17:51,640
+which I know can be a little tiring,
+
+265
+00:17:51,640 --> 00:17:54,640
+So let's look at it on a very practical level.
+
+266
+00:17:54,640 --> 00:17:57,640
+Our scouts organize themselves into patrols
+
+267
+00:17:57,640 --> 00:17:59,640
+and the patrols are challenged
+
+268
+00:17:59,640 --> 00:18:02,640
+to carry out experiential activities
+
+269
+00:18:02,640 --> 00:18:04,640
+that inspire them to learn,
+
+270
+00:18:04,640 --> 00:18:06,640
+Because patrols do what scouts do
+
+271
+00:18:06,640 --> 00:18:09,640
+Scouts go camping? and to get camping,
+
+272
+00:18:09,640 --> 00:18:11,640
+you have to learn the skills of building a fire
+
+273
+00:18:11,640 --> 00:18:13,640
+and cooking over a fire and setting up tents
+
+274
+00:18:13,640 --> 00:18:15,640
+and choosing a campsite.
+
+275
+00:18:15,640 --> 00:18:17,640
+You have to learn how to purify water
+
+276
+00:18:17,640 --> 00:18:19,640
+and why you have to purify water,
+
+277
+00:18:19,640 --> 00:18:21,640
+And to be comfortable in doing that.
+
+278
+00:18:21,640 --> 00:18:24,640
+you need to understand the natural world around you
+
+279
+00:18:24,640 --> 00:18:27,640
+and how to build the foundations of working together
+
+280
+00:18:27,640 --> 00:18:29,640
+as human beings. right,
+
+281
+00:18:29,640 --> 00:18:31,640
+You have to rebuild your little outpost
+
+282
+00:18:31,640 --> 00:18:33,640
+of society in the woods
+
+283
+00:18:33,640 --> 00:18:36,640
+And to do that you have to know experientially
+
+284
+00:18:36,640 --> 00:18:39,640
+a great number of very practical things.
+
+285
+00:18:39,640 --> 00:18:43,640
+But let's remember that the practical knowledge
+
+286
+00:18:43,640 --> 00:18:46,640
+is all subservient to the main aim
+
+287
+00:18:46,640 --> 00:18:49,640
+of developing character and confidence
+
+288
+00:18:49,640 --> 00:18:52,640
+and the ability to learn and the skills of leadership
+
+289
+00:18:52,640 --> 00:18:54,640
+and the skills of responsibility.
+
+290
+00:18:54,640 --> 00:18:56,640
+That's what we're aiming at.
+
+291
+00:18:56,640 --> 00:18:58,640
+Dr Mitra closes his TED Talk
+
+292
+00:18:58,640 --> 00:19:02,640
+by talking about a curriculum of questions,
+
+293
+00:19:02,640 --> 00:19:04,640
+And I think it's an important thing
+
+294
+00:19:04,640 --> 00:19:06,640
+for us to think about.
+
+295
+00:19:06,640 --> 00:19:08,640
+I think we need a curriculum of big questions.
+
+296
+00:19:08,640 --> 00:19:10,640
+There was a time when
+
+297
+00:19:10,640 --> 00:19:13,640
+Stone Age men and women used to sit and look up at the sky
+
+298
+00:19:13,640 --> 00:19:15,640
+and say: what are those twinkling lights?
+
+299
+00:19:15,640 --> 00:19:18,640
+But we've lost sight of that wondrous question.
+
+300
+00:19:18,640 --> 00:19:20,640
+This is done by children
+
+301
+00:19:20,640 --> 00:19:23,640
+without the help of any teacher.
+
+302
+00:19:23,640 --> 00:19:26,640
+The teacher only raises the question
+
+303
+00:19:26,640 --> 00:19:29,640
+and then stands back and admires the answer.
+
+304
+00:19:29,640 --> 00:19:32,640
+My wish is to help design a future of learning
+
+305
+00:19:32,640 --> 00:19:34,640
+by supporting children all over the world
+
+306
+00:19:34,640 --> 00:19:37,640
+to tap into their wonder and their ability to work together.
+
+307
+00:19:37,640 --> 00:19:39,640
+It'll be a school
+
+308
+00:19:39,640 --> 00:19:42,640
+where children go on these intellectual adventures
+
+309
+00:19:42,640 --> 00:19:44,640
+driven by the big questions,
+
+310
+00:19:44,640 --> 00:19:46,640
+with their mediators put in.
+
+311
+00:19:46,640 --> 00:19:49,640
+You can do self-organized learning environments
+
+312
+00:19:49,640 --> 00:19:51,640
+at home, in the school,
+
+313
+00:19:51,640 --> 00:19:54,640
+outside of school, in clubs.
+
+314
+00:19:54,640 --> 00:19:56,640
+It's very easy to do.
+
+315
+00:19:56,640 --> 00:19:58,640
+There's a great document produced by TED
+
+316
+00:19:58,640 --> 00:20:00,640
+which tells you how to do it.
+
+317
+00:20:00,640 --> 00:20:02,640
+If you would, please, please, do it.
+
+318
+00:20:02,640 --> 00:20:04,640
+That's my wish.
+
+319
+00:20:04,640 --> 00:20:07,640
+I'll link both to the complete TED talk
+
+320
+00:20:07,640 --> 00:20:11,640
+and the document that Dr Mitra referred to here,
+
+321
+00:20:11,640 --> 00:20:13,640
+And there's a lot of valuable information
+
+322
+00:20:13,640 --> 00:20:16,640
+that you can get out of that document as a scouter.
+
+323
+00:20:16,640 --> 00:20:18,640
+But let's keep it very, very simple.
+
+324
+00:20:18,640 --> 00:20:21,640
+Scouting is not based on
+
+325
+00:20:21,640 --> 00:20:24,640
+the traditional structure of schools,
+
+326
+00:20:24,640 --> 00:20:26,640
+And after he founded the scouting movement,
+
+327
+00:20:26,640 --> 00:20:28,640
+Baden Powell spent a lot of time
+
+328
+00:20:28,640 --> 00:20:30,640
+pointing out that very thing
+
+329
+00:20:30,640 --> 00:20:33,640
+and discouraging people from using school methods
+
+330
+00:20:33,640 --> 00:20:35,640
+to work with scouts.
+
+331
+00:20:35,640 --> 00:20:38,640
+Dr Mitra's self-organized learning environments,
+
+332
+00:20:38,640 --> 00:20:40,640
+or learning experiences,
+
+333
+00:20:40,640 --> 00:20:43,640
+is really what Baden Powell was talking about,
+
+334
+00:20:43,640 --> 00:20:46,640
+in the way that he envisioned scouting
+
+335
+00:20:46,640 --> 00:20:49,640
+working in that very experiential manner.
+
+336
+00:20:49,640 --> 00:20:52,640
+What I hope is: I hope this really gets you thinking
+
+337
+00:20:52,640 --> 00:20:54,640
+and challenges you to look at
+
+338
+00:20:54,640 --> 00:20:56,640
+the way that you work with scouts
+
+339
+00:20:56,640 --> 00:20:58,640
+and to think about that granny method,
+
+340
+00:20:58,640 --> 00:21:00,640
+which I think is really, really wonderful.
+
+341
+00:21:00,640 --> 00:21:02,640
+Be present, be encouraging,
+
+342
+00:21:02,640 --> 00:21:04,640
+take lots of questions
+
+343
+00:21:04,640 --> 00:21:07,640
+and recognize how wonderful the answers are
+
+344
+00:21:07,640 --> 00:21:08,640
+that they come up with.
+
+345
+00:21:08,640 --> 00:21:11,640
+I believe this to be the most effective way
+
+346
+00:21:11,640 --> 00:21:13,640
+of getting to our goal
+
+347
+00:21:13,640 --> 00:21:15,640
+of achieving the aim
+
+348
+00:21:15,640 --> 00:21:17,640
+that we have as scouts,
+
+349
+00:21:17,640 --> 00:21:19,640
+which is the development of that resilient,
+
+350
+00:21:19,640 --> 00:21:21,640
+self-confident character
+
+351
+00:21:21,640 --> 00:21:23,640
+that is able to take on responsibilities
+
+352
+00:21:23,640 --> 00:21:25,640
+and leadership
+
+353
+00:21:25,640 --> 00:21:27,640
+and that contributes to every community
+
+354
+00:21:27,640 --> 00:21:29,640
+that our scouts are involved in.
+
+355
+00:21:29,640 --> 00:21:32,640
+So you can go and tell all your fellow scouts
+
+356
+00:21:32,640 --> 00:21:35,640
+that I said you have to become a granny, okay,
+
+357
+00:21:35,640 --> 00:21:38,640
+But there's a lot of sense in it
+
+358
+00:21:38,640 --> 00:21:40,640
+when you take a look at it.
+
+359
+00:21:40,640 --> 00:21:42,640
+Once again, be present, be encouraging,
+
+360
+00:21:42,640 --> 00:21:44,640
+ask lots of questions
+
+361
+00:21:44,640 --> 00:21:47,640
+and salute the learning that happens
+
+362
+00:21:59,640 --> 00:22:21,640
+Music
+
+363
+00:22:21,640 --> 00:22:23,640
+Well. thank you for listening to this
+
+364
+00:22:23,640 --> 00:22:26,640
+283rd edition of the Scout Master podcast.
+
+365
+00:22:26,640 --> 00:22:28,640
+Here's how to keep in touch
+
+366
+00:22:28,640 --> 00:22:30,640
+if you have a question or a comment.
+
+367
+00:22:30,640 --> 00:22:32,640
+you can get in touch with me
+
+368
+00:22:32,640 --> 00:22:34,640
+in a number of different ways.
+
+369
+00:22:34,640 --> 00:22:36,640
+The easiest one is to email me.
+
+370
+00:22:36,640 --> 00:22:38,640
+It's Clark at scoutmastercgcom
+
+371
+00:22:38,640 --> 00:22:41,640
+and that's C-L-A-R-K-E
+
+372
+00:22:41,640 --> 00:22:44,640
+at scoutmastercgcom.
+
+373
+00:22:44,640 --> 00:22:46,640
+Do go visit scoutmastercgcom.
+
+374
+00:22:46,640 --> 00:22:48,640
+you can subscribe to receive updates
+
+375
+00:22:48,640 --> 00:22:50,640
+to the blog and the podcast by email.
+
+376
+00:22:50,640 --> 00:22:52,640
+You can keep in touch with us
+
+377
+00:22:52,640 --> 00:22:54,640
+through our Facebook and Twitter feeds,
+
+378
+00:22:54,640 --> 00:22:56,640
+and I want to remind you
+
+379
+00:22:56,640 --> 00:22:58,640
+that this and everything else that we do
+
+380
+00:22:58,640 --> 00:23:00,640
+at scoutmastercgcom
+
+381
+00:23:00,640 --> 00:23:02,640
+is not a publication of any
+
+382
+00:23:02,640 --> 00:23:04,640
+scouting organization.
+
+383
+00:23:04,640 --> 00:23:06,640
+It's not endorsed or sponsored by the Boy Scouts of America,
+
+384
+00:23:06,640 --> 00:23:08,640
+or anybody else for that matter.
+
+385
+00:23:08,640 --> 00:23:10,640
+It's just me trying to lend a hand to
+
+386
+00:23:10,640 --> 00:23:12,640
+scouters and have a little bit of fun along the way.
+
+387
+00:23:12,640 --> 00:23:14,640
+And speaking of fun, here he is
+
+388
+00:23:14,640 --> 00:23:16,640
+our founder, Sir Robert Bidden Powell.
+
+389
+00:23:16,640 --> 00:23:18,640
+Sir Robert,
+
+390
+00:23:18,640 --> 00:23:20,640
+Good luck to you and good camping.
+
+391
+00:23:20,640 --> 00:23:22,640
+Well, thank you, sir,
+
+392
+00:23:22,640 --> 00:23:24,640
+Until next time. everyone.
+
+393
+00:23:24,640 --> 00:23:26,640
+Thank you.
+

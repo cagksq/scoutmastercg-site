@@ -2,7 +2,9 @@
 title: "Don't Control Them - Lead Them"
 date: 2008-06-23
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20151016171853/http://scoutmastercg.com/dont-control-th/"
 ---
 

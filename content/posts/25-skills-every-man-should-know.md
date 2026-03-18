@@ -2,7 +2,9 @@
 title: "25 Skills Every Man Should Know"
 date: 2015-10-17
 draft: false
-categories: ["advancement"]
+topics:
+  - "Merit Badges"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20151017061653/http://scoutmastercg.com/25-skills-every/"
 ---
 

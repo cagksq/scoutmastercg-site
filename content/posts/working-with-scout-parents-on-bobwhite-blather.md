@@ -2,7 +2,9 @@
 title: "Working with Scout Parents on Bobwhite Blather"
 date: 2012-10-18
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Scout Parents"
+  - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20121024005511/http://www.scoutmastercg.com:80/2012/10/working-with-scout-parents/"
 ---
 

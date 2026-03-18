@@ -2,7 +2,9 @@
 title: "Inclusive or Exclusive?"
 date: 2015-01-31
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20150131005125/http://scoutmastercg.com:80/inclusive_or_ex/?"
 ---
 

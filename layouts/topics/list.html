@@ -1,0 +1,55 @@
+{{ define "main" }}
+  <article class="mw7 center ph3 pb5">
+
+    {{/* Find the main category this topic belongs to */}}
+    {{ range site.Data.topic_structure }}
+      {{ $parent := .name }}
+      {{ range .subcategories }}
+        {{ if eq .name $.Title }}
+          {{ $.Scratch.Set "parentCat" $parent }}
+          {{ $.Scratch.Set "parentSlug" ($parent | urlize) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    <nav class="smcg-breadcrumb">
+      <a href="/">All Topics</a>
+      <span class="smcg-breadcrumb-sep">›</span>
+      <a href="/#{{ $.Scratch.Get "parentSlug" }}">{{ $.Scratch.Get "parentCat" }}</a>
+    </nav>
+
+    <h1 class="topics-page-title">{{ .Title }}</h1>
+
+    <div class="topics-sort-bar">
+      <span class="topics-page-count">{{ len .Pages }} posts</span>
+      <div class="topics-sort-btns">
+        <button class="topics-sort-btn active" data-dir="desc" onclick="smcgSort('desc', this)">Newest first</button>
+        <span class="topics-sort-sep">·</span>
+        <button class="topics-sort-btn" data-dir="asc" onclick="smcgSort('asc', this)">Oldest first</button>
+      </div>
+    </div>
+
+    <div class="topics-page-list">
+      {{ range .Pages.ByDate.Reverse }}
+        <a class="topics-page-row" href="{{ .RelPermalink }}" data-sort="{{ .Date.Format "2006-01-02" }}">
+          <div class="topics-page-row-title">{{ .Title }}</div>
+          <div class="topics-page-row-summary">{{ index (split (.Summary | plainify) ".") 0 }}.</div>
+        </a>
+      {{ end }}
+    </div>
+
+    {{ $podMatches := where (index site.Data "podcast-assignments") "topics" "intersect" (slice .Title) }}
+    {{ if $podMatches }}
+      <h2 class="topics-page-section-heading">Podcast Sections</h2>
+      <div class="topics-page-list">
+        {{ range $podMatches }}
+          <a class="topics-page-row topics-page-row--podcast" href="/podcasts/episode-{{ .episode }}/?t={{ .timestamp }}" data-sort="{{ printf "%04d" .episode }}">
+            <div class="topics-page-row-title">Episode {{ .episode }} — {{ .label | title }}</div>
+            <div class="topics-page-row-summary topics-page-row-note">{{ .note }}</div>
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
+
+  </article>
+{{ end }}

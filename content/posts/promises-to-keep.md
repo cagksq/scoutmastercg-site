@@ -2,7 +2,9 @@
 title: "Promises to Keep"
 date: 2013-01-04
 draft: false
-categories: ["patrol-method", "scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20130104232803/http://www.scoutmastercg.com:80/promises_to_kee/"
 ---
 

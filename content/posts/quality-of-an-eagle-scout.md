@@ -2,7 +2,9 @@
 title: "Quality of an Eagle Scout"
 date: 2012-08-18
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150910140517/http://scoutmastercg.com/quality-of-an-eagle-scout/"
 ---
 

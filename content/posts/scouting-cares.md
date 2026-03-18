@@ -2,7 +2,9 @@
 title: "Scouting Cares"
 date: 2012-11-26
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Character Development"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20121126062618/http://www.scoutmastercg.com:80/2011/06/scouting-cares/"
 ---
 

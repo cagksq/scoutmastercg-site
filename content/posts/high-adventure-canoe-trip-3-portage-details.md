@@ -2,7 +2,9 @@
 title: "High Adventure Canoe Trip 3 - Portage Details"
 date: 2013-06-25
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20170518032221/http://scoutmastercg.com:80/high-adventure-canoe-trip-3/"
 ---
 

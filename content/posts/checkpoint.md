@@ -2,10 +2,9 @@
 title: "Checkpoint"
 date: 2005-11-01
 draft: false
-categories:
-  - scouting-ideals
+topics:
+  - "BSA Membership & Inclusion"
 ---
-
 Let's build a "membership standards" checkpoint at the gate of our scout camp. Adult leaders can gain entrance only after they pass inspection on their adherence to the scout oath and law to enter.
 
 This way we can be sure to exclude atheists, the divorced, smokers, drug users, alcoholics, tax cheats, people who are overweight, adulterers, fornicators, the envious, homosexuals,the lustful, the prideful, the gluttonous, the dishonest, and the slothful. We can get finally weed out the cheerless, the unclean, the unfriendly, the cowardly, the discourteous, the irreverent, and everyone who does not meet a focused determination of appropriate standards.

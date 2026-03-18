@@ -2,7 +2,9 @@
 title: "Integrity"
 date: 2006-01-01
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Character Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20110912202400/http://www.scoutmastercg.com:80/2011/07/integrity/"
 ---
 

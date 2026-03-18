@@ -2,7 +2,8 @@
 title: "Be Safe"
 date: 2011-04-17
 draft: false
-categories: ["scoutmasters-job", "scouting-history-ideas"]
+topics:
+  - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20110417015115/http://www.scoutmastercg.com:80/2010/06/be-safe-dont-make-news/"
 ---
 

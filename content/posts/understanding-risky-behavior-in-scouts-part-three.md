@@ -2,7 +2,9 @@
 title: "Understanding Risky Behavior in Scouts - Part Three"
 date: 2012-06-20
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Discipline & Behavior"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20121220014335/http://www.scoutmastercg.com:80/understanding-risky-behavior-in-scouts-part-three/"
 ---
 

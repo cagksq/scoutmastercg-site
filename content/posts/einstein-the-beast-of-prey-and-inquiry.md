@@ -2,7 +2,9 @@
 title: "Einstein The Beast of Prey and Inquiry"
 date: 2014-10-17
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Instructional Methods"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20141017151626/http://scoutmastercg.com:80/education/"
 ---
 

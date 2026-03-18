@@ -2,7 +2,9 @@
 title: "Scouting and Money"
 date: 2017-07-04
 draft: false
-categories: ["outdoors", "scoutmasters-job"]
+topics:
+  - "Troop Administration"
+  - "Fundraising & Finances"
 wayback_url: "https://web.archive.org/web/20170704200534/http://scoutmastercg.com/scouting-and-money/"
 ---
 

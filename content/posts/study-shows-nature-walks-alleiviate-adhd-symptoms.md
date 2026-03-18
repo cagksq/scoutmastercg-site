@@ -2,7 +2,9 @@
 title: "Study Shows Nature Walks Alleiviate ADHD Symptoms"
 date: 2011-04-06
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Nature & Environment"
+  - "Scout Activities & Games"
 wayback_url: "https://web.archive.org/web/20140901023236/http://scoutmastercg.com/study-shows-nature-walks-alleiviate-adhd-symptoms/?replytocom=474"
 ---
 

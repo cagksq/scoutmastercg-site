@@ -2,7 +2,9 @@
 title: "More Rules = More Enforcement"
 date: 2014-11-22
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Discipline & Behavior"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20141122153448/http://scoutmastercg.com:80/more-rules-more/"
 ---
 

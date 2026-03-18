@@ -1,0 +1,1156 @@
+1
+00:00:00,000 --> 00:00:10,080
+This is Clark, and I want to take a moment to thank the hundreds of scouters all over the world who sponsor the podcast by being ScoutmasterCG.com backers and patrons.
+
+2
+00:00:10,560 --> 00:00:17,700
+You can join them by going to ScoutmasterCG.com and following the support or be a patron links at the top of the page.
+
+3
+00:00:18,200 --> 00:00:20,120
+And now it's to you, Scoutmaster.
+
+4
+00:00:20,120 --> 00:00:38,040
+It occurs to me, for generations, men have looked upon the bald eagle and found great inspiration, yet when the eagle looks upon a bald man, it doesn't seem to affect him at all.
+
+5
+00:00:39,160 --> 00:00:41,400
+Hey, this is podcast number one.
+
+6
+00:00:50,120 --> 00:01:13,000
+So there it is, the Happy Wanderer.
+
+7
+00:01:13,000 --> 00:01:18,820
+I think it makes like a kind of a fun theme song for the podcast, you know?
+
+8
+00:01:18,820 --> 00:01:22,300
+I mean, we sing it in the dining hall and around the campfire every once in a while.
+
+9
+00:01:22,639 --> 00:01:24,559
+It's a great scout song.
+
+10
+00:01:25,059 --> 00:01:27,500
+So what is all this scouting stuff about?
+
+11
+00:01:27,679 --> 00:01:29,280
+Why are we doing a podcast?
+
+12
+00:01:29,580 --> 00:01:40,440
+We're going to attempt to answer these questions and more, but just by way of introduction, I am a Scoutmaster and have been a Scoutmaster for 25 years this year.
+
+13
+00:01:40,660 --> 00:01:41,699
+Yes, thank you very much.
+
+14
+00:01:42,100 --> 00:01:45,660
+Why have I spent this much time dealing with it?
+
+15
+00:01:45,660 --> 00:01:57,940
+Well, I'll tell you what, you can go anywhere where there are Scoutage boys, a classroom, a village square, anywhere in the world, and you will make some observations and conclusions.
+
+16
+00:01:58,580 --> 00:02:00,300
+Boys instinctively form groups.
+
+17
+00:02:00,660 --> 00:02:02,780
+They adopt some kind of uniform.
+
+18
+00:02:03,100 --> 00:02:05,240
+They establish standards for their group.
+
+19
+00:02:05,340 --> 00:02:10,240
+They develop a credo and they create initiatory challenges.
+
+20
+00:02:10,780 --> 00:02:10,979
+What?
+
+21
+00:02:11,280 --> 00:02:12,160
+Initiatory what?
+
+22
+00:02:12,160 --> 00:02:14,880
+Okay, they dare each other to do stuff.
+
+23
+00:02:15,320 --> 00:02:16,859
+Does that make sense, doesn't it?
+
+24
+00:02:17,060 --> 00:02:17,720
+I was a boy.
+
+25
+00:02:18,079 --> 00:02:19,720
+These were things that were common with us.
+
+26
+00:02:19,800 --> 00:02:27,960
+We formed little gangs and groups and clubs and they weren't necessarily the official adult run ones and stuff like that.
+
+27
+00:02:28,020 --> 00:02:31,019
+But these were just instinctive things that we did.
+
+28
+00:02:31,400 --> 00:02:36,960
+I mean, we yearned to belong and to gain acceptance and approval from outside the confines of our family.
+
+29
+00:02:36,960 --> 00:02:37,600
+Right?
+
+30
+00:02:37,600 --> 00:02:37,700
+Right?
+
+31
+00:02:37,980 --> 00:02:43,800
+And this kind of search can be kind of imperfect because, hey, you're a kid.
+
+32
+00:02:44,200 --> 00:02:58,820
+A lot of times when young people, especially in their adolescence, are looking and searching and trying things on and we kind of look askance at that and we regard it with some real misapprehension.
+
+33
+00:02:58,820 --> 00:03:04,200
+I mean, in adolescence, we try on lots of attitudes and poses and stuff.
+
+34
+00:03:04,320 --> 00:03:08,820
+You know what I said about uniforms there, about groups of boys adopting uniforms?
+
+35
+00:03:08,959 --> 00:03:09,420
+Well, they do.
+
+36
+00:03:09,940 --> 00:03:11,820
+They don't call it a uniform.
+
+37
+00:03:12,019 --> 00:03:22,180
+It might be like a black t-shirt and black jeans and a dog collar or some kind of punky kind of thing.
+
+38
+00:03:22,359 --> 00:03:24,959
+I'm woefully outdated, okay?
+
+39
+00:03:25,500 --> 00:03:27,280
+But you understand what I mean.
+
+40
+00:03:27,280 --> 00:03:34,780
+You tried to drive your parents crazy by wearing certain kinds of clothing and adopting certain kinds of attitude and wearing your hair a certain way.
+
+41
+00:03:35,300 --> 00:03:35,540
+Right?
+
+42
+00:03:35,800 --> 00:03:36,220
+I did.
+
+43
+00:03:36,600 --> 00:03:39,900
+And it's just the right of every successive generation.
+
+44
+00:03:40,380 --> 00:03:42,500
+What does scouting have to do with any of this?
+
+45
+00:03:42,600 --> 00:03:52,980
+Well, in most systems of education, and scouting, I think, can very broadly define to fit into the world of systems of education.
+
+46
+00:03:52,980 --> 00:04:03,760
+In most systems of education, you take these instinctive things, forming groups and uniforms and initiatory challenges and things like that, and you don't capitalize on them.
+
+47
+00:04:03,839 --> 00:04:07,140
+As a matter of fact, you outlaw them and you resist them.
+
+48
+00:04:07,339 --> 00:04:09,640
+I mean, the school system does a pretty good job of that.
+
+49
+00:04:09,880 --> 00:04:15,339
+But scouting capitalizes on these instinctive things and turns them into good things.
+
+50
+00:04:15,340 --> 00:04:21,060
+We all, more or less, hammered our way through adolescence, you know, blindly.
+
+51
+00:04:21,600 --> 00:04:25,440
+We may have had people who made things a little easier for us.
+
+52
+00:04:25,860 --> 00:04:29,600
+Friends and mentors, you know, coaches, teachers, scout leaders.
+
+53
+00:04:30,020 --> 00:04:33,920
+And there were probably people that made things a little more confusing and difficult for us.
+
+54
+00:04:33,920 --> 00:04:40,620
+The reason that I am a scoutmaster is because I want to be one of the people that makes this process a little easier.
+
+55
+00:04:41,260 --> 00:04:47,100
+Plus, I love to go camping and cook over a campfire and all that type of stuff.
+
+56
+00:04:47,880 --> 00:04:50,240
+Scouting, I have found, it's not an ideology.
+
+57
+00:04:50,600 --> 00:04:55,160
+It has a credo and, you know, we have the Scout Oath and Law and things like that.
+
+58
+00:04:55,160 --> 00:05:04,740
+But it's more a way of taking and channeling the unstable energies and excesses of adolescence into something positive
+
+59
+00:05:04,740 --> 00:05:09,640
+and something that will help to shape rather than destroy a person's life.
+
+60
+00:05:09,780 --> 00:05:16,160
+I've got to tell you that after 25 years of looking around and experiencing this, it doesn't always work.
+
+61
+00:05:16,440 --> 00:05:17,480
+No, it really doesn't.
+
+62
+00:05:17,740 --> 00:05:24,200
+And when it doesn't work, I can tell you that it's usually not the fault of the boys that are involved.
+
+63
+00:05:24,200 --> 00:05:31,460
+It's the fault of the adults administering the program who usually innocently just don't understand what they're doing
+
+64
+00:05:31,460 --> 00:05:35,719
+or get off on the wrong track and then they get frustrated because things don't work.
+
+65
+00:05:35,920 --> 00:05:36,980
+Well, I'll tell you something.
+
+66
+00:05:37,140 --> 00:05:40,159
+That is why I am doing the podcast.
+
+67
+00:05:40,320 --> 00:05:45,099
+Just kind of as a helping hand, I'm not smarter than you.
+
+68
+00:05:45,280 --> 00:05:47,740
+I just have been around a little bit longer.
+
+69
+00:05:48,320 --> 00:05:52,900
+And hopefully I can help you avoid some of the pitfalls that I have had as a scoutmaster.
+
+70
+00:05:52,900 --> 00:05:58,299
+And enjoy some of the benefits that I've been able to enjoy.
+
+71
+00:05:58,880 --> 00:06:00,359
+It's been a great ride.
+
+72
+00:06:00,700 --> 00:06:05,140
+I've gotten to do things and go places that I would otherwise not have done.
+
+73
+00:06:05,440 --> 00:06:10,120
+I've gotten to work with lots and lots of wonderful people and wonderful scouts.
+
+74
+00:06:10,580 --> 00:06:15,760
+And I am really eager to further the journey with this podcast.
+
+75
+00:06:15,760 --> 00:06:18,340
+And I invite you to come on along.
+
+76
+00:06:18,340 --> 00:06:48,159
+This has to be the truth, folks, because there is no way anyone could make this up.
+
+77
+00:06:48,340 --> 00:06:54,560
+I served as the camp director for a couple of years at our camp.
+
+78
+00:06:54,599 --> 00:06:55,840
+And I was on staff for many years.
+
+79
+00:06:55,900 --> 00:07:00,820
+One of the old timers there at camp told me a story about when he was a camp director.
+
+80
+00:07:01,679 --> 00:07:08,780
+And a scoutmaster was in camp who was later to become a state senator and who shall remain nameless.
+
+81
+00:07:08,780 --> 00:07:14,700
+But he told my friend to come on down to the campsite that evening because the troop was going to have a campfire.
+
+82
+00:07:15,260 --> 00:07:18,400
+And he was going to show the boys the fire snake.
+
+83
+00:07:18,400 --> 00:07:28,919
+So my buddy was interested enough and he went down to the campfire.
+
+84
+00:07:29,000 --> 00:07:35,900
+And you know what happened is this guy had taken a can of black powder.
+
+85
+00:07:35,900 --> 00:07:46,099
+Now, if you're a shooter or deal with firearms at all, you know the difference between black powder and smokeless powder.
+
+86
+00:07:46,659 --> 00:07:46,780
+Okay.
+
+87
+00:07:47,260 --> 00:07:50,760
+So black powder is really explosive.
+
+88
+00:07:51,159 --> 00:07:55,960
+I mean, if you touch a match to a pile of black powder, it goes up like a camera flash.
+
+89
+00:07:56,140 --> 00:07:56,419
+Poof.
+
+90
+00:07:56,420 --> 00:08:01,020
+If you touch a match to a pile of smokeless powder, it burns a little slower.
+
+91
+00:08:01,160 --> 00:08:04,460
+That's why it always kind of drives you crazy when you see an old western movie.
+
+92
+00:08:04,540 --> 00:08:08,680
+Somebody takes a powder keg and they trail a line of powder along the ground.
+
+93
+00:08:08,680 --> 00:08:13,160
+And they put the powder keg under the wagon.
+
+94
+00:08:13,280 --> 00:08:14,960
+They want to blow up or something like that.
+
+95
+00:08:15,440 --> 00:08:17,460
+And so they use that line of powder like a fuse.
+
+96
+00:08:18,500 --> 00:08:19,460
+And then they light it.
+
+97
+00:08:19,900 --> 00:08:24,100
+And in the movies, it goes very slowly along the line as the tension builds.
+
+98
+00:08:24,100 --> 00:08:27,220
+And finally, you know, they blow up whatever they're blowing up.
+
+99
+00:08:27,580 --> 00:08:29,240
+Well, it wouldn't work that way with black powder.
+
+100
+00:08:29,380 --> 00:08:34,960
+You see, as soon as you touch a match to one end, in a heartbeat, that entire line would just go poof.
+
+101
+00:08:40,300 --> 00:08:40,800
+All right.
+
+102
+00:08:40,820 --> 00:08:42,420
+So let's get back to the campfire, right?
+
+103
+00:08:43,180 --> 00:08:44,220
+That's why I told you about it.
+
+104
+00:08:44,220 --> 00:08:52,400
+Because the fire snake was a little trench that the Scoutmaster had dug in a spiral around the outside of the fire, right?
+
+105
+00:08:52,400 --> 00:08:54,500
+And it had filled with black powder.
+
+106
+00:08:55,060 --> 00:08:56,340
+Black powder.
+
+107
+00:08:57,060 --> 00:08:57,959
+Not smokeless powder.
+
+108
+00:08:58,420 --> 00:08:59,920
+But old-fashioned black powder.
+
+109
+00:09:00,959 --> 00:09:04,180
+And then he very carefully camouflaged it and everything like that.
+
+110
+00:09:04,260 --> 00:09:06,660
+And he brought the boys down into the campfire circle.
+
+111
+00:09:07,420 --> 00:09:12,260
+And you can tell how old this story is because the Scoutmaster was smoking a big cigar.
+
+112
+00:09:14,120 --> 00:09:15,600
+Can't do that anymore, fellas.
+
+113
+00:09:16,060 --> 00:09:17,100
+And a good thing, too.
+
+114
+00:09:17,100 --> 00:09:22,460
+So he's smoking a big cigar and he proceeds to tell the guys this big tale about the fire snake.
+
+115
+00:09:23,080 --> 00:09:27,000
+And, you know, weaves a big imaginary tale and everything like that.
+
+116
+00:09:27,220 --> 00:09:32,340
+And he bends down to touch his cigar to the end of the fire snake.
+
+117
+00:09:32,460 --> 00:09:38,160
+And he thinks what's going to happen is what happens in the movies where it just do-do-do-do-do just kind of burns around in a fuse.
+
+118
+00:09:38,240 --> 00:09:43,980
+And boys would just be excited and delighted with this fantastic effect that would end in the ignition of their fire.
+
+119
+00:09:43,980 --> 00:10:04,140
+And, you know, what it did, actually, was all that powder in the little trough that he had made around the fire blew up at once, just in a heartbeat.
+
+120
+00:10:04,140 --> 00:10:09,920
+And my buddy was there to watch and he said there was a big bright flash.
+
+121
+00:10:10,520 --> 00:10:14,939
+And, you know, 15 or 20 scouts knocked off their benches.
+
+122
+00:10:14,940 --> 00:10:25,800
+And their faces blackened by the...
+
+123
+00:10:25,800 --> 00:10:27,820
+He saw nobody was hurt.
+
+124
+00:10:27,940 --> 00:10:30,380
+He said he just turned around and headed back up the trail.
+
+125
+00:10:30,480 --> 00:10:34,340
+He never really talked with that scoutmaster again about that particular incident.
+
+126
+00:10:34,340 --> 00:10:56,420
+Over the next several podcasts, we're going to be talking about instructional methods for scouts.
+
+127
+00:10:56,720 --> 00:11:00,420
+This is going to serve as an introduction this time.
+
+128
+00:11:00,420 --> 00:11:08,380
+But what you're going to be able to do is to find all this information written down on the blog as well.
+
+129
+00:11:08,640 --> 00:11:17,719
+There's a PDF file of all of the information that you can use as an outline to remind you or to use in training or whatever.
+
+130
+00:11:18,060 --> 00:11:25,620
+We need to put all of our instruction in the context of what we're trying to accomplish as scouts.
+
+131
+00:11:25,620 --> 00:11:28,020
+For this, I turn to Baden-Powell.
+
+132
+00:11:28,540 --> 00:11:33,400
+And I'm going to recommend to you Baden-Powell's Aids to Scout Mastership.
+
+133
+00:11:33,460 --> 00:11:37,700
+It's a 70-page booklet that's widely available online as a PDF file.
+
+134
+00:11:37,940 --> 00:11:39,200
+It's well worth reading.
+
+135
+00:11:39,680 --> 00:11:47,300
+And I think it's a great touchstone to return to, especially when you're looking at very broad concepts such as we are right now.
+
+136
+00:11:47,400 --> 00:11:50,500
+We're instructing scouts in skills or information.
+
+137
+00:11:50,500 --> 00:11:53,620
+And how are we going to evaluate the quality of our instruction?
+
+138
+00:11:54,160 --> 00:11:56,320
+Because that informs the way we instruct, right?
+
+139
+00:11:56,600 --> 00:11:58,900
+So, this is what Baden-Powell had to say.
+
+140
+00:11:59,060 --> 00:11:59,400
+He says,
+
+141
+00:11:59,480 --> 00:12:08,060
+When it is applied with understanding and consideration, the advancement program fosters encouragement and ambition regardless of an individual boy's abilities.
+
+142
+00:12:08,440 --> 00:12:14,500
+It's for this reason that the standard of proficiency is purposefully left undefined.
+
+143
+00:12:14,500 --> 00:12:25,660
+Our standard is not the attainment of a certain level of quality of knowledge or skill, but the amount of effort the boy has put into acquiring such knowledge or skill.
+
+144
+00:12:25,960 --> 00:12:30,120
+This brings the most inept onto equal footing with his more capable brother.
+
+145
+00:12:30,620 --> 00:12:33,720
+Evaluation for badges is not competitive.
+
+146
+00:12:34,160 --> 00:12:41,440
+The Scoutmaster should judge each individual case on its merits and discriminating where to be generous and where to tighten up.
+
+147
+00:12:41,440 --> 00:12:45,760
+Some are inclined to insist that all scouts should be expert before they can get a badge.
+
+148
+00:12:45,860 --> 00:12:47,440
+This is very right in theory.
+
+149
+00:12:48,080 --> 00:12:53,440
+You can get a few boys pretty proficient in this way, but our object is to get all the boys interested.
+
+150
+00:12:54,180 --> 00:13:07,760
+The Scoutmaster who rewards effort, the Scoutmaster who rewards effort as opposed to expertise, develops confidence and enthusiasm, whereas a demanding standard of performance makes boys reluctant and hesitant.
+
+151
+00:13:07,760 --> 00:13:08,760
+Okay?
+
+152
+00:13:08,760 --> 00:13:11,460
+So, that's what Vaden Powell had to say about this.
+
+153
+00:13:11,560 --> 00:13:16,660
+He goes on to address what you're thinking in your mind right now, probably.
+
+154
+00:13:16,900 --> 00:13:17,260
+He says,
+
+155
+00:13:17,360 --> 00:13:21,620
+The other extreme is almost giving away badges on a very slight knowledge of the subjects.
+
+156
+00:13:21,819 --> 00:13:26,660
+Scoutmasters should use their sense and discretion, keeping the main aim in view.
+
+157
+00:13:26,920 --> 00:13:32,500
+There is always the danger of badge hunting supplanting badge earning.
+
+158
+00:13:32,500 --> 00:13:40,100
+Our main aim is to encourage initiative and self-confidence instead of showy self-indulgence.
+
+159
+00:13:40,680 --> 00:13:49,700
+The Scoutmaster must be alert to check badge hunting and to realize which is the badge hunter and which is the eager and earnest worker.
+
+160
+00:13:50,000 --> 00:13:57,660
+The success of the advancement program depends very largely on the Scoutmaster himself and his individual handling of it.
+
+161
+00:13:57,740 --> 00:14:01,220
+Now, that informs the way that we instruct.
+
+162
+00:14:01,220 --> 00:14:01,780
+Okay?
+
+163
+00:14:02,160 --> 00:14:15,420
+I mean, Scout-age boys are inquisitive and they're investigative and they're eager to learn and their natural curiosity is right there just below the surface and sometimes not below the surface at all.
+
+164
+00:14:15,880 --> 00:14:23,240
+Conversely, they can be really unresponsive and lifeless when they're compelled rather than inspired to learn.
+
+165
+00:14:23,680 --> 00:14:26,180
+We're not trying to make them into experts on anything.
+
+166
+00:14:26,180 --> 00:14:36,420
+We're trying to inspire what Albert Einstein called the holy curiosity of inquiry by exciting their curiosity and their interest.
+
+167
+00:14:36,880 --> 00:14:37,880
+Baden-Powell said,
+
+168
+00:14:38,160 --> 00:14:47,459
+If we make scouting into a formal scheme of serious instruction and efficiency, we miss the whole point in value of scout training.
+
+169
+00:14:47,859 --> 00:14:53,520
+Infective methods for instructing scouts aren't just classroom methods from school.
+
+170
+00:14:53,520 --> 00:15:00,000
+As a matter of fact, you want to eliminate as many classroom school-based methods as you can.
+
+171
+00:15:00,240 --> 00:15:04,680
+And you don't want to just disguise them with some semantic trick of renaming them.
+
+172
+00:15:04,860 --> 00:15:06,360
+They're actually different.
+
+173
+00:15:06,579 --> 00:15:08,160
+Let's have a few ground rules.
+
+174
+00:15:08,500 --> 00:15:12,060
+First, there are no lectures lasting more than two minutes.
+
+175
+00:15:12,439 --> 00:15:18,980
+And for our purposes, we're going to define a lecture as scouts sitting and listening while somebody talks.
+
+176
+00:15:18,980 --> 00:15:23,800
+That's a tough one, especially if, like me, you like the sound of your own voice.
+
+177
+00:15:24,120 --> 00:15:28,060
+Second, no pre-printed written tests or evaluations.
+
+178
+00:15:28,540 --> 00:15:28,860
+None.
+
+179
+00:15:29,080 --> 00:15:30,380
+No worksheets.
+
+180
+00:15:30,820 --> 00:15:31,600
+Nothing like that.
+
+181
+00:15:31,820 --> 00:15:33,080
+I've used them in the past.
+
+182
+00:15:33,360 --> 00:15:33,920
+Get rid of them.
+
+183
+00:15:34,120 --> 00:15:34,480
+Shred them.
+
+184
+00:15:34,720 --> 00:15:35,180
+Tear them up.
+
+185
+00:15:35,500 --> 00:15:36,720
+Informational handouts.
+
+186
+00:15:37,020 --> 00:15:39,700
+They're okay, but you're only allowed one page.
+
+187
+00:15:40,000 --> 00:15:43,340
+No big giant stapled bundle of handouts.
+
+188
+00:15:43,660 --> 00:15:44,700
+No note-taking.
+
+189
+00:15:45,000 --> 00:15:47,120
+Maybe a couple of little things here and there.
+
+190
+00:15:47,380 --> 00:15:47,980
+No homework.
+
+191
+00:15:47,980 --> 00:15:48,580
+No homework.
+
+192
+00:15:48,760 --> 00:15:50,100
+Oh my God, no homework.
+
+193
+00:15:50,520 --> 00:15:54,740
+We've eliminated most of the methods that most people use instructing scouts.
+
+194
+00:15:55,120 --> 00:15:56,180
+We've gotten rid of lectures.
+
+195
+00:15:56,500 --> 00:15:59,340
+We've gotten rid of written tests and evaluations.
+
+196
+00:15:59,780 --> 00:16:03,100
+We're saying, you know, your handout can only be one piece of paper.
+
+197
+00:16:03,400 --> 00:16:06,240
+No note-taking and, God forbid, homework.
+
+198
+00:16:06,440 --> 00:16:06,960
+No homework.
+
+199
+00:16:07,180 --> 00:16:07,960
+So what are we going to do?
+
+200
+00:16:08,260 --> 00:16:10,640
+You're going to have to follow up on the next several podcasts.
+
+201
+00:16:10,640 --> 00:16:18,100
+And we will talk about the different methods that we can apply to scout instruction to make it what it ought to be.
+
+202
+00:16:18,100 --> 00:16:18,340
+Valdery.
+
+203
+00:16:18,439 --> 00:16:19,080
+Valdery.
+
+204
+00:16:19,280 --> 00:16:20,040
+Valdery.
+
+205
+00:16:20,240 --> 00:16:20,840
+Valdery.
+
+206
+00:16:20,840 --> 00:16:21,040
+Valdery.
+
+207
+00:16:21,040 --> 00:16:21,120
+Valdery.
+
+208
+00:16:21,120 --> 00:16:21,720
+Valdery.
+
+209
+00:16:21,720 --> 00:16:22,120
+Valdery.
+
+210
+00:16:22,120 --> 00:16:22,720
+Valdery.
+
+211
+00:16:22,720 --> 00:16:23,640
+Valdery.
+
+212
+00:16:23,640 --> 00:16:23,720
+Valdery.
+
+213
+00:16:23,720 --> 00:16:24,439
+Valdery.
+
+214
+00:16:24,439 --> 00:16:25,439
+Valdery.
+
+215
+00:16:25,439 --> 00:16:26,439
+Valdery.
+
+216
+00:16:26,439 --> 00:16:27,439
+Valdery.
+
+217
+00:16:27,600 --> 00:16:28,360
+Valdery.
+
+218
+00:16:28,360 --> 00:16:31,280
+Come join my happy song.
+
+219
+00:16:31,280 --> 00:16:39,600
+All right.
+
+220
+00:16:39,680 --> 00:16:47,220
+So imagine you settle down with your bowl of chips and your dip and your beverage and you're going to watch your football, basketball game, whatever.
+
+221
+00:16:47,459 --> 00:16:55,000
+Game progresses for a while and your team does well or maybe makes a couple of mistakes and things go back and forth for a bit.
+
+222
+00:16:55,000 --> 00:17:00,780
+But one thing you notice that never, ever happens is the coaches don't go on the field and start playing the game.
+
+223
+00:17:00,900 --> 00:17:01,740
+It just won't happen.
+
+224
+00:17:01,980 --> 00:17:04,880
+So you notice a scout troop is a lot like an athletic team.
+
+225
+00:17:05,040 --> 00:17:07,319
+It's been called, scouting's been called a game with a purpose.
+
+226
+00:17:07,920 --> 00:17:08,859
+We have coaches.
+
+227
+00:17:09,200 --> 00:17:10,020
+That's you and me.
+
+228
+00:17:10,220 --> 00:17:10,900
+We have players.
+
+229
+00:17:11,040 --> 00:17:11,940
+That's our youth leader.
+
+230
+00:17:12,319 --> 00:17:16,240
+And the games they play, they're not like an athletic competition.
+
+231
+00:17:16,560 --> 00:17:19,960
+You can consider a meeting or a camping trip or something like that to be a game.
+
+232
+00:17:19,960 --> 00:17:29,500
+Like coaches of an athletic team, scout leaders can't leave the sidelines and start interfering with the game or start playing the game for their team.
+
+233
+00:17:29,720 --> 00:17:35,200
+Now, the only thing they can do is encourage, train, do things on the sidelines during the game.
+
+234
+00:17:35,740 --> 00:17:38,440
+You're going to get a whistle if you cross the sideline.
+
+235
+00:17:38,660 --> 00:17:44,180
+You know, if a coach is on the field playing, that means that there's a player who is denied the opportunity of playing.
+
+236
+00:17:44,360 --> 00:17:46,640
+And we can't have players just leave the game.
+
+237
+00:17:46,840 --> 00:17:48,700
+It's not fair to the rest of the team, is it?
+
+238
+00:17:48,700 --> 00:17:54,600
+It takes a lot of experience and wisdom to know where that sideline is in scouting.
+
+239
+00:17:54,960 --> 00:17:58,440
+What side is the coach's side and which side is the team's side.
+
+240
+00:17:58,760 --> 00:18:03,100
+So we should have a commitment that coaches don't go on the field and that players don't leave the field to play.
+
+241
+00:18:03,100 --> 00:18:06,760
+And I think that's the way a really great scout troop works.
+
+242
+00:18:07,020 --> 00:18:09,720
+It's when we realize our roles and we stick to them.
+
+243
+00:18:18,700 --> 00:18:33,380
+Well, thanks so much for listening to this edition of the Scoutmaster Podcast.
+
+244
+00:18:33,980 --> 00:18:35,240
+Now, here's how to keep in touch.
+
+245
+00:18:35,680 --> 00:18:37,920
+Read the blog at scoutmastercg.com.
+
+246
+00:18:37,960 --> 00:18:41,520
+And while you're there, you can subscribe to receive updates to the blog by email.
+
+247
+00:18:41,520 --> 00:18:47,520
+You can also follow the wonders of scoutmastercg.com in the vast panorama of social media.
+
+248
+00:18:47,520 --> 00:18:56,639
+You can join the nearly 13,000 folks who follow us on Facebook, the 1,500 or so folks who tweet together with us on Twitter,
+
+249
+00:18:56,900 --> 00:19:03,220
+the 2,500 prolific pinners who, along with us, pin Pulter Truth and his pictures on Pinterest.
+
+250
+00:19:03,680 --> 00:19:05,860
+You can watch us at Scoutmaster CG on YouTube.
+
+251
+00:19:05,860 --> 00:19:10,860
+But listen, if you can't face Facebook and Twitter makes you bitter and if you've no interest in Pinterest,
+
+252
+00:19:11,320 --> 00:19:14,659
+if you don't hit the U in YouTube, well, that's okay, Bunky.
+
+253
+00:19:14,800 --> 00:19:19,159
+Just zoom into the late 90s and fire off a good old-fashioned email.
+
+254
+00:19:19,740 --> 00:19:23,240
+I'm available at clark at scoutmastercg.com.
+
+255
+00:19:23,620 --> 00:19:31,780
+C-L-A-R-K-E at scoutmastercg.com.
+
+256
+00:19:31,780 --> 00:19:38,580
+Now, if all else fails, you can write your message on a piece of paper, seal it in a bottle, and bury it in any campfire circle.
+
+257
+00:19:38,960 --> 00:19:39,820
+I'll be sure to get it.
+
+258
+00:19:39,899 --> 00:19:42,080
+I have agents everywhere, I assure you.
+
+259
+00:19:42,600 --> 00:19:47,660
+Now, by this time, it must be abundantly clear that the Scoutmaster blog and the Scoutmaster podcast
+
+260
+00:19:47,660 --> 00:19:54,500
+are not official publications of any scouting organization, nor are they endorsed or sponsored by any scouting organization.
+
+261
+00:19:55,200 --> 00:20:01,240
+No, it's just me with a microphone trying to lend a hand to scout leaders and have a little bit of fun along the way.
+
+262
+00:20:01,240 --> 00:20:05,380
+And speaking of fun, here is our founder, Sir Robert Baden-Powell.
+
+263
+00:20:05,840 --> 00:20:06,380
+Sir Robert?
+
+264
+00:20:06,760 --> 00:20:09,100
+Good luck to you and good camping.
+
+265
+00:20:09,840 --> 00:20:10,720
+Why, thank you, sir.
+
+266
+00:20:11,680 --> 00:20:12,880
+Until next time, everyone.
+
+267
+00:20:12,880 --> 00:20:14,880
+Love you.
+
+268
+00:20:16,520 --> 00:20:17,140
+Yeah.
+
+269
+00:20:19,360 --> 00:20:20,740
+Bye-bye.
+
+270
+00:20:20,740 --> 00:20:21,560
+Bye-bye.
+
+271
+00:20:21,560 --> 00:20:22,100
+Bye-bye.
+
+272
+00:20:22,320 --> 00:20:22,740
+Bye-bye.
+
+273
+00:20:22,740 --> 00:20:23,260
+Bye-bye.
+
+274
+00:20:23,340 --> 00:20:25,460
+Bye-bye.
+
+275
+00:20:29,420 --> 00:20:30,580
+Bye-bye.
+
+276
+00:20:30,580 --> 00:20:32,780
+Bye-bye.
+
+277
+00:20:32,780 --> 00:20:33,080
+Bye-bye.
+
+278
+00:20:33,120 --> 00:20:33,920
+Bye-bye.
+
+279
+00:20:33,920 --> 00:20:34,800
+Bye-bye.
+
+280
+00:20:34,800 --> 00:20:35,280
+Bye-bye.
+
+281
+00:20:35,280 --> 00:20:36,920
+Bye-bye.
+
+282
+00:20:36,920 --> 00:20:37,300
+Bye-bye.
+
+283
+00:20:37,500 --> 00:20:38,500
+Bye-bye.
+
+284
+00:20:38,500 --> 00:20:39,580
+Bye-bye.
+
+285
+00:20:39,580 --> 00:20:40,240
+Bye-bye.
+
+286
+00:20:40,240 --> 00:20:40,660
+Bye-bye.
+
+287
+00:20:40,660 --> 00:20:40,740
+Bye-bye.
+
+288
+00:20:40,740 --> 00:20:41,400
+Bye-bye.
+
+289
+00:20:41,400 --> 00:20:42,680
+Bye-bye.
+

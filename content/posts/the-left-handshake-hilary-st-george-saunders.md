@@ -2,8 +2,8 @@
 title: "The Left Handshake - Hilary St. George Saunders"
 date: 2011-04-16
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20121220013816/http://www.scoutmastercg.com:80/the_left_handsh/"
 ---
 

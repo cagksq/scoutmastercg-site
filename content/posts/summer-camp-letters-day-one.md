@@ -2,7 +2,8 @@
 title: "Summer Camp Letters- Day One"
 date: 2017-06-27
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Summer Camp"
 wayback_url: "https://web.archive.org/web/20170627163739/http://scoutmastercg.com/summer-camp-letters-day-one/"
 ---
 

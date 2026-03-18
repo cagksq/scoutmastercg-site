@@ -1,0 +1,1996 @@
+1
+00:00:00,000 --> 00:00:05,880
+I'm Dwight Wiest, Scoutmaster with Troop 17 at Yakota Air Base, Japan.
+
+2
+00:00:06,200 --> 00:00:10,480
+This edition of the Scoutmaster podcast is sponsored by backers like me.
+
+3
+00:00:10,520 --> 00:00:12,440
+And now for you, Scoutmaster,
+
+4
+00:00:18,800 --> 00:00:22,320
+This week we're going to start with a riddle from John Dyer.
+
+5
+00:00:22,320 --> 00:00:25,280
+He said the joke at the start of the podcast is one of the best parts.
+
+6
+00:00:25,840 --> 00:00:29,720
+Oh, I'm still having a good time telling those jokes to my
+
+7
+00:00:29,720 --> 00:00:32,560
+scouts. I wanted to send you this riddle:
+
+8
+00:00:33,240 --> 00:00:37,080
+What's black when you get it red when you use it and gray when you throw it away?
+
+9
+00:00:37,800 --> 00:00:39,879
+Hmm, I have to give that some thought
+
+10
+00:00:40,200 --> 00:00:45,960
+And I will tell you the answer, folks, after we've gone a wandering for a little bit.
+
+11
+00:00:46,519 --> 00:00:50,320
+So this is podcast number 266..
+
+12
+00:00:59,720 --> 00:01:00,720
+Yeah,
+
+13
+00:01:16,200 --> 00:01:18,080
+Welcome back to the Scoutmaster podcast.
+
+14
+00:01:18,080 --> 00:01:19,160
+This is Clark Green.
+
+15
+00:01:19,320 --> 00:01:21,480
+What's the answer to John Dyer's riddle?
+
+16
+00:01:21,480 --> 00:01:24,320
+What's black when you get it red when you use it, gray when you throw it away?
+
+17
+00:01:24,680 --> 00:01:26,680
+You probably figured it out by now, but it's charcoal.
+
+18
+00:01:27,039 --> 00:01:27,840
+There you go,
+
+19
+00:01:27,960 --> 00:01:32,000
+It's yours to use and be fuddle and confuse and horrify your scouts.
+
+20
+00:01:34,040 --> 00:01:35,760
+Let's take a look at the mailbag here
+
+21
+00:01:35,760 --> 00:01:37,720
+Heard from Gary Miller in Emmett, Idaho.
+
+22
+00:01:37,720 --> 00:01:41,800
+He said I just wanted you to know I finally caught up with all the podcasts.
+
+23
+00:01:41,800 --> 00:01:43,200
+Thank you so much for all you do
+
+24
+00:01:43,200 --> 00:01:44,440
+Well. thank you, Gary.
+
+25
+00:01:44,440 --> 00:01:49,880
+My congratulations to anybody who makes it through all 266 podcasts.
+
+26
+00:01:49,880 --> 00:01:51,240
+Good for you.
+
+27
+00:01:51,240 --> 00:01:54,880
+I heard from Martin Ornberg, who is an assistant council commissioner
+
+28
+00:01:54,880 --> 00:01:56,120
+with the Greater Alabama Council.
+
+29
+00:01:56,120 --> 00:02:01,040
+He says I was turned on to your podcast by Randall Cox in April of this year
+
+30
+00:02:01,040 --> 00:02:04,000
+And we're both unit commissioners and we live in Huntsville, Alabama.
+
+31
+00:02:04,200 --> 00:02:07,680
+I am also the council champion for commissioner tools
+
+32
+00:02:07,760 --> 00:02:12,640
+And I'm discovering most scouts know about my scoutingorg
+
+33
+00:02:12,640 --> 00:02:14,840
+since they took their youth protection training there,
+
+34
+00:02:15,120 --> 00:02:20,840
+But they may not be familiar with the newer site, my dot scoutingorg.
+
+35
+00:02:20,960 --> 00:02:25,480
+The new site allows all scouts to see what positions they're registered in,
+
+36
+00:02:25,799 --> 00:02:29,280
+Print membership cards and change and update their email and their phone
+
+37
+00:02:29,280 --> 00:02:30,399
+or their address.
+
+38
+00:02:30,399 --> 00:02:34,920
+They can also see their training and view announcements and calendars
+
+39
+00:02:34,920 --> 00:02:37,079
+native to my dot scoutingorg
+
+40
+00:02:37,160 --> 00:02:43,000
+And I have prepared a PDF info sheet that shows you exactly how it works
+
+41
+00:02:43,359 --> 00:02:45,160
+And thank you, Martin,
+
+42
+00:02:45,160 --> 00:02:46,600
+We've made people aware of it.
+
+43
+00:02:46,600 --> 00:02:49,160
+You may be used to my scoutingorg
+
+44
+00:02:49,160 --> 00:02:54,480
+But there's another site that is my dot scoutingorg.
+
+45
+00:02:54,480 --> 00:02:55,760
+It's got another dot in it
+
+46
+00:02:55,760 --> 00:02:59,720
+And Martin has a helpful guide that he created in the way of a PDF document
+
+47
+00:02:59,720 --> 00:03:03,640
+And I'll have a link to it in the post that contains this podcast over on the blog
+
+48
+00:03:03,640 --> 00:03:06,440
+This past week had a couple of posts that relate to the theme
+
+49
+00:03:06,440 --> 00:03:08,920
+that's been going on with our source code of scouting.
+
+50
+00:03:08,959 --> 00:03:13,359
+One of them was a post of a very early Green Bar Bill article.
+
+51
+00:03:13,399 --> 00:03:17,880
+It might be the first one that he wrote in Scouting Magazine in 1927
+
+52
+00:03:18,239 --> 00:03:19,799
+called a troop revolution,
+
+53
+00:03:19,799 --> 00:03:21,480
+And I recommend that to you highly.
+
+54
+00:03:21,480 --> 00:03:23,120
+You want to make sure to check that out.
+
+55
+00:03:23,120 --> 00:03:25,640
+Another post that I put up this past week posed the question:
+
+56
+00:03:25,640 --> 00:03:27,360
+why do Scouts go camping?
+
+57
+00:03:27,360 --> 00:03:30,240
+There was a lot of useful discussion about that on Facebook too.
+
+58
+00:03:30,280 --> 00:03:33,520
+So when you get the chance, make sure, if you haven't read those posts already,
+
+59
+00:03:33,880 --> 00:03:36,560
+get over to scoutmastercgcom and check them out.
+
+60
+00:03:36,640 --> 00:03:41,240
+The live chat over on scoutmastercgcom was pretty lively this week.
+
+61
+00:03:41,760 --> 00:03:46,360
+Watch the Facebook feed and the Twitter feed or just stop by scoutmastercgcom,
+
+62
+00:03:46,840 --> 00:03:50,320
+Check out the chat feature, see if we're on there live chatting,
+
+63
+00:03:50,320 --> 00:03:55,239
+And we've. we've had some pretty big groups check in with us these past couple of weeks,
+
+64
+00:03:55,480 --> 00:04:00,120
+In addition to all the folks I call my frequent fliers who check in frequently on the chat.
+
+65
+00:04:00,400 --> 00:04:03,920
+we heard from Mike Waite, who's an assistant scout master in Pennsylvania.
+
+66
+00:04:04,000 --> 00:04:07,720
+Glenn Dardy is a committee chair of Troop 17 in Gibstown, New Jersey.
+
+67
+00:04:08,040 --> 00:04:11,560
+Michael Cotter, who is with PAC 41 in Columbus, Ohio,
+
+68
+00:04:11,840 --> 00:04:16,159
+Arthur Doncey, who is an assistant scout master in Egg Harbor, New Jersey.
+
+69
+00:04:16,520 --> 00:04:21,240
+William Schmidt, who is a scout master from Troop 204 in Cary, North Carolina.
+
+70
+00:04:21,680 --> 00:04:26,000
+Atia Santos, who is a scout master in Espirito Santo, Brazil.
+
+71
+00:04:26,200 --> 00:04:30,440
+And Keith Kangry, who is a scout master with Troop 2 in Picayune, Mississippi.
+
+72
+00:04:30,520 --> 00:04:33,080
+It's great to be able to get together and chat a little bit,
+
+73
+00:04:33,200 --> 00:04:36,160
+And sometimes the discussion is is deep and meaningful
+
+74
+00:04:36,160 --> 00:04:38,840
+And sometimes it's just kind of hanging out with your scout buddies.
+
+75
+00:04:39,080 --> 00:04:42,640
+So make sure to stop by scoutmastercgcom and check that out.
+
+76
+00:04:42,680 --> 00:04:45,560
+Now I want to let you know that everything at scoutmastercgcom
+
+77
+00:04:45,560 --> 00:04:48,800
+is there to help scouters, but to keep everything freely available,
+
+78
+00:04:49,080 --> 00:04:52,280
+I depend on people like you to become backers.
+
+79
+00:04:52,520 --> 00:04:54,080
+It's an unusual idea,
+
+80
+00:04:54,080 --> 00:04:56,480
+So let me explain it for a moment.
+
+81
+00:04:56,480 --> 00:04:59,480
+If I was sending you a paper magazine or newsletter,
+
+82
+00:04:59,480 --> 00:05:02,080
+you'd expect there to be some costs associated with that, right?
+
+83
+00:05:02,440 --> 00:05:05,840
+I'd need to pay printers and writers and postage and all of that.
+
+84
+00:05:06,240 --> 00:05:08,520
+What happens these days is a little more ephemeral.
+
+85
+00:05:08,520 --> 00:05:10,680
+It's all in bits and bytes. right,
+
+86
+00:05:10,760 --> 00:05:13,280
+I don't send out a printed newspaper or a newsletter.
+
+87
+00:05:13,480 --> 00:05:16,600
+I put posts online and I have a podcast.
+
+88
+00:05:16,680 --> 00:05:20,760
+It's similar, because somebody spends their time producing the content
+
+89
+00:05:21,040 --> 00:05:23,520
+and incurs the expenses of publishing it online.
+
+90
+00:05:23,840 --> 00:05:29,200
+And backers are the folks who make a one time voluntary subscription payment,
+
+91
+00:05:29,360 --> 00:05:32,400
+And the money that we get from them covers the expenses of producing
+
+92
+00:05:32,400 --> 00:05:35,720
+and publishing what you find on scoutmastercgcom,
+
+93
+00:05:35,720 --> 00:05:38,200
+including what you're listening to right now.
+
+94
+00:05:38,560 --> 00:05:40,080
+So here's what I would like you to do:
+
+95
+00:05:40,080 --> 00:05:44,520
+Go to scoutmastercgcom, click the support link at the top of the page
+
+96
+00:05:44,520 --> 00:05:49,560
+and you'll find a number of options that will make you a scoutmastercgcom backer,
+
+97
+00:05:49,599 --> 00:05:51,840
+And I want to take a moment to thank Agnes Monzingo,
+
+98
+00:05:51,840 --> 00:05:54,200
+who became a backer since our last podcast.
+
+99
+00:05:54,280 --> 00:05:58,159
+Go over to scoutmastercgcom this week. become a backer.
+
+100
+00:05:58,320 --> 00:06:00,880
+I'll make sure to thank you personally in our next podcast.
+
+101
+00:06:01,039 --> 00:06:03,760
+Well, on this week's podcast, we've got one big feature,
+
+102
+00:06:03,760 --> 00:06:08,919
+and that is the final installment of a three part series
+
+103
+00:06:08,920 --> 00:06:10,920
+on the scouting source code.
+
+104
+00:06:11,000 --> 00:06:13,520
+This final installment is a little bit longer than the first two
+
+105
+00:06:13,520 --> 00:06:18,320
+And I think it's plenty of information to fill up the remainder of this podcast.
+
+106
+00:06:18,400 --> 00:06:22,800
+I'll have answers to lots and lots of backlogged email questions
+
+107
+00:06:22,800 --> 00:06:26,240
+next time around in podcast 267.
+
+108
+00:06:26,440 --> 00:06:29,880
+But I'm excited about the concept that there is a source code to scouting
+
+109
+00:06:29,920 --> 00:06:31,640
+And I'm very excited to share it with you.
+
+110
+00:06:31,640 --> 00:06:33,200
+So let's get started, shall we?
+
+111
+00:06:39,680 --> 00:07:00,680
+So we've been following the story of Green Bar Bill Hillcourt, with the idea of getting
+
+112
+00:07:00,680 --> 00:07:04,440
+to what I've called the source code of scouting, the DNA,
+
+113
+00:07:04,440 --> 00:07:07,560
+the thing that makes scouting what it is,
+
+114
+00:07:08,000 --> 00:07:14,360
+The focus that we should all know by heart and that we should be paying attention to.
+
+115
+00:07:14,760 --> 00:07:16,720
+If we could come up with that right
+
+116
+00:07:17,320 --> 00:07:22,600
+And everyone agreed that this is where we're headed,
+
+117
+00:07:22,640 --> 00:07:23,760
+This is our aim,
+
+118
+00:07:23,760 --> 00:07:25,560
+This is what we do,
+
+119
+00:07:25,560 --> 00:07:29,320
+Then we'd be better able to serve the scouts that we serve, correct?
+
+120
+00:07:29,920 --> 00:07:31,200
+Let me get you caught up.
+
+121
+00:07:31,200 --> 00:07:35,120
+This three part series is based on a recording that I found in the Internet
+
+122
+00:07:35,160 --> 00:07:40,640
+archive that has. there's really no way for me to give it any better attribution
+
+123
+00:07:40,640 --> 00:07:43,200
+than it There it is. It was just kind of sitting there.
+
+124
+00:07:43,200 --> 00:07:46,680
+Everything that I can figure out with this recording indicates that it was
+
+125
+00:07:46,680 --> 00:07:49,160
+in the late 1980s. It's an interview
+
+126
+00:07:49,160 --> 00:07:55,280
+A scout is conducting with Green Bar Bill and he has told us the story
+
+127
+00:07:55,280 --> 00:08:00,240
+of how he became a scout before there was all of this organizational
+
+128
+00:08:00,240 --> 00:08:04,680
+stuff happening in scouting, because he got a copy of Scouting for Boys
+
+129
+00:08:04,720 --> 00:08:09,640
+in 1910. He put a patrol together and part one of this explains exactly
+
+130
+00:08:09,640 --> 00:08:12,920
+how that all happened. He traveled to the United States.
+
+131
+00:08:13,200 --> 00:08:17,520
+He became involved with the Boy Scouts of America, and he ended up
+
+132
+00:08:17,840 --> 00:08:20,120
+being the voice of the Boy Scouts of America.
+
+133
+00:08:20,200 --> 00:08:24,680
+He had written all of the major reference materials for the Boy Scouts
+
+134
+00:08:24,680 --> 00:08:27,840
+of America based on his understanding of scouting.
+
+135
+00:08:27,960 --> 00:08:32,799
+This source code idea is not to turn back the clock
+
+136
+00:08:33,280 --> 00:08:38,319
+and not to make us a bunch of stodgy old traditionalists who are
+
+137
+00:08:38,679 --> 00:08:43,039
+basically just conducting, you know, some kind of historic
+
+138
+00:08:43,039 --> 00:08:47,319
+reenactment of the first Brown Sea Island encampment with
+
+139
+00:08:47,319 --> 00:08:49,599
+Baden Powell. That's not our aim,
+
+140
+00:08:49,599 --> 00:08:51,079
+That's not what we're trying to do.
+
+141
+00:08:51,079 --> 00:08:55,400
+But what were the principles underlying the whole idea that
+
+142
+00:08:55,599 --> 00:09:01,120
+Bill took on when he was a boy, at age 10, and then elucidated
+
+143
+00:09:01,120 --> 00:09:04,360
+in all the writing and all the work that he did over his lifetime?
+
+144
+00:09:04,440 --> 00:09:06,040
+Why is it still relevant today?
+
+145
+00:09:06,040 --> 00:09:09,440
+We're a century later, you know. why is it still relevant?
+
+146
+00:09:09,600 --> 00:09:13,640
+Because if we agree that it's relevant and we get a hold of
+
+147
+00:09:13,640 --> 00:09:15,640
+that source code, that's pretty powerful.
+
+148
+00:09:15,800 --> 00:09:19,040
+That's something that we can really take and run with right
+
+149
+00:09:19,360 --> 00:09:22,960
+To introduce today's installment of this story
+
+150
+00:09:23,160 --> 00:09:25,000
+OK, and to kind of wind it up,
+
+151
+00:09:25,000 --> 00:09:28,280
+And because I really love the history of these sorts of things.
+
+152
+00:09:28,560 --> 00:09:31,080
+Before I play this, though, here's a couple of things
+
+153
+00:09:31,200 --> 00:09:32,680
+that will help you understand it better.
+
+154
+00:09:32,680 --> 00:09:34,480
+Bill is now married.
+
+155
+00:09:34,480 --> 00:09:38,800
+He actually married one of the secretaries at the BSA offices.
+
+156
+00:09:38,800 --> 00:09:40,200
+Her name is Grace
+
+157
+00:09:40,200 --> 00:09:45,320
+And they are living at the Schiff Scout Reservation in New Jersey
+
+158
+00:09:45,320 --> 00:09:49,320
+And Bill has established a troop- troop number one in New Jersey
+
+159
+00:09:49,760 --> 00:09:53,840
+And he's using that troop kind of his his lab- to develop things.
+
+160
+00:09:53,880 --> 00:09:56,920
+Anyway, that'll just help you understand a couple of things in this story.
+
+161
+00:09:57,440 --> 00:10:00,600
+Let's let Bill explain for a little while his relationship
+
+162
+00:10:00,840 --> 00:10:04,040
+with Baden Powell, the founder of Scouting.
+
+163
+00:10:04,640 --> 00:10:07,160
+He knew Baden Powell
+
+164
+00:10:07,160 --> 00:10:11,640
+In 1935, Baden Powell and this wife who was the chief girl scout.
+
+165
+00:10:12,080 --> 00:10:16,160
+they took a trip around the world and they had planned to be at the
+
+166
+00:10:16,560 --> 00:10:19,720
+First National Jamboree we had in 1935.
+
+167
+00:10:19,840 --> 00:10:24,560
+The one that was canceled because of the polio outbreak in Virginia.
+
+168
+00:10:24,640 --> 00:10:27,000
+And then he came out to the Schiff Scout Reservation.
+
+169
+00:10:27,520 --> 00:10:30,640
+So I had Baden Powell and Lady Baden Powell in my house
+
+170
+00:10:30,760 --> 00:10:33,080
+And we had a wonderful time with breakfast and so on.
+
+171
+00:10:33,440 --> 00:10:38,520
+But then what happened was that we went to the Jamboree and Holland in 1937.
+
+172
+00:10:38,680 --> 00:10:42,440
+When we got out there and out that the whole hotel has been taken over
+
+173
+00:10:42,440 --> 00:10:45,360
+by the British Jamboree contingent staff,
+
+174
+00:10:45,520 --> 00:10:48,200
+Next morning we, as we opened the door-
+
+175
+00:10:48,920 --> 00:10:53,000
+How's another one of these complete coincidence of meeting the right people
+
+176
+00:10:53,000 --> 00:10:55,760
+at the right time, Lady Baden Powell and Baden Powell
+
+177
+00:10:55,800 --> 00:10:57,080
+coming up the corridor.
+
+178
+00:10:57,080 --> 00:11:00,439
+They had just arrived from England and they just come to the hotel
+
+179
+00:11:00,600 --> 00:11:05,040
+And Lady Baden Powell saw them, saw us, and said: Oh, it's Bill and Grace.
+
+180
+00:11:05,160 --> 00:11:07,439
+And he said: Well, have you had your breakfast?
+
+181
+00:11:07,439 --> 00:11:09,360
+No, we haven't had our breakfast.
+
+182
+00:11:09,360 --> 00:11:12,000
+Well, you just wait a while until we get ourselves settled.
+
+183
+00:11:12,120 --> 00:11:15,640
+So the two hillcourts had breakfast with the two big powers.
+
+184
+00:11:16,120 --> 00:11:18,960
+So, and on the basis of that, of course they are right.
+
+185
+00:11:19,120 --> 00:11:22,600
+So he came to the point of getting so close to Lady Baden Powell
+
+186
+00:11:22,600 --> 00:11:26,000
+that when I wanted to take Baden Powell's books
+
+187
+00:11:26,000 --> 00:11:29,560
+and transform them into World Brotherhood editions
+
+188
+00:11:29,720 --> 00:11:34,040
+for starting scouting up again around the world after the World War,
+
+189
+00:11:34,200 --> 00:11:38,200
+he gave me a permission to just take Baden Powell's book and edit them
+
+190
+00:11:38,400 --> 00:11:43,040
+And they are now the official versions of the Baden Powell Scouting for Boys
+
+191
+00:11:43,040 --> 00:11:45,240
+and Asian Scout Masters.
+
+192
+00:11:45,240 --> 00:11:47,680
+So there's the basis of a very close relationship
+
+193
+00:11:47,680 --> 00:11:50,280
+between the Baden Powell's and the hillcourts.
+
+194
+00:11:50,640 --> 00:11:55,160
+And Baden Powell passes away in 1941, just a few years after this meeting.
+
+195
+00:11:55,640 --> 00:11:58,199
+As Bill explained, he becomes the editor
+
+196
+00:11:58,199 --> 00:12:01,319
+of the official publications of Baden Powell's works
+
+197
+00:12:01,319 --> 00:12:03,439
+after the Second World War,
+
+198
+00:12:03,439 --> 00:12:06,319
+And I know this is unraveling a little bit like a mystery.
+
+199
+00:12:06,319 --> 00:12:08,439
+but look at all the connections.
+
+200
+00:12:08,439 --> 00:12:11,680
+One of the original scouts in 1910 in Denmark becomes
+
+201
+00:12:11,920 --> 00:12:14,720
+the voice of the Boy Scouts of America,
+
+202
+00:12:15,000 --> 00:12:17,120
+has a relationship with the founder of Scouting
+
+203
+00:12:17,640 --> 00:12:21,720
+that is close enough to allow him to edit his works.
+
+204
+00:12:21,840 --> 00:12:23,600
+So where is the source code?
+
+205
+00:12:23,600 --> 00:12:26,360
+Where exactly is it expressed?
+
+206
+00:12:26,720 --> 00:12:28,800
+Well, Bill has an answer for that
+
+207
+00:12:28,800 --> 00:12:33,920
+And it comes in his answer to this question.
+
+208
+00:12:34,080 --> 00:12:36,560
+What do you think Baden Powell would say?
+
+209
+00:12:36,560 --> 00:12:38,880
+What was his point in doing all that?
+
+210
+00:12:38,880 --> 00:12:43,440
+Well, I think what he would do is he would pretty well have page nine
+
+211
+00:12:43,840 --> 00:12:48,320
+in mind, because that was completely based upon Baden Powell.
+
+212
+00:12:49,240 --> 00:12:52,120
+And what trouble writing that page and any other page,
+
+213
+00:12:52,480 --> 00:12:55,680
+Because I wanted on one page to be able to say:
+
+214
+00:12:55,680 --> 00:12:57,800
+well, this is what Scouting is all about.
+
+215
+00:12:57,800 --> 00:13:00,000
+This is the wonderful life you would have in Scouting.
+
+216
+00:13:00,000 --> 00:13:01,840
+You will learn a lot of different skills,
+
+217
+00:13:01,840 --> 00:13:07,560
+You will meet good friends and you will have a chance to even learn leadership and so on.
+
+218
+00:13:07,560 --> 00:13:12,040
+And we're going to need real leaders
+
+219
+00:13:12,040 --> 00:13:15,079
+with that kind of a spirit in the future,
+
+220
+00:13:15,520 --> 00:13:18,439
+and even more than we have ever needed them before.
+
+221
+00:13:18,640 --> 00:13:21,880
+In order to do that, you have to show the example of that,
+
+222
+00:13:22,199 --> 00:13:26,480
+because you have to take on the role model of becoming a good scout,
+
+223
+00:13:26,480 --> 00:13:28,719
+living up to the scout oath and the scout law
+
+224
+00:13:28,719 --> 00:13:31,240
+and following all of the principles of Scouting.
+
+225
+00:13:31,599 --> 00:13:34,240
+If you get yourself really involved in all of these things-
+
+226
+00:13:34,360 --> 00:13:36,880
+and that's the important thing, getting yourself involved-
+
+227
+00:13:37,079 --> 00:13:39,480
+Don't be a passive person there
+
+228
+00:13:39,640 --> 00:13:43,200
+and then step in and help other people at all times.
+
+229
+00:13:43,200 --> 00:13:46,120
+You see, that's another part of the scout idea,
+
+230
+00:13:46,240 --> 00:13:49,240
+because he believed in all people getting together
+
+231
+00:13:49,240 --> 00:13:51,600
+and helping each other in a real friendship.
+
+232
+00:13:52,040 --> 00:13:54,200
+So I think he will stick to this general idea.
+
+233
+00:13:54,200 --> 00:13:55,800
+Of course, that's right out of it now.
+
+234
+00:13:57,680 --> 00:13:59,160
+So now we know where the source code is.
+
+235
+00:13:59,160 --> 00:14:02,080
+It's on page nine. page nine of what you ask.
+
+236
+00:14:02,080 --> 00:14:05,560
+Well, I'm going to tell you, but think about this
+
+237
+00:14:05,880 --> 00:14:07,480
+Again, remembering all the connections
+
+238
+00:14:07,480 --> 00:14:09,720
+that we've made over this three-part series.
+
+239
+00:14:10,080 --> 00:14:13,040
+We get to the question of what was Baden Powell up to?
+
+240
+00:14:13,040 --> 00:14:15,360
+Why did he do all this in the first place?
+
+241
+00:14:15,360 --> 00:14:17,400
+Well, Bill says it's on page nine.
+
+242
+00:14:17,680 --> 00:14:21,480
+Here's a guy who's got this tremendous amount of writing
+
+243
+00:14:21,480 --> 00:14:23,400
+that he's done over his lifetime
+
+244
+00:14:23,400 --> 00:14:26,440
+And he says this was the most challenging page I ever wrote,
+
+245
+00:14:27,240 --> 00:14:29,480
+because he wanted to boil it down
+
+246
+00:14:29,800 --> 00:14:31,920
+to the source code of Scouting.
+
+247
+00:14:31,920 --> 00:14:35,720
+To better explain how page nine came to be,
+
+248
+00:14:36,280 --> 00:14:40,360
+we need to understand what happened in the early 1970s
+
+249
+00:14:40,640 --> 00:14:42,480
+that brought Bill out of retirement,
+
+250
+00:14:42,960 --> 00:14:44,920
+where he donated a year of his time
+
+251
+00:14:45,240 --> 00:14:47,600
+to rewrite the Scouting handbook.
+
+252
+00:14:47,600 --> 00:14:50,400
+What you're going to hear is Bill speaking
+
+253
+00:14:50,640 --> 00:14:55,000
+in a video, actually, that I've shared on the blog before
+
+254
+00:14:55,000 --> 00:14:56,840
+And I'll have a link to that video in the post
+
+255
+00:14:56,840 --> 00:14:59,440
+that contains this podcast, where he's visiting
+
+256
+00:14:59,440 --> 00:15:02,440
+with some Scouts and Scouters in Florida in 1987.
+
+257
+00:15:02,600 --> 00:15:04,760
+And he explains what happened
+
+258
+00:15:04,760 --> 00:15:07,320
+and how he ended up coming up with page nine
+
+259
+00:15:07,840 --> 00:15:09,000
+And, by way of explanation
+
+260
+00:15:09,000 --> 00:15:10,200
+to preface what Bill's going to say,
+
+261
+00:15:10,200 --> 00:15:11,800
+give you a little context here.
+
+262
+00:15:11,800 --> 00:15:13,600
+So in the early 1970s,
+
+263
+00:15:13,960 --> 00:15:17,560
+the Boy Scouts of America initiates a study of Scouting
+
+264
+00:15:18,200 --> 00:15:20,800
+that has some what will become
+
+265
+00:15:20,880 --> 00:15:23,000
+pretty much disastrous results
+
+266
+00:15:23,440 --> 00:15:26,080
+And Bill tells us a little bit about that
+
+267
+00:15:26,520 --> 00:15:28,080
+and his reaction to it.
+
+268
+00:15:29,080 --> 00:15:31,240
+It had to be brought up to date.
+
+269
+00:15:31,240 --> 00:15:32,840
+That was a big thing in those days
+
+270
+00:15:32,840 --> 00:15:34,640
+And it had to be relevant.
+
+271
+00:15:34,640 --> 00:15:36,560
+So they came up with a suggestion
+
+272
+00:15:36,560 --> 00:15:38,440
+that we should change it completely.
+
+273
+00:15:39,200 --> 00:15:42,160
+There's too much emphasis about the outer doors,
+
+274
+00:15:42,520 --> 00:15:43,600
+The people in the National
+
+275
+00:15:43,600 --> 00:15:45,200
+Architectural Development stuff,
+
+276
+00:15:45,200 --> 00:15:47,840
+that we started lowering all the expectations
+
+277
+00:15:47,840 --> 00:15:50,000
+or whatever first class Scouts should be.
+
+278
+00:15:50,000 --> 00:15:51,400
+He didn't have to be an outdoorsman,
+
+279
+00:15:51,400 --> 00:15:53,560
+As a matter of fact, when we started the Skill Award.
+
+280
+00:15:53,560 --> 00:15:55,560
+you only had to take three Skill Awards
+
+281
+00:15:55,560 --> 00:15:58,560
+for ten to put three Skill Awards in a second class.
+
+282
+00:15:58,560 --> 00:15:59,560
+three Skill Awards,
+
+283
+00:15:59,960 --> 00:16:01,080
+You could pick your own.
+
+284
+00:16:01,080 --> 00:16:03,720
+And I insisted that we should have at least hiking
+
+285
+00:16:03,720 --> 00:16:05,280
+and for second class
+
+286
+00:16:05,280 --> 00:16:07,040
+and we should have camping for first class,
+
+287
+00:16:07,040 --> 00:16:08,920
+because this idea of becoming first class
+
+288
+00:16:08,920 --> 00:16:11,120
+without having a camp was rather silly.
+
+289
+00:16:11,440 --> 00:16:15,000
+That's why the membership went down from six million
+
+290
+00:16:15,000 --> 00:16:17,320
+to more than a half million.
+
+291
+00:16:17,320 --> 00:16:18,760
+Then I started to wonder:
+
+292
+00:16:18,760 --> 00:16:21,400
+is the Boy Scouts sales going down
+
+293
+00:16:21,400 --> 00:16:23,560
+Because my last handbook that came out
+
+294
+00:16:23,920 --> 00:16:27,880
+up until 1970 was selling 600,000 copies a year.
+
+295
+00:16:28,120 --> 00:16:31,480
+In seven years it had dropped to about 340,000.
+
+296
+00:16:31,480 --> 00:16:32,720
+And the same is going down
+
+297
+00:16:32,720 --> 00:16:35,200
+because the membership is going down?
+
+298
+00:16:35,200 --> 00:16:37,160
+Or is it the other way around,
+
+299
+00:16:37,160 --> 00:16:38,760
+that the membership is going down
+
+300
+00:16:38,760 --> 00:16:40,240
+because a Boy Scout handbook
+
+301
+00:16:40,240 --> 00:16:41,800
+doesn't tell the story
+
+302
+00:16:41,800 --> 00:16:44,439
+about how much excitement you can have as a scout?
+
+303
+00:16:44,439 --> 00:16:47,360
+So I decided to put a year of my life on the line
+
+304
+00:16:47,360 --> 00:16:48,720
+and I suggested to them
+
+305
+00:16:48,720 --> 00:16:51,040
+I'll write you another Boy Scout handbook for your job.
+
+306
+00:16:51,040 --> 00:16:52,600
+That Boy Scout handbook came out
+
+307
+00:16:52,600 --> 00:16:55,800
+on the 8th of February 1979..
+
+308
+00:16:55,840 --> 00:16:57,600
+Will you open the page?
+
+309
+00:16:57,600 --> 00:16:58,440
+What edition is it?
+
+310
+00:16:58,440 --> 00:16:59,600
+What printing is it? sir?
+
+311
+00:16:59,600 --> 00:17:02,600
+I believe this one is the ninth edition,
+
+312
+00:17:02,600 --> 00:17:05,040
+And will you see how many have been printed
+
+313
+00:17:05,040 --> 00:17:07,040
+on that particular edition,
+
+314
+00:17:07,040 --> 00:17:08,240
+No ninth edition.
+
+315
+00:17:08,240 --> 00:17:10,440
+Three million four million fifty thousand.
+
+316
+00:17:10,440 --> 00:17:11,160
+How many?
+
+317
+00:17:11,160 --> 00:17:13,000
+Three million four million fifty thousand.
+
+318
+00:17:13,000 --> 00:17:16,440
+We have printed more than three million copies
+
+319
+00:17:16,440 --> 00:17:20,640
+of this since this book came out.
+
+320
+00:17:20,680 --> 00:17:23,560
+Will you turn to page nine
+
+321
+00:17:23,560 --> 00:17:28,560
+in all of your books
+
+322
+00:17:28,560 --> 00:17:29,400
+When you go home?
+
+323
+00:17:29,400 --> 00:17:31,120
+I don't want you to do it right here,
+
+324
+00:17:31,120 --> 00:17:34,000
+But the thing that's happening out in your camp.
+
+325
+00:17:34,000 --> 00:17:38,480
+we have a training group there of 64 men
+
+326
+00:17:38,480 --> 00:17:40,440
+from all over this whole region
+
+327
+00:17:40,440 --> 00:17:43,080
+And there are 17 leaders,
+
+328
+00:17:43,080 --> 00:17:45,800
+including the National Director of Boy Scouting,
+
+329
+00:17:45,800 --> 00:17:47,600
+the National Director of Training,
+
+330
+00:17:47,600 --> 00:17:49,480
+the National Director of Research.
+
+331
+00:17:49,480 --> 00:17:51,720
+They're part of the training group out here
+
+332
+00:17:51,720 --> 00:17:54,760
+because the Hillcourt has been yelling
+
+333
+00:17:54,760 --> 00:17:58,240
+about the fact that Scoutmasters should be trained
+
+334
+00:17:58,240 --> 00:18:01,800
+to make every single promise on page nine
+
+335
+00:18:01,800 --> 00:18:05,080
+come true in the lives of your kids.
+
+336
+00:18:05,080 --> 00:18:07,640
+So that recording. there was a lot of noise in it
+
+337
+00:18:07,640 --> 00:18:08,600
+and I did my best.
+
+338
+00:18:08,600 --> 00:18:11,360
+I'm not an audio engineer, obviously,
+
+339
+00:18:11,360 --> 00:18:14,040
+but I did my best to clean it up a little bit
+
+340
+00:18:14,040 --> 00:18:16,040
+and it may be a little difficult to understand.
+
+341
+00:18:16,040 --> 00:18:17,600
+So let me reiterate:
+
+342
+00:18:17,640 --> 00:18:19,200
+This study happens.
+
+343
+00:18:19,200 --> 00:18:21,840
+The Scouting program changes radically
+
+344
+00:18:21,840 --> 00:18:24,200
+because they want to update everything
+
+345
+00:18:24,200 --> 00:18:28,160
+and they think, oh, this outdoor stuff is old hat,
+
+346
+00:18:28,160 --> 00:18:29,880
+Boys aren't attracted to that,
+
+347
+00:18:29,880 --> 00:18:31,720
+And so we're gonna change things around
+
+348
+00:18:31,720 --> 00:18:34,200
+and we're gonna make it more theoretical,
+
+349
+00:18:34,200 --> 00:18:38,040
+We're going to try and make things more palatable.
+
+350
+00:18:38,040 --> 00:18:41,080
+We're gonna get rid of a lot of this outdoor emphasis.
+
+351
+00:18:41,080 --> 00:18:44,000
+So Bill volunteers a year of his time
+
+352
+00:18:44,000 --> 00:18:46,880
+to rewrite the Scout Handbook in the late 70s,
+
+353
+00:18:46,920 --> 00:18:48,600
+and the product of that year
+
+354
+00:18:48,600 --> 00:18:50,760
+is the ninth edition of the Boy Scout Handbook.
+
+355
+00:18:50,760 --> 00:18:53,280
+And on the mysterious page nine- that's where it is-
+
+356
+00:18:53,280 --> 00:18:56,440
+It's in the ninth edition of the Boy Scout Handbook
+
+357
+00:18:56,440 --> 00:18:59,280
+And, as we've learned through all the connections
+
+358
+00:18:59,280 --> 00:19:03,160
+through this series, there's the source code of Scouting.
+
+359
+00:19:03,160 --> 00:19:06,480
+So what is on page nine?
+
+360
+00:19:06,480 --> 00:19:10,120
+What did the voice of the Boy Scouts of America,
+
+361
+00:19:10,120 --> 00:19:11,680
+the guy who knew Baden Powell,
+
+362
+00:19:11,680 --> 00:19:14,520
+the guy who became a Scout just about as soon
+
+363
+00:19:14,520 --> 00:19:16,680
+as anybody in the world could become a Scout
+
+364
+00:19:16,680 --> 00:19:19,560
+And who wrote about Scouting for his entire life?
+
+365
+00:19:19,560 --> 00:19:21,680
+what was the most challenging thing for him to do
+
+366
+00:19:21,680 --> 00:19:23,760
+was to reduce it to one page,
+
+367
+00:19:23,760 --> 00:19:26,280
+and it's page nine of the ninth edition
+
+368
+00:19:26,280 --> 00:19:28,240
+of the Boy Scout Handbook.
+
+369
+00:19:28,240 --> 00:19:30,560
+So what exactly does that page say?
+
+370
+00:19:30,560 --> 00:19:32,320
+I'm gonna read it to you right now,
+
+371
+00:19:32,320 --> 00:19:33,920
+because it's a quick read,
+
+372
+00:19:33,920 --> 00:19:36,560
+and it's titled Your Life as a Scout.
+
+373
+00:19:36,560 --> 00:19:37,880
+You're an American boy
+
+374
+00:19:37,880 --> 00:19:40,400
+and before long you'll be an American man.
+
+375
+00:19:40,400 --> 00:19:42,920
+It's an important to America and to yourself
+
+376
+00:19:42,920 --> 00:19:45,480
+that you become a citizen of fine character,
+
+377
+00:19:45,520 --> 00:19:49,400
+physically strong, mentally awake and morally straight.
+
+378
+00:19:49,400 --> 00:19:51,920
+Boy Scouting will help you become that kind of citizen.
+
+379
+00:19:51,920 --> 00:19:55,520
+but also Scouting will give you fellowship and fun.
+
+380
+00:19:55,520 --> 00:19:57,280
+Yes, it's fun to be a Boy Scout.
+
+381
+00:19:57,280 --> 00:20:00,560
+It's fun to go hiking and camping with your best friends,
+
+382
+00:20:00,560 --> 00:20:03,840
+to swim, to dive, to paddle a canoe, to wield an axe,
+
+383
+00:20:03,840 --> 00:20:05,800
+to follow the footsteps of the pioneers
+
+384
+00:20:05,800 --> 00:20:07,960
+who led the way through the wilderness,
+
+385
+00:20:07,960 --> 00:20:10,320
+to stare into the glowing embers of a campfire
+
+386
+00:20:10,320 --> 00:20:12,360
+and dream the wonders of the life
+
+387
+00:20:12,360 --> 00:20:14,080
+that is in store for you.
+
+388
+00:20:14,080 --> 00:20:17,600
+It's also fun to learn to walk noiselessly through the woods,
+
+389
+00:20:17,600 --> 00:20:21,040
+to stalk close to a grazing deer without being noticed,
+
+390
+00:20:21,040 --> 00:20:24,320
+to bring a bird close to you by imitating its call.
+
+391
+00:20:24,320 --> 00:20:28,460
+It's fun to find your way, cross country by map and compass,
+
+392
+00:20:28,460 --> 00:20:29,919
+to make a meal when you're hungry,
+
+393
+00:20:29,919 --> 00:20:32,040
+to take a safe swim when you're hot,
+
+394
+00:20:32,040 --> 00:20:33,919
+to make yourself comfortable for the night
+
+395
+00:20:33,919 --> 00:20:36,240
+in a tent under the stars.
+
+396
+00:20:36,240 --> 00:20:39,080
+In Scouting you become an outdoorsman.
+
+397
+00:20:39,080 --> 00:20:42,679
+but Scouting is far more than fun in the outdoors,
+
+398
+00:20:42,680 --> 00:20:44,480
+hiking and camping.
+
+399
+00:20:44,480 --> 00:20:46,480
+Scouting is a way of life.
+
+400
+00:20:46,480 --> 00:20:49,720
+Scouting is growing into a responsible manhood,
+
+401
+00:20:49,720 --> 00:20:52,720
+learning to be of service to others.
+
+402
+00:20:52,720 --> 00:20:55,080
+The Scout Oath and the Scout Law
+
+403
+00:20:55,080 --> 00:20:57,320
+are your guides to citizenship.
+
+404
+00:20:57,320 --> 00:20:59,800
+They tell you what is expected of a Scout.
+
+405
+00:20:59,800 --> 00:21:01,720
+They point out your duties.
+
+406
+00:21:01,720 --> 00:21:05,280
+The Scout motto is: be prepared-
+
+407
+00:21:05,280 --> 00:21:07,400
+prepared to take care of yourself
+
+408
+00:21:07,400 --> 00:21:09,760
+and to help other people in need.
+
+409
+00:21:09,760 --> 00:21:13,120
+The Scout slogan is: do a good turn daily
+
+410
+00:21:13,120 --> 00:21:16,760
+Together. the motto and slogan spell out your ability
+
+411
+00:21:16,760 --> 00:21:19,200
+and your willingness to serve.
+
+412
+00:21:19,200 --> 00:21:23,000
+Your life as a Scout will make you strong and self-reliant.
+
+413
+00:21:23,000 --> 00:21:24,760
+You'll learn Scoutcraft skills
+
+414
+00:21:24,760 --> 00:21:26,920
+that will benefit you as you grow
+
+415
+00:21:26,920 --> 00:21:29,040
+and in time, you'll develop the skills
+
+416
+00:21:29,040 --> 00:21:30,800
+of leadership as well.
+
+417
+00:21:30,800 --> 00:21:33,640
+So pitch in, swing into action
+
+418
+00:21:33,640 --> 00:21:35,520
+In your patrol and your troop.
+
+419
+00:21:35,520 --> 00:21:37,920
+you'll have some of the best times of your life.
+
+420
+00:21:38,920 --> 00:21:40,680
+I can't put it any better.
+
+421
+00:21:40,680 --> 00:21:42,680
+I doubt anybody could.
+
+422
+00:21:42,680 --> 00:21:44,480
+What a wonderful challenge
+
+423
+00:21:44,480 --> 00:21:46,080
+and what a wonderful description
+
+424
+00:21:46,080 --> 00:21:48,280
+of exactly what Scouting is,
+
+425
+00:21:48,280 --> 00:21:51,280
+The DNA of Scouting, the source code of Scouting.
+
+426
+00:21:51,280 --> 00:21:52,920
+Scouting is fun in the outdoors,
+
+427
+00:21:52,920 --> 00:21:55,480
+but it's more than just that fun.
+
+428
+00:21:55,480 --> 00:21:57,680
+It is a way of life
+
+429
+00:21:57,680 --> 00:22:00,880
+that you'll grow into, a responsible human being.
+
+430
+00:22:00,880 --> 00:22:02,880
+That's the source code,
+
+431
+00:22:02,880 --> 00:22:04,880
+That's what we need to be thinking about,
+
+432
+00:22:04,880 --> 00:22:07,280
+That's what we need to understand
+
+433
+00:22:07,840 --> 00:22:10,240
+and we need to apply as Scouters
+
+434
+00:22:10,240 --> 00:22:13,040
+to serve the youth that we're serving.
+
+435
+00:22:13,040 --> 00:22:15,600
+Wherever you are in the world, it's gonna work.
+
+436
+00:22:15,600 --> 00:22:18,280
+However, things have changed and morphed
+
+437
+00:22:18,280 --> 00:22:21,639
+and gotten different in our cultures and societies,
+
+438
+00:22:21,639 --> 00:22:24,000
+the source code is still going to work.
+
+439
+00:22:24,000 --> 00:22:26,800
+However much training and policy and procedure
+
+440
+00:22:26,800 --> 00:22:29,840
+and organizational craziness there is out there,
+
+441
+00:22:29,840 --> 00:22:34,240
+the source code is still going to work.
+
+442
+00:22:34,240 --> 00:22:38,000
+That's what Scouting really is.
+
+443
+00:22:38,000 --> 00:22:41,160
+Now take that, take that page nine,
+
+444
+00:22:41,160 --> 00:22:45,400
+take that source code and make it a reality.
+
+445
+00:22:45,400 --> 00:22:49,040
+That's what Bill said. he wants Scouters to be trained
+
+446
+00:22:49,040 --> 00:22:52,760
+to make those things a reality in the lives of their Scouts.
+
+447
+00:22:52,760 --> 00:22:55,500
+He understands and he explains to the Scouts
+
+448
+00:22:55,500 --> 00:22:57,880
+that, yes, this is going to be a lot of fun
+
+449
+00:22:57,880 --> 00:22:59,740
+and it's challenging and it's gonna be great,
+
+450
+00:22:59,740 --> 00:23:01,480
+but there's an ulterior motive,
+
+451
+00:23:01,480 --> 00:23:02,940
+because it's a way of life
+
+452
+00:23:02,980 --> 00:23:06,180
+that helps you grow into a responsible human being.
+
+453
+00:23:06,180 --> 00:23:07,620
+There's no secret code.
+
+454
+00:23:07,620 --> 00:23:11,360
+there's no step one, two, three. for Scouters,
+
+455
+00:23:11,360 --> 00:23:14,320
+The challenge is to take that page nine
+
+456
+00:23:14,320 --> 00:23:17,020
+and make it a reality in the life of your Scouts.
+
+457
+00:23:17,020 --> 00:23:21,340
+and it's simple. it's very, very simple
+
+458
+00:23:21,340 --> 00:23:23,540
+And I'm reminded of something that Baden Powell said:
+
+459
+00:23:23,540 --> 00:23:26,180
+it's like swinging a scythe or a golf club:
+
+460
+00:23:26,180 --> 00:23:28,980
+Very, very simple. anybody can do it,
+
+461
+00:23:28,980 --> 00:23:32,620
+but it takes a lifetime of practice to get good at it.
+
+462
+00:23:32,620 --> 00:23:35,140
+So that's our job, that's everything that we do.
+
+463
+00:23:35,140 --> 00:23:36,740
+Get good at the source code,
+
+464
+00:23:36,740 --> 00:23:39,900
+get good at making it happen in the lives of your Scouts.
+
+465
+00:23:39,900 --> 00:23:44,540
+That's the only thing that ends up really mattering.
+
+466
+00:23:44,540 --> 00:23:47,540
+How to test if what you're doing as a Scouter
+
+467
+00:23:47,540 --> 00:23:52,540
+is advancing the aims of Scouting is to read page nine.
+
+468
+00:23:52,580 --> 00:23:54,660
+Are you making that happen?
+
+469
+00:23:54,660 --> 00:23:56,020
+Then you're successful.
+
+470
+00:23:56,020 --> 00:23:59,300
+Are you realizing that ulterior motive
+
+471
+00:23:59,300 --> 00:24:02,000
+in the lives of the young people you're serving?
+
+472
+00:24:02,000 --> 00:24:03,800
+Then you're successful. Scouter.
+
+473
+00:24:03,800 --> 00:24:04,880
+That's the source code.
+
+474
+00:24:04,880 --> 00:24:08,360
+It's as important as it is simple,
+
+475
+00:24:08,360 --> 00:24:11,120
+And it's a huge challenge for us to see
+
+476
+00:24:11,120 --> 00:24:15,080
+in that simplicity exactly what we're up to
+
+477
+00:24:15,080 --> 00:24:17,160
+and the way that Scouting works.
+
+478
+00:24:17,160 --> 00:24:22,160
+Listen to this 266th edition of the Scoutmaster podcast
+
+479
+00:24:42,980 --> 00:24:45,320
+By going to the blog at ScoutmasterCgcom.
+
+480
+00:24:45,320 --> 00:24:46,920
+you can subscribe to receive updates,
+
+481
+00:24:46,920 --> 00:24:52,760
+blog by email And you can join all the other mobile scouts who have the Scoutmaster CG app
+
+482
+00:24:52,760 --> 00:24:57,320
+on their mobile devices. You can get the app on Google Player, on the iTunes app store.
+
+483
+00:24:57,320 --> 00:25:02,440
+You can experience the wonders of ScoutmasterCGcom through the vast panorama of social media
+
+484
+00:25:02,440 --> 00:25:07,560
+outlets. You can join over 8,800 folks who like Scoutmaster blogging on Facebook. You can tweet
+
+485
+00:25:07,560 --> 00:25:12,680
+along with a course of 1,200 tweeters on Twitter. Pin the Pultritudinous Pictures proffered
+
+486
+00:25:12,760 --> 00:25:19,320
+publicly with 2,000 other prolific pinners on Pinterest. Watch us at ScoutmasterCG on YouTube
+
+487
+00:25:19,320 --> 00:25:25,480
+And, of course, join the 500 odd folks who form the exclusive Scoutmaster CG circle on Google Plus.
+
+488
+00:25:25,480 --> 00:25:28,680
+Now, if none of that makes any sense to you at all, if you can't face Facebook,
+
+489
+00:25:28,680 --> 00:25:32,040
+if Twitter makes you bitter, if you've no interest in Pinterest, if you don't put the?
+
+490
+00:25:32,040 --> 00:25:35,960
+U in YouTube, if you're a minus when it comes to Google Plus, don't worry about it.
+
+491
+00:25:35,960 --> 00:25:40,680
+Zoom into the late 90s and send me an email. Yep, you can get in touch with me the old
+
+492
+00:25:40,680 --> 00:25:47,640
+fashion way. Email me, Clark Green, with your comments and questions at Clark at ScoutmasterCGcom.
+
+493
+00:25:47,640 --> 00:25:55,640
+It's C-L-A-R-K-E at ScoutmasterCGcom. You may have grown tired of hearing this, but
+
+494
+00:25:55,640 --> 00:25:59,880
+I need to tell you something. The Scoutmaster blog and the Scoutmaster podcast are not
+
+495
+00:25:59,880 --> 00:26:04,840
+official publications of anybody other than myself. We're not official publications of Boy
+
+496
+00:26:04,840 --> 00:26:09,800
+Scouts of America. We're not endorsed or sponsored by the Boy Scouts of America. It's just me
+
+497
+00:26:09,800 --> 00:26:14,200
+talking into a microphone, trying to lend a hand to Scoutleaders and have a little bit of fun here
+
+498
+00:26:14,200 --> 00:26:19,159
+and there. And speaking of a little bit of fun, here's our founder, Sir Robert Bidden Powell. Sir
+
+499
+00:26:19,159 --> 00:26:25,720
+Robert, Good luck to you and good camping. Why? thank you, sir, Until next time, everyone.
+

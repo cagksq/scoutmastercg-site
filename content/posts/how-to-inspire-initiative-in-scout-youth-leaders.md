@@ -2,7 +2,9 @@
 title: "How to Inspire Initiative in Scout Youth Leaders"
 date: 2013-10-12
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20161013093549/http://scoutmastercg.com:80/inspiring-initiative-in-scout-youth-leaders/"
 ---
 

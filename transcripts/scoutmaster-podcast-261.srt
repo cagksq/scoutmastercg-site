@@ -1,0 +1,1320 @@
+1
+00:00:00,000 --> 00:00:05,520
+I'm Mike Beals and I'm Assistant Scoutmaster with Troop 226 in Roswell, Georgia.
+
+2
+00:00:05,520 --> 00:00:10,080
+This edition of the Scoutmaster Podcast is sponsored by backers like me.
+
+3
+00:00:10,080 --> 00:00:12,000
+And now for you, Scoutmaster.
+
+4
+00:00:19,680 --> 00:00:27,040
+Um, listen, uh, I had. I had planned on sharing a funny story about Eagle Projects,
+
+5
+00:00:27,040 --> 00:00:32,320
+but I haven't completed it yet. But don't worry, I have plenty of time. I really do.
+
+6
+00:00:32,320 --> 00:00:33,680
+I have plenty of time to get it done.
+
+7
+00:00:36,800 --> 00:00:39,680
+This is podcast number 261.. Hey,
+
+8
+00:00:57,040 --> 00:01:08,480
+Welcome back to the Scoutmaster Podcast. This is Clark Green.
+
+9
+00:01:08,480 --> 00:01:12,160
+So going right into the mailbag here, we heard from Cora Shahid who said:
+
+10
+00:01:12,160 --> 00:01:20,160
+this scouter is H-A-P-P-Y happy. Thank you, My app is fixed and I can listen to the podcast again.
+
+11
+00:01:20,960 --> 00:01:28,240
+Oh my, yes, Cora, Thank you for getting in touch and for being a bright spot in an otherwise
+
+12
+00:01:28,240 --> 00:01:34,399
+dark and difficult time with the Android version of the Scoutmaster CG app.
+
+13
+00:01:34,399 --> 00:01:39,199
+Now listen, if you've installed the Android version of the Scoutmaster CG app in the past,
+
+14
+00:01:39,920 --> 00:01:45,120
+what you're going to do is you need to uninstall it and install the new version,
+
+15
+00:01:45,120 --> 00:01:50,400
+which is now available on Google Play. I checked on it this morning again and there's lots of people
+
+16
+00:01:50,400 --> 00:01:56,800
+have been installing it and it seems to be working okay. but it's been a bit of a waking nightmare the
+
+17
+00:01:56,800 --> 00:02:04,000
+past week or so trying to get this fixed. So let me be very clear: The new app is what you want.
+
+18
+00:02:04,000 --> 00:02:10,560
+Uninstall the one that's not working. Install the new app. It works, And the good news,
+
+19
+00:02:10,560 --> 00:02:15,200
+the silver lining- in the cloud- is that it remains free because of the folks who become
+
+20
+00:02:15,200 --> 00:02:21,440
+scoutmastercgcom backers. Now, if you have the iTunes app, you're going to update it and you'll see
+
+21
+00:02:21,440 --> 00:02:27,920
+some changes, but you really don't have to do anything And really my heartfelt apologies to
+
+22
+00:02:27,920 --> 00:02:35,120
+those of you who have found that the Android app isn't working. It's taken way, way too long
+
+23
+00:02:35,120 --> 00:02:41,920
+to get fixed. by way of explanation, My old app provider wasn't taking care of business. They were
+
+24
+00:02:41,920 --> 00:02:48,320
+extraordinarily slow to respond to my cries for help a couple of weeks ago when the app was not working.
+
+25
+00:02:48,320 --> 00:02:53,920
+So I found a new app provider. We built a new app And, because this is not something that I do every
+
+26
+00:02:53,920 --> 00:02:59,760
+day, it's been a long and arduous process And the only way we could get the new app to you
+
+27
+00:02:59,760 --> 00:03:06,160
+was to get rid of the old one. Yai yai, yai, yai yai. I really appreciate your patience
+
+28
+00:03:06,160 --> 00:03:11,040
+And I understand why some of you have been a little impatient about it, because I certainly
+
+29
+00:03:11,040 --> 00:03:17,440
+have been. Now, if you encounter any problems with the app, email me. okay, Get in touch with me
+
+30
+00:03:17,440 --> 00:03:23,359
+at Clark at scoutmastercgcom, And I'll do my best to get it fixed. But as of this
+
+31
+00:03:23,360 --> 00:03:29,520
+announcement, I'm hoping that the majority of the problems are fixed. Oh please,
+
+32
+00:03:31,120 --> 00:03:38,160
+Oh my, we do have some fun, Yes, even in the midst of irksome tasks and weighty responsibilities.
+
+33
+00:03:38,160 --> 00:03:43,280
+So let's move on, shall we? We had some live chats this past week and the live chats happened
+
+34
+00:03:43,280 --> 00:03:48,960
+at scoutmastercgcom. There's a chat button in the lower right hand side. Normally, I'll
+
+35
+00:03:48,960 --> 00:03:53,360
+announce when we're going to be on for a live chat through my Facebook and Twitter feed, So
+
+36
+00:03:53,360 --> 00:03:57,360
+you want to make sure to check that out. And sometimes, if I'm working in my desk for a while,
+
+37
+00:03:57,920 --> 00:04:02,640
+I will turn the live chat on just to be available, and I won't necessarily make an
+
+38
+00:04:02,640 --> 00:04:07,280
+announcement on it. But in addition to all of our frequent fliers who show up for the chat,
+
+39
+00:04:07,280 --> 00:04:12,080
+we also chatted with Bruce Liggett in Billings, Montana, where he's an assistant scout master
+
+40
+00:04:12,080 --> 00:04:18,640
+for troop 10.. Jamie Jones, who is on the committee of troop 152 in Cuyahoga Falls, Ohio.
+
+41
+00:04:18,640 --> 00:04:23,280
+Vincent Arbug is the advancement chair and a chapter advisor for the Order of the Arrow in Iowa.
+
+42
+00:04:23,840 --> 00:04:29,680
+Jeff is an assistant scout master in Omaha, Nebraska. Mark Mills is from Madeleine, New Jersey,
+
+43
+00:04:29,680 --> 00:04:37,120
+and he's a newly minted assistant scout master for troop 66.. Leon Venedictu is in Richmond-
+
+44
+00:04:37,120 --> 00:04:41,600
+not in Virginia, but in the United Kingdom, in Great Britain- And he's an assistant scout
+
+45
+00:04:41,600 --> 00:04:48,960
+leader for the Scouts Association there and was a scout himself as a youth in Greece. David Wilkes
+
+46
+00:04:48,960 --> 00:04:56,080
+is in Dallas, Texas, and he's an assistant scout master for troop 68. And he's soon to become
+
+47
+00:04:56,080 --> 00:05:02,000
+the scout master. It looks like July, So welcome to the volcano, almost. David Dan Clegg is the
+
+48
+00:05:02,000 --> 00:05:09,040
+scout master of troop 460 in Orem, Utah. Kirk Seager is in Castlebury, Florida, where he's an
+
+49
+00:05:09,040 --> 00:05:15,360
+assistant scout master in troop 692.. Keep an eye on the Facebook and Twitter feeds for announcements
+
+50
+00:05:15,360 --> 00:05:20,080
+when we'll be having a live chat. It's mostly weekday mornings- And check in, say hi. Now,
+
+51
+00:05:20,080 --> 00:05:24,400
+before I get any further, let me tell you this: if the resources that we've created have helped
+
+52
+00:05:24,400 --> 00:05:29,040
+you, I need your help in return to keep them freely available to scouts just like you all
+
+53
+00:05:29,040 --> 00:05:32,320
+over the world. You know we had a problem with the Android app. I don't know if you
+
+54
+00:05:32,320 --> 00:05:38,400
+noticed, but we had a problem with it and we were able to get it fixed because we have
+
+55
+00:05:38,480 --> 00:05:44,720
+backers. You can go to scoutmastercgcom today and click the support link at the top of the page
+
+56
+00:05:44,720 --> 00:05:50,720
+and you'll learn exactly how this works. Backers make a one time voluntary subscription payment
+
+57
+00:05:50,720 --> 00:05:55,760
+to support what we're doing, And some levels of support earn a premium, like an autograph copy
+
+58
+00:05:55,760 --> 00:06:01,040
+of one of my books. So go to scoutmastercgcom, click the support link at the top of the
+
+59
+00:06:01,040 --> 00:06:05,680
+page, become a backer this week. And I want to take a moment to thank John Hartfig, Kelly
+
+60
+00:06:05,680 --> 00:06:13,040
+McKiernan, Terry Dutton, Jacques Navias, James Monteney, Michael Beals and Brad Chilcote
+
+61
+00:06:13,040 --> 00:06:18,240
+for becoming backers since our last podcast And for the third and last time. go to
+
+62
+00:06:18,240 --> 00:06:22,960
+scoutmastercgcom, click the support link, become a backer this week, and I'll be sure
+
+63
+00:06:22,960 --> 00:06:27,040
+to thank you on the next podcast. And a big thank you to all the backers who keep us up
+
+64
+00:06:27,040 --> 00:06:31,200
+and running. In this week's podcast, I have some email questions to answer, And in scout
+
+65
+00:06:31,200 --> 00:06:36,000
+master's ship in seven minutes or less, we're going to discuss the dreaded troop program death
+
+66
+00:06:36,000 --> 00:06:42,400
+spiral. sounds ominous, doesn't it? And that's going to take up the remainder of the podcast.
+
+67
+00:06:42,400 --> 00:06:48,960
+So let's get started, shall we? scout master's ship in seven minutes or less?
+
+68
+00:06:48,960 --> 00:07:04,720
+Now, naturally, a title like troop program death spiral is a little gratuitously dramatic,
+
+69
+00:07:04,720 --> 00:07:10,240
+right, But it does describe something that I think does happen And it did get your
+
+70
+00:07:10,240 --> 00:07:16,400
+attention right. This is based on an article that I wrote a year or two ago and
+
+71
+00:07:16,480 --> 00:07:21,680
+reposted this past week on Facebook And it really struck a chord with folks, got a lot of
+
+72
+00:07:21,680 --> 00:07:25,280
+comments and a lot of likes and shares on Facebook I thought it would be good to talk
+
+73
+00:07:25,280 --> 00:07:30,240
+about. on the podcast I heard from Corey Needleman on Facebook. he said there has been some talk
+
+74
+00:07:30,240 --> 00:07:34,880
+amongst our adult leadership that you are monitoring and intercepting our electronic
+
+75
+00:07:34,880 --> 00:07:39,120
+communications and releasing podcasts or articles that are directly relevant to
+
+76
+00:07:39,120 --> 00:07:44,240
+current topics we're discussing. I hear that once in a while, Corey, And it is true
+
+77
+00:07:44,240 --> 00:07:50,160
+I have agents everywhere. Bob Deck also commented on it and he said it is the job of the adults
+
+78
+00:07:50,160 --> 00:07:54,640
+to guide the scouts, to direct them to wholesome activities where they can have fun and
+
+79
+00:07:54,640 --> 00:07:59,760
+adventure and learn, not to sit them in a classroom and teach them. The scouts should
+
+80
+00:07:59,760 --> 00:08:04,720
+be running almost everything, with the adults watching and giving guidance when needed,
+
+81
+00:08:04,720 --> 00:08:09,760
+And I wanted to thank also Megan Sandlin and Michael Gagney, Bill McFarland and John Nelson
+
+82
+00:08:09,760 --> 00:08:15,599
+for checking in with a big thumbs up on that post. Carrie Barclay brought up the other end
+
+83
+00:08:15,599 --> 00:08:20,880
+of the spectrum and she commented on a troop that loses scouts because they're not having
+
+84
+00:08:20,880 --> 00:08:27,520
+any fun or doing anything, because the adults are so hands off in the name of being youth led,
+
+85
+00:08:27,520 --> 00:08:34,559
+that nothing really happens. John Probst replied that, yeah, adult guidance is a must, but
+
+86
+00:08:34,560 --> 00:08:41,760
+some people seem to forget it, And I would agree. you know, scout led is not without context or guidance
+
+87
+00:08:41,760 --> 00:08:47,760
+from adults. It's not about adults doing nothing and accepting every decision or having zero
+
+88
+00:08:47,760 --> 00:08:53,600
+expectations of the scouts. Being youth led is not a slogan. It takes a lot of work and study to
+
+89
+00:08:53,600 --> 00:09:00,320
+get it right. So let's talk about how troops get off track and potentially lose scouts and
+
+90
+00:09:00,400 --> 00:09:05,760
+this crazy kind of troop program death spiral that I'm talking about. I think there's a predictable
+
+91
+00:09:05,760 --> 00:09:12,880
+sequence of events that lead to a spiral that can crash the entire troop program, And it's not
+
+92
+00:09:12,880 --> 00:09:18,400
+the scouts. right, Because the scouts will follow your lead. They're going to follow your lead
+
+93
+00:09:18,400 --> 00:09:23,040
+and they're going to adopt your attitude. It ends up being us. It's the adults who are
+
+94
+00:09:23,040 --> 00:09:28,880
+volunteering to be involved, And I think a lot of it comes from when we sign up to be adult
+
+95
+00:09:28,880 --> 00:09:34,720
+volunteers. We do one of two things: We attend training and then we go on to work at understanding
+
+96
+00:09:34,720 --> 00:09:40,560
+our role and we evaluate what's happening and we try and do it better and we learn more and we
+
+97
+00:09:40,560 --> 00:09:45,760
+gain more experience and we try and do it better. But we're always in this evaluating, looking at
+
+98
+00:09:45,760 --> 00:09:50,000
+what's going on mode. Hopefully that means that we don't get stuck in a rut and we have the
+
+99
+00:09:50,000 --> 00:09:54,880
+knowledge that we can get better in our roles. The other things that happens is a lot of adults
+
+100
+00:09:54,880 --> 00:10:01,200
+who volunteer don't get trained, And even those who go to training, if they don't learn the role
+
+101
+00:10:01,200 --> 00:10:06,800
+and ask questions and try and get better at it, they just end up following the breadcrumb trail
+
+102
+00:10:06,800 --> 00:10:12,720
+of bad practices that were present in the troop when they signed on. So either we take the time
+
+103
+00:10:12,720 --> 00:10:18,400
+to understand and study our role in scouting and follow those principles or we end up
+
+104
+00:10:18,400 --> 00:10:23,360
+perpetuating old mistakes. Now it's almost impossible to become a volunteer for a scout
+
+105
+00:10:23,360 --> 00:10:30,320
+troop without hearing at least something about the patrol method or the virtues of a scout-led troop.
+
+106
+00:10:30,320 --> 00:10:34,720
+So let's say you learn about the patrol method, you go ahead and apply it. Well,
+
+107
+00:10:34,720 --> 00:10:41,040
+when we apply the concepts and practices of the patrol method, the first results are almost
+
+108
+00:10:41,040 --> 00:10:48,240
+always disappointing from the adult perspective. That's important because it is a matter of
+
+109
+00:10:48,240 --> 00:10:54,240
+perspective To an adult scouts working at the patrol method for the first time
+
+110
+00:10:54,240 --> 00:10:59,600
+are going to look incapable and incompetent or even just lazy. Their efforts are going to be
+
+111
+00:10:59,600 --> 00:11:05,280
+disjointed and chaotic and they're going to fall far short of creating the kind of ideal
+
+112
+00:11:05,280 --> 00:11:12,160
+orderliness and efficiency that we imagine they can. Now, instead of looking at that state of affairs
+
+113
+00:11:12,160 --> 00:11:19,120
+as a positive indication of growing and developing leaders, this disappointment is looked at as a
+
+114
+00:11:19,120 --> 00:11:24,880
+failure of the patrol method as a way of doing things. And if adults become convinced that the
+
+115
+00:11:24,880 --> 00:11:29,760
+patrol method just won't work, then they take over and they run things in an efficient, orderly
+
+116
+00:11:29,760 --> 00:11:34,719
+manner, like adults do. right, Because when we adults run things there's less trouble,
+
+117
+00:11:34,719 --> 00:11:39,040
+there's less uncertainty. Scouts will be happy to have things taken care of
+
+118
+00:11:39,040 --> 00:11:45,040
+and they won't complain about it. Why would that? You know, boys are very sharp efficiency experts.
+
+119
+00:11:45,040 --> 00:11:49,439
+If an adult is willing to do everything for them, of course they're going to do it,
+
+120
+00:11:49,439 --> 00:11:53,599
+especially if they end up joining a troop where the adults do everything in the first place. It's
+
+121
+00:11:53,599 --> 00:11:58,560
+just the way things work. They don't have any experience, to the contrary, so why wouldn't
+
+122
+00:11:58,560 --> 00:12:03,599
+they follow along? And you know what Scouts will stay: an adult led troop where all the
+
+123
+00:12:03,599 --> 00:12:06,880
+decisions are being made by the adults, all plans are being made by the adults.
+
+124
+00:12:06,880 --> 00:12:11,040
+the adults cook all their meals for them, but they're only going to stay just so long because
+
+125
+00:12:11,040 --> 00:12:15,280
+they're going to get bored eventually. And unless the adults are able to come up with
+
+126
+00:12:15,280 --> 00:12:20,640
+more new and even more entertaining experiences, Scouts are going to get bored and they're going
+
+127
+00:12:20,640 --> 00:12:25,520
+to leave. And that's really upsetting to the volunteers who are putting all their time into
+
+128
+00:12:25,520 --> 00:12:30,400
+making this wonderful experience for the Scouts right. And you get resentful because you
+
+129
+00:12:30,400 --> 00:12:34,320
+think that the Scouts don't properly appreciate what's being done for them And this turns
+
+130
+00:12:34,320 --> 00:12:41,280
+into frustration and hardens into resentment And usually this results in the next curve of the
+
+131
+00:12:41,280 --> 00:12:46,240
+spiral, which is making rules. You know we're going to a lot of effort here to plan these
+
+132
+00:12:46,240 --> 00:12:51,360
+meetings and outings and things like that, And the boys aren't even showing up. So I know what
+
+133
+00:12:51,360 --> 00:12:55,680
+we'll do. Let's make some rules. If you can't be a scout in this troop unless you show up at
+
+134
+00:12:55,680 --> 00:12:59,680
+this percentage of meetings and outings, you must do this, you must do that. And that
+
+135
+00:12:59,680 --> 00:13:05,280
+kind of rulemaking is kind of hardening that resentment And it's likely to drive more Scouts
+
+136
+00:13:05,280 --> 00:13:09,920
+away And then we get into the next curve of the spiral. Adults get even more frustrated
+
+137
+00:13:09,920 --> 00:13:14,160
+that everything that they're doing and trying to make this work doesn't seem to be gaining any
+
+138
+00:13:14,160 --> 00:13:18,400
+traction. They're pretty fatigued from trying to hold things together and doing everything.
+
+139
+00:13:19,040 --> 00:13:23,920
+Things continue to spiral down And we lose adult volunteers and we lose Scouts And
+
+140
+00:13:24,000 --> 00:13:29,760
+ultimately we can lose the entire troop. So how do we not get into this spiral? Well,
+
+141
+00:13:29,760 --> 00:13:34,880
+first step is getting trained. but getting trained is not enough. We can't just get
+
+142
+00:13:34,880 --> 00:13:40,800
+trained and passively receive the ideas. We have to apply them. We have to test those ideas.
+
+143
+00:13:40,800 --> 00:13:45,360
+We have to pick them apart and learn about them. We have to go through a continuous process of
+
+144
+00:13:45,360 --> 00:13:50,320
+putting them into action and observing the results, assessing what we understand about them
+
+145
+00:13:50,320 --> 00:13:54,800
+and then trying all over again. One thing I'm fond of saying is that adults involved with a scout
+
+146
+00:13:54,800 --> 00:14:00,400
+troop need to have a very high tolerance for adversity and uncertainty, because Scouts
+
+147
+00:14:00,400 --> 00:14:06,560
+learn how to lead through experience. Those experiences, from an adult perspective, can be
+
+148
+00:14:06,560 --> 00:14:11,680
+very tiresome and difficult. So we need to, through training, through our own study,
+
+149
+00:14:11,680 --> 00:14:16,640
+through our own working at it, understand exactly what's going on. So the good news-
+
+150
+00:14:16,640 --> 00:14:22,080
+and all this is totally within our power to control as adult volunteers: Get trained,
+
+151
+00:14:22,080 --> 00:14:27,520
+understand your role. study it. Don't just passively receive what you get at training.
+
+152
+00:14:27,520 --> 00:14:32,640
+pick it apart, look at it, study it, read up, use the resources that are provided to us
+
+153
+00:14:32,640 --> 00:14:37,280
+and apply the patrol method and stick with it. Give it a chance to work. have a tolerance for
+
+154
+00:14:37,280 --> 00:14:41,760
+some uncertainty and some adversity. Work with your Scouts in it and you'll begin to reap
+
+155
+00:14:41,760 --> 00:14:47,439
+the benefits. Stick with the process, strive to understand it and you'll avoid the dreaded
+
+156
+00:14:47,440 --> 00:14:51,120
+Troop Program Death Spiral.
+
+157
+00:14:51,120 --> 00:15:20,800
+Write me a letter, send it by name Email, that is folks. And here's an answer to one of your emails.
+
+158
+00:15:21,760 --> 00:15:31,840
+I received this email from a long-time listener and reader who said
+
+159
+00:15:31,840 --> 00:15:36,720
+I have run into two problems related to the Eagle Scout application process
+
+160
+00:15:36,720 --> 00:15:40,960
+that I haven't run into before. They're both kind of complicated by adult politics and I'm
+
+161
+00:15:40,960 --> 00:15:47,360
+hoping you can help me out. Problem number one is a scout who came to my attention
+
+162
+00:15:47,360 --> 00:15:54,240
+who has some significant adverse events in his life around his border review for Eagle. The border
+
+163
+00:15:54,240 --> 00:16:00,560
+review was completed, he has all the paperwork but he wasn't given any instruction on what to do next,
+
+164
+00:16:00,560 --> 00:16:05,680
+and now several months have passed since his border review and he's kind of given up on his
+
+165
+00:16:05,680 --> 00:16:12,080
+application. How can I help him get this fixed. Well, that problem is probably reasonably easy
+
+166
+00:16:12,080 --> 00:16:17,840
+to fix, Even if we're past the 18th birthday. so long as everything for Eagle was completed,
+
+167
+00:16:17,840 --> 00:16:23,040
+including the border review, and he has a complete application, he should be able to submit that
+
+168
+00:16:23,040 --> 00:16:28,480
+application and get the Eagle recognition that he's earned. Now, exactly how that's going to
+
+169
+00:16:28,480 --> 00:16:34,160
+happen depends on a number of factors. So I would suggest that you get in touch with the folks
+
+170
+00:16:34,160 --> 00:16:44,640
+at advancementteam at scoutingorg. Advancementteam at scoutingorg. They're very responsive
+
+171
+00:16:44,640 --> 00:16:49,439
+and they'll be able to tell you how to salvage that application and get things figured out.
+
+172
+00:16:49,439 --> 00:16:57,120
+Problem number two is a scout who is the president for his venturing crew. but the crew adult
+
+173
+00:16:57,120 --> 00:17:01,520
+leadership is kind of disconnected and not helping him with his advancement to Eagle.
+
+174
+00:17:02,079 --> 00:17:07,760
+So he's also registered with a troop. He doesn't hold a position of responsibility in the troop.
+
+175
+00:17:07,760 --> 00:17:14,240
+so there's a question about who can sign off on the position of responsibility required for Eagle.
+
+176
+00:17:14,800 --> 00:17:21,359
+Must this be an adult leader in the venture crew or can his troops scout master- sign off
+
+177
+00:17:21,359 --> 00:17:26,160
+on a position of responsibility in a different unit? Well, I looked at the resources and I could
+
+178
+00:17:26,160 --> 00:17:30,720
+not find any restriction on who can sign off on the position of responsibility,
+
+179
+00:17:30,720 --> 00:17:35,840
+whether it has to be the unit leader where the scout holds a position of responsibility, or
+
+180
+00:17:35,840 --> 00:17:41,200
+there is no specific limitation that I have found, And if there was, I think it would be directly
+
+181
+00:17:41,200 --> 00:17:46,400
+there in the requirement or in the guide to advancement. And this sounds similar to an experience
+
+182
+00:17:46,400 --> 00:17:52,240
+that I had a year or so ago. We had a scout who came to us from another troop and I sat down
+
+183
+00:17:52,240 --> 00:17:58,240
+with him and had a scout master conference for the rank of life. Now he had not held
+
+184
+00:17:58,240 --> 00:18:03,600
+any position of responsibility in our troop, but he represented that he had in his old troop,
+
+185
+00:18:03,600 --> 00:18:09,040
+And so it took about four questions and about 10 minutes to figure this one out. I asked him
+
+186
+00:18:09,040 --> 00:18:14,000
+to give me some specific examples about how he fulfilled that position of responsibility.
+
+187
+00:18:14,000 --> 00:18:18,640
+I asked him to tell me what he had learned from it. I asked him about the particular
+
+188
+00:18:18,640 --> 00:18:24,080
+challenges or accomplishments he experienced in fulfilling that position and some very specific
+
+189
+00:18:24,080 --> 00:18:28,879
+things about when he did it and where he did it and how he did it. And I followed up by saying:
+
+190
+00:18:28,879 --> 00:18:33,919
+you know, before we signed this requirement one last time, on your honor as a scout,
+
+191
+00:18:33,919 --> 00:18:38,639
+you've accurately and completely answered all my questions, And if you have even the slightest
+
+192
+00:18:38,639 --> 00:18:43,280
+reservation that you've completed this requirement. we shouldn't sign it now And we should figure
+
+193
+00:18:43,280 --> 00:18:48,480
+out how you're going to complete it. But we both agreed that he had completed the requirement
+
+194
+00:18:48,480 --> 00:18:52,960
+and so I signed it off. Now, in the discussion that I had with him, if he wasn't able to
+
+195
+00:18:52,960 --> 00:18:58,880
+come up with any specific things or something seemed to be amiss, I may have gone further to see
+
+196
+00:18:58,880 --> 00:19:04,560
+if I could find any proof of what he had done by talking to his parents or his fellow scouts or
+
+197
+00:19:04,560 --> 00:19:10,560
+the leaders from his past troop. But you know, after we discussed things, I really didn't need to.
+
+198
+00:19:10,560 --> 00:19:15,040
+I was able to take him at his word and I don't regret doing so. I think it was the right
+
+199
+00:19:15,040 --> 00:19:18,720
+decision to have made. And in the course of that discussion, we found out why he left his
+
+200
+00:19:18,720 --> 00:19:24,240
+old troop. They were digging him for an attendance metric they had established and for you know
+
+201
+00:19:24,240 --> 00:19:28,640
+things like not having a complete uniform or missing meetings, And he was missing meetings
+
+202
+00:19:28,640 --> 00:19:33,840
+because he was involved in activities at school where he was exercising a lot of leadership skill.
+
+203
+00:19:33,840 --> 00:19:39,440
+Because of these perceived problems, he was turned back from getting a border review for life
+
+204
+00:19:39,440 --> 00:19:43,920
+several times over a two year period. There were some adult politics involved in this as
+
+205
+00:19:43,920 --> 00:19:48,400
+well, But, as I said, I haven't been able to find any restriction on who can sign that
+
+206
+00:19:48,400 --> 00:19:52,720
+requirement for Eagle. When we're dealing with the technicalities around advancement
+
+207
+00:19:52,720 --> 00:19:58,240
+and procedures and policies, the last thing I want you to do is take exactly what I say
+
+208
+00:19:58,240 --> 00:20:02,560
+as being gospel. You need to prove to yourself by going to the resources
+
+209
+00:20:02,560 --> 00:20:06,000
+that I have it right, And if you find out that I don't, please let me know.
+
+210
+00:20:06,560 --> 00:20:13,040
+This next email question came from a listener who asked to remain anonymous, and it asked
+
+211
+00:20:13,040 --> 00:20:19,520
+this question: Is the border review or scout master conference a test for the scouts next rank?
+
+212
+00:20:19,520 --> 00:20:24,720
+I asked because we recently were discussing requirements with a scout that he had had signed
+
+213
+00:20:24,720 --> 00:20:31,280
+off and he didn't seem to know anything about them. He didn't even have a clue in some instances.
+
+214
+00:20:31,280 --> 00:20:36,480
+So we talked to the scout who signed off his requirements and he didn't seem to know much
+
+215
+00:20:36,480 --> 00:20:40,560
+either. We found this kind of upsetting And so, to prevent this from happening again,
+
+216
+00:20:40,560 --> 00:20:46,159
+we have instituted a couple of new policies For scout master conferences. we have a two week
+
+217
+00:20:46,159 --> 00:20:50,960
+program. The first week the scout meets with senior scouts and an assistant scout master
+
+218
+00:20:50,960 --> 00:20:56,000
+to test his knowledge of the requirements, And the next week he meets with the scout master,
+
+219
+00:20:56,000 --> 00:21:01,120
+who's certain that the scout knows all his skills. The other policy that we've instituted in our
+
+220
+00:21:01,120 --> 00:21:06,560
+troop is to get a requirement signed off. A scout needs to have them signed off by an
+
+221
+00:21:06,560 --> 00:21:12,159
+older scout and either the scout master or assistant scout master. Now this seems to be
+
+222
+00:21:12,159 --> 00:21:17,280
+working pretty well, but I've been reading some BSA literature and it seems that we're doing things
+
+223
+00:21:17,280 --> 00:21:22,639
+incorrectly. So I'm asking for your read of the situation and any advice you might provide us.
+
+224
+00:21:22,639 --> 00:21:28,960
+Well, I would imagine that you've been reading the Guide to Advancement 2013. And you'll
+
+225
+00:21:28,960 --> 00:21:34,560
+read early on in that guide that no council, committee, district, unit or individual has the
+
+226
+00:21:34,560 --> 00:21:40,320
+authority to add to or subtract from the advancement requirements. And what you're doing is
+
+227
+00:21:40,320 --> 00:21:45,919
+wrong because you're adding requirements by adding steps to what should be pretty straightforward
+
+228
+00:21:45,919 --> 00:21:52,399
+things right Now. you've done this in all good conscience, with a laudable goal: to address
+
+229
+00:21:52,399 --> 00:21:58,399
+concerns about the quality of a scout's skills during the review process, But in doing that,
+
+230
+00:21:58,399 --> 00:22:02,800
+you've missed a couple of important points And to clarify this, let's look at the Guide to
+
+231
+00:22:02,800 --> 00:22:07,600
+Advancement. When we look at the Guide to Advancement, it's time to get a pencil and paper,
+
+232
+00:22:07,600 --> 00:22:16,320
+because here's the numbers right: 4.2.3.5 is titled the Unit Leader or Scout Master Conference,
+
+233
+00:22:16,320 --> 00:22:21,520
+And in part it says this quote: the conference is not a retest of the requirements on which
+
+234
+00:22:21,520 --> 00:22:27,120
+a scout has been signed off. It is a forum for discussing topics such as ambitions and life
+
+235
+00:22:27,120 --> 00:22:32,880
+purpose goals for future advancement and also for obtaining feedback on the unit's program.
+
+236
+00:22:32,880 --> 00:22:41,520
+Then we move to section 8.0.1.1, which is entitled not a retest or examination, And it says this
+
+237
+00:22:41,520 --> 00:22:46,240
+quote: though one reason for a border review is to help assure the scout did what he was
+
+238
+00:22:46,240 --> 00:22:53,520
+supposed to have done to meet the requirements, it shall become neither a retest or examination
+
+239
+00:22:53,520 --> 00:22:59,360
+nor a challenge of his knowledge. A badge recognizes what a young man has done towards
+
+240
+00:22:59,360 --> 00:23:08,000
+achieving the primary goal of personal growth. It is thus more about the learning experience
+
+241
+00:23:08,000 --> 00:23:14,160
+than about the specific skills he's learned. Now you tell me you've come up with a new policy
+
+242
+00:23:14,160 --> 00:23:20,160
+requiring scouts to have a requirement signed off twice, and that's adding to the requirements-
+
+243
+00:23:20,160 --> 00:23:26,560
+right, Something that's expressly forbidden by the Guide to Advancement. And you've instituted another
+
+244
+00:23:26,560 --> 00:23:31,760
+policy where he's pretested on everything before Scout Master's Conference. Again,
+
+245
+00:23:31,760 --> 00:23:36,880
+you've added to the requirements, and that's not allowed. The concept that fixes all this is
+
+246
+00:23:36,880 --> 00:23:42,080
+pretty simple. You're just aiming at the wrong thing. We don't retest the scout's skills,
+
+247
+00:23:42,080 --> 00:23:46,880
+because scouting isn't about the skills. It's about the growth the scout has experienced
+
+248
+00:23:46,880 --> 00:23:52,000
+in learning and demonstrating the skills. In other words, our aim is not to train scouts to
+
+249
+00:23:52,000 --> 00:23:56,960
+become skilled outdoorsmen, but to give them a set of experience to develop their character.
+
+250
+00:23:56,960 --> 00:24:01,600
+All of the activities and learning around the skills has this ulterior motive.
+
+251
+00:24:01,600 --> 00:24:06,880
+In Scout Master Conferences and Boards of Review we've learned how well we're doing
+
+252
+00:24:06,880 --> 00:24:11,120
+in developing the scout's character and if we're having a positive effect on him,
+
+253
+00:24:11,120 --> 00:24:15,200
+Not whether or not he remembers how to tie a square knot. So I'm not asking you to take my
+
+254
+00:24:15,200 --> 00:24:19,200
+word for this or telling you my opinion. It's what you've seen for yourself in your own reading of
+
+255
+00:24:19,200 --> 00:24:23,600
+the Guide to Advancement. What I suggest is getting the Guide and having all the adults
+
+256
+00:24:23,600 --> 00:24:28,400
+involved in the troop to sit down, read the Guide and especially concentrate on those
+
+257
+00:24:28,400 --> 00:24:33,040
+sections that bear on the questions that you've asked, and you should be able to clear things up.
+
+258
+00:24:33,040 --> 00:24:36,880
+I think that your goal is laudable, but you're just aiming at the wrong thing
+
+259
+00:24:36,880 --> 00:24:41,600
+And this challenge is a basic assumption that scouting is all about developing specific
+
+260
+00:24:41,600 --> 00:24:46,800
+skills and testing them. but it's not. We're aimed at something far greater,
+
+261
+00:24:46,800 --> 00:24:50,320
+and when we understand that, things start to make sense.
+
+262
+00:24:50,960 --> 00:24:56,080
+I heard from Sam McCulloch, who's with Cub Scout Pack 91 in Shreveport, Louisiana,
+
+263
+00:24:56,080 --> 00:25:01,280
+and he said this: I want our weeblos dens to operate as close as possible to a Boy Scout
+
+264
+00:25:01,280 --> 00:25:05,280
+Patrol. They choose a patrol name and they elect a patrol leader. but I want to kick it up a
+
+265
+00:25:05,280 --> 00:25:10,640
+notch. I want them to have patrol boxes and gear and have them responsible for it,
+
+266
+00:25:10,640 --> 00:25:13,760
+have them cook and clean up as a patrol and do everything like scouts do it.
+
+267
+00:25:14,560 --> 00:25:20,000
+Now am I getting too extreme? weeblos feels a little like purgatory sometimes because we're
+
+268
+00:25:20,000 --> 00:25:24,880
+in between the simple things that the younger cubs enjoy and we're not able to do the full
+
+269
+00:25:24,880 --> 00:25:29,920
+blown adventure that a scout troop does. Well, Sam, purgatory is really an interesting
+
+270
+00:25:29,920 --> 00:25:35,680
+allegory for weeblos. Now, before I start answering your question about kicking it up a
+
+271
+00:25:35,680 --> 00:25:39,760
+notch, let's have a good understanding of the specifics of weeblos camping. Have you
+
+272
+00:25:39,760 --> 00:25:44,400
+got all that information? And another big issue is age appropriateness. What's going on
+
+273
+00:25:44,400 --> 00:25:49,200
+in the broader life of weeblos during those years? How are we supposed to be working with
+
+274
+00:25:49,200 --> 00:25:53,760
+the weeblos years And what's your relation with the local scout troop? That might help
+
+275
+00:25:53,760 --> 00:25:57,840
+sort things out a little bit too. Well, Sam got back in touch and he says: well,
+
+276
+00:25:57,840 --> 00:26:01,920
+your question about my understanding of the specifics of weeblos camping
+
+277
+00:26:01,920 --> 00:26:07,280
+sparked my curiosity and I did some research And I found this in the outdoor leadership
+
+278
+00:26:07,280 --> 00:26:11,920
+skills for weeblos leaders. Each step in the outdoor program should be age
+
+279
+00:26:11,920 --> 00:26:15,760
+appropriate, with a foundation for the next higher step. We should guard against
+
+280
+00:26:15,760 --> 00:26:19,760
+using outdoor activities. what will take away from a boy's later experience in a
+
+281
+00:26:19,760 --> 00:26:24,000
+troop? We want to wet their appetite for scouting, not to give them the whole
+
+282
+00:26:24,000 --> 00:26:27,600
+meal too early before they're ready. Sam said I believe you've led me in the
+
+283
+00:26:27,600 --> 00:26:31,120
+right direction. Maybe, instead of my previous idea, just showing them how
+
+284
+00:26:31,120 --> 00:26:34,240
+to properly use the equipment and a couple of den overnighters would be
+
+285
+00:26:34,320 --> 00:26:39,120
+much more suited to the program. Well, Sam, I hardly need to add anything to that.
+
+286
+00:26:39,120 --> 00:26:42,960
+I can go on and on about age appropriateness, but I think you caught the idea.
+
+287
+00:26:42,960 --> 00:26:47,280
+We're not keeping weeblos from all these great experiences because they're ready
+
+288
+00:26:47,280 --> 00:26:53,120
+for them and we just do it to delay them unnaturally because of the program.
+
+289
+00:26:53,120 --> 00:26:57,040
+No, we're doing it because they aren't actually ready to do them yet
+
+290
+00:26:57,040 --> 00:27:00,400
+And unless you have some experience with older scouts, this can be a little
+
+291
+00:27:00,400 --> 00:27:03,200
+hard to understand. You know, when you're working with a group of weeblos
+
+292
+00:27:03,200 --> 00:27:06,960
+you go: Hey, why not? My weeblos are definitely ready, My son is definitely
+
+293
+00:27:06,960 --> 00:27:10,240
+ready to do this stuff, but you'll find out that they aren't and it's not
+
+294
+00:27:10,240 --> 00:27:14,160
+in their best interest. So let's get over the idea of weeblos purgatory.
+
+295
+00:27:14,160 --> 00:27:18,720
+Okay, we're not unnaturally, you know, punitively withholding all the
+
+296
+00:27:18,720 --> 00:27:22,560
+good stuff because that's only for scouts. What they're doing in
+
+297
+00:27:22,560 --> 00:27:25,920
+weeblos is building on age appropriate activities that
+
+298
+00:27:25,920 --> 00:27:29,040
+prepare them for scouts, certainly, But there's a lot of fun and
+
+299
+00:27:29,040 --> 00:27:32,000
+learning and personal development that goes on in weeblos
+
+300
+00:27:32,000 --> 00:27:35,120
+And we're going to miss that if we're looking too far ahead. Hey, if you've got
+
+301
+00:27:35,120 --> 00:27:38,240
+a question for me, you can get in touch. It's pretty easy to do
+
+302
+00:27:38,240 --> 00:27:47,920
+And you're going to find out how to do that in just a moment.
+
+303
+00:27:47,920 --> 00:28:04,320
+Well, thanks for listening to this 261st edition of the Scoutmaster podcast.
+
+304
+00:28:04,320 --> 00:28:08,080
+Here's how to keep in touch. Read the blog at scoutmastercgcom
+
+305
+00:28:08,080 --> 00:28:11,440
+and subscribe to receive updates to the blog by email.
+
+306
+00:28:11,440 --> 00:28:15,360
+You can join the thousands of other mobile scouts who have the Scoutmaster
+
+307
+00:28:15,360 --> 00:28:19,440
+CG app on their mobile devices- And you can get the app now,
+
+308
+00:28:19,440 --> 00:28:23,120
+Thank goodness- On Google Play or in the iTunes app store.
+
+309
+00:28:23,120 --> 00:28:26,560
+You can experience the wonders of scoutmastercgcom through the vast
+
+310
+00:28:26,560 --> 00:28:30,960
+panorama of social media outlets. Join the 7400,
+
+311
+00:28:30,960 --> 00:28:34,320
+join the 8200 folks who like Scoutmaster blog on Facebook.
+
+312
+00:28:34,320 --> 00:28:37,440
+tweet along with the chorus of 1200 tweeters on Twitter.
+
+313
+00:28:37,440 --> 00:28:41,120
+pin the Pultritudinous Pictures, profit publicly with 1900 other prolific
+
+314
+00:28:41,120 --> 00:28:44,640
+printers on Pinterest. watch us at Scoutmaster CG on YouTube
+
+315
+00:28:44,640 --> 00:28:49,600
+or join the 400 odd folks who form the exclusive Scoutmaster CG circle
+
+316
+00:28:49,600 --> 00:28:53,680
+on Google+. Now look, if you can't face Facebook, if Twitter makes you better, if
+
+317
+00:28:53,680 --> 00:28:56,720
+you've no interest in Pinterest, if you don't put the? U in YouTube,
+
+318
+00:28:56,720 --> 00:29:00,800
+if you're a minus when it comes to Google+, well, that's all right.
+
+319
+00:29:00,800 --> 00:29:05,280
+Zoom into the late 90s and fire off an email. You can get in touch with me,
+
+320
+00:29:05,280 --> 00:29:13,040
+Clark Green at C-L-A-R-K-E at ScoutmasterCGcom.
+
+321
+00:29:13,040 --> 00:29:18,160
+It's Clark at ScoutmasterCGcom. I take this opportunity to remind you that
+
+322
+00:29:18,160 --> 00:29:21,520
+everything at ScoutmasterCGcom- on the blog and the podcast-
+
+323
+00:29:21,520 --> 00:29:25,920
+are not endorsed, sponsored or official publications of any
+
+324
+00:29:25,920 --> 00:29:29,360
+scouting organization, especially the Boy Scouts of America.
+
+325
+00:29:29,360 --> 00:29:33,040
+I'm sure they have much better things to do with their time. It's just me
+
+326
+00:29:33,040 --> 00:29:36,080
+talking into a microphone trying to lend a hand to scout leaders and having a
+
+327
+00:29:36,080 --> 00:29:38,879
+little bit of fun along the way. and speaking of fun,
+
+328
+00:29:38,879 --> 00:29:42,720
+here's the man who started it all, our founder, Sir Robert Baden-Pell.
+
+329
+00:29:42,720 --> 00:29:45,600
+Sir Robert, Good luck to you and good camping.
+
+330
+00:29:45,600 --> 00:29:48,960
+Why? thank you, sir, Until next time, everyone.
+

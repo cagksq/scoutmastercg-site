@@ -2,7 +2,9 @@
 title: "Preventing Abuse"
 date: 2013-10-12
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Risk Management & Safety"
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20140706122422/http://scoutmastercg.com/preventing_abus/"
 ---
 

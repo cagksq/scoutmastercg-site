@@ -2,7 +2,9 @@
 title: "Appreciating Nature Modifies Behavior and Shapes Attitudes"
 date: 2012-12-18
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Nature & Environment"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20121218055020/http://www.scoutmastercg.com:80/nature-study/"
 ---
 

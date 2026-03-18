@@ -2,7 +2,8 @@
 title: "The Scoutmaster by Edgar R. Guest"
 date: 2015-09-19
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Quotes & Brief Reflections"
 wayback_url: "https://web.archive.org/web/20150919131408/http://scoutmastercg.com/the-scoutmaster/"
 ---
 

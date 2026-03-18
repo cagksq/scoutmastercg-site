@@ -2,7 +2,9 @@
 title: "Discovering Scouting"
 date: 2012-05-01
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Personal Reflection"
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20120501163119/http://www.scoutmastercg.com:80/2012/04/6959/"
 ---
 

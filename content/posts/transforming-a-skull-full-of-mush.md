@@ -2,11 +2,10 @@
 title: "Transforming a \"Skull Full of Mush\""
 date: 2011-06-02
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Mentoring & Coaching"
+  - "Youth Leadership Development"
 ---
-
-"The Paper Chase" started as a novel, was made into a movie and, finally, a TV series in the 1970's. The story follows a law student in his first year at Harvard.
-
 Professor Kingsfield, the student's nemesis, has a reputation for a brilliant, dispassionate relentlessness.
 
 Kingsfield has an off-putting demeanor and, at first, appears to be indifferent to his students and their problems. What he knows, though, is that his relentless attitude actually serves the interests of his students. He knows that they must posses the same intellectual relentlessness to be successful lawyers.

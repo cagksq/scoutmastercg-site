@@ -2,7 +2,9 @@
 title: "The Authority of Youth Leadership."
 date: 2015-11-03
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20151103163459/http://scoutmastercg.com:80/the-authority-of-youth-leadership/"
 ---
 

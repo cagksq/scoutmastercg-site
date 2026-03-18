@@ -2,7 +2,9 @@
 title: "Eagle Project Guidelines - Avoid the Maze!"
 date: 2012-12-20
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20121220014553/http://www.scoutmastercg.com:80/eagle-project-guidelines-avoid-the-maze/"
 ---
 

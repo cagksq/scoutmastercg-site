@@ -2,7 +2,9 @@
 title: "Resources for a New Scoutmaster"
 date: 2015-09-19
 draft: false
-categories: ["scoutmasters-job", "scouts"]
+topics:
+  - "Adult Leadership Roles"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150919205320/http://scoutmastercg.com/what-a-new-scoutmaster-needs-resources/"
 ---
 

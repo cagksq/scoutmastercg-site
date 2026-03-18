@@ -2,7 +2,9 @@
 title: "A New Scoutmaster - Chapter Six"
 date: 2014-12-22
 draft: false
-categories: ["patrol-method", "scouts"]
+topics:
+  - "Youth Leadership Development"
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20170705205541/http://scoutmastercg.com/new-scoutmaster-chapter-six/"
 ---
 

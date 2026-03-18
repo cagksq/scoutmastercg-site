@@ -2,7 +2,9 @@
 title: "Barking"
 date: 2006-01-01
 draft: false
-categories: ["patrol-method", "scoutmasters-life"]
+topics:
+  - "Mentoring & Coaching"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150921145225/http://scoutmastercg.com/barking/"
 ---
 

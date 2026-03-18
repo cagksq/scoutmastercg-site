@@ -2,7 +2,9 @@
 title: "Troop Policy Manuals"
 date: 2013-01-05
 draft: false
-categories: ["patrol-method", "scoutmasters-job"]
+topics:
+  - "Troop Administration"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20130105121619/http://www.scoutmastercg.com:80/troop_policies/"
 ---
 

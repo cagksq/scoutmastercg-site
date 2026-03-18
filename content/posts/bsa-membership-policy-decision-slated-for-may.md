@@ -2,7 +2,9 @@
 title: "BSA Membership Policy Decision Slated for May."
 date: 2013-02-11
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20140825033116/http://scoutmastercg.com/bsa-membership-policy-decision/?replytocom=47910"
 ---
 

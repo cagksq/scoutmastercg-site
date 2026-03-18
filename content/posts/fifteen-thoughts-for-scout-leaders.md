@@ -2,7 +2,9 @@
 title: "Fifteen Thoughts for Scout Leaders"
 date: 2012-12-06
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Adult Leadership Roles"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20121206030123/http://www.scoutmastercg.com:80/fifteen-thoughts-for-scout-leaders/"
 ---
 

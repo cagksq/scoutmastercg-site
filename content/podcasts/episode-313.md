@@ -1,35 +1,32 @@
 ---
-title: "Scoutmaster Podcast 313 - Troop Leader Guidebook"
+title: "Scoutmaster Podcast 313"
 date: 2016-01-11
 draft: false
 image: "/images/podcasts/episode-313.png"
 episode: 313
+subtitle: "Walter Underwood and Clarke Green discuss the new BSA Troop Leader Guidebook and its practical value for Scoutmasters"
+transcript: true
 categories: ["Podcast"]
+tags:
+  - "troop leader guidebook"
+  - "patrol method"
+  - "BSA resources"
+  - "Walter Underwood"
+  - "advancement"
+  - "youth leadership"
+  - "troop administration"
+  - "health and safety"
+summary: "Clarke Green welcomes back Walter Underwood to discuss the first volume of the new BSA Troop Leader Guidebook. They offer detailed praise for its coverage of the patrol method, working with youth leaders, advancement, health and safety guidelines, and troop administration, calling it a major improvement over previous Scoutmaster handbooks. Clarke also shares listener mail from Dave Jenkins and not"
+description: "Clarke Green welcomes back Walter Underwood to discuss the first volume of the new BSA Troop Leader Guidebook. They offer detailed praise for its coverage of the patrol method, working with youth leaders, advancement, health and safety guidelines, and troop administration, calling it a major improvement over previous Scoutmaster handbooks. Clarke also shares listener mail from Dave Jenkins and not"
 ---
 
 {{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-313.mp3" >}}
 
-Have you seen the first volume of the Troop Leader Guidebook?
-Join Walter Underwood and myself as we review the first volume of the Troop Leader Guidebook.
-Like Walter I accumulated a collection of Scoutmaster Handbooks. From the very first edition to the last they were uniformly mediocre at best. Both Walter and I agree that the most useful offical guide to how Scout troops work remains the
-Senior Patrol Leader Handbook
-– but that the first volume of the Troop leader Guidebook is a very valuable resource.
-Although the guidebook is only available as a three-hole-punched paper edition (provide your own binder) the appendix of useful forms and reference information is available as a
-PDF document here
-.
-Inexpensive copies of Bill Hillcourt's Patrol Leader Handbook are almost always
-available on eBay
-Walter and I both love Hillcourt's Scout Field Book (originally intended to be the Scout Handbook!) also
-available on eBay
-I recommend these books to you as historic references that have many practical applications today BUT; it should go without saying that these older publications reflect some polices, procedures, and practices that have wisely been deprecated or updated over the years,
-In This Podcast
-It dawned on him…
-[0:22]
-Intro
-[1:13]
-Walter Underwood and myself review the first volume of the Troop Leader Guidebook.
-[7:50]
-This podcast is brought to you by
-Patrons
-&
-Backers
+<div class="smcg-acts">
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(0)" title="Jump to 0:00"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">INTRO</div><div class="smcg-act-note">Opening joke from Bill McFarland: had insomnia wondering where the sun had gone, then it dawned on him.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(43)" title="Jump to 0:43"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">WELCOME</div><div class="smcg-act-note">Email from Dave Jenkins, a new Scoutmaster who discovered the podcast and plans to become a backer; five-star Amazon book review from Parker Levinson for The Scouting Journey; live chat mention including birthday shoutout to Dan Budd of Troop 42 in Red Hook, NY; thanks to new backer John Romer.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(370)" title="Jump to 6:10"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">INTERVIEW</div><div class="smcg-act-note">Walter Underwood, longtime scouter and Scoutmastership instructor from Palo Alto, CA, joins Clarke for an in-depth review of BSA Troop Leader Guidebook Volume 1, covering the patrol method chapter, working with youth leaders, advancement, health and safety guidelines, and troop administration.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(1560)" title="Jump to 26:00"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">OUTRO</div></div></div>
+</div>
+
+<p style="margin:0.75rem 0 0;"><a href="/podcasts/episode-313/transcript/" class="smcg-transcript-link">Transcript</a></p>

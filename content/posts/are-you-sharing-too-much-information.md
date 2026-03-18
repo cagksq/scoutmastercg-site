@@ -2,7 +2,9 @@
 title: "Are You Sharing Too Much Information?"
 date: 2017-07-20
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Instructional Methods"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20170720054459/http://scoutmastercg.com/are-you-sharing-too-much-information/"
 ---
 

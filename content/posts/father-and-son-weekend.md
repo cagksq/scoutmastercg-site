@@ -2,7 +2,9 @@
 title: "Father and Son Weekend"
 date: 2017-06-01
 draft: false
-categories: ["outdoors", "patrol-method"]
+topics:
+  - "Scout Activities & Games"
+  - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20170601165722/http://scoutmastercg.com:80/father-and-son-weekend/"
 ---
 

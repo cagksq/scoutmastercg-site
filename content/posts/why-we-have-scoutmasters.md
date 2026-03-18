@@ -2,7 +2,9 @@
 title: "Why We Have Scoutmasters"
 date: 2014-08-30
 draft: false
-categories: ["outdoors", "patrol-method"]
+topics:
+  - "Adult Leadership Roles"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20140830011727/http://scoutmastercg.com/scoutmasters/?replytocom=49078"
 ---
 

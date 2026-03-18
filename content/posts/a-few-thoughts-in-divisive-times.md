@@ -2,7 +2,8 @@
 title: "A few thoughts in divisive times"
 date: 2012-10-09
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+topics:
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20121009074801/http://www.scoutmastercg.com:80/2012/10/a-few-thoughts-in-divisive-times/"
 ---
 

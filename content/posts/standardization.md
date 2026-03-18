@@ -2,10 +2,10 @@
 title: "Standardization"
 date: 2005-11-01
 draft: false
-categories:
-  - scouting-ideals
+topics:
+  - "Baden-Powell Writings"
+  - "Scout Advancement"
 ---
-
 The short passage below has had more influence on what I do as a scoutmaster than anything else.
 
 From Baden-Powells OUTLOOK November, 19

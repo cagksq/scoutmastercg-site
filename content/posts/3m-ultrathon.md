@@ -2,7 +2,8 @@
 title: "3M Ultrathon"
 date: 2014-08-25
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20170529123252/http://scoutmastercg.com:80/3m-ultrathon/"
 ---
 

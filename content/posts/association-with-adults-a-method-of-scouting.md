@@ -2,7 +2,9 @@
 title: "Association with Adults - A Method of Scouting"
 date: 2013-08-10
 draft: false
-categories: ["scouting-history-ideas", "outdoors"]
+topics:
+  - "Adult Leadership Roles"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20141009014156/http://scoutmastercg.com:80/association-with-adults-a-method-of-scouting/"
 ---
 

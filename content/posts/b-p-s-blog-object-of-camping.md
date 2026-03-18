@@ -3,8 +3,9 @@ title: B.P.'s Blog - Object of Camping
 date: 2014-03-30
 draft: false
 image: /images/bp4.png
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Camping"
 wayback_url: https://web.archive.org/web/20150919182657/http://scoutmastercg.com/b-p-s-blog-object-camping/
 ---
 During his lifetime Robert Baden-Powell, founder of the worldwide Scouting movement, wrote many books and articles directed to Scouters. Here's a selection from his writings in the hope that you’ll draw inspiration and understanding from his timeless ideas. 

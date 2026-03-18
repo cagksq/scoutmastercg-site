@@ -2,7 +2,8 @@
 title: "The Thurman Throw"
 date: 2013-03-13
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Scout Activities & Games"
 wayback_url: "https://web.archive.org/web/20170709063134/http://scoutmastercg.com/thurman-throw/"
 ---
 

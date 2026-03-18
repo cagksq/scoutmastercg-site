@@ -2,7 +2,9 @@
 title: "Scout Unit Leadership Structure"
 date: 2014-08-27
 draft: false
-categories: ["scoutmasters-job", "scouting-history-ideas"]
+topics:
+  - "Organizational Structure"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20140827111844/http://scoutmastercg.com/scout-unit-leadership-structure/"
 ---
 

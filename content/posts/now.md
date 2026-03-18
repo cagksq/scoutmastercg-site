@@ -2,7 +2,8 @@
 title: "Now"
 date: 2005-11-01
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Quotes & Brief Reflections"
 wayback_url: "https://web.archive.org/web/20150311032247/http://scoutmastercg.com:80/now/"
 ---
 

@@ -2,7 +2,9 @@
 title: "A Scout is Reverent - Scoutmaster Minute"
 date: 2012-11-07
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
+  - "Spirituality & Religion"
 wayback_url: "https://web.archive.org/web/20121107022325/http://www.scoutmastercg.com:80/2009/03/a-scout-is-reverent-scoutmaster-minute/"
 ---
 

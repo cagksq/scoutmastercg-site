@@ -2,7 +2,9 @@
 title: "Scout's Study Concludes Youth are Doing Well"
 date: 2007-01-17
 draft: false
-categories: ["scouts"]
+topics:
+  - "Character Development"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20140827111754/http://scoutmastercg.com/scouts_stucy_co/"
 ---
 

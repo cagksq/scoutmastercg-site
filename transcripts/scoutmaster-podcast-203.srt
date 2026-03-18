@@ -1,0 +1,828 @@
+1
+00:00:00,000 --> 00:00:04,960
+I'm Ray Britton and I'm the Scoutmaster with Troop 42 in Oak Ridge, Tennessee.
+
+2
+00:00:04,960 --> 00:00:08,560
+This edition of Scoutmaster Podcast is sponsored by backers like me.
+
+3
+00:00:09,280 --> 00:00:12,720
+Keep up the good work, Clark. And now it's your Scoutmaster.
+
+4
+00:00:19,520 --> 00:00:26,000
+We were out camping and it got so cold. It got this cold. Our words froze in mid-air
+
+5
+00:00:26,000 --> 00:00:30,400
+and we had to put them in a frying pan and thumb out just so we could hear what we were talking about.
+
+6
+00:00:31,600 --> 00:00:32,320
+True story.
+
+7
+00:00:34,560 --> 00:00:37,519
+Hey, this is podcast number 203..
+
+8
+00:00:56,160 --> 00:01:10,400
+Well, welcome back to the Scoutmaster Podcast. This is Clark Green. Let's take a look at the mailbag
+
+9
+00:01:10,400 --> 00:01:19,600
+this week and what? Oh listen, It's crickets in the mailbag and no mail. over the past couple
+
+10
+00:01:19,600 --> 00:01:27,040
+of holiday weeks You've had better things to do. I want to wish everybody happy New Year.
+
+11
+00:01:27,040 --> 00:01:32,000
+Now I did hear from Greg Sepley, who sent his best wishes for the New Year. Thank you, Greg.
+
+12
+00:01:32,000 --> 00:01:36,800
+I appreciate that. So let's see. I have a couple of things to tell you. First of all,
+
+13
+00:01:36,800 --> 00:01:43,760
+on this Sunday, January 12th, we'll have a live Scout Circle presentation at scoutcircleorg
+
+14
+00:01:43,760 --> 00:01:48,880
+about winter camping with Kevin Callan. Kevin is a well-known outdoorsman and author
+
+15
+00:01:48,880 --> 00:01:52,640
+in Canada and he should know something about winter camping. Shouldn't he
+
+16
+00:01:52,640 --> 00:01:59,119
+Join us for a live presentation and a question and answer session on Sunday, January 12th,
+
+17
+00:01:59,119 --> 00:02:06,640
+9 to 10 pm Eastern Time, and you'll find us at scoutcircleorg. So put that on your calendar
+
+18
+00:02:06,640 --> 00:02:11,039
+and join us on Sunday, won't you? In the last couple of podcasts, I've been telling you about
+
+19
+00:02:11,039 --> 00:02:17,840
+new things coming and I want to give you an update. The new version of ScoutmasterCGcom
+
+20
+00:02:17,840 --> 00:02:22,640
+is in development. It's almost ready for prime time and we're going to throw the switch here
+
+21
+00:02:22,640 --> 00:02:27,920
+within the next couple of weeks. There are a couple of major new features I'm excited to tell you about.
+
+22
+00:02:27,920 --> 00:02:34,000
+First is an expanded way for you to participate. It's kind of like a mini social media platform
+
+23
+00:02:34,000 --> 00:02:38,320
+where you'll be able to set up a profile and connect with your fellow Scouters for discussions
+
+24
+00:02:38,320 --> 00:02:44,560
+and join in on the presentations that we do. Also, we'll be creating a new resource for youth
+
+25
+00:02:44,560 --> 00:02:50,560
+leaders. We're still working on that. If all goes according to plan, I'll be introducing this to you
+
+26
+00:02:50,560 --> 00:02:57,280
+in more detail on next week's podcast. As of February, our monthly Scout Circle presentations
+
+27
+00:02:57,280 --> 00:03:03,600
+are going to be incorporated right into ScoutmasterCGcom, and one of the big challenges we've had
+
+28
+00:03:03,600 --> 00:03:09,680
+over the past year has been setting up a system for interaction with these presentations. I think
+
+29
+00:03:09,680 --> 00:03:13,520
+we've cobbled something together that's going to work out pretty well, And I want to let you
+
+30
+00:03:13,520 --> 00:03:20,480
+know that those of you who've become backers are making all of this possible. If you read the blog
+
+31
+00:03:20,480 --> 00:03:26,800
+and listen to the podcast and what we're offering has helped you, you can help us keep things up
+
+32
+00:03:26,800 --> 00:03:33,040
+and running by becoming a ScoutmasterCG backer. Funds from backers go directly towards the expenses
+
+33
+00:03:33,040 --> 00:03:38,160
+of producing and publishing the blog, and they're also supporting rolling out these new features
+
+34
+00:03:38,160 --> 00:03:42,560
+that we're going to see in the next couple of weeks. And if you want to keep these valuable
+
+35
+00:03:42,560 --> 00:03:49,280
+resources accessible, become a backer, And since our last podcast, we've welcomed
+
+36
+00:03:49,280 --> 00:03:55,360
+one, two, three, four, five new backers. Thank you to Richard Leigh, Christopher Cooper,
+
+37
+00:03:55,360 --> 00:04:01,600
+Dwight Wiest, Arlen Ward and Pat Lays. I certainly appreciate your participation.
+
+38
+00:04:01,600 --> 00:04:07,520
+Thank you so very much. In this podcast, in ScoutmasterCG in seven minutes or less,
+
+39
+00:04:07,520 --> 00:04:13,840
+we're going to discuss merit badges and troop meetings, And then I have an email question to
+
+40
+00:04:13,840 --> 00:04:18,560
+answer And that's going to take up the remainder of this week's podcast. So let's get started.
+
+41
+00:04:18,560 --> 00:04:23,440
+shall we Scout MasterCG in seven minutes or less?
+
+42
+00:04:31,440 --> 00:04:36,000
+In one of the posts we put up recently, Alan commented. he said this:
+
+43
+00:04:36,000 --> 00:04:40,160
+we're having a debate in my troop about merit badge classes and troop meetings.
+
+44
+00:04:40,160 --> 00:04:44,560
+There's really no place where any of the literature from the Boy Scouts of America comes
+
+45
+00:04:44,560 --> 00:04:50,240
+out and says: do not do merit badge classes in troop meetings. We have some large troops
+
+46
+00:04:50,240 --> 00:04:55,760
+in town that do this regularly And they seem to spit out Eagle Scouts all the time. So some
+
+47
+00:04:55,760 --> 00:05:01,120
+of the adults who are involved with our troop. this is the recipe for success. But my understanding
+
+48
+00:05:01,120 --> 00:05:06,880
+is that a merit badge is pretty much an individual activity between the scout and his counselor.
+
+49
+00:05:06,880 --> 00:05:11,600
+It's not really a troop activity. I really wish the BSA was clearer on this.
+
+50
+00:05:11,600 --> 00:05:15,760
+Most of the literature I read assumes that everybody knows the merit badge program
+
+51
+00:05:15,760 --> 00:05:22,000
+and understands its purposes and goals. Well, Alan, that debate does come up from time to time.
+
+52
+00:05:22,000 --> 00:05:27,360
+You know, as I recommend, you run to the resources and you see what you can find there.
+
+53
+00:05:27,360 --> 00:05:33,040
+And the thing about it is is you won't find too many statements in scouting literature that says
+
+54
+00:05:33,040 --> 00:05:39,920
+don't do this. What you find is instructions on what to do and not necessarily restrictions on every
+
+55
+00:05:39,920 --> 00:05:44,480
+permutation of the things that you really shouldn't be doing. Scouting is designed to have enough
+
+56
+00:05:44,480 --> 00:05:51,520
+flexibility to be applied in thousands of different local conditions. I think what happens most of
+
+57
+00:05:51,520 --> 00:05:58,640
+the time is that well-intentioned adults either adopt the past practices that their troop has used
+
+58
+00:05:58,640 --> 00:06:05,039
+unquestioningly or they make uninformed assumptions about what our role is as scouters and what the
+
+59
+00:06:05,039 --> 00:06:10,560
+point of scouting is. Now, while there may not be a definitive statement that says: don't have
+
+60
+00:06:10,560 --> 00:06:16,320
+merit badge classes as troop meetings, I think it's pretty clear in the literature that this
+
+61
+00:06:16,320 --> 00:06:22,000
+is not what you would call a recommended practice. One of the best things about scouting is it's not
+
+62
+00:06:22,000 --> 00:06:27,760
+a set of instructions to be followed out point by point. It's a program that is applied and adapted
+
+63
+00:06:27,760 --> 00:06:32,719
+right there at the local level. When we understand the broad underlying concepts of what we're trying
+
+64
+00:06:32,719 --> 00:06:39,760
+to accomplish, we get the program right. And it's not that difficult to do. It's challenging,
+
+65
+00:06:39,760 --> 00:06:45,840
+but it can be done. And we need to apply ourselves as scouters to making sure we understand
+
+66
+00:06:45,840 --> 00:06:51,040
+what the intention of the program is and that we're getting it right. And hopefully
+
+67
+00:06:51,040 --> 00:06:55,840
+that comes through training. but training isn't enough. You have to learn these things for
+
+68
+00:06:55,840 --> 00:06:59,520
+yourselves, You have to study them, You have to work at them. So in the next few minutes
+
+69
+00:06:59,520 --> 00:07:06,640
+let's talk about what is in the literature that deals with merit badge classes and troop meetings.
+
+70
+00:07:06,640 --> 00:07:12,480
+Now let me begin by saying that scouting is an educational program. We definitely want
+
+71
+00:07:12,480 --> 00:07:18,640
+scouts to learn things. The problem is is that most of us apply academic methods that just don't
+
+72
+00:07:18,640 --> 00:07:24,080
+belong in scouting. Our default way of sharing knowledge is to use these academic methods,
+
+73
+00:07:24,080 --> 00:07:30,000
+And when I say academic methods, I mean a group of students sitting in desks listening to the
+
+74
+00:07:30,000 --> 00:07:36,480
+teacher, And, as always, our focus is on the individual scout and not just a big herd of
+
+75
+00:07:36,480 --> 00:07:42,560
+scouts. We miss the point that scouts determine what they want to do. To my way of thinking,
+
+76
+00:07:42,560 --> 00:07:47,280
+there are three basic levels in a scout troop of the way they determine what they want to do.
+
+77
+00:07:47,280 --> 00:07:52,080
+The broadest one is the patrol leaders council, which is this great representative
+
+78
+00:07:52,080 --> 00:07:56,720
+democratic system deciding what they want to do. Now, as I've often stated,
+
+79
+00:07:56,720 --> 00:08:01,680
+there's a context to those decisions. The activities and subject matter
+
+80
+00:08:01,760 --> 00:08:08,160
+have to be in the scouting context, right? A basketball team doesn't bring a football to the
+
+81
+00:08:08,160 --> 00:08:13,120
+game. They use a basketball. That's what I'm talking about. There's a context to these
+
+82
+00:08:13,120 --> 00:08:19,440
+activities, And that context is the scouting program. At the next level of focus, a patrol
+
+83
+00:08:19,440 --> 00:08:24,080
+decides what they're interested in doing. Maybe they want to pursue a merit badge together as
+
+84
+00:08:24,080 --> 00:08:28,960
+a group. Well, I couldn't argue with that. They may never decide to do that, And that's fine
+
+85
+00:08:28,960 --> 00:08:35,520
+too, But a patrol can have its own patrol meetings and its own campouts. They can do as much as
+
+86
+00:08:35,520 --> 00:08:41,040
+they want according to their own initiative. And third, on the individual level: a scout
+
+87
+00:08:41,040 --> 00:08:45,680
+determines individually what they want to do. Some of this may be in the context of what
+
+88
+00:08:45,680 --> 00:08:51,280
+the troop or the patrol is doing, But a lot of it is about their individual choices, And this
+
+89
+00:08:51,280 --> 00:08:57,200
+is especially true of merit badges. So there are two things that are in the guide to
+
+90
+00:08:57,200 --> 00:09:02,320
+advancement 2013 that I want to share with you. One is about the process of counseling,
+
+91
+00:09:02,320 --> 00:09:09,680
+and you'll find it in section 7.0.3.0. And it reads this: Earning merit badges should be
+
+92
+00:09:09,680 --> 00:09:17,360
+scout initiated, scout researched and scout learned. It should be hands-on and interactive
+
+93
+00:09:17,360 --> 00:09:23,840
+and should not be modeled after a typical school classroom setting. Instead, it is
+
+94
+00:09:23,840 --> 00:09:28,800
+meant to be an active program so enticing the young men that they will want to take
+
+95
+00:09:28,800 --> 00:09:36,720
+responsibility for their own full participation. So let's unpack that a little bit. Merit badges
+
+96
+00:09:37,360 --> 00:09:44,160
+should be scout initiated. They initiate the process, They find the counselor, They work
+
+97
+00:09:44,160 --> 00:09:48,400
+with the counselor, They get the merit badge. It should be hands-on and interactive
+
+98
+00:09:49,040 --> 00:09:56,480
+And it should not be modeled after a typical school classroom setting. Going on, look at
+
+99
+00:09:56,480 --> 00:10:05,760
+section 7.0.3.2 and group instruction, And it reads there that it is acceptable and sometimes
+
+100
+00:10:05,760 --> 00:10:11,840
+desirable for merit badges to be taught in group settings. Because of the importance of
+
+101
+00:10:11,840 --> 00:10:16,079
+individual attention and personal learning in the merit badge program,
+
+102
+00:10:16,880 --> 00:10:23,120
+group instruction should be focused on those scenarios where the benefits are compelling.
+
+103
+00:10:23,120 --> 00:10:29,360
+So is group instruction outlawed? No, it is acceptable and it's even desirable in some
+
+104
+00:10:29,360 --> 00:10:35,120
+situations. Those situations should never overrule the importance of individual attention
+
+105
+00:10:35,120 --> 00:10:40,480
+and personal learning. Now, none of this says you can't do merit badge classes and call
+
+106
+00:10:40,480 --> 00:10:44,240
+them troop meetings. Having a merit badge class and calling it a troop meeting
+
+107
+00:10:44,800 --> 00:10:50,800
+could be beneficial for scouts. But what are we aimed at? That's the important thing.
+
+108
+00:10:50,800 --> 00:10:54,480
+If you look at what the Scoutmasters Handbook has to say about troop meetings,
+
+109
+00:10:54,480 --> 00:10:58,960
+the suggested time for the instructional component in a troop meeting is 15 or 20 minutes
+
+110
+00:10:59,680 --> 00:11:04,880
+And there's no mention of merit badges at all. So the idea of dedicating troop meetings to
+
+111
+00:11:04,880 --> 00:11:10,400
+merit badge instruction, that just doesn't seem to jive with what's in the Scoutmasters Handbook.
+
+112
+00:11:10,400 --> 00:11:14,400
+It's pretty self-explanatory, isn't it? Big giant merit badge classes? well,
+
+113
+00:11:14,400 --> 00:11:18,560
+they'll work sometimes, but they shouldn't be the default way that we do merit badges.
+
+114
+00:11:18,560 --> 00:11:21,439
+Troop meetings are supposed to have lots of different elements in them,
+
+115
+00:11:21,439 --> 00:11:25,120
+not just an instructional element. If we just came out and we said:
+
+116
+00:11:25,120 --> 00:11:29,439
+don't ever have merit badge classes as troop meetings and we made that a policy.
+
+117
+00:11:29,439 --> 00:11:35,040
+we would soon find that there are 17 different, very legitimate exceptions to that policy.
+
+118
+00:11:35,040 --> 00:11:39,120
+If we get ourselves trained and then we supplement that training with our own
+
+119
+00:11:39,120 --> 00:11:44,480
+reading and our own study, we should be able to pretty effectively turn around and test what we're
+
+120
+00:11:44,480 --> 00:11:49,760
+doing. Does it make sense at a weekly troop meeting to turn that into a merit badge class?
+
+121
+00:11:49,760 --> 00:11:54,720
+I don't think so. It's not individual, it turns it into a classroom setting, like boys
+
+122
+00:11:54,720 --> 00:11:59,520
+experience in school, and there should be more happening in a troop meeting than just this
+
+123
+00:11:59,520 --> 00:12:04,640
+big giant instructional period. Any number of Scouters and Troops have developed
+
+124
+00:12:05,199 --> 00:12:10,720
+very efficient approaches to advancing Scouts. It's actually one of the easiest things to do.
+
+125
+00:12:11,280 --> 00:12:16,960
+I could set up a system that would get all of my Scouts to Eagle before their 14th birthday.
+
+126
+00:12:16,960 --> 00:12:22,000
+I would control everything that they did. I would tell them what to do next. I would make sure
+
+127
+00:12:22,000 --> 00:12:26,560
+that they were following the program. I would involve lots of adults. I would involve their
+
+128
+00:12:26,560 --> 00:12:30,400
+parents in it. I would say: we're going to get them to Eagle before their 14th birthday
+
+129
+00:12:30,400 --> 00:12:36,319
+and I could have every boy that ever joined the troop become an Eagle Scout. If that was the point
+
+130
+00:12:36,319 --> 00:12:42,720
+of Scouting, I'd do it tomorrow, but it's not the point, is it? Education is one component of
+
+131
+00:12:42,720 --> 00:12:48,640
+Scouting. Traditional academic methods- we don't use those. Education comes through working
+
+132
+00:12:48,640 --> 00:12:53,840
+with your patrol and with your patrol being represented on the Patrol Leaders Council.
+
+133
+00:12:53,840 --> 00:12:59,520
+so it works together with what the troop does. Education comes through camping and experiencing
+
+134
+00:12:59,520 --> 00:13:05,760
+the outdoors. Education comes through working and serving other people, not just earning badges.
+
+135
+00:13:05,760 --> 00:13:12,000
+And, as I've often said, we tend to get the cart before the horse. sometimes We tend to think:
+
+136
+00:13:12,000 --> 00:13:17,040
+let's do the requirements so we can earn the badge, instead of let's do what Scouts do,
+
+137
+00:13:17,040 --> 00:13:20,560
+which is going to fulfill the requirements and earn the badge anyway.
+
+138
+00:13:21,199 --> 00:13:27,520
+Point out doing what Scouts do and badges and requirements they get fulfilled naturally.
+
+139
+00:13:27,520 --> 00:13:33,520
+Point at fulfilling requirements and you end up with merit badge classes that you call troop
+
+140
+00:13:33,520 --> 00:13:38,800
+meetings. And I'll close by saying: remember that badges and ranks are only indicators.
+
+141
+00:13:38,800 --> 00:13:44,000
+they're kind of like thermometers. A thermometer doesn't create the air temperature,
+
+142
+00:13:44,000 --> 00:13:50,640
+It reads the air temperature. Badges don't create skills or competency, They just indicate
+
+143
+00:13:50,640 --> 00:13:59,760
+that it might be present.
+
+144
+00:14:20,640 --> 00:14:25,760
+Write me a letter, send it by name.
+
+145
+00:14:27,920 --> 00:14:33,760
+Email. that is folks. And here's an answer to one of your emails.
+
+146
+00:14:42,080 --> 00:14:47,520
+I got this email question from Bob who says this: I'm a new scout master with a scout troop here
+
+147
+00:14:47,520 --> 00:14:52,720
+in beautiful New Hampshire And I have a question about troop elections. January is traditionally
+
+148
+00:14:52,720 --> 00:14:57,760
+when we have a senior patrol leader election. My current plan is to have any Scouts interested
+
+149
+00:14:57,760 --> 00:15:02,800
+in running for senior patrol leader to let me know in advance so that I can have a scout
+
+150
+00:15:02,800 --> 00:15:07,040
+master conference with them so that they understand the role and responsibilities
+
+151
+00:15:07,040 --> 00:15:11,360
+before the election. I've been talking to the Scouts and it doesn't seem that anyone
+
+152
+00:15:11,360 --> 00:15:15,600
+wants to run for senior patrol leader. The current senior patrol leader made it clear that he
+
+153
+00:15:15,600 --> 00:15:21,840
+does not want to run again. So what happens if nobody contacts me ahead of time? Is it my job to
+
+154
+00:15:21,840 --> 00:15:25,760
+get out there and get a candidate, or is the senior patrol leader supposed to be doing this?
+
+155
+00:15:25,760 --> 00:15:30,640
+If election day arrives and there are no candidates, what do we do then? I know things usually
+
+156
+00:15:30,640 --> 00:15:35,120
+work out in the end and I might be concerned over nothing, but I would appreciate any wisdom you
+
+157
+00:15:35,120 --> 00:15:39,520
+might have on the topic, Bob. I've had this happen occasionally, actually. Let me tell
+
+158
+00:15:39,520 --> 00:15:44,800
+you first that I have very little to do with senior patrol leader elections. I get to
+
+159
+00:15:44,800 --> 00:15:50,880
+collect the ballots and count the result. That's about it. As far as who is running and what they
+
+160
+00:15:50,880 --> 00:15:57,040
+understand about it, you know I may have a very brief conversation with them about that
+
+161
+00:15:57,040 --> 00:16:01,120
+and the patrol leader's council usually wants to know who's going to be a candidate
+
+162
+00:16:01,120 --> 00:16:04,400
+so that they're prepared to speak to the Scouts just before the election.
+
+163
+00:16:05,600 --> 00:16:11,360
+But I have very little bit to do with that process. But I have had times in the past
+
+164
+00:16:11,360 --> 00:16:15,120
+where it seemed as though there were no candidates for senior patrol leader
+
+165
+00:16:15,120 --> 00:16:20,240
+And I've sat down with the patrol leader's council and I said: well, it looks like you guys have a
+
+166
+00:16:20,240 --> 00:16:25,200
+little bit of a problem to solve. As of right now, I don't know of anybody who's interested in
+
+167
+00:16:25,200 --> 00:16:30,000
+being a candidate for senior patrol leader. So you guys need to spend the next few minutes
+
+168
+00:16:30,000 --> 00:16:34,640
+talking about that and come up with a solution to this and let me know what it is, and then
+
+169
+00:16:34,640 --> 00:16:39,600
+we'll move on from there. And I would say something like that and get up and walk away from the
+
+170
+00:16:39,600 --> 00:16:44,960
+table, let them discuss, come back and listen for their resolution. Now, one time when this happened,
+
+171
+00:16:44,960 --> 00:16:49,120
+most of the guys on the patrol leaders council were older. They were juniors and seniors in
+
+172
+00:16:49,120 --> 00:16:54,240
+high school and they were just not interested in being the senior patrol leader. It was their
+
+173
+00:16:54,240 --> 00:16:59,760
+tradition to have an older guy be the senior patrol leader. But what they decided was they
+
+174
+00:16:59,760 --> 00:17:04,480
+recruited a candidate who was about 14 years old, which was younger than we were used to.
+
+175
+00:17:05,040 --> 00:17:08,880
+They talked to him and he agreed that he would be the senior patrol leader for the
+
+176
+00:17:08,880 --> 00:17:14,560
+coming year. and the election- and the election came down to do you want this guy to be your
+
+177
+00:17:14,560 --> 00:17:19,760
+senior patrol leader or not. So the scouts just voted yes or no and he was elected to be senior
+
+178
+00:17:19,760 --> 00:17:23,760
+patrol leader, and he was a very good one. But that was the solution that they came up with.
+
+179
+00:17:23,760 --> 00:17:28,160
+So what I would suggest to you? if there's still no candidates, go ahead and do the
+
+180
+00:17:28,160 --> 00:17:32,960
+same thing. Talk to the patrol leaders council. say you guys have a bit of a situation to
+
+181
+00:17:32,960 --> 00:17:38,320
+resolve here. Let them come up with a resolution. listen to the resolution. It's not necessary
+
+182
+00:17:38,320 --> 00:17:42,960
+that you absolutely approve the resolution. You may want to help direct it a little bit.
+
+183
+00:17:42,960 --> 00:17:46,800
+Take it one step at a time and pretty soon you'll have a new senior patrol leader.
+
+184
+00:17:46,800 --> 00:17:51,280
+Bob, I hope that helps. If you have a question for me, you can get in touch and you'll find
+
+185
+00:17:51,280 --> 00:18:06,080
+out how to do that in just a moment. Hey, thanks for listening to this
+
+186
+00:18:06,080 --> 00:18:11,600
+203rd edition of the Scoutmaster podcast. Here's how you can keep in touch. You know,
+
+187
+00:18:11,600 --> 00:18:16,960
+read the blog at scoutmastercgcom and you can subscribe to receive updates by email.
+
+188
+00:18:16,960 --> 00:18:21,919
+The podcast is available several different ways. You can subscribe on iTunes or through
+
+189
+00:18:21,919 --> 00:18:28,240
+Stitcher Smart Radio, or you can get the Scoutmaster CG app on Google Play or on the
+
+190
+00:18:28,240 --> 00:18:33,040
+iTunes app store and then you'll have access to all the blog posts and all the podcasts
+
+191
+00:18:33,120 --> 00:18:36,720
+and everything, And a lot of people have decided that's the best way to listen.
+
+192
+00:18:36,720 --> 00:18:42,320
+Another way to keep up with us is through the vast panorama of social media outlets.
+
+193
+00:18:42,960 --> 00:18:49,840
+Join the 4,600 plus folks who like Scoutmaster blog on Facebook Tweet, along with the chorus of
+
+194
+00:18:49,840 --> 00:18:55,360
+900 plus tweeters on Twitter. Pin the Pultritudinous Pictures Proffort publicly
+
+195
+00:18:56,000 --> 00:18:59,120
+with 1,200 other prolific pinners on Pinterest.
+
+196
+00:18:59,840 --> 00:19:06,080
+Watch us at ScoutmasterCG on YouTube and join the 400 odd folks who form the exclusive
+
+197
+00:19:06,080 --> 00:19:12,720
+Scoutmaster CG circle on Google Plus. But, Clark, you say I can't face Facebook.
+
+198
+00:19:12,720 --> 00:19:17,360
+Twitter makes me bitter. I have no interest in Pinterest, I don't put the? U in YouTube
+
+199
+00:19:17,360 --> 00:19:22,880
+and I'm a minus when it comes to Google Plus. That's all right, Bunky, Zoom into the late
+
+200
+00:19:22,880 --> 00:19:27,520
+90s and send me an email. That's right. You can get in touch with me at Clark
+
+201
+00:19:27,600 --> 00:19:37,600
+at ScoutmasterCGcom. That's C-L-A-R-K-E at ScoutmasterCGcom. It only remains for me to tell you
+
+202
+00:19:37,600 --> 00:19:42,240
+that the Scoutmaster blog and the Scoutmaster podcast are not official publications of the
+
+203
+00:19:42,240 --> 00:19:47,360
+Boy Scouts of America, nor they are endorsed or sponsored by the Boy Scouts of America. No,
+
+204
+00:19:47,360 --> 00:19:52,720
+no, no, They have much better things to do. It's just me with a microphone, trying to lend
+
+205
+00:19:52,720 --> 00:19:57,120
+a hand to Scout leaders and have a little bit of fun along the way. And speaking of fun,
+
+206
+00:19:57,120 --> 00:20:03,840
+here's our founder, Sir Robert Baden-Powell. Sir Robert, Good luck to you and good camping
+
+207
+00:20:03,840 --> 00:20:14,560
+Boy. thank you, sir. Until next time, everyone.
+

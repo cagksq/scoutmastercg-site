@@ -2,7 +2,9 @@
 title: "Behavior, Discipline, Consequences"
 date: 2013-09-01
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Discipline & Behavior"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20141012082002/http://scoutmastercg.com:80/behavior-discipline-consequences/"
 ---
 

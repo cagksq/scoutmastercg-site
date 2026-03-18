@@ -2,7 +2,9 @@
 title: "Methods, Rules and Joy"
 date: 2015-09-20
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scouting History & Tradition"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20150920053829/http://scoutmastercg.com/methods-rules-and-joy/"
 ---
 

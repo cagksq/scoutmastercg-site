@@ -2,7 +2,9 @@
 title: "First Class Rank in the First Year?"
 date: 2012-11-19
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20121119224652/http://www.scoutmastercg.com:80/2012/11/first-class-rank-in-the-first-year/"
 ---
 

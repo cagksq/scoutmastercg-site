@@ -2,7 +2,9 @@
 title: "How I would Change Eagle Required Merit Badges"
 date: 2013-08-10
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Eagle Scout"
+  - "Merit Badges"
 wayback_url: "https://web.archive.org/web/20150326194540/http://scoutmastercg.com:80/how-i-would-change-eagle-required-merit-badges/"
 ---
 

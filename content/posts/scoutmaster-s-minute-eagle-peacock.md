@@ -2,7 +2,9 @@
 title: "Scoutmaster's Minute - Eagle & Peacock"
 date: 2014-08-31
 draft: false
-categories: ["advancement", "scouting-history-ideas"]
+topics:
+  - "Eagle Scout"
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20170505222644/http://scoutmastercg.com:80/peacock-eagle/"
 ---
 

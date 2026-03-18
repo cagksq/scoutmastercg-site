@@ -2,7 +2,8 @@
 title: "How to Make a Fire in the Rain"
 date: 2013-09-24
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20170709063454/http://scoutmastercg.com/how-to-make-a-fire-in-the-rain/"
 ---
 

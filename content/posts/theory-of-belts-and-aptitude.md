@@ -2,7 +2,8 @@
 title: "Theory of Belts and Aptitude"
 date: 2014-08-24
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20140824191147/http://scoutmastercg.com/theory_of_belts/"
 ---
 

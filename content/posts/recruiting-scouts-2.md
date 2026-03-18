@@ -2,7 +2,9 @@
 title: "Recruiting Scouts"
 date: 2011-04-17
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Troop Administration"
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20140826125636/http://scoutmastercg.com/recruiting-scouts/?replytocom=325"
 ---
 

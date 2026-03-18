@@ -2,7 +2,9 @@
 title: "A Scout is Resourceful"
 date: 2011-05-14
 draft: false
-categories: ["outdoors", "scouting-ideals"]
+topics:
+  - "Mentoring & Coaching"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150920075810/http://scoutmastercg.com/a_scout_is_reso/"
 ---
 

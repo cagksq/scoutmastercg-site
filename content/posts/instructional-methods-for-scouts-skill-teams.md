@@ -2,7 +2,9 @@
 title: "Instructional Methods for Scouts - Skill Teams"
 date: 2006-10-11
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Instructional Methods"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20140706105509/http://scoutmastercg.com/instructional_m/"
 ---
 

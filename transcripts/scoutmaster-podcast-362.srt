@@ -1,0 +1,2480 @@
+1
+00:00:00,000 --> 00:00:03,000
+And now it's the old scout master.
+
+2
+00:00:03,000 --> 00:00:15,640
+It's the very first day of summer camp and one of my patrol leaders sees a scout walking
+
+3
+00:00:15,640 --> 00:00:19,440
+down the trail limping a little bit, and he asked him if he was hurt. and the scout said:
+
+4
+00:00:19,440 --> 00:00:24,120
+no, it's all these socks I'm wearing. and the patrol leader said: well, how many pairs
+
+5
+00:00:24,120 --> 00:00:27,800
+of socks are you wearing? and the scout said: I'm wearing seven.
+
+6
+00:00:28,400 --> 00:00:32,800
+Well, why in the world are you wearing seven pairs of socks?
+
+7
+00:00:32,800 --> 00:00:38,800
+Well, the scout says it's to save time every morning.
+
+8
+00:00:38,800 --> 00:00:43,800
+Well, how are you saving time every morning by wearing seven pairs of socks?
+
+9
+00:00:43,800 --> 00:00:49,800
+And the scout looks at him and says: well, we're supposed to change socks every day, right,
+
+10
+00:00:49,800 --> 00:00:52,800
+Yeah, you're supposed to change socks every day.
+
+11
+00:00:52,800 --> 00:00:56,800
+Well, instead of going through all the trouble of changing socks every day,
+
+12
+00:00:56,800 --> 00:01:02,800
+all I have to do is take one pair off every morning, and I'm good.
+
+13
+00:01:02,800 --> 00:01:05,800
+I mean, it makes sense, doesn't it?
+
+14
+00:01:05,800 --> 00:01:08,800
+You know, scouts are efficiency experts.
+
+15
+00:01:08,800 --> 00:01:11,800
+You've got to hand it to them.
+
+16
+00:01:11,800 --> 00:01:15,800
+Hey, this is podcast number 362..
+
+17
+00:01:15,800 --> 00:01:17,800
+Hey,
+
+18
+00:01:23,800 --> 00:01:25,800
+Hey,
+
+19
+00:01:42,800 --> 00:01:44,800
+Welcome back to the Scoutmaster Podcast.
+
+20
+00:01:44,800 --> 00:01:50,800
+This is Clark Green, and this is the second of a series of podcasts,
+
+21
+00:01:50,800 --> 00:01:57,800
+whose number is yet to be determined, dealing with foundational stuff.
+
+22
+00:01:57,800 --> 00:02:03,800
+Last week, in podcast 361, we talked about the allegory of scouting as a game.
+
+23
+00:02:03,800 --> 00:02:09,800
+We're going to build on that today by talking about the role of the scouters in the game,
+
+24
+00:02:09,800 --> 00:02:14,800
+And I had a number of great responses to last week's podcast
+
+25
+00:02:14,800 --> 00:02:15,800
+and I really appreciate them.
+
+26
+00:02:15,800 --> 00:02:17,800
+Thank you for your comments on Facebook.
+
+27
+00:02:17,800 --> 00:02:19,800
+Thank you for the emails I received.
+
+28
+00:02:19,800 --> 00:02:23,800
+I picked one out to share with you from Frank Maynard,
+
+29
+00:02:23,800 --> 00:02:29,800
+who is the author of a blog at bobwhiteblathercom.
+
+30
+00:02:29,800 --> 00:02:31,800
+It's exactly what you think it is:
+
+31
+00:02:31,800 --> 00:02:33,800
+Bob White Blather.
+
+32
+00:02:33,800 --> 00:02:37,800
+Frank is a long-tenured, very skilled scouter,
+
+33
+00:02:37,800 --> 00:02:40,800
+Has a great blog that you ought to make sure to check out,
+
+34
+00:02:40,800 --> 00:02:44,800
+and I'll have a link to Frank's blog in the podcast notes.
+
+35
+00:02:44,800 --> 00:02:46,800
+But he wrote this email to me.
+
+36
+00:02:46,800 --> 00:02:50,800
+He said I listened to podcast 331, where you said
+
+37
+00:02:50,800 --> 00:02:52,800
+the organization is not the game.
+
+38
+00:02:52,800 --> 00:02:55,800
+I think too many people missed this point
+
+39
+00:02:55,800 --> 00:02:59,800
+and think that the BSA defines scouting and not the other way around.
+
+40
+00:02:59,800 --> 00:03:02,800
+Scouting defines itself by the oath and law
+
+41
+00:03:02,800 --> 00:03:05,800
+and the BSA gives us the framework to do scouting.
+
+42
+00:03:05,800 --> 00:03:08,800
+I found the basketball analogy was rather a good one.
+
+43
+00:03:08,800 --> 00:03:09,800
+Well, thank you.
+
+44
+00:03:09,800 --> 00:03:13,800
+The foregoing opens up another analogy.
+
+45
+00:03:13,800 --> 00:03:15,800
+So you ready for another analogy, folks,
+
+46
+00:03:15,800 --> 00:03:17,800
+Because I think this is a good one too.
+
+47
+00:03:17,800 --> 00:03:20,800
+A scouting organization can provide the framework for scouting,
+
+48
+00:03:20,800 --> 00:03:22,800
+but it can't contain everything that scouting is,
+
+49
+00:03:22,800 --> 00:03:26,800
+because it simply can't fully reduce a concept,
+
+50
+00:03:26,800 --> 00:03:31,800
+a movement, down to a set of rules, regulations and procedures.
+
+51
+00:03:31,800 --> 00:03:36,800
+This is much the same way as a system defining a color space
+
+52
+00:03:36,800 --> 00:03:39,800
+cannot contain all possible colors.
+
+53
+00:03:39,800 --> 00:03:42,800
+I deal with this in engineering color television systems,
+
+54
+00:03:42,800 --> 00:03:45,800
+where we try to reproduce a world in color
+
+55
+00:03:45,800 --> 00:03:49,800
+using just red, green and blue vectors.
+
+56
+00:03:49,800 --> 00:03:52,800
+We employ what's called the CIE color space.
+
+57
+00:03:52,800 --> 00:03:54,800
+It looks like every imaginable color,
+
+58
+00:03:54,800 --> 00:03:58,800
+but if you look closely you'll see that some colors are just missing.
+
+59
+00:03:58,800 --> 00:04:03,800
+Some tones are particularly difficult to reproduce with those limitations.
+
+60
+00:04:03,800 --> 00:04:06,800
+in the same way that scouting is not reproducible
+
+61
+00:04:06,800 --> 00:04:09,800
+from an organizational standpoint,
+
+62
+00:04:09,800 --> 00:04:12,800
+While we need to follow the BSA's rules
+
+63
+00:04:12,800 --> 00:04:15,800
+when we implement scouting under its framework,
+
+64
+00:04:15,800 --> 00:04:17,800
+we need to remember that aspects of scouting
+
+65
+00:04:17,800 --> 00:04:21,800
+are more vivid than what we can get from an organization.
+
+66
+00:04:21,800 --> 00:04:24,800
+Well, Frank, those are excellent thoughts
+
+67
+00:04:24,800 --> 00:04:27,800
+and they do a good job of giving everybody another perspective
+
+68
+00:04:27,800 --> 00:04:29,800
+on the issues I was working with last week.
+
+69
+00:04:29,800 --> 00:04:30,800
+I really appreciate it.
+
+70
+00:04:30,800 --> 00:04:33,800
+As advertised, we're just going to soldier right into
+
+71
+00:04:33,800 --> 00:04:37,800
+our next foundational series, in which we'll be talking about
+
+72
+00:04:37,800 --> 00:04:39,800
+the role of the coaches in the game.
+
+73
+00:04:39,800 --> 00:04:41,800
+And that's us, That's the Scouters.
+
+74
+00:04:41,800 --> 00:04:43,800
+So let's get started, shall we?
+
+75
+00:04:43,800 --> 00:05:06,800
+Music.
+
+76
+00:05:06,800 --> 00:05:10,800
+In the last podcast we talked about scouting as a game
+
+77
+00:05:10,800 --> 00:05:13,800
+with a goal, and that's the development of character
+
+78
+00:05:13,800 --> 00:05:14,800
+within the individual.
+
+79
+00:05:14,800 --> 00:05:17,800
+We define character as those ideals expressed
+
+80
+00:05:17,800 --> 00:05:19,800
+in the Scout Oath and Law.
+
+81
+00:05:19,800 --> 00:05:22,800
+So we have players- the Scouts- and coaches.
+
+82
+00:05:22,800 --> 00:05:24,800
+That's us, the Scouters.
+
+83
+00:05:24,800 --> 00:05:26,800
+We have a set of rules defining the game
+
+84
+00:05:26,800 --> 00:05:28,800
+and at the intersection of the rules,
+
+85
+00:05:28,800 --> 00:05:30,800
+the players and coaches, is something
+
+86
+00:05:30,800 --> 00:05:32,800
+we're going to call strategy.
+
+87
+00:05:32,800 --> 00:05:34,800
+Remember, our game isn't competitive.
+
+88
+00:05:34,800 --> 00:05:37,800
+Our game does not end in a zero-sum win or loss.
+
+89
+00:05:37,800 --> 00:05:40,800
+Our game is kind of like assembling puzzles.
+
+90
+00:05:40,800 --> 00:05:42,800
+There's another analogy:
+
+91
+00:05:42,800 --> 00:05:45,800
+Our game is helping individual human beings
+
+92
+00:05:45,800 --> 00:05:47,800
+to shape and define their lives.
+
+93
+00:05:47,800 --> 00:05:50,800
+So today I want to talk about the role of Scouters
+
+94
+00:05:50,800 --> 00:05:52,800
+as coaches in the game.
+
+95
+00:05:52,800 --> 00:05:56,800
+Now, remember, you know we're using analogies, allegories.
+
+96
+00:05:56,800 --> 00:05:58,800
+Remember, you're not really a coach
+
+97
+00:05:58,800 --> 00:06:00,800
+and scouting is not really a game.
+
+98
+00:06:00,800 --> 00:06:04,800
+Analogies are useful for taking something we understand
+
+99
+00:06:04,800 --> 00:06:07,800
+and applying them to know something
+
+100
+00:06:07,800 --> 00:06:09,800
+that we don't understand.
+
+101
+00:06:09,800 --> 00:06:11,800
+They're not exact copies of each other,
+
+102
+00:06:11,800 --> 00:06:13,800
+They just resemble each other.
+
+103
+00:06:13,800 --> 00:06:16,800
+Coaches and Scouters may do many of the same things,
+
+104
+00:06:16,800 --> 00:06:19,800
+but their roles are different in some ways too.
+
+105
+00:06:19,800 --> 00:06:21,800
+We talked a bit about how our game
+
+106
+00:06:21,800 --> 00:06:23,800
+works in the last podcast.
+
+107
+00:06:23,800 --> 00:06:25,800
+Everything important to achieving our goal
+
+108
+00:06:25,800 --> 00:06:27,800
+happens at the small group level
+
+109
+00:06:27,800 --> 00:06:31,800
+and everything important happens to individual Scouts.
+
+110
+00:06:31,800 --> 00:06:34,800
+To make this happen, we have some basic tools
+
+111
+00:06:34,800 --> 00:06:36,800
+and methods we apply to our roles,
+
+112
+00:06:36,800 --> 00:06:39,800
+and the tools I want to talk about are perspective,
+
+113
+00:06:39,800 --> 00:06:42,800
+observation, dialogue, discovery
+
+114
+00:06:42,800 --> 00:06:44,800
+and responsive application.
+
+115
+00:06:44,800 --> 00:06:46,800
+So that's not too bad right?
+
+116
+00:06:46,800 --> 00:06:49,800
+Not too many $9 college words floating around there.
+
+117
+00:06:49,800 --> 00:06:51,800
+Let's begin by talking about perspective,
+
+118
+00:06:51,800 --> 00:06:53,800
+because it is the first and most important aspect
+
+119
+00:06:53,800 --> 00:06:55,800
+of understanding your role as a Scouter.
+
+120
+00:06:55,800 --> 00:06:57,800
+Being a Scouter, as we've been saying,
+
+121
+00:06:57,800 --> 00:06:59,800
+is like a lot of things,
+
+122
+00:06:59,800 --> 00:07:01,800
+but it's not actually those things,
+
+123
+00:07:01,800 --> 00:07:03,800
+because Scouters hold a unique role
+
+124
+00:07:03,800 --> 00:07:05,800
+in a young person's life.
+
+125
+00:07:05,800 --> 00:07:09,800
+They're part parent, coach, counselor, mentor and friend.
+
+126
+00:07:09,800 --> 00:07:11,800
+Baden Powell put it this way.
+
+127
+00:07:11,800 --> 00:07:13,800
+He said the Scoutmaster has to be
+
+128
+00:07:13,800 --> 00:07:16,800
+neither schoolmaster nor commanding officer,
+
+129
+00:07:16,800 --> 00:07:18,800
+nor pastor nor instructor,
+
+130
+00:07:18,800 --> 00:07:20,800
+And he went on to say:
+
+131
+00:07:20,800 --> 00:07:22,800
+all that is needed is the capacity
+
+132
+00:07:22,800 --> 00:07:24,800
+to enjoy the outdoors,
+
+133
+00:07:24,800 --> 00:07:26,800
+to enter into the Scouts' ambitions,
+
+134
+00:07:26,800 --> 00:07:28,800
+to put himself on the level of the Scouts,
+
+135
+00:07:28,800 --> 00:07:31,800
+That is, to see things from the Scouts' point of view
+
+136
+00:07:31,800 --> 00:07:34,800
+and to lead and guide and give enthusiasm
+
+137
+00:07:34,800 --> 00:07:36,800
+in the right direction.
+
+138
+00:07:36,800 --> 00:07:39,800
+So we know that a Scouter is kind of like a coach
+
+139
+00:07:39,800 --> 00:07:42,800
+and we know that a Scouter is not a commanding officer
+
+140
+00:07:42,800 --> 00:07:44,800
+and Scouts are not soldiers.
+
+141
+00:07:44,800 --> 00:07:46,800
+A Scouter is not the boss of a company
+
+142
+00:07:46,800 --> 00:07:49,800
+and Scouts are not their employees.
+
+143
+00:07:49,800 --> 00:07:51,800
+A Scouter is not a teacher
+
+144
+00:07:51,800 --> 00:07:53,800
+and Scouts are not students.
+
+145
+00:07:53,800 --> 00:07:55,800
+A Scouter is not a pastor
+
+146
+00:07:55,800 --> 00:07:58,800
+and Scouts are not members of the pastor's congregation.
+
+147
+00:07:58,800 --> 00:08:00,800
+We're going to talk about our role
+
+148
+00:08:00,800 --> 00:08:03,800
+in the terms of the game analogy, as coaches,
+
+149
+00:08:03,800 --> 00:08:06,800
+but remember- I just want to stress this-
+
+150
+00:08:06,800 --> 00:08:08,800
+we're not really coaches.
+
+151
+00:08:08,800 --> 00:08:11,800
+Hopefully it's a helpful analogy,
+
+152
+00:08:11,800 --> 00:08:14,800
+but analogies all break down at some point.
+
+153
+00:08:14,800 --> 00:08:16,800
+Let's see if we can push this one
+
+154
+00:08:16,800 --> 00:08:18,800
+to the breaking point today. okay,
+
+155
+00:08:18,800 --> 00:08:21,800
+So the tools we employ to carry out this role
+
+156
+00:08:21,800 --> 00:08:23,800
+are deceptively simple to explain
+
+157
+00:08:23,800 --> 00:08:25,800
+but take a lifetime to master.
+
+158
+00:08:25,800 --> 00:08:28,800
+It's easy to explain a game of golf.
+
+159
+00:08:28,800 --> 00:08:30,800
+You take a ball and a stick
+
+160
+00:08:30,800 --> 00:08:32,799
+and there's a hole out there in the distance
+
+161
+00:08:32,799 --> 00:08:35,799
+and you keep hitting the ball until you get it in the hole.
+
+162
+00:08:35,799 --> 00:08:38,799
+Easy to explain, but to actually get good at that game,
+
+163
+00:08:38,799 --> 00:08:40,799
+well, you know what it's going to take, right,
+
+164
+00:08:40,799 --> 00:08:43,799
+It really is that simple to describe.
+
+165
+00:08:43,799 --> 00:08:46,800
+but don't let that simplicity lull you into the idea
+
+166
+00:08:46,800 --> 00:08:48,800
+that you become an immediate master
+
+167
+00:08:48,800 --> 00:08:51,800
+of those simple things once you understand what they are.
+
+168
+00:08:51,800 --> 00:08:53,800
+It takes a lot of practice
+
+169
+00:08:53,800 --> 00:08:55,800
+and that's half the fun of playing the game.
+
+170
+00:08:55,800 --> 00:08:57,800
+So now that we have our perspective down.
+
+171
+00:08:57,800 --> 00:08:59,800
+we know kind of what we are and what we aren't.
+
+172
+00:08:59,800 --> 00:09:02,800
+Let's talk about observation, dialogue, discovery
+
+173
+00:09:02,800 --> 00:09:04,800
+and responsive application.
+
+174
+00:09:04,800 --> 00:09:06,800
+Since our goal is individual,
+
+175
+00:09:06,800 --> 00:09:09,800
+we have to understand our scouts on an individual level.
+
+176
+00:09:09,800 --> 00:09:11,800
+We can't process individuals
+
+177
+00:09:11,800 --> 00:09:13,800
+like we process widgets on an assembly line.
+
+178
+00:09:13,800 --> 00:09:15,800
+To know who they are as an individual,
+
+179
+00:09:15,800 --> 00:09:17,800
+we have to use our powers of observation
+
+180
+00:09:17,800 --> 00:09:20,800
+And to understand the dynamics
+
+181
+00:09:20,800 --> 00:09:22,800
+of small and large groups.
+
+182
+00:09:22,800 --> 00:09:24,800
+we have to observe them working together,
+
+183
+00:09:24,800 --> 00:09:28,800
+And observing is kind of an underrated tool a lot of times.
+
+184
+00:09:28,800 --> 00:09:30,800
+Now I'm going to make a slight digression,
+
+185
+00:09:30,800 --> 00:09:32,800
+but an important point.
+
+186
+00:09:32,800 --> 00:09:34,800
+If you accept the premise that I built here-
+
+187
+00:09:34,800 --> 00:09:36,800
+our scouts advance towards the goal
+
+188
+00:09:36,800 --> 00:09:39,800
+on an individual and a small group level-
+
+189
+00:09:39,800 --> 00:09:43,800
+You immediately recognize that scouting has a scale.
+
+190
+00:09:43,800 --> 00:09:46,800
+Now Baden Powell talked about patrols of eight or so scouts
+
+191
+00:09:46,800 --> 00:09:49,800
+because he understood that too far below
+
+192
+00:09:49,800 --> 00:09:51,800
+or too far above that number
+
+193
+00:09:51,800 --> 00:09:53,800
+things don't work as they ought to.
+
+194
+00:09:53,800 --> 00:09:56,800
+Baden Powell also warned against scouts
+
+195
+00:09:56,800 --> 00:09:59,800
+getting lost in herds.
+
+196
+00:09:59,800 --> 00:10:01,800
+He recommended that troops shouldn't be much larger
+
+197
+00:10:01,800 --> 00:10:03,800
+than 40 or 50 scouts
+
+198
+00:10:03,800 --> 00:10:05,800
+because beyond that number
+
+199
+00:10:05,800 --> 00:10:07,800
+a scouter is challenged to understand
+
+200
+00:10:07,800 --> 00:10:10,800
+and work with scouts on an individual basis.
+
+201
+00:10:10,800 --> 00:10:12,800
+End of slight digression.
+
+202
+00:10:12,800 --> 00:10:14,800
+Go back to talking about observation.
+
+203
+00:10:14,800 --> 00:10:17,800
+Observation is a real important aspect of our work
+
+204
+00:10:17,800 --> 00:10:21,800
+because it involves watching and listening
+
+205
+00:10:21,800 --> 00:10:24,800
+without responding or interfering.
+
+206
+00:10:24,800 --> 00:10:26,800
+To introduce another allegory,
+
+207
+00:10:26,800 --> 00:10:28,800
+take a look at this as a first aid problem.
+
+208
+00:10:28,800 --> 00:10:30,800
+If you're going to render effective first aid,
+
+209
+00:10:30,800 --> 00:10:33,800
+you first have to observe and diagnose.
+
+210
+00:10:33,800 --> 00:10:35,800
+And if there are several different injuries going on,
+
+211
+00:10:35,800 --> 00:10:37,800
+we have to triage the situation
+
+212
+00:10:37,800 --> 00:10:39,800
+and treat the most dire injuries first.
+
+213
+00:10:39,800 --> 00:10:42,800
+No matter how well we bandage someone's ankle,
+
+214
+00:10:42,800 --> 00:10:45,800
+we're not doing them much good if they aren't breathing right.
+
+215
+00:10:45,800 --> 00:10:48,800
+So the importance of observation is lost on many of us
+
+216
+00:10:48,800 --> 00:10:52,800
+because we're really anxious to apply our skills and knowledge.
+
+217
+00:10:52,800 --> 00:10:54,800
+We're anxious to play the game,
+
+218
+00:10:54,800 --> 00:10:58,800
+We're anxious to start talking about strategies
+
+219
+00:10:58,800 --> 00:11:01,800
+and start training players and things like that.
+
+220
+00:11:01,800 --> 00:11:03,800
+But we have to observe,
+
+221
+00:11:03,800 --> 00:11:05,800
+because applying any of the skills that we might have
+
+222
+00:11:05,800 --> 00:11:08,800
+to a situation without first observing it thoroughly
+
+223
+00:11:08,800 --> 00:11:11,800
+is an exercise in frustration and futility.
+
+224
+00:11:11,800 --> 00:11:13,800
+So here's an observation exercise for you.
+
+225
+00:11:13,800 --> 00:11:17,800
+Put a chair in your troop meeting room,
+
+226
+00:11:17,800 --> 00:11:19,800
+sit in the chair
+
+227
+00:11:19,800 --> 00:11:22,800
+and don't say anything for an entire troop meeting.
+
+228
+00:11:22,800 --> 00:11:25,800
+Give that a shot. It's next to impossible
+
+229
+00:11:25,800 --> 00:11:27,800
+if you're like me.
+
+230
+00:11:27,800 --> 00:11:29,800
+But see what you observe,
+
+231
+00:11:29,800 --> 00:11:31,800
+Take notes,
+
+232
+00:11:31,800 --> 00:11:33,800
+Pretend you're a biologist.
+
+233
+00:11:33,800 --> 00:11:35,800
+That's the kind of observation I'm talking about,
+
+234
+00:11:35,800 --> 00:11:37,800
+One where we're not offering advice,
+
+235
+00:11:37,800 --> 00:11:39,800
+where we don't interfere
+
+236
+00:11:39,800 --> 00:11:41,800
+but we're just watching to try and understand
+
+237
+00:11:41,800 --> 00:11:42,800
+what's going on.
+
+238
+00:11:42,800 --> 00:11:44,800
+The next tool that we're going to use
+
+239
+00:11:44,800 --> 00:11:47,800
+after we've observed is dialogue.
+
+240
+00:11:47,800 --> 00:11:49,800
+Observing will draw the broader lines
+
+241
+00:11:49,800 --> 00:11:51,800
+of understanding about the situation.
+
+242
+00:11:51,800 --> 00:11:53,800
+We fill in the details with dialogue.
+
+243
+00:11:53,800 --> 00:11:56,800
+So back to our first date analogy for a moment.
+
+244
+00:11:56,800 --> 00:11:58,800
+We see someone lying on the ground,
+
+245
+00:11:58,800 --> 00:11:59,800
+maybe their arm or leg-
+
+246
+00:11:59,800 --> 00:12:01,800
+Is it an unusual angle?
+
+247
+00:12:01,800 --> 00:12:03,800
+So once the scene is secure,
+
+248
+00:12:03,800 --> 00:12:05,800
+we talk to them and ask them what happened
+
+249
+00:12:05,800 --> 00:12:07,800
+and what discomfort they're experiencing,
+
+250
+00:12:07,800 --> 00:12:10,800
+and we listen to their answers,
+
+251
+00:12:10,800 --> 00:12:13,800
+And that's before we apply any kind of first aid.
+
+252
+00:12:13,800 --> 00:12:16,800
+Dialogue in our context is a conversation
+
+253
+00:12:16,800 --> 00:12:19,800
+where we ask questions and listen to answers.
+
+254
+00:12:19,800 --> 00:12:21,800
+It's really that simple.
+
+255
+00:12:21,800 --> 00:12:24,800
+As a scouter, dialogue is one of your most powerful tools.
+
+256
+00:12:24,800 --> 00:12:27,800
+We can break dialogue down into two basic streams:
+
+257
+00:12:27,800 --> 00:12:30,800
+Inquiry and direction.
+
+258
+00:12:30,800 --> 00:12:33,800
+Inquiry employs open-ended questions,
+
+259
+00:12:33,800 --> 00:12:37,800
+Ones that require more than a yes or a no answer,
+
+260
+00:12:37,800 --> 00:12:39,800
+And that leads our scouts to explain
+
+261
+00:12:39,800 --> 00:12:43,800
+what they understand about a given idea or situation.
+
+262
+00:12:43,800 --> 00:12:45,800
+And when they explain what they understand,
+
+263
+00:12:45,800 --> 00:12:48,800
+we then know what they don't understand,
+
+264
+00:12:48,800 --> 00:12:51,800
+or we understand their perspective of things.
+
+265
+00:12:51,800 --> 00:12:54,800
+And direction is just what it sounds like:
+
+266
+00:12:54,800 --> 00:12:56,800
+Giving directions or making statements
+
+267
+00:12:56,800 --> 00:12:58,800
+rather than asking questions.
+
+268
+00:12:58,800 --> 00:13:00,800
+Now, if we're honest with ourselves,
+
+269
+00:13:00,800 --> 00:13:03,800
+our first response in most situations is directive
+
+270
+00:13:03,800 --> 00:13:05,800
+And there's good reason for that.
+
+271
+00:13:05,800 --> 00:13:07,800
+Direction creates immediate results. we hope,
+
+272
+00:13:07,800 --> 00:13:09,800
+It's efficient
+
+273
+00:13:09,800 --> 00:13:11,800
+And it's an expression of our authority,
+
+274
+00:13:11,800 --> 00:13:13,800
+and all of those things make us feel good.
+
+275
+00:13:13,800 --> 00:13:15,800
+On the other side of the equation,
+
+276
+00:13:15,800 --> 00:13:17,800
+direction does not do a whole lot
+
+277
+00:13:17,800 --> 00:13:19,800
+to advance us towards the goal
+
+278
+00:13:19,800 --> 00:13:22,800
+unless it leads to a shared understanding
+
+279
+00:13:22,800 --> 00:13:24,800
+of why the direction was given.
+
+280
+00:13:24,800 --> 00:13:26,800
+Now I hope you're following me,
+
+281
+00:13:26,800 --> 00:13:28,800
+because this is both really important
+
+282
+00:13:28,800 --> 00:13:30,800
+and it's kind of tiresome to talk about
+
+283
+00:13:30,800 --> 00:13:32,800
+and to listen to.
+
+284
+00:13:32,800 --> 00:13:34,800
+After all, who has the time to go through all this?
+
+285
+00:13:34,800 --> 00:13:36,800
+Tell our scouts what to do and get it done.
+
+286
+00:13:36,800 --> 00:13:38,800
+I mean, my dad used to put it this way.
+
+287
+00:13:38,800 --> 00:13:40,800
+When I say jump you jump.
+
+288
+00:13:40,800 --> 00:13:42,800
+I bet you there are plenty of you
+
+289
+00:13:42,800 --> 00:13:44,800
+who are familiar with that particular saying.
+
+290
+00:13:44,800 --> 00:13:46,800
+Now, that's an effective way to produce
+
+291
+00:13:46,800 --> 00:13:48,800
+immediate results and to foster discipline.
+
+292
+00:13:48,800 --> 00:13:50,800
+but immediate results and discipline
+
+293
+00:13:50,800 --> 00:13:53,800
+are very thin slices of our overall goal.
+
+294
+00:13:53,800 --> 00:13:55,800
+So keep track of how many times
+
+295
+00:13:55,800 --> 00:13:58,800
+you respond to a situation by giving directions.
+
+296
+00:13:58,800 --> 00:14:01,800
+Then consider how you can use those situations
+
+297
+00:14:01,800 --> 00:14:03,800
+to apply inquiry
+
+298
+00:14:03,800 --> 00:14:05,800
+and build character in your scouts
+
+299
+00:14:05,800 --> 00:14:07,800
+by advancing the scout oath and law.
+
+300
+00:14:07,800 --> 00:14:10,800
+You'll do that more through inquiry
+
+301
+00:14:10,800 --> 00:14:12,800
+and dialogue than through giving directions.
+
+302
+00:14:12,800 --> 00:14:14,800
+And remember this dialogue,
+
+303
+00:14:14,800 --> 00:14:16,800
+this inquiry that we're doing
+
+304
+00:14:16,800 --> 00:14:19,800
+is intended to get scouts to direct themselves
+
+305
+00:14:19,800 --> 00:14:21,800
+by asking them questions.
+
+306
+00:14:21,800 --> 00:14:23,800
+I'm not saying giving directions
+
+307
+00:14:23,800 --> 00:14:25,800
+is always wrong or misplaced,
+
+308
+00:14:25,800 --> 00:14:28,800
+Just that it's not as important as it seems to be
+
+309
+00:14:28,800 --> 00:14:31,800
+to get ourselves between point A and B
+
+310
+00:14:31,800 --> 00:14:33,800
+to invoke the process of scouting.
+
+311
+00:14:33,800 --> 00:14:35,800
+Here's another analogy: you ready?
+
+312
+00:14:35,800 --> 00:14:38,800
+So imagine a bus tour
+
+313
+00:14:38,800 --> 00:14:41,800
+of you know. let's say it's some important city
+
+314
+00:14:41,800 --> 00:14:44,800
+and we're all welcomed into
+
+315
+00:14:44,800 --> 00:14:47,800
+and seated in the air-conditioned comfort of a motor coach
+
+316
+00:14:47,800 --> 00:14:50,800
+and a guide stands up front with a microphone
+
+317
+00:14:50,800 --> 00:14:52,800
+and we listen to the guide explain each landmark
+
+318
+00:14:52,800 --> 00:14:55,800
+in detail so we won't miss anything.
+
+319
+00:14:55,800 --> 00:14:57,800
+The guide sticks to the script.
+
+320
+00:14:57,800 --> 00:14:59,800
+We sit behind the tinted windows of our bus,
+
+321
+00:14:59,800 --> 00:15:01,800
+dutifully turning our heads to the left
+
+322
+00:15:01,800 --> 00:15:03,800
+and then to the right.
+
+323
+00:15:03,800 --> 00:15:05,800
+There's so much explaining going on
+
+324
+00:15:05,800 --> 00:15:08,800
+that there's not much time left for questions,
+
+325
+00:15:08,800 --> 00:15:10,800
+and soon the tour is over.
+
+326
+00:15:10,800 --> 00:15:12,800
+Now contrast that bus tour with a hike
+
+327
+00:15:12,800 --> 00:15:14,800
+that's led by a knowledgeable guide.
+
+328
+00:15:14,800 --> 00:15:16,800
+He takes up the rear of the group,
+
+329
+00:15:16,800 --> 00:15:18,800
+lets the group find the trail.
+
+330
+00:15:18,800 --> 00:15:20,800
+When the path branches,
+
+331
+00:15:20,800 --> 00:15:22,800
+they'll tell us what to do.
+
+332
+00:15:22,800 --> 00:15:24,800
+if we can't figure it out on our own,
+
+333
+00:15:24,800 --> 00:15:26,800
+They don't mind if we stop now and then
+
+334
+00:15:26,800 --> 00:15:28,800
+we're taking the tour or taking the view,
+
+335
+00:15:28,800 --> 00:15:30,800
+and they'll happily tell us all about
+
+336
+00:15:30,800 --> 00:15:32,800
+what we're looking at. if we ask
+
+337
+00:15:32,800 --> 00:15:34,800
+Now, that type of guide is not necessarily
+
+338
+00:15:34,800 --> 00:15:36,800
+going to volunteer much information.
+
+339
+00:15:36,800 --> 00:15:38,800
+They might drop a hint here or there
+
+340
+00:15:38,800 --> 00:15:40,800
+and they'll answer any questions we have,
+
+341
+00:15:40,800 --> 00:15:42,800
+and we may actually
+
+342
+00:15:42,800 --> 00:15:44,800
+miss some sites along the way
+
+343
+00:15:44,800 --> 00:15:46,800
+or pass by interesting things,
+
+344
+00:15:46,800 --> 00:15:48,800
+but our group will probably get more out
+
+345
+00:15:48,800 --> 00:15:50,800
+of what we discovered along the hike
+
+346
+00:15:50,800 --> 00:15:52,800
+and asked about
+
+347
+00:15:52,800 --> 00:15:54,800
+than what the guide in the bus tour
+
+348
+00:15:54,800 --> 00:15:56,800
+told us about.
+
+349
+00:15:56,800 --> 00:15:58,800
+So working with Scouts is more like
+
+350
+00:15:58,800 --> 00:16:00,800
+the hike than the bus tour:
+
+351
+00:16:00,800 --> 00:16:02,800
+A gentle push in the right direction
+
+352
+00:16:02,800 --> 00:16:04,800
+rather than dragging them along.
+
+353
+00:16:04,800 --> 00:16:06,800
+A suggestion rather than a command,
+
+354
+00:16:06,800 --> 00:16:08,800
+A question asked rather than
+
+355
+00:16:08,800 --> 00:16:10,800
+an answer given.
+
+356
+00:16:10,800 --> 00:16:12,800
+Our role is more responsive
+
+357
+00:16:12,800 --> 00:16:14,800
+than directed.
+
+358
+00:16:14,800 --> 00:16:16,800
+Each group of Scouts is different,
+
+359
+00:16:16,800 --> 00:16:18,800
+so how we play out our role
+
+360
+00:16:18,800 --> 00:16:20,800
+is in response
+
+361
+00:16:20,800 --> 00:16:22,800
+to their development.
+
+362
+00:16:22,800 --> 00:16:24,800
+so we have a perspective,
+
+363
+00:16:24,800 --> 00:16:26,800
+we observe.
+
+364
+00:16:26,800 --> 00:16:28,800
+from that perspective,
+
+365
+00:16:28,800 --> 00:16:30,800
+we enter into dialogue which balances
+
+366
+00:16:30,800 --> 00:16:32,800
+inquiry and direction,
+
+367
+00:16:32,800 --> 00:16:34,800
+and this results in discovery
+
+368
+00:16:34,800 --> 00:16:36,800
+for our Scouts.
+
+369
+00:16:36,800 --> 00:16:38,800
+They discover
+
+370
+00:16:38,800 --> 00:16:40,800
+what to do next, They discover
+
+371
+00:16:40,800 --> 00:16:42,800
+the next steps forward
+
+372
+00:16:42,800 --> 00:16:44,800
+because, think about it, it works this way:
+
+373
+00:16:44,800 --> 00:16:46,800
+We observe our observations and form our dialogue.
+
+374
+00:16:46,800 --> 00:16:48,800
+we inquire
+
+375
+00:16:48,800 --> 00:16:50,800
+of the Scouts what they understand
+
+376
+00:16:50,800 --> 00:16:52,800
+and they discover what they understand
+
+377
+00:16:52,800 --> 00:16:54,800
+and what they don't understand.
+
+378
+00:16:54,800 --> 00:16:56,800
+If we aren't asking questions
+
+379
+00:16:56,800 --> 00:16:58,800
+and we simply give directions.
+
+380
+00:16:58,800 --> 00:17:00,800
+it will kind of work
+
+381
+00:17:00,800 --> 00:17:02,800
+if we go back
+
+382
+00:17:02,800 --> 00:17:04,800
+and then make inquiries about
+
+383
+00:17:04,800 --> 00:17:06,800
+why we gave the particular directions that we did
+
+384
+00:17:06,800 --> 00:17:08,800
+so that Scouts will understand
+
+385
+00:17:08,800 --> 00:17:10,800
+the basis of those directions.
+
+386
+00:17:10,800 --> 00:17:12,800
+but I favor
+
+387
+00:17:12,800 --> 00:17:14,800
+the first way
+
+388
+00:17:14,800 --> 00:17:16,800
+because Scouts will end up directing themselves
+
+389
+00:17:16,800 --> 00:17:18,800
+and they will discover things
+
+390
+00:17:18,800 --> 00:17:20,800
+and that process will encourage them
+
+391
+00:17:20,800 --> 00:17:22,800
+to keep on discovering.
+
+392
+00:17:22,800 --> 00:17:24,800
+I'm a big advocate
+
+393
+00:17:24,800 --> 00:17:26,800
+of inquiry, of asking questions
+
+394
+00:17:26,800 --> 00:17:28,800
+rather than giving directions.
+
+395
+00:17:28,800 --> 00:17:30,800
+so all of these things-
+
+396
+00:17:30,800 --> 00:17:32,800
+the perspective, the observation,
+
+397
+00:17:32,800 --> 00:17:34,800
+the dialogue, the discovery-
+
+398
+00:17:34,800 --> 00:17:36,800
+now put us in the place
+
+399
+00:17:36,800 --> 00:17:38,800
+where we can wisely
+
+400
+00:17:38,800 --> 00:17:40,800
+respond to what our Scouts need
+
+401
+00:17:40,800 --> 00:17:42,800
+and we can
+
+402
+00:17:42,800 --> 00:17:44,800
+apply some of the rules of the game,
+
+403
+00:17:44,800 --> 00:17:46,800
+some of the methods, some of the strategies.
+
+404
+00:17:46,800 --> 00:17:48,800
+each group of Scouts is different,
+
+405
+00:17:48,800 --> 00:17:50,800
+so how we play our roll out
+
+406
+00:17:50,800 --> 00:17:52,800
+is a response to their development,
+
+407
+00:17:52,800 --> 00:17:54,800
+their groups, dynamics and their abilities.
+
+408
+00:17:54,800 --> 00:17:56,800
+we learn about who they are,
+
+409
+00:17:56,800 --> 00:17:58,800
+what they're able to do,
+
+410
+00:17:58,800 --> 00:18:00,800
+the pace of their development.
+
+411
+00:18:00,800 --> 00:18:02,800
+we talk about it, we ask them questions about it.
+
+412
+00:18:02,800 --> 00:18:04,800
+they discover things,
+
+413
+00:18:04,800 --> 00:18:06,800
+we discover things, and this sets the pace
+
+414
+00:18:06,800 --> 00:18:08,800
+of our work.
+
+415
+00:18:08,800 --> 00:18:10,800
+Individuals and groups understand
+
+416
+00:18:10,800 --> 00:18:12,800
+and apply concepts at differing paces.
+
+417
+00:18:12,800 --> 00:18:14,800
+each has their own starting point.
+
+418
+00:18:14,800 --> 00:18:16,800
+our job is focused on
+
+419
+00:18:16,800 --> 00:18:18,800
+advancing them forward from where they started.
+
+420
+00:18:18,800 --> 00:18:20,800
+now I know it sounds
+
+421
+00:18:20,800 --> 00:18:22,800
+too simple, and it probably is,
+
+422
+00:18:22,800 --> 00:18:24,800
+but observation, dialogue,
+
+423
+00:18:24,800 --> 00:18:26,800
+discovery and responsive
+
+424
+00:18:26,800 --> 00:18:28,800
+application are the tools we apply
+
+425
+00:18:28,800 --> 00:18:30,800
+in this endlessly recursive
+
+426
+00:18:30,800 --> 00:18:32,800
+process that never ends.
+
+427
+00:18:32,800 --> 00:18:34,800
+it is who Scouts are
+
+428
+00:18:34,800 --> 00:18:36,800
+and what we do. I'm putting it in simple terms,
+
+429
+00:18:36,800 --> 00:18:38,800
+but it's endlessly complex
+
+430
+00:18:38,800 --> 00:18:40,800
+when you begin to practice it.
+
+431
+00:18:40,800 --> 00:18:42,800
+so the last thing I want to talk about today
+
+432
+00:18:42,800 --> 00:18:44,800
+is attitude. All of what we're doing
+
+433
+00:18:44,800 --> 00:18:46,800
+comes under the umbrella
+
+434
+00:18:46,800 --> 00:18:48,800
+of the attitude with which
+
+435
+00:18:48,800 --> 00:18:50,800
+we approach what we're doing.
+
+436
+00:18:50,800 --> 00:18:52,800
+employing our skills from the right perspective
+
+437
+00:18:52,800 --> 00:18:54,800
+is important, but they won't achieve
+
+438
+00:18:54,800 --> 00:18:56,800
+that goal with out this
+
+439
+00:18:56,800 --> 00:18:58,800
+final piece of the puzzle,
+
+440
+00:18:58,800 --> 00:19:00,800
+and that's having the right attitude.
+
+441
+00:19:00,800 --> 00:19:02,800
+Attitude is a choice,
+
+442
+00:19:02,800 --> 00:19:04,800
+and this choice is what makes the roll
+
+443
+00:19:04,800 --> 00:19:06,800
+of a Scouter open to just about anybody.
+
+444
+00:19:06,800 --> 00:19:08,800
+we don't have to really
+
+445
+00:19:08,800 --> 00:19:10,800
+go into a complex definition
+
+446
+00:19:10,800 --> 00:19:12,800
+of what the right attitude is,
+
+447
+00:19:12,800 --> 00:19:14,800
+because it's defined by the Scout
+
+448
+00:19:14,800 --> 00:19:16,800
+Oath and Law. That may sound simplistic,
+
+449
+00:19:16,800 --> 00:19:18,800
+but it's exactly right
+
+450
+00:19:18,800 --> 00:19:20,800
+and it's one of the only things I know
+
+451
+00:19:20,800 --> 00:19:22,800
+is exactly right, because when I examine
+
+452
+00:19:22,800 --> 00:19:24,800
+my own attitude about things
+
+453
+00:19:24,800 --> 00:19:26,800
+and I examine that against the ideals
+
+454
+00:19:26,800 --> 00:19:28,800
+of the Scout Oath and Law,
+
+455
+00:19:28,800 --> 00:19:30,800
+things become very clear
+
+456
+00:19:30,800 --> 00:19:32,800
+indeed. I haven't always been,
+
+457
+00:19:32,800 --> 00:19:34,800
+am not now and certainly
+
+458
+00:19:34,800 --> 00:19:36,800
+will never become a perfect
+
+459
+00:19:36,800 --> 00:19:38,800
+expression of the Scout Oath and Law,
+
+460
+00:19:38,800 --> 00:19:40,800
+but I'm going to keep trying
+
+461
+00:19:40,800 --> 00:19:42,800
+and encourage my Scouts to do the same.
+
+462
+00:19:42,800 --> 00:19:44,800
+so, in short,
+
+463
+00:19:44,800 --> 00:19:46,800
+I'm going to be compassionate.
+
+464
+00:19:46,800 --> 00:19:48,800
+I'm going to strive to understand
+
+465
+00:19:48,800 --> 00:19:50,800
+and relieve the flaws, sufferings
+
+466
+00:19:50,800 --> 00:19:52,800
+and misfortunes of others,
+
+467
+00:19:52,800 --> 00:19:54,800
+and I can't do that in others
+
+468
+00:19:54,800 --> 00:19:56,800
+without first accepting
+
+469
+00:19:56,800 --> 00:19:58,800
+and relieving them in myself.
+
+470
+00:19:58,800 --> 00:20:00,800
+so that's an important aspect
+
+471
+00:20:00,800 --> 00:20:02,800
+of the right attitude. right
+
+472
+00:20:02,800 --> 00:20:04,800
+is not just being kind
+
+473
+00:20:04,800 --> 00:20:06,800
+and considerate and compassionate to others,
+
+474
+00:20:06,800 --> 00:20:08,800
+but finding considerate and compassionate
+
+475
+00:20:08,800 --> 00:20:10,800
+to yourself. In the last podcast
+
+476
+00:20:10,800 --> 00:20:12,800
+I talked about games being
+
+477
+00:20:12,800 --> 00:20:14,800
+theoretically perfectable
+
+478
+00:20:14,800 --> 00:20:16,800
+but practically imperfectable,
+
+479
+00:20:16,800 --> 00:20:18,800
+and our attitudes are kind of the same way
+
+480
+00:20:18,800 --> 00:20:20,800
+as our people.
+
+481
+00:20:20,800 --> 00:20:22,800
+we are the same way as people.
+
+482
+00:20:22,800 --> 00:20:24,800
+we are theoretically perfectable,
+
+483
+00:20:24,800 --> 00:20:26,800
+but practically
+
+484
+00:20:26,800 --> 00:20:28,800
+nobody's going to be a perfect person.
+
+485
+00:20:28,800 --> 00:20:30,800
+we may understand the ideals
+
+486
+00:20:30,800 --> 00:20:32,800
+in the Scout Oath and Law,
+
+487
+00:20:32,800 --> 00:20:34,800
+but we're not going to be a perfect representative
+
+488
+00:20:34,800 --> 00:20:36,800
+100% of the time.
+
+489
+00:20:36,800 --> 00:20:38,800
+these two ideas present us
+
+490
+00:20:38,800 --> 00:20:40,800
+with an aggravating conflict
+
+491
+00:20:40,800 --> 00:20:42,800
+because they create what we called
+
+492
+00:20:42,800 --> 00:20:44,800
+in the last podcast cognitive dissonance.
+
+493
+00:20:44,800 --> 00:20:46,800
+Scouters need to learn to accept
+
+494
+00:20:46,800 --> 00:20:48,800
+that this dissonance
+
+495
+00:20:48,800 --> 00:20:50,800
+is as part and parcel
+
+496
+00:20:50,800 --> 00:20:52,800
+of our work as anything else.
+
+497
+00:20:52,800 --> 00:20:54,800
+this is a difficult thing to truly apply
+
+498
+00:20:54,800 --> 00:20:56,800
+to your coaching style,
+
+499
+00:20:56,800 --> 00:20:58,800
+to your Scouters style.
+
+500
+00:20:58,800 --> 00:21:00,800
+on one hand, you have to be truly motivated
+
+501
+00:21:00,800 --> 00:21:02,800
+and satisfied with incremental improvements,
+
+502
+00:21:02,800 --> 00:21:04,800
+dissatisfied enough
+
+503
+00:21:04,800 --> 00:21:06,800
+to sharpen the challenge
+
+504
+00:21:06,800 --> 00:21:08,800
+to inspire and motivate the players
+
+505
+00:21:08,800 --> 00:21:10,800
+towards reaching beyond themselves,
+
+506
+00:21:10,800 --> 00:21:12,800
+and your effectiveness as a Scouter
+
+507
+00:21:12,800 --> 00:21:14,800
+hinges on what you decide to do
+
+508
+00:21:14,800 --> 00:21:16,800
+with the frustration this dissonance
+
+509
+00:21:16,800 --> 00:21:18,800
+creates.
+
+510
+00:21:18,800 --> 00:21:20,800
+we can turn this frustration into critical,
+
+511
+00:21:20,800 --> 00:21:22,800
+cynical anger or into positive motivation.
+
+512
+00:21:22,800 --> 00:21:24,800
+let's first do away
+
+513
+00:21:24,800 --> 00:21:26,800
+with the idea that we're going to
+
+514
+00:21:26,800 --> 00:21:28,800
+turn our frustration back on our Scouts
+
+515
+00:21:28,800 --> 00:21:30,800
+in a negative way.
+
+516
+00:21:30,800 --> 00:21:32,800
+this is a stereotypical coach's locker room
+
+517
+00:21:32,800 --> 00:21:34,800
+speech that shames, berates
+
+518
+00:21:34,800 --> 00:21:36,800
+and degrades the players.
+
+519
+00:21:36,800 --> 00:21:38,800
+attitudes like that
+
+520
+00:21:38,800 --> 00:21:40,800
+are iminical to our overall goal as Scouters.
+
+521
+00:21:40,800 --> 00:21:42,800
+all of the tools in our toolbox
+
+522
+00:21:42,800 --> 00:21:44,800
+are positive,
+
+523
+00:21:44,800 --> 00:21:46,800
+just as the Scout Oath and Law is positive.
+
+524
+00:21:46,800 --> 00:21:48,800
+we don't have to paint a negative picture
+
+525
+00:21:48,800 --> 00:21:50,800
+of things.
+
+526
+00:21:50,800 --> 00:21:52,800
+our Scouts are pretty good at doing that themselves.
+
+527
+00:21:52,800 --> 00:21:54,800
+we always look for positive
+
+528
+00:21:54,800 --> 00:21:56,800
+progress.
+
+529
+00:21:56,800 --> 00:21:58,800
+we diffuse anger and disappointment
+
+530
+00:21:58,800 --> 00:22:00,800
+and encouragement.
+
+531
+00:22:00,800 --> 00:22:02,800
+angry, resentful, difficult
+
+532
+00:22:02,800 --> 00:22:04,800
+coaches are sometimes pretty good coaches,
+
+533
+00:22:04,800 --> 00:22:06,800
+but they've made the goal of the team, pleasing them
+
+534
+00:22:06,800 --> 00:22:08,800
+of achieving their personal
+
+535
+00:22:08,800 --> 00:22:10,800
+standard of achievement.
+
+536
+00:22:10,800 --> 00:22:12,800
+they place themselves on a pedestal of importance.
+
+537
+00:22:12,800 --> 00:22:14,800
+if you don't
+
+538
+00:22:14,800 --> 00:22:16,800
+do as the coach says, the coach gets angry
+
+539
+00:22:16,800 --> 00:22:18,800
+and is mean to you.
+
+540
+00:22:18,800 --> 00:22:20,800
+but we know that really effective
+
+541
+00:22:20,800 --> 00:22:22,800
+leaders, really effective
+
+542
+00:22:22,800 --> 00:22:24,800
+coaches and Scouters
+
+543
+00:22:24,800 --> 00:22:26,800
+imbue their followers with a sense of purpose
+
+544
+00:22:26,800 --> 00:22:28,800
+and this motivates them
+
+545
+00:22:28,800 --> 00:22:30,800
+to stretch themselves towards
+
+546
+00:22:30,800 --> 00:22:32,800
+ever greater achievement.
+
+547
+00:22:32,800 --> 00:22:34,800
+a good coach might be celebrated.
+
+548
+00:22:34,800 --> 00:22:36,800
+a great coach
+
+549
+00:22:36,800 --> 00:22:38,800
+is kind of invisible
+
+550
+00:22:38,800 --> 00:22:40,800
+because they're motivating and inspiring their team.
+
+551
+00:22:40,800 --> 00:22:42,800
+so, to review what we've talked about today,
+
+552
+00:22:42,800 --> 00:22:44,800
+our role as Scouters begins with
+
+553
+00:22:44,800 --> 00:22:46,800
+perspective,
+
+554
+00:22:46,800 --> 00:22:48,800
+in other words, understanding our role in the game.
+
+555
+00:22:48,800 --> 00:22:50,800
+perspective defines our attitude.
+
+556
+00:22:50,800 --> 00:22:52,800
+how we express ourselves
+
+557
+00:22:52,800 --> 00:22:54,800
+is definitely a choice.
+
+558
+00:22:54,800 --> 00:22:56,800
+it's not all determined by personality
+
+559
+00:22:56,800 --> 00:22:58,800
+and we're not powerless to overcome the negative
+
+560
+00:22:58,800 --> 00:23:00,800
+in ourselves to express a positive attitude.
+
+561
+00:23:00,800 --> 00:23:02,800
+it could be hard work sometimes,
+
+562
+00:23:02,800 --> 00:23:04,800
+and I know it,
+
+563
+00:23:04,800 --> 00:23:06,800
+boy do I know it.
+
+564
+00:23:06,800 --> 00:23:08,800
+but you know we're not powerless in that department.
+
+565
+00:23:08,800 --> 00:23:10,800
+the next step is understanding
+
+566
+00:23:10,800 --> 00:23:12,800
+the tools we have to play our role.
+
+567
+00:23:12,800 --> 00:23:14,800
+we employ observation,
+
+568
+00:23:14,800 --> 00:23:16,800
+dialogue, discovery and responsive application
+
+569
+00:23:16,800 --> 00:23:18,800
+in this endlessly
+
+570
+00:23:18,800 --> 00:23:20,800
+recursive process.
+
+571
+00:23:20,800 --> 00:23:22,800
+every tool in our toolbox is positive,
+
+572
+00:23:22,800 --> 00:23:24,800
+just like the scout oath and law is positive.
+
+573
+00:23:24,800 --> 00:23:26,800
+our attitude defines
+
+574
+00:23:26,800 --> 00:23:28,800
+our effectiveness in achieving
+
+575
+00:23:28,800 --> 00:23:30,800
+the goals of scouting,
+
+576
+00:23:30,800 --> 00:23:32,800
+of developing character in young people,
+
+577
+00:23:32,800 --> 00:23:34,800
+is dependent on our understanding
+
+578
+00:23:34,800 --> 00:23:36,800
+of these particular tools.
+
+579
+00:23:36,800 --> 00:23:38,800
+so that's it for this time around.
+
+580
+00:23:38,800 --> 00:23:40,800
+I'm very interested in hearing from you,
+
+581
+00:23:40,800 --> 00:23:42,800
+very interested in getting your opinions,
+
+582
+00:23:42,800 --> 00:23:44,800
+your questions,
+
+583
+00:23:44,800 --> 00:23:46,800
+your reflections on what we talked about today.
+
+584
+00:23:46,800 --> 00:23:48,800
+getting in touch is pretty simple
+
+585
+00:23:48,800 --> 00:23:50,800
+and I'm going to tell you how to do that in just a moment.
+
+586
+00:23:52,800 --> 00:23:58,800
+music-
+
+587
+00:23:58,800 --> 00:24:00,800
+hey, thank you so much for listening
+
+588
+00:24:00,800 --> 00:24:02,800
+to podcast number
+
+589
+00:24:02,800 --> 00:24:04,800
+362.
+
+590
+00:24:04,800 --> 00:24:06,800
+come and visit us at scoutmastercgcom.
+
+591
+00:24:06,800 --> 00:24:08,800
+click the
+
+592
+00:24:08,800 --> 00:24:10,800
+support link at the top of the page.
+
+593
+00:24:10,800 --> 00:24:12,800
+you can join all the others who make the blog
+
+594
+00:24:12,800 --> 00:24:14,800
+in the podcast possible,
+
+595
+00:24:14,800 --> 00:24:16,800
+if you're already one of them.
+
+596
+00:24:16,800 --> 00:24:18,800
+I want to send you my sincere thanks
+
+597
+00:24:18,800 --> 00:24:20,800
+and appreciation
+
+598
+00:24:20,800 --> 00:24:22,800
+by going to scoutmastercgcom
+
+599
+00:24:22,800 --> 00:24:24,800
+and clicking the contact link,
+
+600
+00:24:24,800 --> 00:24:26,800
+or just emailing me
+
+601
+00:24:26,800 --> 00:24:28,800
+at clark
+
+602
+00:24:28,800 --> 00:24:30,800
+at scoutmastercgcom,
+
+603
+00:24:30,800 --> 00:24:32,800
+at C-L-A-R-K-E,
+
+604
+00:24:32,800 --> 00:24:34,800
+at
+
+605
+00:24:34,800 --> 00:24:36,800
+scoutmastercgcom.
+
+606
+00:24:36,800 --> 00:24:38,800
+we're also over there on facebook and twitter too,
+
+607
+00:24:38,800 --> 00:24:40,800
+and pretty easy to find
+
+608
+00:24:40,800 --> 00:24:42,800
+under scoutmastercgcom.
+
+609
+00:24:42,800 --> 00:24:44,800
+so come and join us.
+
+610
+00:24:44,800 --> 00:24:46,800
+I need to take a moment to tell you that I am not endorsed
+
+611
+00:24:46,800 --> 00:24:48,800
+or sponsored by any scouting organization.
+
+612
+00:24:48,800 --> 00:24:50,800
+it's just me.
+
+613
+00:24:50,800 --> 00:24:52,800
+I have a podcast trying to help out my fellow
+
+614
+00:24:52,800 --> 00:24:54,800
+scouters in the best way. I know how,
+
+615
+00:24:54,800 --> 00:24:56,800
+and before we leave you today,
+
+616
+00:24:56,800 --> 00:24:58,800
+we need to hear from our founder,
+
+617
+00:24:58,800 --> 00:25:00,800
+Sir Robert Baden-Powell.
+
+618
+00:25:00,800 --> 00:25:02,800
+Sir Robert, Good luck to you and good camping
+
+619
+00:25:02,800 --> 00:25:04,800
+why? thank you, sir,
+
+620
+00:25:04,800 --> 00:25:06,800
+until next time, everyone.
+

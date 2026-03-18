@@ -2,7 +2,9 @@
 title: "Paul Siple - Eagle Scout"
 date: 2012-09-21
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20140829080615/http://scoutmastercg.com/paul-siple-eagle-scout/?replytocom=18583"
 ---
 

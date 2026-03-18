@@ -1,30 +1,28 @@
 ---
-title: "Scoutmaster Podcast 100 - Holiday"
+title: "Scoutmaster Podcast 100"
 date: 2011-12-12
 draft: false
 episode: 100
+subtitle: "Listener feedback, community reflections, and a classic campfire copperhead snake story for episode 100"
+transcript: true
 categories: ["Podcast"]
+tags:
+  - "100th episode"
+  - "listener feedback"
+  - "camp stories"
+  - "copperhead snake"
+  - "community"
+  - "scouting movement"
+summary: "Clarke Green celebrates the 100th episode of the Scoutmaster Podcast by sharing listener emails and voicemails from Bill McFarlane, Jamie Humphries, Frank Maynard, and John Marsh, and reflecting on the global reach and purpose of the scouting movement. He recounts a humorous summer camp story about discovering a copperhead snake living under a scout's tent platform and the chaotic extraction that "
+description: "Clarke Green celebrates the 100th episode of the Scoutmaster Podcast by sharing listener emails and voicemails from Bill McFarlane, Jamie Humphries, Frank Maynard, and John Marsh, and reflecting on the global reach and purpose of the scouting movement. He recounts a humorous summer camp story about discovering a copperhead snake living under a scout's tent platform and the chaotic extraction that "
 ---
 
 {{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-100.mp3" >}}
 
-This week the Scoutmaster Podcast takes a holiday but there's a lot of work going on behind the scenes;
-Next Monday we'll publish podcast number 99 .
-January 9th the Podcast reaches the century mark with podcast 100! I've been pleased (and surprised!)  by the number of messages and  recordings I have received for the 100th podcast. If you'd like to join in the celebration you can contact me
-here
-or call (484) 734-0002 from any telephone and record a message for inclusion in the 100th podcast.
-Podcast 101 follows on January16 featuring a Scoutmaster's Panel discussion with Larry Gieger, Tom Gillard and Walter Underwood. If you have a question for the panel you can
-email
-or phone it in (once again (484) 734-0002) if we choose to feature your question we'll arrange to phone you when the discussion is recorded.
-I am busy lining up and recording several interviews and features for early 2012. Who would you like to hear? What would you like to discuss?
-I want to thank you all for listening and, more importantly, participating in the first 100 editions of the Scoutmaster Podcast. Comradeship amongst Scouters everywhere is strengthened and broadened as we share our ideas, challenges, thoughts and stories. There's no doubt that we are all in this together!
-Here's some favorite interviews from the first 100 podcasts to get you through the week
-Cliff Jacobsen – Podcast 54
-Adventurer and guide Cliff Jacobsen is one of my favorite authors and a Distinguished Eagle Scout.
-Les Stroud – Podcast 58
-Star of the fantastic  Discovery channel series Survivorman Les Stroud talks about the show and his book
-Will To Live
-Working the Patrol Method – Podcast 40
-Interview with the authors of
-Working the Patrol Method
-Harry Wimbrough and Rob Faris.
+<div class="smcg-acts">
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(0)" title="Jump to 0:00"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">INTRO</div><div class="smcg-act-note">Top 10 signs you've listened to the podcast too much, written and submitted by Bill McFarlane.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(701)" title="Jump to 11:41"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">COPPERHEAD AT SUMMER CAMP</div><div class="smcg-act-note">Clarke recounts a summer camp story about a copperhead snake found living under a scout's tent platform, the increasingly chaotic extraction involving five adults and ten flashlights, and the wildly embellished version that spread through camp via the moccasin telegraph.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(1132)" title="Jump to 18:52"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">OUTRO</div></div></div>
+</div>
+
+<p style="margin:0.75rem 0 0;"><a href="/podcasts/episode-100/transcript/" class="smcg-transcript-link">Transcript</a></p>

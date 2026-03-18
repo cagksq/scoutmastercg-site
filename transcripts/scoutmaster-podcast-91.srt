@@ -1,0 +1,1612 @@
+1
+00:00:00,000 --> 00:00:03,000
+And now to you, Scoutmaster.
+
+2
+00:00:12,000 --> 00:00:17,000
+We interrupt this podcast to bring you this from the Scoutmaster CG Campfire Physics Lab.
+
+3
+00:00:17,000 --> 00:00:23,000
+Extensive testing has concluded that the likelihood of a flipped pancake landing on the uncooked side within the pan
+
+4
+00:00:23,000 --> 00:00:26,000
+is inversely proportional to the number of observers.
+
+5
+00:00:26,000 --> 00:00:29,000
+We now return to your regularly scheduled podcast.
+
+6
+00:00:30,000 --> 00:00:35,000
+Hey, this is podcast number 91..
+
+7
+00:01:00,000 --> 00:01:11,000
+Welcome back to the Scoutmaster podcast. This is Clark Green.
+
+8
+00:01:11,000 --> 00:01:14,000
+Let's take a look and see. We heard from some people last week.
+
+9
+00:01:14,000 --> 00:01:18,000
+We heard from Walter- and this is not Walter the Underwood,
+
+10
+00:01:18,000 --> 00:01:21,000
+This is Walter other Walter,
+
+11
+00:01:21,000 --> 00:01:23,000
+And he said: I just listened to podcast 17..
+
+12
+00:01:23,000 --> 00:01:26,000
+The Adventures of Brick Mason are an absolute scream.
+
+13
+00:01:26,000 --> 00:01:29,000
+I actually burst out laughing when I heard the old Batman drama music.
+
+14
+00:01:29,000 --> 00:01:33,000
+Great touch. I hope Brick Mason returns in future podcasts.
+
+15
+00:01:33,000 --> 00:01:38,000
+Well, thank you, Walter. Brick Mason is an old radio show.
+
+16
+00:01:38,000 --> 00:01:45,000
+I found some recordings. Really I did Kind of sort of
+
+17
+00:01:45,000 --> 00:01:51,000
+And I've put them on earlier podcasts back podcast 17 around there-
+
+18
+00:01:51,000 --> 00:01:58,000
+And Walter heard them and he's actually the first person to ever say anything positive or negative about the Brick Mason thing.
+
+19
+00:01:58,000 --> 00:02:05,000
+So I wasn't really sure whether people were enjoying it or getting it or had any idea about it.
+
+20
+00:02:05,000 --> 00:02:07,000
+So thank you so much, Walter,
+
+21
+00:02:07,000 --> 00:02:11,000
+And there may be a little surprise for you later on in this podcast.
+
+22
+00:02:11,000 --> 00:02:17,000
+Some people have been going back and they discover the podcast and they go back and they listen to the entire archive.
+
+23
+00:02:17,000 --> 00:02:21,000
+You know that's a great idea- I guess
+
+24
+00:02:21,000 --> 00:02:25,000
+I don't know if I could stand it or not-
+
+25
+00:02:25,000 --> 00:02:36,000
+And you can do that pretty easily by going to scoutmastercgcom and you can find the category page for the podcast
+
+26
+00:02:36,000 --> 00:02:42,000
+And you can go back and listen to all 90 of them, because this is 91..
+
+27
+00:02:42,000 --> 00:02:48,000
+I also heard back from John Sloan. you'll remember John last week asked a question about adults on camping trips
+
+28
+00:02:48,000 --> 00:02:50,000
+and we spent most of the podcast talking about that.
+
+29
+00:02:50,000 --> 00:02:55,000
+John got back and said: thank you so much for a detailed and thoughtful answer to my question.
+
+30
+00:02:55,000 --> 00:02:58,000
+I had no idea it would actually turn into a podcast topic.
+
+31
+00:02:58,000 --> 00:03:04,000
+I'll be spending a lot more time with the boys and asking a lot more questions on our November camp out.
+
+32
+00:03:04,000 --> 00:03:08,000
+Let me ask you: do you limit this to just yourself in the boys camp?
+
+33
+00:03:08,000 --> 00:03:12,000
+I'm afraid having too many adults in camp will be a hindrance to the scouts.
+
+34
+00:03:12,000 --> 00:03:16,000
+You're going to show the other adults what that means by example
+
+35
+00:03:16,000 --> 00:03:20,000
+And you're going to tell them: look, you know. in no uncertain terms you're going to say:
+
+36
+00:03:20,000 --> 00:03:22,000
+we don't interfere with the boys.
+
+37
+00:03:22,000 --> 00:03:25,000
+You and I are going down to visit their campsite.
+
+38
+00:03:25,000 --> 00:03:28,000
+I'm going to talk and you're going to be quiet
+
+39
+00:03:28,000 --> 00:03:32,000
+And you know that might sound a little harsh but people will get it.
+
+40
+00:03:32,000 --> 00:03:39,000
+And don't stray from frankly discussing what constitutes interference and being sure that you're understood,
+
+41
+00:03:39,000 --> 00:03:42,000
+Because this is one of the more difficult things to get about scouting.
+
+42
+00:03:42,000 --> 00:03:49,000
+As I said in the podcast last week, John, you'll gain experience and skill and a way of doing things
+
+43
+00:03:49,000 --> 00:03:53,000
+And that way will change and the distance you can comfortably give your scouts will grow.
+
+44
+00:03:53,000 --> 00:04:00,000
+So in this podcast we're going to talk about- in Scout Master's ship in seven minutes or less- evaluating active.
+
+45
+00:04:00,000 --> 00:04:01,000
+Evaluating active:
+
+46
+00:04:01,000 --> 00:04:06,000
+Some of the ranks in scouting require a scout to be active for a given amount of time
+
+47
+00:04:06,000 --> 00:04:12,000
+And the new guide to advancement has greatly clarified how that is to be evaluated.
+
+48
+00:04:12,000 --> 00:04:20,000
+We're also going to talk on another advancement related topic about signing off requirements and a couple of hints about that,
+
+49
+00:04:20,000 --> 00:04:24,000
+And there may be a little surprise for Walter somewhere in the middle of those two.
+
+50
+00:04:24,000 --> 00:04:25,000
+Who knows,
+
+51
+00:04:25,000 --> 00:04:29,000
+That sounds like a pretty full podcast. so let's get started, shall we?
+
+52
+00:04:29,000 --> 00:04:34,000
+Scout Master's ship in seven minutes or less.
+
+53
+00:04:37,000 --> 00:04:50,000
+The new guide to advancement that has just been published walks us through some of the thorny issues of evaluating active participation.
+
+54
+00:04:50,000 --> 00:04:56,000
+I've struggled at times, as many of us, with judging how to interpret the requirement that a scout be active,
+
+55
+00:04:56,000 --> 00:05:02,000
+And the team that assembled the new guide has made this process very simple and very clear,
+
+56
+00:05:02,000 --> 00:05:09,000
+And I'm not going to spend a tremendous amount of time talking about it, because evaluating active is a three step process now,
+
+57
+00:05:09,000 --> 00:05:17,000
+And if you go to the guide, there'll be a link to a PDF version on the post that contains this podcast.
+
+58
+00:05:17,000 --> 00:05:24,000
+You go to the guide, read the section and you'll see that there is a three step process
+
+59
+00:05:24,000 --> 00:05:26,000
+And this is the way it works.
+
+60
+00:05:26,000 --> 00:05:29,000
+Step number one: is the scout registered?
+
+61
+00:05:29,000 --> 00:05:31,000
+Easy enough, right?
+
+62
+00:05:31,000 --> 00:05:38,000
+I mean, that is going to be a 99.99% yes, right.
+
+63
+00:05:38,000 --> 00:05:42,000
+And then step number two: is the scout in good standing,
+
+64
+00:05:42,000 --> 00:05:48,000
+And that is also going to be a 99.99% yes.
+
+65
+00:05:48,000 --> 00:05:52,000
+And step number three: has he met the expectations of his unit?
+
+66
+00:05:52,000 --> 00:05:56,000
+That's a little more complex, but we're going to explain it very quickly.
+
+67
+00:05:56,000 --> 00:05:59,000
+The first two steps are cut and dry:
+
+68
+00:05:59,000 --> 00:06:01,000
+Good standing.
+
+69
+00:06:01,000 --> 00:06:12,000
+The only thing that good standing means- and this is it- is that a scout has not been excluded from membership by the unit, the council or the National Office of the BSA.
+
+70
+00:06:12,000 --> 00:06:16,000
+These are extraordinarily rare circumstances.
+
+71
+00:06:16,000 --> 00:06:22,000
+If a scout's been excluded from membership by anybody above the unit level, you will know that.
+
+72
+00:06:22,000 --> 00:06:26,000
+You will absolutely know that. it will be communicated to you.
+
+73
+00:06:26,000 --> 00:06:28,000
+Step three is also pretty simple.
+
+74
+00:06:28,000 --> 00:06:32,000
+Now. some scout units apply a metric to active
+
+75
+00:06:32,000 --> 00:06:34,000
+And I don't suggest that.
+
+76
+00:06:34,000 --> 00:06:38,000
+I think it's a very bad idea as a matter of fact, but it is a fact of life.
+
+77
+00:06:38,000 --> 00:06:40,000
+That's the way a lot of people do it
+
+78
+00:06:40,000 --> 00:06:44,000
+And that means a certain percentage of meetings and outings and things like that.
+
+79
+00:06:44,000 --> 00:06:49,000
+I've got lots of reasons why I don't think it's a particularly good idea.
+
+80
+00:06:49,000 --> 00:06:51,000
+A lot of people think that it works
+
+81
+00:06:51,000 --> 00:06:58,000
+To pass step three. if the scout meets that metric expectation, you're done.
+
+82
+00:06:58,000 --> 00:07:00,000
+He's been active.
+
+83
+00:07:00,000 --> 00:07:10,000
+In the vast majority of circumstances where you're going to be asked to evaluate the activity of a scout, those three tests are going to happen and it's not going to be a problem.
+
+84
+00:07:10,000 --> 00:07:20,000
+As I said, 99.9% of scouts are going to pass the first two and then 90% of them are going to pass number three and it's not a big deal.
+
+85
+00:07:20,000 --> 00:07:25,000
+So what if a boy hasn't met the stated expectations of his unit?
+
+86
+00:07:25,000 --> 00:07:30,000
+Well, if you read the guide to advancement you must have
+
+87
+00:07:30,000 --> 00:07:33,000
+Now. must is a very important word here.
+
+88
+00:07:33,000 --> 00:07:36,000
+Must It's not, may, should It's not suggested.
+
+89
+00:07:36,000 --> 00:07:38,000
+This is a policy statement.
+
+90
+00:07:38,000 --> 00:07:45,000
+It says you must have an alternative path to fulfilling the active requirement that recognizes influences outside of scouting.
+
+91
+00:07:45,000 --> 00:07:53,000
+These are very carefully described in the guide. to recognize that scouts are not able to control some circumstances in their life,
+
+92
+00:07:53,000 --> 00:08:01,000
+We are also required to recognize activities outside of scouting that are cooperate with our aims and the values of scouting.
+
+93
+00:08:01,000 --> 00:08:07,000
+The end of the matter is that metrics are there in a lot of units.
+
+94
+00:08:07,000 --> 00:08:15,000
+Again, I'm going to emphasize that I don't think that's a great idea, but they alone cannot evaluate active.
+
+95
+00:08:15,000 --> 00:08:21,000
+We're not in competition with school and sports and church and worthwhile influences in a scout's life.
+
+96
+00:08:21,000 --> 00:08:23,000
+We're in cooperation with those things.
+
+97
+00:08:23,000 --> 00:08:30,000
+So if a boy doesn't pass the metric standard of active, then we have to sit and have a discussion,
+
+98
+00:08:30,000 --> 00:08:35,000
+We talk to him and we say: so, you didn't make the percentage of meetings and things like that.
+
+99
+00:08:35,000 --> 00:08:36,000
+Why is that?
+
+100
+00:08:36,000 --> 00:08:40,000
+I'm the president of the student body at school and I had some meetings I had to go to.
+
+101
+00:08:40,000 --> 00:08:46,000
+I'm involved in the FBLA, I'm involved in the YMCA, I'm involved in any number of things.
+
+102
+00:08:46,000 --> 00:08:55,000
+Now we're probably the only organization on the face of the earth that is going to allow our members to go out and participate in the community
+
+103
+00:08:55,000 --> 00:09:01,000
+and recognize that as being active in our own organization, as that having impact on a scout's life,
+
+104
+00:09:01,000 --> 00:09:03,000
+And I think that's great.
+
+105
+00:09:03,000 --> 00:09:12,000
+The national advancement team has gone to great lengths to set out a concise, definitive set of standards that will put to rest
+
+106
+00:09:12,000 --> 00:09:20,000
+many of the things that we argue about and many of the things that cause scout masters and scouts a lot of ang.
+
+107
+00:09:20,000 --> 00:09:26,000
+And, as always, I want you to remember that the scout is usually his own best standard of if he's been active or not.
+
+108
+00:09:26,000 --> 00:09:31,000
+The way that I evaluate the active requirement, as I sit down with the scout and I say so,
+
+109
+00:09:31,000 --> 00:09:36,000
+says here: you have to be active in your troop and patrol for four months or whatever.
+
+110
+00:09:36,000 --> 00:09:39,000
+Do you think you've met that requirement?
+
+111
+00:09:39,000 --> 00:09:42,000
+And if you do think so, then tell me why.
+
+112
+00:09:42,000 --> 00:09:44,000
+If you don't think so, then tell me why
+
+113
+00:09:44,000 --> 00:09:46,000
+We're going to enter into discussion about it.
+
+114
+00:09:46,000 --> 00:09:48,000
+The scout does not have to impress me.
+
+115
+00:09:48,000 --> 00:09:51,000
+The scout does not have to prove something to me.
+
+116
+00:09:51,000 --> 00:09:59,000
+What we have to do is we have to find out- him and I on the same side of the question, if he's fulfilled the requirement.
+
+117
+00:10:00,000 --> 00:10:01,000
+There you go,
+
+118
+00:10:01,000 --> 00:10:03,000
+Three tests for active.
+
+119
+00:10:03,000 --> 00:10:04,000
+Number one: be registered.
+
+120
+00:10:04,000 --> 00:10:11,000
+Number two: don't be excluded by either the unit or the council or the national office.
+
+121
+00:10:11,000 --> 00:10:14,000
+Number three: meet the expectations of your troop.
+
+122
+00:10:14,000 --> 00:10:17,000
+There's been a reasonable amount of back and forth about this on the blog.
+
+123
+00:10:17,000 --> 00:10:20,000
+Some people like the idea of the standards written in the guide.
+
+124
+00:10:20,000 --> 00:10:22,000
+Some people aren't too keen about them.
+
+125
+00:10:22,000 --> 00:10:24,000
+Some people think that they're very bad indeed.
+
+126
+00:10:24,000 --> 00:10:27,000
+This doesn't really change anything that I'm doing.
+
+127
+00:10:28,000 --> 00:10:34,000
+I think that we had it right to begin with, and I'm not saying that to pretend that I'm the smartest man in the world.
+
+128
+00:10:34,000 --> 00:10:39,000
+You may need to adjust the way that you're handling this,
+
+129
+00:10:39,000 --> 00:10:46,000
+But what I really appreciate about this is the inclusion of other community activities and the consideration of active.
+
+130
+00:10:46,000 --> 00:10:49,000
+I think it's a brilliant idea and I would love to hear your ideas about it.
+
+131
+00:10:49,000 --> 00:10:53,000
+So do get in touch and you'll find out how to do that towards the end of the podcast.
+
+132
+00:10:53,000 --> 00:11:00,000
+The section that you want to look at in the new Guide to Advancement 2011 is page 21 and 22..
+
+133
+00:11:00,000 --> 00:11:02,000
+That's page 21 and 22..
+
+134
+00:11:02,000 --> 00:11:06,000
+That's where you'll read about the evaluation of the active requirement:
+
+135
+00:11:06,000 --> 00:11:24,000
+Scouts, now that we have established the cordons of our area for our monthly sojourn in the forest,
+
+136
+00:11:24,000 --> 00:11:29,000
+and owing to the incipient drop in ambient air temperature
+
+137
+00:11:29,000 --> 00:11:32,000
+accompanied by the diminishing availability of solar luminescence,
+
+138
+00:11:32,000 --> 00:11:37,000
+I would recommend the assemblage of combustible materials into a controllable conflagration
+
+139
+00:11:37,000 --> 00:11:40,000
+in order to provide both warmth and light.
+
+140
+00:11:40,000 --> 00:11:44,000
+What do you say, Mr Rem? I'm not following you there.
+
+141
+00:11:45,000 --> 00:11:47,000
+Let's build a campfire.
+
+142
+00:11:49,000 --> 00:11:51,000
+Oh, yeah, yeah, let's do that.
+
+143
+00:11:51,000 --> 00:11:52,000
+I've already got one going.
+
+144
+00:11:52,000 --> 00:11:59,000
+The first elemental step in building a campfire is the assemblage of combustible materials such as these here.
+
+145
+00:11:59,000 --> 00:12:03,000
+What do you mean? the firewood you got at the convenience store there, Mr Rem?
+
+146
+00:12:03,000 --> 00:12:11,000
+Yes, the firewood I purchased as an example to guide you in the gathering of combustible materials.
+
+147
+00:12:11,000 --> 00:12:12,000
+Right,
+
+148
+00:12:12,000 --> 00:12:16,000
+There are many methods of ignition practiced by the back woodsmen.
+
+149
+00:12:16,000 --> 00:12:22,000
+Let me demonstrate the use of a glass-like mineral substance applied to a ferrous metal.
+
+150
+00:12:22,000 --> 00:12:24,000
+What are you talking about there, Mr Rem?
+
+151
+00:12:24,000 --> 00:12:26,000
+The application of a what to a what?
+
+152
+00:12:26,000 --> 00:12:28,000
+A flint and steel.
+
+153
+00:12:30,000 --> 00:12:32,000
+Oh, oh, yeah, yeah,
+
+154
+00:12:32,000 --> 00:12:33,000
+Yeah, I got it, I've used them.
+
+155
+00:12:33,000 --> 00:12:39,000
+First, we take the glassy stone and strike it against the ferrous metal
+
+156
+00:12:39,000 --> 00:12:42,000
+And the resulting sparks.
+
+157
+00:12:43,000 --> 00:12:45,000
+The resulting-
+
+158
+00:12:45,000 --> 00:12:47,000
+One moment, please.
+
+159
+00:12:47,000 --> 00:12:51,000
+The resulting sparks are:
+
+160
+00:12:52,000 --> 00:12:54,000
+Oh.
+
+161
+00:12:54,000 --> 00:13:01,000
+Another method applied by the back woodsmen was capturing the heat generated by friction of woody materials
+
+162
+00:13:01,000 --> 00:13:05,000
+using a stick held in a semi-lunar shape, by the imposition of a string
+
+163
+00:13:05,000 --> 00:13:09,000
+and a second piece of wood that is round in cross-section,
+
+164
+00:13:09,000 --> 00:13:13,000
+applied to a flat piece of wood held on the ground.
+
+165
+00:13:13,000 --> 00:13:15,000
+The assemblage of this apparatus.
+
+166
+00:13:15,000 --> 00:13:16,000
+Wait a minute, Mr Rem,
+
+167
+00:13:16,000 --> 00:13:18,000
+But what are you talking about?
+
+168
+00:13:18,000 --> 00:13:21,000
+The round cross-sections of a string? would
+
+169
+00:13:21,000 --> 00:13:26,000
+The bow and drill method fired by friction?
+
+170
+00:13:28,000 --> 00:13:30,000
+Oh, yeah, yeah. Well, we do that.
+
+171
+00:13:30,000 --> 00:13:40,000
+So first, what one does is takes the bow and assembles it with the second piece of wood
+
+172
+00:13:40,000 --> 00:13:44,000
+in a way of
+
+173
+00:13:44,000 --> 00:13:49,000
+One moment, please, while I take an.
+
+174
+00:13:52,000 --> 00:13:57,000
+A third method of ignition is the paper match-
+
+175
+00:13:57,000 --> 00:14:02,000
+And I happen to have a book of matches here-
+
+176
+00:14:02,000 --> 00:14:07,000
+And one takes the match and
+
+177
+00:14:07,000 --> 00:14:09,000
+The strike.
+
+178
+00:14:09,000 --> 00:14:15,000
+They seem to be a bit damp and my hands are becoming numb.
+
+179
+00:14:15,000 --> 00:14:24,000
+A fourth method of ignition, although more modern in scope than the prior three,
+
+180
+00:14:24,000 --> 00:14:29,000
+is the use of a propane torch.
+
+181
+00:14:29,000 --> 00:14:30,000
+The torch is:
+
+182
+00:14:30,000 --> 00:14:32,000
+Mr Rem, it looks like you're getting cold there.
+
+183
+00:14:32,000 --> 00:14:35,000
+Why don't you come over to our campfire and have a cup of hot cocoa?
+
+184
+00:14:35,000 --> 00:14:42,000
+Yes, perhaps we can carry on with our demonstration a bit later. lads,
+
+185
+00:14:42,000 --> 00:14:44,000
+That sounds like a good idea. Mr Rem,
+
+186
+00:14:44,000 --> 00:14:46,000
+Come over here and get warm first.
+
+187
+00:14:48,000 --> 00:14:53,000
+Join us again for another exciting episode in the career of
+
+188
+00:14:53,000 --> 00:14:56,000
+Rick Mason Scoutmaster.
+
+189
+00:14:58,000 --> 00:15:04,000
+This is Cliff Jacobson and you're listening to the Scoutmaster podcast with Clark Green.
+
+190
+00:15:06,000 --> 00:15:09,000
+Send it by mail,
+
+191
+00:15:09,000 --> 00:15:12,000
+Email. that is folks,
+
+192
+00:15:12,000 --> 00:15:15,000
+And here's an answer to one of your emails.
+
+193
+00:15:22,000 --> 00:15:25,000
+So here's an email I got this past week from David Shoup.
+
+194
+00:15:25,000 --> 00:15:26,000
+Dave wrote in and said:
+
+195
+00:15:26,000 --> 00:15:27,000
+Hi, Clark,
+
+196
+00:15:27,000 --> 00:15:31,000
+I have seen the requirements for tender through first class handled several different ways
+
+197
+00:15:31,000 --> 00:15:35,000
+and I was wondering what you thought was the spirit behind the requirements.
+
+198
+00:15:35,000 --> 00:15:41,000
+It seems some Scoutmasters give boys credit for merely attempting to do some of the cooking requirements, for example,
+
+199
+00:15:41,000 --> 00:15:47,000
+while other Scoutmasters require a high level of proficiency before they sign it.
+
+200
+00:15:47,000 --> 00:15:53,000
+The way I read it, it seems if a boy does the requirement, regardless of how well he's completed it,
+
+201
+00:15:53,000 --> 00:15:58,000
+how do you make sure that the same standard is applied across an entire troop
+
+202
+00:15:58,000 --> 00:16:03,000
+if everyone, from the Scoutmaster down to patrol leaders, are signing off on requirements?
+
+203
+00:16:03,000 --> 00:16:06,000
+David, you touched on a couple of important questions there.
+
+204
+00:16:06,000 --> 00:16:11,000
+So the difference between two basic approaches
+
+205
+00:16:11,000 --> 00:16:16,000
+You said, I believe if a boy does a requirement, regardless of how well he did it,
+
+206
+00:16:16,000 --> 00:16:18,000
+then he's completed the requirement.
+
+207
+00:16:18,000 --> 00:16:23,000
+and you've seen other Scoutmasters who really require a lot of practice and proficiency
+
+208
+00:16:23,000 --> 00:16:25,000
+before they sign the requirement.
+
+209
+00:16:25,000 --> 00:16:29,000
+That's really. I'll tell you. that's not an either or
+
+210
+00:16:29,000 --> 00:16:31,000
+It's really kind of a false dichotomy,
+
+211
+00:16:31,000 --> 00:16:34,000
+because both approaches are right, depending on the requirement.
+
+212
+00:16:34,000 --> 00:16:37,000
+And it's vital to read requirements carefully
+
+213
+00:16:37,000 --> 00:16:41,000
+because they usually clarify exactly how they should be fulfilled.
+
+214
+00:16:41,000 --> 00:16:46,000
+I don't remember exactly when I discovered this, but you know what
+
+215
+00:16:46,000 --> 00:16:48,000
+This is. it's really simple.
+
+216
+00:16:48,000 --> 00:16:52,000
+You have to actually sit down and just read the requirement.
+
+217
+00:16:52,000 --> 00:16:57,000
+Once you do that, everything kind of clarifies itself in a lot of ways.
+
+218
+00:16:57,000 --> 00:17:01,000
+Some have very specific standards, some are more open-ended.
+
+219
+00:17:01,000 --> 00:17:07,000
+So let's take a look at two random requirements I took from the tender foot rank.
+
+220
+00:17:07,000 --> 00:17:13,000
+One in part says: on a camp out, assist in preparing and cooking one of your patrol's meals.
+
+221
+00:17:13,000 --> 00:17:17,000
+And one says: demonstrate that you know how to tie the following knots.
+
+222
+00:17:17,000 --> 00:17:19,000
+Then it gives you the list of knots.
+
+223
+00:17:19,000 --> 00:17:24,000
+So the first requirement was written. so the Scout did something once and he was finished.
+
+224
+00:17:24,000 --> 00:17:29,000
+Okay, on the camp out, assist in preparing and cooking one of your patrol's meals.
+
+225
+00:17:29,000 --> 00:17:33,000
+The requirement doesn't read: assist preparing a meal six times
+
+226
+00:17:33,000 --> 00:17:37,000
+or help prepare a meal for a minimum of an hour.
+
+227
+00:17:37,000 --> 00:17:40,000
+There's no test for anything but participation there.
+
+228
+00:17:40,000 --> 00:17:42,000
+He does it once and he's completed the requirement,
+
+229
+00:17:42,000 --> 00:17:44,000
+Easy, right.
+
+230
+00:17:44,000 --> 00:17:47,000
+The second requirement reads a little differently.
+
+231
+00:17:47,000 --> 00:17:50,000
+It says: demonstrate that you know how.
+
+232
+00:17:50,000 --> 00:17:53,000
+Demonstrate that you know how
+
+233
+00:17:53,000 --> 00:17:57,000
+Well. that means skill or knowledge that a Scout's proficient in,
+
+234
+00:17:57,000 --> 00:17:59,000
+Not something that he did just once.
+
+235
+00:17:59,000 --> 00:18:03,000
+Once Scout comes to you, he wants you to check off the requirement for two half-hs.
+
+236
+00:18:03,000 --> 00:18:05,000
+He ties the knot in two seconds.
+
+237
+00:18:05,000 --> 00:18:10,000
+Once Scout comes to you, it takes him 60 seconds and he biffs it up a couple of times,
+
+238
+00:18:10,000 --> 00:18:13,000
+But they both satisfy the requirement right.
+
+239
+00:18:13,000 --> 00:18:16,000
+If they know how to tie the knot, you don't have to coach them through it.
+
+240
+00:18:16,000 --> 00:18:19,000
+They know how to tie the knot.
+
+241
+00:18:19,000 --> 00:18:23,000
+Now, if the boy comes to you and spends five minutes trying to figure out how to tie the knot-
+
+242
+00:18:23,000 --> 00:18:26,000
+well, does he know how to do it or not?
+
+243
+00:18:26,000 --> 00:18:28,000
+In my book he doesn't know how to do it,
+
+244
+00:18:28,000 --> 00:18:33,000
+So I don't call him a failure and send him off into the outer darkness.
+
+245
+00:18:33,000 --> 00:18:38,000
+It's like: okay, so you need to practice on that a little bit more.
+
+246
+00:18:38,000 --> 00:18:41,000
+If there's somebody that you can practice with- hey, one of the guys here-
+
+247
+00:18:41,000 --> 00:18:44,000
+they are pretty good at tying knots- just practice it a few times,
+
+248
+00:18:44,000 --> 00:18:46,000
+There's no big deal.
+
+249
+00:18:46,000 --> 00:18:50,000
+And then, when you know exactly how to tie that knot, come back to me and show me
+
+250
+00:18:50,000 --> 00:18:53,000
+and we'll sign the requirement off.
+
+251
+00:18:53,000 --> 00:18:58,000
+We need to look at signing requirements and boards of review
+
+252
+00:18:58,000 --> 00:19:01,000
+and Scout Master Conferences and things like that as a dialogue.
+
+253
+00:19:01,000 --> 00:19:06,000
+We have a dialogue with Scouts and we both decide if the Scout's ready.
+
+254
+00:19:06,000 --> 00:19:08,000
+Is he ready to have a requirement signed off?
+
+255
+00:19:08,000 --> 00:19:11,000
+Is he ready to move on to the next rank?
+
+256
+00:19:11,000 --> 00:19:17,000
+But reading the requirement and making sure we both understand what's supposed to happen
+
+257
+00:19:17,000 --> 00:19:21,000
+is going to take us forward in a very positive manner.
+
+258
+00:19:21,000 --> 00:19:24,000
+Now, like most adults who get involved in scouting
+
+259
+00:19:24,000 --> 00:19:29,000
+somewhere along the way, I got upset that my Scouts didn't seem to know their skills.
+
+260
+00:19:29,000 --> 00:19:32,000
+Everybody encounters this at one point.
+
+261
+00:19:32,000 --> 00:19:34,000
+Now that leads us to react in several different ways.
+
+262
+00:19:34,000 --> 00:19:39,000
+Me, I kind of started to crack down on things and I started requiring all kinds of things
+
+263
+00:19:39,000 --> 00:19:44,000
+that the actual written requirements of the Scout handbook don't.
+
+264
+00:19:44,000 --> 00:19:46,000
+Then we start thinking about fairness.
+
+265
+00:19:46,000 --> 00:19:49,000
+Well, how can I require one Scout to tie a knot in 10 seconds
+
+266
+00:19:49,000 --> 00:19:52,000
+and let another one go if he takes 30 seconds?
+
+267
+00:19:52,000 --> 00:19:56,000
+And then we sit down and we have an extra cup of coffee and we start writing
+
+268
+00:19:56,000 --> 00:20:01,000
+And I have seen pages and pages of different requirement standards that people have written in-
+
+269
+00:20:01,000 --> 00:20:04,000
+And you know it's all reasonably good-hearted-
+
+270
+00:20:04,000 --> 00:20:07,000
+and that they're trying to standardize things and they're trying to make it work,
+
+271
+00:20:07,000 --> 00:20:11,000
+But I got to tell you that's not scouting.
+
+272
+00:20:11,000 --> 00:20:13,000
+That's really not scouting.
+
+273
+00:20:13,000 --> 00:20:17,000
+What most of us end up discovering in the end is that advancement is only an indication
+
+274
+00:20:17,000 --> 00:20:20,000
+of how well the program is impacting the Scout.
+
+275
+00:20:20,000 --> 00:20:26,000
+It's only part of the picture and it's based on the effort of individual Scouts.
+
+276
+00:20:26,000 --> 00:20:29,000
+When youth leaders- or adults for that matter- sign off requirements,
+
+277
+00:20:29,000 --> 00:20:31,000
+there's learning on both sides of the equation.
+
+278
+00:20:31,000 --> 00:20:33,000
+It's just not proficiency we're looking for.
+
+279
+00:20:33,000 --> 00:20:35,000
+It's overall growth and participation.
+
+280
+00:20:35,000 --> 00:20:39,000
+It's successively more challenging activities and skills.
+
+281
+00:20:39,000 --> 00:20:42,000
+Scouts advance when they do the things that Scouts do
+
+282
+00:20:42,000 --> 00:20:45,000
+not, because they satisfy requirements.
+
+283
+00:20:45,000 --> 00:20:48,000
+So I would encourage you to stop thinking about requirements
+
+284
+00:20:48,000 --> 00:20:51,000
+and start thinking about how the program reaches an individual Scout.
+
+285
+00:20:51,000 --> 00:20:54,000
+This can be a little difficult because we usually get off on the wrong foot
+
+286
+00:20:54,000 --> 00:20:59,000
+in Cubs, where everything seems to be about earning a patch or a belt loop.
+
+287
+00:20:59,000 --> 00:21:02,000
+Boys pick up on that quickly and they start looking at everything they do
+
+288
+00:21:02,000 --> 00:21:05,000
+as a way to get the next shiny object
+
+289
+00:21:05,000 --> 00:21:08,000
+And, being boys, they start to find the quickest route to being able to say
+
+290
+00:21:08,000 --> 00:21:09,000
+I'm done.
+
+291
+00:21:09,000 --> 00:21:12,000
+A lot of times we get so focused on checking off lists
+
+292
+00:21:12,000 --> 00:21:15,000
+that we're in danger of missing the bigger picture.
+
+293
+00:21:15,000 --> 00:21:18,000
+As for uniform standards, in a troop
+
+294
+00:21:18,000 --> 00:21:21,000
+about one person should be signing off the requirement
+
+295
+00:21:21,000 --> 00:21:23,000
+with exactly the same standard as the other person.
+
+296
+00:21:23,000 --> 00:21:26,000
+I don't think that that's very important. to tell you the truth,
+
+297
+00:21:26,000 --> 00:21:29,000
+Did the Scout satisfy someone empowered to sign the requirement?
+
+298
+00:21:29,000 --> 00:21:31,000
+That's all that's needed.
+
+299
+00:21:31,000 --> 00:21:34,000
+When you go to Scout Camp, you're going to check in at the pool
+
+300
+00:21:34,000 --> 00:21:36,000
+and you're going to do a swim test.
+
+301
+00:21:36,000 --> 00:21:38,000
+So watch the swim test with this in mind sometime.
+
+302
+00:21:38,000 --> 00:21:41,000
+The counselors: what do they want out of the swim test?
+
+303
+00:21:41,000 --> 00:21:44,000
+They want to be sure that a Scout can swim a given distance,
+
+304
+00:21:44,000 --> 00:21:47,000
+that he knows a resting stroke, for instance, that he can tread water.
+
+305
+00:21:47,000 --> 00:21:50,000
+Beyond that, it's not about uniformity at all.
+
+306
+00:21:50,000 --> 00:21:53,000
+A Scout on the swim team at the local pool will jump in
+
+307
+00:21:53,000 --> 00:21:55,000
+and cuts through the water like a pro.
+
+308
+00:21:55,000 --> 00:21:58,000
+A Scout who'd rather be doing anything else than swimming
+
+309
+00:21:58,000 --> 00:22:02,000
+is going to jump in and splash and sputter his way through the test.
+
+310
+00:22:02,000 --> 00:22:04,000
+Maybe he'll finish it, maybe he won't,
+
+311
+00:22:04,000 --> 00:22:07,000
+But if he finishes it he completes it.
+
+312
+00:22:07,000 --> 00:22:09,000
+So does the guy on the swim team.
+
+313
+00:22:09,000 --> 00:22:11,000
+Did the swim team guy do a better job?
+
+314
+00:22:11,000 --> 00:22:14,000
+Yeah, probably if you were judging it that way.
+
+315
+00:22:14,000 --> 00:22:18,000
+But the idea is the impact on the Scout right.
+
+316
+00:22:18,000 --> 00:22:21,000
+The idea is the impact on the Scout
+
+317
+00:22:21,000 --> 00:22:23,000
+Did our guy who jumped in and sputtered his way through
+
+318
+00:22:23,000 --> 00:22:26,000
+and kind of splashed a lot, he finished- it
+
+319
+00:22:26,000 --> 00:22:31,000
+Was his effort, any less than the guy on the swim team.
+
+320
+00:22:31,000 --> 00:22:32,000
+Maybe his effort was more,
+
+321
+00:22:32,000 --> 00:22:34,000
+Maybe he had more to overcome there.
+
+322
+00:22:34,000 --> 00:22:37,000
+So advancement very highly individualized.
+
+323
+00:22:37,000 --> 00:22:39,000
+And if that doesn't convince you,
+
+324
+00:22:39,000 --> 00:22:42,000
+think about that test at 100 different camps.
+
+325
+00:22:42,000 --> 00:22:44,000
+They're all doing it exactly the same right.
+
+326
+00:22:44,000 --> 00:22:45,000
+No way.
+
+327
+00:22:45,000 --> 00:22:47,000
+I mean they're using the same standard,
+
+328
+00:22:47,000 --> 00:22:50,000
+But the counselors at 100 different camps
+
+329
+00:22:50,000 --> 00:22:53,000
+are not going to administer the test exactly the same way
+
+330
+00:22:53,000 --> 00:22:55,000
+and off of the same script.
+
+331
+00:22:55,000 --> 00:22:56,000
+No,
+
+332
+00:22:56,000 --> 00:22:58,000
+The end result is Scouts have demonstrated
+
+333
+00:22:58,000 --> 00:23:00,000
+they can safely use the pool.
+
+334
+00:23:00,000 --> 00:23:02,000
+That's all that really matters in the end.
+
+335
+00:23:02,000 --> 00:23:05,000
+If we observed and evaluated the same test in 100 camps,
+
+336
+00:23:05,000 --> 00:23:07,000
+we'd probably determine that in some camps
+
+337
+00:23:07,000 --> 00:23:10,000
+it was a little harder to pass the test than it is in others,
+
+338
+00:23:10,000 --> 00:23:12,000
+But that there were common elements in the way
+
+339
+00:23:12,000 --> 00:23:14,000
+each test was administered.
+
+340
+00:23:14,000 --> 00:23:15,000
+Now, if that doesn't come in,
+
+341
+00:23:15,000 --> 00:23:17,000
+you should start thinking about every Scout
+
+342
+00:23:17,000 --> 00:23:19,000
+taking any merit badge in a given year.
+
+343
+00:23:19,000 --> 00:23:22,000
+Now how many differences in instruction and evaluation
+
+344
+00:23:22,000 --> 00:23:25,000
+are there going to be? for you know,
+
+345
+00:23:25,000 --> 00:23:29,000
+40,000 Scouts working with 40,000 different counselors
+
+346
+00:23:29,000 --> 00:23:31,000
+earning the same merit badge,
+
+347
+00:23:31,000 --> 00:23:34,000
+Should we attempt to judge which Scout
+
+348
+00:23:34,000 --> 00:23:36,000
+did a better job of the merit badge
+
+349
+00:23:36,000 --> 00:23:39,000
+or which counselor did a better job of instruction?
+
+350
+00:23:39,000 --> 00:23:41,000
+I really don't think so.
+
+351
+00:23:41,000 --> 00:23:44,000
+As long as a Scout satisfies somebody
+
+352
+00:23:44,000 --> 00:23:48,000
+empowered to sign the requirement,
+
+353
+00:23:48,000 --> 00:23:50,000
+that's enough.
+
+354
+00:23:50,000 --> 00:23:52,000
+Uniformity to me not important.
+
+355
+00:23:52,000 --> 00:23:54,000
+What's important is how the program
+
+356
+00:23:54,000 --> 00:23:56,000
+reaches the individual Scout.
+
+357
+00:24:11,000 --> 00:24:16,000
+Well, thanks for listening to another edition
+
+358
+00:24:16,000 --> 00:24:18,000
+of the Scoutmaster Podcast.
+
+359
+00:24:18,000 --> 00:24:20,000
+Here's how to keep in touch.
+
+360
+00:24:20,000 --> 00:24:22,000
+First, you can read the Scoutmaster blog
+
+361
+00:24:22,000 --> 00:24:25,000
+at scoutmastercgcom.
+
+362
+00:24:25,000 --> 00:24:27,000
+While you're there, you can subscribe to the
+
+363
+00:24:27,000 --> 00:24:29,000
+Scoutmaster newsletter, which is a monthly digest
+
+364
+00:24:29,000 --> 00:24:31,000
+of the Scoutmaster blog and podcast,
+
+365
+00:24:31,000 --> 00:24:33,000
+with some great scouting resources
+
+366
+00:24:33,000 --> 00:24:35,000
+around a monthly theme.
+
+367
+00:24:35,000 --> 00:24:37,000
+You can also subscribe to the podcast on iTunes
+
+368
+00:24:37,000 --> 00:24:39,000
+and when you do, feel free to leave a comment
+
+369
+00:24:39,000 --> 00:24:41,000
+or review or a rating.
+
+370
+00:24:41,000 --> 00:24:44,000
+You can also access the podcast on your mobile device
+
+371
+00:24:44,000 --> 00:24:46,000
+through Stitcher Smart Radio.
+
+372
+00:24:46,000 --> 00:24:49,000
+You can get details about that at
+
+373
+00:24:49,000 --> 00:24:51,000
+stitchercom.
+
+374
+00:24:58,000 --> 00:25:00,000
+If you can calm, leave a voicemail, comment
+
+375
+00:25:00,000 --> 00:25:05,000
+or question at 4-8-4-7-3-4-0-0-0-2..
+
+376
+00:25:05,000 --> 00:25:07,000
+And you can also experience the wonders
+
+377
+00:25:07,000 --> 00:25:09,000
+of the ScoutmasterCGcom through the vast
+
+378
+00:25:09,000 --> 00:25:11,000
+panorama of social media outlets.
+
+379
+00:25:11,000 --> 00:25:13,000
+That's right. you can follow us
+
+380
+00:25:13,000 --> 00:25:16,000
+on Scoutmaster blog at Facebook.
+
+381
+00:25:16,000 --> 00:25:19,000
+You can tweet us at ScoutmasterCG
+
+382
+00:25:19,000 --> 00:25:21,000
+on Twitter
+
+383
+00:25:21,000 --> 00:25:23,000
+And, for admittance to the exclusive
+
+384
+00:25:23,000 --> 00:25:25,000
+ScoutmasterCG circle.
+
+385
+00:25:25,000 --> 00:25:28,000
+search for Clark Green on Google Plus.
+
+386
+00:25:33,000 --> 00:25:35,000
+You can also email me, Clark Green,
+
+387
+00:25:35,000 --> 00:25:38,000
+your comments and questions and wild ideas
+
+388
+00:25:38,000 --> 00:25:42,000
+at ScoutmasterCG at Verizonnet.
+
+389
+00:25:42,000 --> 00:25:44,000
+The Scoutmaster blog and the Scoutmaster podcast
+
+390
+00:25:44,000 --> 00:25:46,000
+are not official publications of the Boy Scouts
+
+391
+00:25:46,000 --> 00:25:48,000
+of America, nor are they endorsed or sponsored
+
+392
+00:25:48,000 --> 00:25:50,000
+by the Boy Scouts of America.
+
+393
+00:25:50,000 --> 00:25:52,000
+Hey, it's just me talking into a microphone,
+
+394
+00:25:52,000 --> 00:25:54,000
+trying to lend a hand to scout leaders
+
+395
+00:25:54,000 --> 00:25:57,000
+and maybe have a little bit of fun along the way.
+
+396
+00:26:00,000 --> 00:26:02,000
+Before we leave you this week,
+
+397
+00:26:02,000 --> 00:26:04,000
+we want to hear from our founder,
+
+398
+00:26:04,000 --> 00:26:06,000
+Sir Robert.
+
+399
+00:26:06,000 --> 00:26:08,000
+I highly recommend
+
+400
+00:26:08,000 --> 00:26:10,000
+the Scoutmaster podcast.
+
+401
+00:26:10,000 --> 00:26:13,000
+Good luck to you and good camping,
+
+402
+00:26:15,000 --> 00:26:18,000
+Why? thank you, sir, Until next time
+
+403
+00:26:34,000 --> 00:26:36,000
+You.
+

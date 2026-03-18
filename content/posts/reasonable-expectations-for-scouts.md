@@ -2,7 +2,9 @@
 title: "Reasonable Expectations for Scouts"
 date: 2013-10-12
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20140831185341/http://scoutmastercg.com/reasonable-expectations-for-scouts/?replytocom=3121"
 ---
 

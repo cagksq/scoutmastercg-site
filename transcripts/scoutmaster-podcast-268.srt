@@ -1,0 +1,4208 @@
+1
+00:00:00,000 --> 00:00:04,320
+I'm Jonathan Brower and I'm a scout master with troop 19 in
+
+2
+00:00:04,320 --> 00:00:05,400
+Fort Wayne, Indiana.
+
+3
+00:00:06,200 --> 00:00:08,960
+This edition of the scout master podcast is sponsored by
+
+4
+00:00:08,960 --> 00:00:10,040
+backers like me.
+
+5
+00:00:10,600 --> 00:00:12,480
+And now the old scout master.
+
+6
+00:00:19,520 --> 00:00:21,040
+Are you familiar with Horace Keppar?
+
+7
+00:00:21,120 --> 00:00:22,440
+He's one of my favorite authors.
+
+8
+00:00:22,440 --> 00:00:24,760
+He wrote early in the last century about camping, and
+
+9
+00:00:24,760 --> 00:00:29,200
+quite an outdoorsman, and he had this to say. to be sure,
+
+10
+00:00:29,480 --> 00:00:33,040
+even though a man rigs up his own outfit, he never
+
+11
+00:00:33,040 --> 00:00:35,760
+gets it quite to suit him.
+
+12
+00:00:36,480 --> 00:00:40,879
+Every season sees the downfall of some cherished scheme, the
+
+13
+00:00:40,879 --> 00:00:43,200
+failure of some fond contrivance.
+
+14
+00:00:43,400 --> 00:00:46,920
+Every winter sees you again fussing over your kit,
+
+15
+00:00:46,920 --> 00:00:50,879
+altering this, substituting that and flogging your
+
+16
+00:00:50,879 --> 00:00:54,160
+wits with the same old problem of how to save weight
+
+17
+00:00:54,160 --> 00:00:56,800
+and bulk without the sacrifice of utility.
+
+18
+00:00:56,960 --> 00:01:00,200
+All thoroughbred campers do this regularly as the
+
+19
+00:01:00,200 --> 00:01:03,600
+birds come back in spring, and their kind has been
+
+20
+00:01:03,600 --> 00:01:05,200
+doing it since the world began.
+
+21
+00:01:05,200 --> 00:01:06,200
+It's good for us.
+
+22
+00:01:06,600 --> 00:01:10,920
+If some misguided genius should invent a camping
+
+23
+00:01:10,920 --> 00:01:14,720
+equipment that nobody could find fault with, half our
+
+24
+00:01:14,720 --> 00:01:16,920
+pleasure in life would be swept away.
+
+25
+00:01:19,560 --> 00:01:21,480
+Oh, we do love our gear, don't we?
+
+26
+00:01:21,600 --> 00:01:22,960
+And you know that hasn't changed.
+
+27
+00:01:23,320 --> 00:01:25,560
+It hasn't changed since the early part of the last
+
+28
+00:01:25,600 --> 00:01:27,960
+century at least, when Horace Keppart wrote this.
+
+29
+00:01:28,240 --> 00:01:30,840
+That comes to mind because it's part of a PDF
+
+30
+00:01:31,440 --> 00:01:34,640
+that I have to offer at ScoutMasterCGcom, called
+
+31
+00:01:34,880 --> 00:01:36,480
+Going Camping, Go Light.
+
+32
+00:01:36,520 --> 00:01:38,480
+I'll have a link to it in the post that contains
+
+33
+00:01:38,480 --> 00:01:39,480
+this podcast,
+
+34
+00:01:39,640 --> 00:01:43,240
+And this happens to be podcast number 268..
+
+35
+00:01:55,560 --> 00:02:00,560
+Welcome back to the ScoutMaster podcast.
+
+36
+00:02:00,560 --> 00:02:12,360
+This is Clark Green
+
+37
+00:02:12,960 --> 00:02:15,280
+Looking in the mailbag. we heard this week from
+
+38
+00:02:15,280 --> 00:02:18,440
+John Moore, who is the committee chair of PAC and
+
+39
+00:02:18,440 --> 00:02:21,320
+Troop 130 in Geneva, Switzerland.
+
+40
+00:02:21,480 --> 00:02:23,880
+John wrote to say I'd like to request using
+
+41
+00:02:23,880 --> 00:02:25,920
+some things I found on your blog for a new
+
+42
+00:02:25,920 --> 00:02:29,280
+parent session with our graduating Weeblos parents.
+
+43
+00:02:29,440 --> 00:02:31,240
+There are some things that I find useful and I
+
+44
+00:02:31,240 --> 00:02:32,120
+couldn't have said better.
+
+45
+00:02:32,120 --> 00:02:34,920
+I hope you won't mind if I extract some of your
+
+46
+00:02:34,920 --> 00:02:36,560
+points to share with the parents.
+
+47
+00:02:36,920 --> 00:02:38,480
+I'm glad I found your blog.
+
+48
+00:02:38,720 --> 00:02:40,440
+Thank you for sharing your experience with the
+
+49
+00:02:40,440 --> 00:02:43,400
+world. Well, John, thank you for your kind words.
+
+50
+00:02:43,400 --> 00:02:45,519
+I'm glad you're finding what we've produced
+
+51
+00:02:45,519 --> 00:02:48,280
+useful and, naturally,
+
+52
+00:02:48,320 --> 00:02:50,560
+Please feel free to use anything I've created
+
+53
+00:02:50,560 --> 00:02:52,960
+to advance the greater cause of scouting.
+
+54
+00:02:53,000 --> 00:02:56,320
+All I ask is that you let people know where you
+
+55
+00:02:56,320 --> 00:02:58,280
+found it, And that goes for you too
+
+56
+00:02:58,320 --> 00:03:00,840
+And anything that I've come up with. if you want
+
+57
+00:03:00,840 --> 00:03:02,640
+to use it, you don't need to ask my permission.
+
+58
+00:03:02,640 --> 00:03:05,880
+Just go ahead, and all I ask is that you let
+
+59
+00:03:05,880 --> 00:03:07,080
+people know where you found it.
+
+60
+00:03:07,480 --> 00:03:08,240
+There you go.
+
+61
+00:03:08,400 --> 00:03:10,160
+Hey, you're going to love this email.
+
+62
+00:03:10,240 --> 00:03:12,000
+This is. this is really great.
+
+63
+00:03:12,120 --> 00:03:14,480
+And this is from a reader and listener, Robert
+
+64
+00:03:14,480 --> 00:03:16,920
+Williams, who's a new Scout Master,
+
+65
+00:03:17,120 --> 00:03:20,360
+And he said: we just had our first real patrol
+
+66
+00:03:20,360 --> 00:03:22,160
+leaders council meeting in a long time.
+
+67
+00:03:22,160 --> 00:03:23,280
+It was fantastic.
+
+68
+00:03:23,600 --> 00:03:26,240
+I followed your advice as closely as possible,
+
+69
+00:03:26,560 --> 00:03:29,240
+although I probably should have been a bit
+
+70
+00:03:29,240 --> 00:03:31,320
+stricter in living how much I talk.
+
+71
+00:03:31,320 --> 00:03:34,160
+Well, Robert, everybody's got to deal with that.
+
+72
+00:03:34,240 --> 00:03:36,519
+I can talk the horns off a billy goat and
+
+73
+00:03:36,519 --> 00:03:38,000
+the feet off an iron pot,
+
+74
+00:03:38,040 --> 00:03:39,880
+So I understand what you're dealing with.
+
+75
+00:03:39,920 --> 00:03:42,200
+But anyway, Robert goes on to say: before
+
+76
+00:03:42,200 --> 00:03:44,480
+the meeting started, I distributed the patrol
+
+77
+00:03:44,480 --> 00:03:47,079
+leader and senior patrol leader handbooks
+
+78
+00:03:47,079 --> 00:03:48,120
+I had just purchased.
+
+79
+00:03:48,440 --> 00:03:52,000
+I sat down and said: OK, so what do you
+
+80
+00:03:52,040 --> 00:03:53,200
+all think we should do?
+
+81
+00:03:53,440 --> 00:03:55,360
+What's a patrol leaders council for?
+
+82
+00:03:55,560 --> 00:03:57,440
+The senior patrol leader said I'll bet
+
+83
+00:03:57,440 --> 00:03:59,400
+it's in the books and started flipping
+
+84
+00:03:59,400 --> 00:04:00,280
+through the pages.
+
+85
+00:04:00,400 --> 00:04:02,480
+He found the agenda in the senior patrol
+
+86
+00:04:02,480 --> 00:04:04,240
+leaders handbook and just started
+
+87
+00:04:04,240 --> 00:04:05,440
+working his way through it.
+
+88
+00:04:05,680 --> 00:04:07,600
+He got to the part about patrol reports
+
+89
+00:04:07,600 --> 00:04:09,520
+and he said: OK, we'll go around and turn.
+
+90
+00:04:09,600 --> 00:04:11,240
+Here's what I want you to tell me.
+
+91
+00:04:11,280 --> 00:04:13,680
+At that point I excuse myself to get
+
+92
+00:04:13,680 --> 00:04:15,360
+up and get a cup of hot chocolate.
+
+93
+00:04:15,360 --> 00:04:17,120
+I came back a couple of minutes later
+
+94
+00:04:17,120 --> 00:04:19,440
+and the patrol reports were going well.
+
+95
+00:04:19,680 --> 00:04:21,440
+One of the patrol leaders brought up a
+
+96
+00:04:21,440 --> 00:04:24,320
+behavioral issue and they discussed
+
+97
+00:04:24,320 --> 00:04:25,880
+that. and the senior patrol leaders said:
+
+98
+00:04:25,880 --> 00:04:26,960
+well, have you talked to him?
+
+99
+00:04:26,960 --> 00:04:28,280
+Have you talked it over with the other
+
+100
+00:04:28,280 --> 00:04:30,280
+scouts? If it keeps happening, come to
+
+101
+00:04:30,280 --> 00:04:32,719
+me and if we need to, we'll go to Mr
+
+102
+00:04:32,719 --> 00:04:34,360
+Williams. At the beginning of their
+
+103
+00:04:34,360 --> 00:04:36,280
+meeting they were looking at me a lot,
+
+104
+00:04:36,320 --> 00:04:38,360
+asking me questions and looking for my
+
+105
+00:04:38,360 --> 00:04:40,840
+approval. So I did a lot of real,
+
+106
+00:04:40,840 --> 00:04:42,880
+exaggerated things like looking
+
+107
+00:04:42,880 --> 00:04:45,280
+blankly for a few seconds and then
+
+108
+00:04:45,280 --> 00:04:46,840
+saying melodramatically:
+
+109
+00:04:47,040 --> 00:04:49,159
+Oh did you mean me?
+
+110
+00:04:49,320 --> 00:04:50,760
+What were you talking to me for?
+
+111
+00:04:50,800 --> 00:04:52,640
+And I looked behind me, feigning
+
+112
+00:04:52,640 --> 00:04:54,560
+confusion once in a while, seeing
+
+113
+00:04:54,560 --> 00:04:55,680
+if I could figure out who they were
+
+114
+00:04:55,680 --> 00:04:57,120
+talking to.
+
+115
+00:04:57,120 --> 00:04:59,480
+Finally, I had the assistant senior
+
+116
+00:04:59,480 --> 00:05:01,159
+patrol leader read the paragraph where
+
+117
+00:05:01,159 --> 00:05:02,960
+it says the scout master is only
+
+118
+00:05:02,960 --> 00:05:05,760
+there for advice and guidance.
+
+119
+00:05:05,800 --> 00:05:07,320
+And by the end of the meeting they
+
+120
+00:05:07,320 --> 00:05:08,840
+were mostly speaking to each other in:
+
+121
+00:05:08,840 --> 00:05:10,560
+the senior patrol leader, not me.
+
+122
+00:05:10,640 --> 00:05:12,000
+When the senior patrol leader got to
+
+123
+00:05:12,000 --> 00:05:13,800
+the big event planning section on the
+
+124
+00:05:13,800 --> 00:05:16,080
+agenda, he started dividing up the
+
+125
+00:05:16,080 --> 00:05:18,400
+jobs amongst the patrols and we're
+
+126
+00:05:18,400 --> 00:05:20,120
+having a first year orientation
+
+127
+00:05:20,120 --> 00:05:21,040
+camp out soon
+
+128
+00:05:21,280 --> 00:05:22,640
+Now. historically that camp
+
+129
+00:05:22,640 --> 00:05:25,320
+out's mostly been planned by adults,
+
+130
+00:05:25,440 --> 00:05:27,440
+So I was excited to see the senior
+
+131
+00:05:27,440 --> 00:05:29,360
+patrol leader go ahead and plan
+
+132
+00:05:29,360 --> 00:05:31,240
+it and divide the responsibilities
+
+133
+00:05:31,240 --> 00:05:32,200
+amongst patrols.
+
+134
+00:05:32,680 --> 00:05:34,200
+I probably did a little too much
+
+135
+00:05:34,200 --> 00:05:35,800
+talking here, asking some questions
+
+136
+00:05:35,800 --> 00:05:37,200
+and making a few suggestions,
+
+137
+00:05:37,480 --> 00:05:39,120
+But the patrol leaders council was
+
+138
+00:05:39,120 --> 00:05:40,760
+making all the decisions.
+
+139
+00:05:41,000 --> 00:05:42,200
+Then they got to the part where
+
+140
+00:05:42,200 --> 00:05:43,400
+they're supposed to plan for the
+
+141
+00:05:43,400 --> 00:05:44,640
+next few troop meetings.
+
+142
+00:05:45,120 --> 00:05:46,680
+They did get a little off track
+
+143
+00:05:46,680 --> 00:05:47,840
+and I had to redirect them a
+
+144
+00:05:47,840 --> 00:05:49,080
+little. but they realized they
+
+145
+00:05:49,080 --> 00:05:51,120
+should use those meetings to get
+
+146
+00:05:51,120 --> 00:05:52,599
+ready for the camp out and they
+
+147
+00:05:52,599 --> 00:05:54,520
+started deciding what to do each
+
+148
+00:05:54,520 --> 00:05:54,800
+week.
+
+149
+00:05:55,200 --> 00:05:56,640
+So they planned out those next
+
+150
+00:05:56,640 --> 00:05:58,159
+two weeks and it was a beautiful
+
+151
+00:05:58,159 --> 00:05:58,840
+thing to see.
+
+152
+00:05:59,240 --> 00:06:01,719
+I was just blown away watching
+
+153
+00:06:01,719 --> 00:06:03,520
+these young men take charge and
+
+154
+00:06:03,520 --> 00:06:04,240
+make plans.
+
+155
+00:06:04,240 --> 00:06:06,280
+I really didn't think it was
+
+156
+00:06:06,280 --> 00:06:06,799
+going to work.
+
+157
+00:06:07,120 --> 00:06:08,440
+The senior patrol leader always
+
+158
+00:06:08,440 --> 00:06:10,320
+seemed so uncertain of himself.
+
+159
+00:06:10,680 --> 00:06:13,640
+But now I see if you just give
+
+160
+00:06:13,640 --> 00:06:15,240
+them the room and set some
+
+161
+00:06:15,240 --> 00:06:17,680
+expectations, they'll work to
+
+162
+00:06:17,680 --> 00:06:18,440
+achieve that.
+
+163
+00:06:18,880 --> 00:06:20,520
+If you elbow them out of the way
+
+164
+00:06:20,520 --> 00:06:22,440
+and just do it for them, they'll
+
+165
+00:06:22,440 --> 00:06:23,960
+sit quietly and let you take
+
+166
+00:06:23,960 --> 00:06:24,360
+over.
+
+167
+00:06:24,440 --> 00:06:25,640
+This patrol leaders council
+
+168
+00:06:25,640 --> 00:06:27,280
+meeting ran about 45 minutes
+
+169
+00:06:27,280 --> 00:06:28,480
+and honestly I wish they'd had
+
+170
+00:06:28,480 --> 00:06:30,520
+more time because I was so
+
+171
+00:06:30,520 --> 00:06:31,720
+interested in what they had to
+
+172
+00:06:31,720 --> 00:06:32,360
+discuss.
+
+173
+00:06:32,680 --> 00:06:34,040
+I only had to provide a few
+
+174
+00:06:34,040 --> 00:06:35,000
+nudges here and there.
+
+175
+00:06:35,280 --> 00:06:36,680
+I may have overdone it on
+
+176
+00:06:36,680 --> 00:06:38,320
+praising them, because at one
+
+177
+00:06:38,320 --> 00:06:40,360
+point they asked if I was being
+
+178
+00:06:40,360 --> 00:06:42,440
+sarcastic, but I was actually
+
+179
+00:06:42,440 --> 00:06:43,400
+very sincere.
+
+180
+00:06:43,720 --> 00:06:45,400
+It went 10 times better than I
+
+181
+00:06:45,400 --> 00:06:47,240
+expected and I told them. so
+
+182
+00:06:47,600 --> 00:06:49,480
+They expressed mock offense that
+
+183
+00:06:49,480 --> 00:06:51,560
+I had such low expectations of
+
+184
+00:06:51,560 --> 00:06:51,760
+them.
+
+185
+00:06:52,000 --> 00:06:53,160
+Thanks for all your help.
+
+186
+00:06:53,480 --> 00:06:55,520
+This is a very promising start
+
+187
+00:06:55,720 --> 00:06:57,920
+and I'm very excited. so far,
+
+188
+00:06:57,920 --> 00:06:58,480
+so good.
+
+189
+00:06:58,480 --> 00:07:01,040
+Well, Robert, that's a fantastic
+
+190
+00:07:01,040 --> 00:07:02,800
+report and I'll repeat exactly
+
+191
+00:07:02,800 --> 00:07:03,600
+what Robert said.
+
+192
+00:07:03,960 --> 00:07:05,800
+Now I see that if you just
+
+193
+00:07:05,800 --> 00:07:07,840
+give them room and set some
+
+194
+00:07:07,840 --> 00:07:09,480
+expectations, they'll work to
+
+195
+00:07:09,480 --> 00:07:10,240
+achieve that.
+
+196
+00:07:10,480 --> 00:07:12,040
+But if you elbow them out of
+
+197
+00:07:12,040 --> 00:07:13,400
+the way and just do it for them,
+
+198
+00:07:13,400 --> 00:07:14,800
+they'll sit quietly and let you
+
+199
+00:07:14,800 --> 00:07:15,480
+take over.
+
+200
+00:07:15,720 --> 00:07:16,600
+Couldn't have said it better
+
+201
+00:07:16,600 --> 00:07:17,520
+myself. Robert,
+
+202
+00:07:17,840 --> 00:07:19,840
+That's a great report and I
+
+203
+00:07:19,840 --> 00:07:21,440
+expect to keep hearing great
+
+204
+00:07:21,440 --> 00:07:22,960
+things about how this is
+
+205
+00:07:22,960 --> 00:07:23,800
+working out for you.
+
+206
+00:07:24,120 --> 00:07:25,680
+Hey, over on the blog this week.
+
+207
+00:07:26,040 --> 00:07:27,640
+Oh boy, we got a lot of
+
+208
+00:07:27,640 --> 00:07:30,000
+attention with this post titled
+
+209
+00:07:30,280 --> 00:07:31,960
+Stop Being a Merit Badge
+
+210
+00:07:31,960 --> 00:07:32,600
+Counselor.
+
+211
+00:07:32,920 --> 00:07:34,520
+Lots of comments and a big
+
+212
+00:07:34,520 --> 00:07:36,640
+discussion about several things
+
+213
+00:07:36,640 --> 00:07:37,960
+to do with merit badges
+
+214
+00:07:38,200 --> 00:07:39,920
+Once that was posted this past
+
+215
+00:07:39,920 --> 00:07:41,120
+week. go over to
+
+216
+00:07:41,120 --> 00:07:42,760
+scoutmastercgcom
+
+217
+00:07:43,160 --> 00:07:44,880
+and read the post, but make
+
+218
+00:07:44,880 --> 00:07:45,880
+sure you read the comments
+
+219
+00:07:45,880 --> 00:07:47,440
+to very interesting discussion.
+
+220
+00:07:47,680 --> 00:07:49,440
+I also posted my first
+
+221
+00:07:49,440 --> 00:07:52,320
+impressions of a new tent
+
+222
+00:07:52,400 --> 00:07:53,800
+that I have to review, the
+
+223
+00:07:53,800 --> 00:07:56,680
+Teton Mountain Ultra 3..
+
+224
+00:07:57,320 --> 00:07:58,760
+Looks very, very promising.
+
+225
+00:07:58,760 --> 00:08:00,680
+Looks like a great choice at
+
+226
+00:08:00,680 --> 00:08:02,120
+a good price for scouts.
+
+227
+00:08:02,280 --> 00:08:03,440
+Once again over on
+
+228
+00:08:03,440 --> 00:08:05,120
+scoutmastercgcom.
+
+229
+00:08:05,640 --> 00:08:07,159
+Let's see we had two or three
+
+230
+00:08:07,159 --> 00:08:09,240
+great live chats this week.
+
+231
+00:08:09,360 --> 00:08:10,680
+Keep an eye on my Facebook and
+
+232
+00:08:10,680 --> 00:08:12,920
+Twitter feeds about the live
+
+233
+00:08:12,920 --> 00:08:13,480
+chats.
+
+234
+00:08:13,719 --> 00:08:14,840
+They're mostly on weekday
+
+235
+00:08:14,840 --> 00:08:16,960
+mornings and a lot of people
+
+236
+00:08:16,960 --> 00:08:18,800
+stop through and sign in and
+
+237
+00:08:18,800 --> 00:08:19,800
+we chat for a bit.
+
+238
+00:08:19,920 --> 00:08:21,320
+And in addition to all of those
+
+239
+00:08:21,320 --> 00:08:22,640
+frequent fliers who normally
+
+240
+00:08:22,640 --> 00:08:25,200
+stop by, we chatted with
+
+241
+00:08:25,200 --> 00:08:27,040
+John Clements, who's from troop
+
+242
+00:08:27,120 --> 00:08:29,400
+692 in Castlebury, Florida.
+
+243
+00:08:29,680 --> 00:08:31,760
+Greg Brennam is a scout who's
+
+244
+00:08:31,760 --> 00:08:33,800
+a scoutmaster for troop 901
+
+245
+00:08:33,800 --> 00:08:35,040
+in Cypress, Texas.
+
+246
+00:08:35,440 --> 00:08:37,000
+Peter, who is an assistant
+
+247
+00:08:37,000 --> 00:08:39,000
+scoutmaster for troop 110 in
+
+248
+00:08:39,000 --> 00:08:40,400
+Millbury Massachusetts.
+
+249
+00:08:40,840 --> 00:08:42,200
+Monica, who is a troop
+
+250
+00:08:42,200 --> 00:08:43,040
+committee person.
+
+251
+00:08:43,200 --> 00:08:44,800
+Wendy, who is an assistant
+
+252
+00:08:44,800 --> 00:08:46,359
+scoutmaster in Illinois,
+
+253
+00:08:46,680 --> 00:08:48,040
+And Jeremy Jenkins, who's a
+
+254
+00:08:48,040 --> 00:08:49,359
+scoutmaster in China Grove,
+
+255
+00:08:49,359 --> 00:08:52,280
+North Carolina, with troop 315,
+
+256
+00:08:52,599 --> 00:08:54,040
+and Michael Cotter from
+
+257
+00:08:54,040 --> 00:08:55,599
+Columbus, Ohio, where he's a
+
+258
+00:08:55,599 --> 00:08:58,000
+den leader with PAC 41 and a
+
+259
+00:08:58,000 --> 00:08:59,319
+group scoutmaster with the
+
+260
+00:08:59,319 --> 00:09:02,479
+97th Lucas Sullivan scout
+
+261
+00:09:02,479 --> 00:09:03,959
+group, which is a group with
+
+262
+00:09:03,959 --> 00:09:05,120
+the Baden Powell Service
+
+263
+00:09:05,120 --> 00:09:05,920
+Association.
+
+264
+00:09:06,040 --> 00:09:07,520
+So before we go any further,
+
+265
+00:09:07,599 --> 00:09:09,640
+everything at scoutmastercgcom
+
+266
+00:09:09,719 --> 00:09:12,000
+is there to help you as a
+
+267
+00:09:12,000 --> 00:09:12,520
+scouter,
+
+268
+00:09:12,839 --> 00:09:14,120
+And I hear from people all
+
+269
+00:09:14,160 --> 00:09:15,440
+over the world who tell me
+
+270
+00:09:15,440 --> 00:09:16,080
+that it helps
+
+271
+00:09:16,240 --> 00:09:17,480
+And that's very, very
+
+272
+00:09:17,480 --> 00:09:18,160
+gratifying.
+
+273
+00:09:18,440 --> 00:09:20,000
+So to keep everything freely
+
+274
+00:09:20,000 --> 00:09:21,560
+available, I depend on people
+
+275
+00:09:21,560 --> 00:09:22,840
+just like you who become
+
+276
+00:09:22,840 --> 00:09:23,480
+backers.
+
+277
+00:09:23,800 --> 00:09:25,200
+Now it's an unusual idea,
+
+278
+00:09:25,200 --> 00:09:26,360
+So let me take a moment to
+
+279
+00:09:26,360 --> 00:09:27,640
+explain. If I was sending you
+
+280
+00:09:27,640 --> 00:09:29,880
+a paper magazine or a newsletter,
+
+281
+00:09:29,880 --> 00:09:31,240
+you'd expect there to be some
+
+282
+00:09:31,240 --> 00:09:32,640
+costs associated with that.
+
+283
+00:09:32,920 --> 00:09:34,320
+I need to pay printers and
+
+284
+00:09:34,320 --> 00:09:35,960
+authors and I need to pay
+
+285
+00:09:35,960 --> 00:09:36,560
+postage.
+
+286
+00:09:36,960 --> 00:09:38,840
+What happens these days is in
+
+287
+00:09:38,840 --> 00:09:40,640
+the digital world is pretty
+
+288
+00:09:40,640 --> 00:09:42,240
+similar to that newsletter,
+
+289
+00:09:42,760 --> 00:09:43,960
+because somebody has to
+
+290
+00:09:43,960 --> 00:09:45,440
+spend their time producing
+
+291
+00:09:45,440 --> 00:09:47,480
+the content and then incur the
+
+292
+00:09:47,480 --> 00:09:48,840
+expenses of publishing it,
+
+293
+00:09:49,000 --> 00:09:50,000
+And that's what I do.
+
+294
+00:09:50,600 --> 00:09:52,200
+And backers are the folks who
+
+295
+00:09:52,200 --> 00:09:53,520
+make a one time kind of
+
+296
+00:09:53,520 --> 00:09:55,480
+voluntary subscription payment,
+
+297
+00:09:55,640 --> 00:09:57,520
+and that money covers the
+
+298
+00:09:57,520 --> 00:09:58,680
+expenses of producing and
+
+299
+00:09:58,680 --> 00:10:00,240
+publishing what you find on
+
+300
+00:10:00,240 --> 00:10:02,960
+scoutmastercgcom, including
+
+301
+00:10:03,040 --> 00:10:04,160
+the podcast that you're
+
+302
+00:10:04,160 --> 00:10:05,400
+listening to right now.
+
+303
+00:10:05,880 --> 00:10:06,960
+So here's what I need you to
+
+304
+00:10:06,960 --> 00:10:08,920
+do: Go to scoutmastercgcom
+
+305
+00:10:08,920 --> 00:10:09,880
+sometime this week,
+
+306
+00:10:10,200 --> 00:10:11,400
+Click the support link at the
+
+307
+00:10:11,400 --> 00:10:12,320
+top of the page and you'll
+
+308
+00:10:12,320 --> 00:10:13,640
+find a number of options
+
+309
+00:10:14,000 --> 00:10:15,240
+That will make you a
+
+310
+00:10:15,240 --> 00:10:17,800
+scoutmastercgcom backer.
+
+311
+00:10:18,080 --> 00:10:19,600
+And I want to take a moment to
+
+312
+00:10:19,600 --> 00:10:21,040
+personally thank David
+
+313
+00:10:21,040 --> 00:10:23,040
+Goldenberg and Carson Boone,
+
+314
+00:10:23,280 --> 00:10:24,840
+who both have become backers
+
+315
+00:10:24,880 --> 00:10:26,520
+since the last podcast.
+
+316
+00:10:27,040 --> 00:10:28,000
+Once again go to
+
+317
+00:10:28,000 --> 00:10:29,800
+scoutmastercgcom, click the
+
+318
+00:10:29,800 --> 00:10:31,000
+support link at the top of the
+
+319
+00:10:31,000 --> 00:10:32,440
+page and become a backer this
+
+320
+00:10:32,440 --> 00:10:32,800
+week
+
+321
+00:10:33,160 --> 00:10:34,680
+And I'll thank you during my
+
+322
+00:10:34,680 --> 00:10:35,600
+next podcast.
+
+323
+00:10:35,800 --> 00:10:37,680
+Well, in this podcast I have
+
+324
+00:10:37,680 --> 00:10:39,240
+some email questions to answer,
+
+325
+00:10:39,440 --> 00:10:40,960
+But before I do that, in
+
+326
+00:10:40,960 --> 00:10:42,280
+scoutmaster ship in seven
+
+327
+00:10:42,280 --> 00:10:43,240
+minutes or less, we're going to
+
+328
+00:10:43,240 --> 00:10:45,240
+talk about who signs off rank
+
+329
+00:10:45,240 --> 00:10:47,000
+requirements and that'll take up
+
+330
+00:10:47,000 --> 00:10:48,240
+the remainder of the podcast.
+
+331
+00:10:48,240 --> 00:10:49,720
+So let's get started, shall
+
+332
+00:10:49,720 --> 00:10:52,720
+we scout master ship in seven
+
+333
+00:10:52,720 --> 00:10:55,240
+minutes or less?
+
+334
+00:11:03,040 --> 00:11:04,200
+I wanted to take a minute just
+
+335
+00:11:04,200 --> 00:11:05,880
+to cover this, because you'll
+
+336
+00:11:05,880 --> 00:11:07,880
+see in the email segment next
+
+337
+00:11:08,280 --> 00:11:09,400
+that I got a question about
+
+338
+00:11:09,400 --> 00:11:12,240
+patrol leaders signing off rank
+
+339
+00:11:12,240 --> 00:11:13,080
+requirements,
+
+340
+00:11:13,680 --> 00:11:15,560
+And I can't really remember a
+
+341
+00:11:15,560 --> 00:11:17,840
+time where patrol leaders in our
+
+342
+00:11:17,840 --> 00:11:19,800
+troop did not sign off rank
+
+343
+00:11:19,800 --> 00:11:20,600
+requirements.
+
+344
+00:11:20,840 --> 00:11:22,120
+So I'm always a little surprised
+
+345
+00:11:22,120 --> 00:11:22,960
+when people find this
+
+346
+00:11:22,960 --> 00:11:23,760
+unusual.
+
+347
+00:11:23,920 --> 00:11:26,360
+So I guess what I understand,
+
+348
+00:11:26,360 --> 00:11:27,880
+that this is not like
+
+349
+00:11:28,200 --> 00:11:30,440
+necessarily a common practice
+
+350
+00:11:30,680 --> 00:11:31,760
+in all troops.
+
+351
+00:11:32,200 --> 00:11:33,240
+So when we have a question
+
+352
+00:11:33,240 --> 00:11:34,440
+about something like this, what
+
+353
+00:11:34,440 --> 00:11:35,120
+do we want to do?
+
+354
+00:11:35,600 --> 00:11:36,960
+Well, you know you can
+
+355
+00:11:36,960 --> 00:11:38,760
+listen to me talk and talk and
+
+356
+00:11:38,760 --> 00:11:40,720
+talk, and I can give you ideas
+
+357
+00:11:40,720 --> 00:11:42,040
+and I can give you opinions.
+
+358
+00:11:42,240 --> 00:11:44,200
+You don't want to go on ideas
+
+359
+00:11:44,200 --> 00:11:45,800
+and opinions alone, do you?
+
+360
+00:11:46,120 --> 00:11:47,760
+You want to go to the resources
+
+361
+00:11:47,760 --> 00:11:49,360
+that are provided to you by your
+
+362
+00:11:49,360 --> 00:11:51,480
+scouting organization and make
+
+363
+00:11:51,480 --> 00:11:52,960
+sure that you're getting things
+
+364
+00:11:52,960 --> 00:11:53,320
+right.
+
+365
+00:11:53,680 --> 00:11:54,720
+It takes a little study,
+
+366
+00:11:54,720 --> 00:11:55,920
+It takes a little work to do
+
+367
+00:11:55,920 --> 00:11:56,200
+that
+
+368
+00:11:56,720 --> 00:11:58,240
+And I do my best to remind
+
+369
+00:11:58,240 --> 00:11:59,840
+everybody- don't take my word
+
+370
+00:11:59,840 --> 00:12:00,160
+for it.
+
+371
+00:12:00,160 --> 00:12:02,080
+Go to your resources. make
+
+372
+00:12:02,080 --> 00:12:04,080
+sure you're doing your best
+
+373
+00:12:04,080 --> 00:12:05,840
+to deliver scouting to the
+
+374
+00:12:05,840 --> 00:12:07,280
+young people in your community.
+
+375
+00:12:07,480 --> 00:12:09,640
+Now about this question about
+
+376
+00:12:09,640 --> 00:12:11,040
+who signs off on rank
+
+377
+00:12:11,040 --> 00:12:11,800
+requirements.
+
+378
+00:12:12,120 --> 00:12:14,280
+Well, if you're involved
+
+379
+00:12:14,280 --> 00:12:16,400
+with the BSA, here's the
+
+380
+00:12:16,400 --> 00:12:18,199
+resources that help answer
+
+381
+00:12:18,199 --> 00:12:18,880
+that question.
+
+382
+00:12:19,280 --> 00:12:20,760
+The first is in the Guide to
+
+383
+00:12:20,760 --> 00:12:22,360
+Advancement 2015..
+
+384
+00:12:22,719 --> 00:12:23,839
+I'll have a link to it in the
+
+385
+00:12:23,839 --> 00:12:24,920
+post that contains this
+
+386
+00:12:24,920 --> 00:12:25,640
+podcast,
+
+387
+00:12:25,920 --> 00:12:27,760
+And when we talk about the
+
+388
+00:12:27,760 --> 00:12:28,880
+Guide to Advancement, we talk
+
+389
+00:12:28,880 --> 00:12:30,760
+about long numbers, right,
+
+390
+00:12:30,760 --> 00:12:32,120
+So get your pencils ready.
+
+391
+00:12:32,480 --> 00:12:36,120
+This is in section 4.2.1.2,
+
+392
+00:12:36,280 --> 00:12:38,520
+titled A Scout Is Tested
+
+393
+00:12:38,800 --> 00:12:40,319
+And, quoting from that section,
+
+394
+00:12:40,600 --> 00:12:43,200
+the unit leader authorizes
+
+395
+00:12:43,200 --> 00:12:45,360
+those who may test and pass
+
+396
+00:12:45,640 --> 00:12:47,720
+the scout on rank requirements.
+
+397
+00:12:48,160 --> 00:12:50,040
+They might include his patrol
+
+398
+00:12:50,040 --> 00:12:52,160
+leader, senior patrol leader,
+
+399
+00:12:52,400 --> 00:12:54,040
+an assistant unit leader,
+
+400
+00:12:54,280 --> 00:12:56,280
+another scout or the unit
+
+401
+00:12:56,280 --> 00:12:57,200
+leader himself.
+
+402
+00:12:57,760 --> 00:12:59,400
+Merit Badge counselors teach
+
+403
+00:12:59,400 --> 00:13:01,240
+and test on requirements for
+
+404
+00:13:01,240 --> 00:13:02,160
+merit badges.
+
+405
+00:13:02,720 --> 00:13:04,440
+Once a scout has been tested
+
+406
+00:13:04,440 --> 00:13:05,960
+and signed off by someone
+
+407
+00:13:05,960 --> 00:13:07,240
+approved to do so,
+
+408
+00:13:07,680 --> 00:13:09,120
+the requirement has been met.
+
+409
+00:13:09,800 --> 00:13:11,720
+The unit leader is accountable
+
+410
+00:13:11,720 --> 00:13:13,000
+for ensuring proper
+
+411
+00:13:13,000 --> 00:13:14,360
+advancement procedures are
+
+412
+00:13:14,360 --> 00:13:15,000
+followed.
+
+413
+00:13:15,640 --> 00:13:17,560
+A part of this responsibility
+
+414
+00:13:17,560 --> 00:13:19,400
+includes the careful selection
+
+415
+00:13:19,400 --> 00:13:20,640
+and training of those who
+
+416
+00:13:20,640 --> 00:13:21,920
+approve advancement.
+
+417
+00:13:22,680 --> 00:13:23,800
+So let's look at this for a
+
+418
+00:13:23,800 --> 00:13:24,120
+moment.
+
+419
+00:13:24,480 --> 00:13:26,520
+The unit leader- so in a scout
+
+420
+00:13:26,520 --> 00:13:27,360
+troop that would be the
+
+421
+00:13:27,360 --> 00:13:29,600
+scout master- authorizes
+
+422
+00:13:29,600 --> 00:13:31,680
+those who may test and pass
+
+423
+00:13:32,000 --> 00:13:33,080
+the scout on rank
+
+424
+00:13:33,080 --> 00:13:33,920
+requirements.
+
+425
+00:13:34,160 --> 00:13:35,280
+So who could that be?
+
+426
+00:13:35,720 --> 00:13:37,280
+OK, well, it could be the
+
+427
+00:13:37,280 --> 00:13:38,400
+unit leader or the scout
+
+428
+00:13:38,400 --> 00:13:39,280
+master himself,
+
+429
+00:13:39,560 --> 00:13:41,560
+It could be an assistant unit
+
+430
+00:13:41,560 --> 00:13:42,000
+leader,
+
+431
+00:13:42,280 --> 00:13:43,800
+It could be another scout,
+
+432
+00:13:44,120 --> 00:13:45,480
+It could be the scouts patrol
+
+433
+00:13:45,480 --> 00:13:47,079
+leader or senior patrol leader.
+
+434
+00:13:47,680 --> 00:13:49,079
+So it's pretty wide open
+
+435
+00:13:49,079 --> 00:13:50,079
+policy wise.
+
+436
+00:13:50,480 --> 00:13:51,400
+You don't want to go to your
+
+437
+00:13:51,400 --> 00:13:52,480
+troop meeting tomorrow night
+
+438
+00:13:52,480 --> 00:13:54,160
+and say, OK, patrol leaders
+
+439
+00:13:54,160 --> 00:13:55,720
+can sign off all rank
+
+440
+00:13:55,720 --> 00:13:56,439
+requirements.
+
+441
+00:13:56,959 --> 00:13:58,319
+That probably wouldn't be such
+
+442
+00:13:58,319 --> 00:14:00,240
+a great idea because
+
+443
+00:14:00,360 --> 00:14:01,800
+of what it says in the guide.
+
+444
+00:14:02,079 --> 00:14:03,520
+the unit leader is accountable
+
+445
+00:14:03,520 --> 00:14:05,400
+for ensuring proper advancement
+
+446
+00:14:05,400 --> 00:14:06,760
+procedures are followed,
+
+447
+00:14:07,439 --> 00:14:09,640
+and a part of this responsibility
+
+448
+00:14:09,640 --> 00:14:11,640
+includes the careful selection
+
+449
+00:14:11,640 --> 00:14:13,439
+and training of those who
+
+450
+00:14:13,439 --> 00:14:14,400
+approve advancement.
+
+451
+00:14:14,400 --> 00:14:16,560
+So you know you can't just
+
+452
+00:14:16,560 --> 00:14:17,840
+make a blanket statement and
+
+453
+00:14:17,840 --> 00:14:19,200
+say, well, all patrol leaders
+
+454
+00:14:19,200 --> 00:14:20,319
+can sign off all rank
+
+455
+00:14:20,319 --> 00:14:22,200
+requirements now, because that
+
+456
+00:14:22,200 --> 00:14:23,480
+wouldn't be really very
+
+457
+00:14:23,480 --> 00:14:24,439
+responsible, would it?
+
+458
+00:14:24,520 --> 00:14:25,560
+You would want to make sure
+
+459
+00:14:25,560 --> 00:14:27,560
+that your patrol leaders are
+
+460
+00:14:27,560 --> 00:14:29,240
+trained in proper
+
+461
+00:14:29,240 --> 00:14:30,760
+advancement procedures, right?
+
+462
+00:14:30,960 --> 00:14:32,400
+So anybody signing off
+
+463
+00:14:32,400 --> 00:14:34,040
+requirements really should
+
+464
+00:14:34,040 --> 00:14:35,120
+understand how to do it.
+
+465
+00:14:35,120 --> 00:14:35,800
+They should be trained.
+
+466
+00:14:35,800 --> 00:14:37,560
+Nobody should be signing off
+
+467
+00:14:37,560 --> 00:14:39,120
+requirements without first
+
+468
+00:14:39,120 --> 00:14:40,040
+having discussed this
+
+469
+00:14:40,040 --> 00:14:41,360
+with the unit leader. correct?
+
+470
+00:14:41,360 --> 00:14:42,680
+Once a scout's been tested
+
+471
+00:14:42,680 --> 00:14:44,000
+and signed off by somebody
+
+472
+00:14:44,000 --> 00:14:45,080
+approved to do so,
+
+473
+00:14:45,280 --> 00:14:46,520
+the requirement's been met.
+
+474
+00:14:46,520 --> 00:14:48,200
+He's not getting tested on it again.
+
+475
+00:14:48,480 --> 00:14:49,960
+So it's a pretty important moment.
+
+476
+00:14:50,120 --> 00:14:51,600
+Now I will tell you from my
+
+477
+00:14:51,600 --> 00:14:53,240
+experience: training patrol
+
+478
+00:14:53,240 --> 00:14:54,520
+leaders to do this very, very
+
+479
+00:14:54,520 --> 00:14:55,960
+simple, training adults to do it-
+
+480
+00:14:55,960 --> 00:14:57,680
+reasonably simple- and the
+
+481
+00:14:57,680 --> 00:14:59,440
+ongoing process, of course,
+
+482
+00:14:59,640 --> 00:15:01,400
+of them signing off requirements
+
+483
+00:15:01,400 --> 00:15:03,280
+and then and then, through
+
+484
+00:15:03,280 --> 00:15:04,880
+Scoutmaster conferences and
+
+485
+00:15:04,880 --> 00:15:06,080
+discussions with Scouts,
+
+486
+00:15:06,320 --> 00:15:08,600
+understanding how the requirements
+
+487
+00:15:08,600 --> 00:15:10,360
+were signed off- and it's not
+
+488
+00:15:10,520 --> 00:15:11,800
+that you have to retest the
+
+489
+00:15:11,800 --> 00:15:12,680
+requirements, You just might
+
+490
+00:15:12,680 --> 00:15:14,120
+ask a couple of questions about
+
+491
+00:15:14,120 --> 00:15:16,160
+them- Is a great opportunity
+
+492
+00:15:16,160 --> 00:15:17,520
+for a unit leader or a
+
+493
+00:15:17,520 --> 00:15:19,600
+Scoutmaster to mentor and
+
+494
+00:15:19,600 --> 00:15:20,960
+train his youth leadership.
+
+495
+00:15:21,040 --> 00:15:22,000
+It's a really great
+
+496
+00:15:22,000 --> 00:15:22,680
+opportunity.
+
+497
+00:15:22,720 --> 00:15:24,040
+So let's go to the Scoutmaster
+
+498
+00:15:24,040 --> 00:15:25,200
+handbook. very simple
+
+499
+00:15:25,200 --> 00:15:26,080
+statement there.
+
+500
+00:15:26,160 --> 00:15:27,680
+So this is in the Scoutmaster
+
+501
+00:15:27,680 --> 00:15:29,080
+handbook. in the advancement
+
+502
+00:15:29,080 --> 00:15:29,760
+section
+
+503
+00:15:30,280 --> 00:15:32,280
+It says step two: a scout
+
+504
+00:15:32,280 --> 00:15:34,240
+is tested and it says
+
+505
+00:15:34,240 --> 00:15:36,040
+this quote: Scouts might be
+
+506
+00:15:36,040 --> 00:15:37,880
+tested by adult troop leaders
+
+507
+00:15:38,120 --> 00:15:39,600
+or by their own patrol leaders,
+
+508
+00:15:39,600 --> 00:15:41,280
+troop guides or another junior
+
+509
+00:15:41,280 --> 00:15:43,760
+leader, provided that the youth
+
+510
+00:15:43,760 --> 00:15:45,880
+leader has already earned
+
+511
+00:15:45,880 --> 00:15:47,640
+the rank the scout is aiming
+
+512
+00:15:47,640 --> 00:15:49,840
+for. So we get a little
+
+513
+00:15:49,840 --> 00:15:51,200
+additional information in the
+
+514
+00:15:51,200 --> 00:15:52,640
+Scoutmaster handbook that
+
+515
+00:15:52,640 --> 00:15:54,120
+coincides with what we read
+
+516
+00:15:54,120 --> 00:15:55,320
+in the guide to advancement,
+
+517
+00:15:55,440 --> 00:15:56,800
+and the Scoutmaster handbook
+
+518
+00:15:56,840 --> 00:15:58,520
+adds this consideration:
+
+519
+00:15:58,600 --> 00:16:00,600
+provided that the boy leader
+
+520
+00:16:00,600 --> 00:16:02,480
+has already earned the rank
+
+521
+00:16:02,720 --> 00:16:03,920
+the scout is aiming for,
+
+522
+00:16:04,040 --> 00:16:05,360
+I think that's a very reasonable
+
+523
+00:16:05,360 --> 00:16:07,440
+provision. So, based on
+
+524
+00:16:08,000 --> 00:16:10,080
+that guidance from the resources
+
+525
+00:16:10,080 --> 00:16:11,960
+that we have, I'll tell you how
+
+526
+00:16:11,960 --> 00:16:14,040
+this works. in my own troop
+
+527
+00:16:14,160 --> 00:16:16,600
+Any youth leader is trained
+
+528
+00:16:16,600 --> 00:16:18,720
+and qualified to sign off
+
+529
+00:16:18,720 --> 00:16:20,800
+rank advancements as long as
+
+530
+00:16:20,800 --> 00:16:22,240
+he's earned that rank.
+
+531
+00:16:22,600 --> 00:16:24,280
+And you know it works very,
+
+532
+00:16:24,280 --> 00:16:25,720
+very well. And there are some
+
+533
+00:16:25,720 --> 00:16:27,240
+perennial objections to doing
+
+534
+00:16:27,240 --> 00:16:29,400
+that because it's felt that
+
+535
+00:16:29,400 --> 00:16:31,600
+youth won't be rigorous enough
+
+536
+00:16:31,600 --> 00:16:33,120
+in their examination of Scouts
+
+537
+00:16:33,120 --> 00:16:34,560
+for requirements and things.
+
+538
+00:16:34,560 --> 00:16:36,800
+Well, I really haven't found
+
+539
+00:16:36,800 --> 00:16:37,800
+that to be the case.
+
+540
+00:16:38,240 --> 00:16:40,360
+That happens sometimes, to be
+
+541
+00:16:40,360 --> 00:16:42,600
+sure, And when it does-
+
+542
+00:16:42,600 --> 00:16:44,040
+and we find out that it's
+
+543
+00:16:44,040 --> 00:16:45,600
+happened that you know the
+
+544
+00:16:45,720 --> 00:16:47,240
+requirement well, they kind of
+
+545
+00:16:47,240 --> 00:16:48,360
+rushed through that one.
+
+546
+00:16:48,720 --> 00:16:49,960
+Well, that's a great
+
+547
+00:16:49,960 --> 00:16:51,440
+opportunity to sit down with
+
+548
+00:16:51,560 --> 00:16:52,680
+whoever approved their
+
+549
+00:16:52,680 --> 00:16:54,360
+requirement and refine their
+
+550
+00:16:54,360 --> 00:16:55,440
+technique a little bit,
+
+551
+00:16:55,720 --> 00:16:57,320
+And then, if they really gave
+
+552
+00:16:57,320 --> 00:16:58,680
+short shrift to the Scout,
+
+553
+00:16:58,840 --> 00:17:00,400
+we have a discussion about
+
+554
+00:17:00,400 --> 00:17:01,600
+how they can fix that.
+
+555
+00:17:01,920 --> 00:17:02,720
+They're not going to go back
+
+556
+00:17:02,720 --> 00:17:04,200
+and retest the requirement,
+
+557
+00:17:04,440 --> 00:17:05,520
+but they're going to involve the
+
+558
+00:17:05,520 --> 00:17:07,800
+Scout in making sure that they
+
+559
+00:17:07,800 --> 00:17:09,360
+demonstrate their understanding
+
+560
+00:17:09,360 --> 00:17:10,720
+of that requirement, a situation
+
+561
+00:17:10,720 --> 00:17:11,720
+where they're sharing it with
+
+562
+00:17:11,720 --> 00:17:13,520
+other Scouts, which is also
+
+563
+00:17:13,520 --> 00:17:14,720
+recommended in the Guide to
+
+564
+00:17:14,720 --> 00:17:15,720
+Advancement.
+
+565
+00:17:15,720 --> 00:17:17,440
+So just a quick overview of
+
+566
+00:17:17,440 --> 00:17:19,240
+those things And, once again,
+
+567
+00:17:19,240 --> 00:17:20,760
+don't ever take my word for it.
+
+568
+00:17:20,760 --> 00:17:22,280
+Go to the, go to the resources
+
+569
+00:17:22,280 --> 00:17:23,280
+yourself,
+
+570
+00:17:23,280 --> 00:17:24,960
+Read what has to be said there
+
+571
+00:17:25,200 --> 00:17:26,120
+And if you find that I've got
+
+572
+00:17:26,120 --> 00:17:27,240
+something wrong or you think
+
+573
+00:17:27,240 --> 00:17:28,760
+I've got something wrong, make
+
+574
+00:17:28,760 --> 00:17:29,720
+sure to get in touch with me.
+
+575
+00:17:29,720 --> 00:17:31,200
+I always appreciate hearing about
+
+576
+00:17:31,200 --> 00:17:32,200
+that
+
+577
+00:17:56,600 --> 00:17:58,080
+Email. that is, folks,
+
+578
+00:17:58,920 --> 00:18:00,360
+And here's an answer to one of
+
+579
+00:18:00,360 --> 00:18:01,920
+your emails.
+
+580
+00:18:10,160 --> 00:18:11,640
+So we've got two or three email
+
+581
+00:18:11,640 --> 00:18:13,000
+questions to answer this week.
+
+582
+00:18:13,360 --> 00:18:14,880
+The first one comes from Tim
+
+583
+00:18:14,880 --> 00:18:16,480
+Smith, who's the Scout Master of
+
+584
+00:18:16,480 --> 00:18:18,720
+Troop 52 in Danbury, Connecticut,
+
+585
+00:18:18,880 --> 00:18:20,400
+And Tim said this: I'd like to
+
+586
+00:18:20,400 --> 00:18:21,840
+start off by saying thanks for
+
+587
+00:18:21,840 --> 00:18:23,280
+both the blog and the podcast,
+
+588
+00:18:23,280 --> 00:18:24,200
+as well as the books.
+
+589
+00:18:24,600 --> 00:18:25,960
+They've given me some direction
+
+590
+00:18:25,960 --> 00:18:27,280
+as Scout Master and to our
+
+591
+00:18:27,280 --> 00:18:29,120
+Petroleum Council in changing
+
+592
+00:18:29,120 --> 00:18:31,160
+the way our troop has- quote-
+
+593
+00:18:31,400 --> 00:18:33,240
+always done things unquote.
+
+594
+00:18:33,560 --> 00:18:34,880
+Well, Tim, that's a challenge for
+
+595
+00:18:34,880 --> 00:18:36,080
+all of us. I can tell you
+
+596
+00:18:36,320 --> 00:18:38,560
+Troop 52 has 57 scouts
+
+597
+00:18:38,560 --> 00:18:39,560
+as of this writing.
+
+598
+00:18:39,800 --> 00:18:41,560
+The Petroleum Council, which we
+
+599
+00:18:41,560 --> 00:18:43,600
+still call the green bar, meets
+
+600
+00:18:43,600 --> 00:18:45,480
+monthly and typically for a few
+
+601
+00:18:45,480 --> 00:18:47,480
+minutes after each troop meeting.
+
+602
+00:18:47,680 --> 00:18:48,760
+They also meet in the late
+
+603
+00:18:48,760 --> 00:18:50,200
+spring to plan for the coming
+
+604
+00:18:50,200 --> 00:18:51,680
+year. Currently, our patrols
+
+605
+00:18:51,680 --> 00:18:53,240
+do not meet outside of troop
+
+606
+00:18:53,240 --> 00:18:55,080
+meetings. So I have two or
+
+607
+00:18:55,080 --> 00:18:56,160
+three questions for you.
+
+608
+00:18:56,240 --> 00:18:58,600
+Number one is you mentioned
+
+609
+00:18:58,600 --> 00:19:00,560
+in the description of a ideal
+
+610
+00:19:00,560 --> 00:19:02,080
+quote, unquote- troop meeting
+
+611
+00:19:02,280 --> 00:19:04,160
+in one of your podcasts that
+
+612
+00:19:04,160 --> 00:19:05,680
+patrol leaders would be signing
+
+613
+00:19:05,680 --> 00:19:07,160
+off requirements for younger
+
+614
+00:19:07,160 --> 00:19:09,080
+scouts. Currently, our Scout
+
+615
+00:19:09,080 --> 00:19:10,600
+Master, Assistant Scout Masters
+
+616
+00:19:10,600 --> 00:19:12,240
+and Junior Assistant Scout Masters
+
+617
+00:19:12,240 --> 00:19:14,000
+are the only ones authorized
+
+618
+00:19:14,000 --> 00:19:15,480
+to sign rank requirements,
+
+619
+00:19:16,480 --> 00:19:17,880
+But I've been considering
+
+620
+00:19:17,880 --> 00:19:19,600
+extending this to patrol leaders.
+
+621
+00:19:19,920 --> 00:19:21,360
+Has this always been the case
+
+622
+00:19:21,360 --> 00:19:22,560
+in your troop And, if not,
+
+623
+00:19:22,560 --> 00:19:23,960
+what was the transition? like,
+
+624
+00:19:24,080 --> 00:19:25,600
+Tim, inspired by your email
+
+625
+00:19:25,600 --> 00:19:27,640
+question I shared earlier in
+
+626
+00:19:27,640 --> 00:19:29,160
+Scout Mastership in seven minutes
+
+627
+00:19:29,160 --> 00:19:30,760
+or less about the mechanics of
+
+628
+00:19:30,760 --> 00:19:32,920
+this question, I can't honestly
+
+629
+00:19:32,920 --> 00:19:34,720
+remember a time where patrol
+
+630
+00:19:34,720 --> 00:19:35,880
+leaders didn't sign off
+
+631
+00:19:35,880 --> 00:19:37,200
+requirements of my troops, so I
+
+632
+00:19:37,200 --> 00:19:38,360
+really can't comment on a
+
+633
+00:19:38,360 --> 00:19:40,480
+transition. I don't really
+
+634
+00:19:40,480 --> 00:19:41,920
+imagine there needs to be like a
+
+635
+00:19:41,920 --> 00:19:43,640
+big giant transition-y thing at
+
+636
+00:19:43,640 --> 00:19:45,480
+all. I think that the scouts
+
+637
+00:19:45,480 --> 00:19:47,320
+will get it immediately. Make sure
+
+638
+00:19:47,320 --> 00:19:49,320
+to follow the resources, make sure
+
+639
+00:19:49,320 --> 00:19:50,840
+patrol leaders understand the
+
+640
+00:19:50,840 --> 00:19:52,600
+responsibility involved and I
+
+641
+00:19:52,600 --> 00:19:53,840
+think you'll find that it works
+
+642
+00:19:53,840 --> 00:19:56,040
+just fine, Tim. second question:
+
+643
+00:19:56,040 --> 00:19:57,840
+was we limit terms and
+
+644
+00:19:57,840 --> 00:19:59,399
+positions of responsibility to
+
+645
+00:19:59,399 --> 00:20:01,639
+one year? Scouts are limited to
+
+646
+00:20:01,639 --> 00:20:03,480
+a single year term as the senior
+
+647
+00:20:03,480 --> 00:20:05,280
+patrol leader. Do you think we
+
+648
+00:20:05,280 --> 00:20:06,920
+ought to have this kind of
+
+649
+00:20:06,920 --> 00:20:08,920
+limitation, Or should we just
+
+650
+00:20:08,920 --> 00:20:10,520
+let things roll? We've also
+
+651
+00:20:10,520 --> 00:20:11,800
+limited these positions to
+
+652
+00:20:11,800 --> 00:20:13,200
+scouts who have at least first
+
+653
+00:20:13,200 --> 00:20:15,000
+class rank, so that they have
+
+654
+00:20:15,000 --> 00:20:16,480
+a position of responsibility to
+
+655
+00:20:16,480 --> 00:20:18,200
+satisfy advancement requirements
+
+656
+00:20:18,200 --> 00:20:20,240
+for higher ranks. Should the
+
+657
+00:20:20,240 --> 00:20:21,480
+senior patrol leader only
+
+658
+00:20:21,480 --> 00:20:23,080
+appoint those scouts that come
+
+659
+00:20:23,080 --> 00:20:24,920
+to him or all that need a
+
+660
+00:20:24,960 --> 00:20:26,880
+position? Well, Tim, as to the
+
+661
+00:20:26,880 --> 00:20:27,800
+length of terms and
+
+662
+00:20:27,800 --> 00:20:29,400
+qualifications for positions of
+
+663
+00:20:29,400 --> 00:20:31,280
+responsibility, first let's
+
+664
+00:20:31,280 --> 00:20:32,720
+talk about the length of the
+
+665
+00:20:32,720 --> 00:20:35,000
+term. Oddly enough, I've found
+
+666
+00:20:35,000 --> 00:20:36,960
+that the length of the term has
+
+667
+00:20:36,960 --> 00:20:39,360
+very little effect on the way
+
+668
+00:20:39,360 --> 00:20:40,720
+leadership develops or the
+
+669
+00:20:40,720 --> 00:20:42,320
+level of competence that they
+
+670
+00:20:42,320 --> 00:20:44,760
+ultimately reach. Any period
+
+671
+00:20:44,760 --> 00:20:46,880
+of time that somebody's going
+
+672
+00:20:46,880 --> 00:20:47,720
+to be in a position of
+
+673
+00:20:47,720 --> 00:20:49,360
+responsibility is divided into
+
+674
+00:20:49,360 --> 00:20:51,440
+thirds. The first third is
+
+675
+00:20:51,440 --> 00:20:52,920
+getting to know the job, the
+
+676
+00:20:52,920 --> 00:20:54,200
+second third is getting good
+
+677
+00:20:54,200 --> 00:20:56,280
+at it and the third third is
+
+678
+00:20:56,280 --> 00:20:57,720
+being good at the job. So
+
+679
+00:20:57,720 --> 00:20:59,160
+whether the tenure in that
+
+680
+00:20:59,160 --> 00:21:00,800
+position is a week long or
+
+681
+00:21:00,800 --> 00:21:03,680
+three years long, I think that
+
+682
+00:21:03,680 --> 00:21:05,560
+those thirds they'll fill up
+
+683
+00:21:05,560 --> 00:21:07,400
+any length of tenure. I've had
+
+684
+00:21:07,400 --> 00:21:09,360
+guys who are crew chiefs for
+
+685
+00:21:09,360 --> 00:21:10,760
+our week long trips in
+
+686
+00:21:10,760 --> 00:21:12,760
+Canada and their development in
+
+687
+00:21:12,760 --> 00:21:14,480
+those steps, in those three
+
+688
+00:21:14,480 --> 00:21:17,320
+steps, is almost identical to
+
+689
+00:21:17,320 --> 00:21:18,880
+the way a senior patrol
+
+690
+00:21:18,880 --> 00:21:20,120
+leader develops over a six
+
+691
+00:21:20,120 --> 00:21:21,520
+month period, which happens to
+
+692
+00:21:21,520 --> 00:21:23,040
+be the length of the term
+
+693
+00:21:23,040 --> 00:21:24,360
+that we have in our troop.
+
+694
+00:21:24,360 --> 00:21:26,360
+Prior to that, we had senior
+
+695
+00:21:26,360 --> 00:21:27,480
+patrol leaders serving for a
+
+696
+00:21:27,480 --> 00:21:30,520
+full year Roughly. they
+
+697
+00:21:30,520 --> 00:21:32,320
+would develop in thirds. I
+
+698
+00:21:32,320 --> 00:21:33,320
+don't know that the length of
+
+699
+00:21:33,320 --> 00:21:34,760
+the tenure is really all that
+
+700
+00:21:34,760 --> 00:21:36,520
+important, other than in
+
+701
+00:21:36,520 --> 00:21:38,200
+that it is long enough to
+
+702
+00:21:38,200 --> 00:21:40,040
+fulfill rank requirements.
+
+703
+00:21:40,040 --> 00:21:41,560
+Personally, I pay very little
+
+704
+00:21:41,560 --> 00:21:43,840
+attention to the qualifications
+
+705
+00:21:43,840 --> 00:21:45,520
+or rank requirements in
+
+706
+00:21:45,520 --> 00:21:47,280
+positions of responsibility. I
+
+707
+00:21:47,280 --> 00:21:48,760
+have very little to say about
+
+708
+00:21:48,760 --> 00:21:50,159
+positions of responsibility to
+
+709
+00:21:50,159 --> 00:21:51,520
+begin with, but I find that
+
+710
+00:21:51,560 --> 00:21:53,400
+if a scout wants to advance,
+
+711
+00:21:53,400 --> 00:21:54,480
+he'll find a position of
+
+712
+00:21:54,480 --> 00:21:56,920
+responsibility. I can't recall
+
+713
+00:21:56,920 --> 00:21:58,200
+one of our scouts being held
+
+714
+00:21:58,200 --> 00:22:00,560
+back because he lacked the
+
+715
+00:22:00,560 --> 00:22:02,160
+opportunity to occupy a
+
+716
+00:22:02,160 --> 00:22:03,879
+position of responsibility.
+
+717
+00:22:03,879 --> 00:22:05,280
+And, like I said, who ends up
+
+718
+00:22:05,280 --> 00:22:06,680
+in those positions has very
+
+719
+00:22:06,680 --> 00:22:08,560
+little to do with me And
+
+720
+00:22:08,560 --> 00:22:10,160
+I'm not really all that
+
+721
+00:22:10,160 --> 00:22:11,160
+concerned with who gets
+
+722
+00:22:11,160 --> 00:22:12,320
+elected or appointed to
+
+723
+00:22:12,320 --> 00:22:13,440
+those positions. They're all
+
+724
+00:22:13,440 --> 00:22:15,360
+youth decisions. I just work
+
+725
+00:22:15,360 --> 00:22:17,560
+with whoever they choose. Now
+
+726
+00:22:17,560 --> 00:22:18,920
+I will advise the senior
+
+727
+00:22:18,920 --> 00:22:20,400
+patrol leader if he asks.
+
+728
+00:22:20,400 --> 00:22:21,680
+when it comes down to
+
+729
+00:22:21,680 --> 00:22:23,360
+appointing guys to positions
+
+730
+00:22:23,360 --> 00:22:25,680
+of responsibility, Some senior
+
+731
+00:22:25,680 --> 00:22:27,120
+patrol leaders ask me and
+
+732
+00:22:27,120 --> 00:22:28,920
+some don't. So Tim's third
+
+733
+00:22:28,920 --> 00:22:30,840
+question was: you've also
+
+734
+00:22:30,840 --> 00:22:32,320
+mentioned that you have one
+
+735
+00:22:32,320 --> 00:22:33,160
+meeting night a month
+
+736
+00:22:33,160 --> 00:22:34,760
+dedicated to boards of review
+
+737
+00:22:34,760 --> 00:22:35,720
+and the patrol leaders
+
+738
+00:22:35,720 --> 00:22:37,080
+council meeting. If I
+
+739
+00:22:37,080 --> 00:22:38,480
+understand you correctly, you
+
+740
+00:22:38,480 --> 00:22:40,440
+have another night dedicated
+
+741
+00:22:40,440 --> 00:22:41,960
+to patrol meetings. How
+
+742
+00:22:41,960 --> 00:22:42,720
+smoothly did the
+
+743
+00:22:42,720 --> 00:22:44,520
+transition to that schedule
+
+744
+00:22:44,520 --> 00:22:45,840
+go? How did the scouts
+
+745
+00:22:45,840 --> 00:22:47,560
+handle it, And do they find
+
+746
+00:22:47,560 --> 00:22:48,600
+that it distracts from
+
+747
+00:22:48,600 --> 00:22:49,520
+the presentation of the
+
+748
+00:22:49,520 --> 00:22:50,800
+program? Well, I've talked
+
+749
+00:22:50,800 --> 00:22:52,040
+about this before, but let
+
+750
+00:22:52,040 --> 00:22:53,120
+me tell you what our- what
+
+751
+00:22:53,120 --> 00:22:54,480
+our- meeting night schedule
+
+752
+00:22:54,480 --> 00:22:56,120
+is. We have usually one
+
+753
+00:22:56,120 --> 00:22:57,200
+or two troop meetings
+
+754
+00:22:57,200 --> 00:22:58,600
+every month, one or two
+
+755
+00:22:58,600 --> 00:22:59,560
+patrol meetings every
+
+756
+00:22:59,560 --> 00:23:00,879
+month and the Monday
+
+757
+00:23:00,879 --> 00:23:01,680
+night That's when we
+
+758
+00:23:01,680 --> 00:23:02,560
+meet. We meet on Monday
+
+759
+00:23:02,560 --> 00:23:04,160
+nights after we go
+
+760
+00:23:04,160 --> 00:23:06,200
+camping. each month is
+
+761
+00:23:06,200 --> 00:23:07,160
+dedicated to the
+
+762
+00:23:07,160 --> 00:23:08,240
+patrol leaders council
+
+763
+00:23:08,240 --> 00:23:09,600
+meeting, scout master
+
+764
+00:23:09,600 --> 00:23:10,480
+conferences, boards of
+
+765
+00:23:10,480 --> 00:23:11,840
+review. It's not a
+
+766
+00:23:11,840 --> 00:23:13,440
+regular troop meeting. Now,
+
+767
+00:23:13,440 --> 00:23:14,560
+I don't know that there's
+
+768
+00:23:14,560 --> 00:23:16,639
+any real problem with
+
+769
+00:23:16,639 --> 00:23:17,480
+the program being
+
+770
+00:23:17,480 --> 00:23:18,480
+presented because of that
+
+771
+00:23:18,480 --> 00:23:20,160
+schedule. It seems to run
+
+772
+00:23:20,160 --> 00:23:21,360
+fine, so far as I can
+
+773
+00:23:21,360 --> 00:23:22,920
+tell. Sometimes we have
+
+774
+00:23:22,920 --> 00:23:23,880
+four meetings a month,
+
+775
+00:23:23,880 --> 00:23:25,280
+sometimes three, sometimes
+
+776
+00:23:25,280 --> 00:23:26,840
+five, depending on
+
+777
+00:23:26,840 --> 00:23:28,480
+the calendar, But that's
+
+778
+00:23:28,480 --> 00:23:29,360
+basically the way they
+
+779
+00:23:29,360 --> 00:23:30,680
+divide up, which
+
+780
+00:23:30,680 --> 00:23:32,400
+exchanged one or two
+
+781
+00:23:32,400 --> 00:23:33,440
+of our troop meetings
+
+782
+00:23:33,440 --> 00:23:34,680
+each month for patrol
+
+783
+00:23:34,680 --> 00:23:36,120
+meetings, because we
+
+784
+00:23:36,120 --> 00:23:37,040
+wanted to encourage
+
+785
+00:23:37,040 --> 00:23:38,280
+patrols to meet and do
+
+786
+00:23:38,280 --> 00:23:39,600
+things together And we
+
+787
+00:23:39,600 --> 00:23:40,840
+found that trying to do
+
+788
+00:23:40,840 --> 00:23:42,480
+that outside of that
+
+789
+00:23:42,480 --> 00:23:43,960
+one night a week was
+
+790
+00:23:43,960 --> 00:23:45,120
+a real scheduling
+
+791
+00:23:45,120 --> 00:23:46,560
+challenge for them. So
+
+792
+00:23:46,560 --> 00:23:47,760
+we decided we don't
+
+793
+00:23:47,800 --> 00:23:48,800
+need to have a troop
+
+794
+00:23:48,800 --> 00:23:50,480
+meeting every single time
+
+795
+00:23:50,480 --> 00:23:51,760
+we get together. So we
+
+796
+00:23:51,760 --> 00:23:52,920
+opened it up so the patrol
+
+797
+00:23:52,920 --> 00:23:53,879
+leaders could plan
+
+798
+00:23:53,879 --> 00:23:55,480
+independently their own
+
+799
+00:23:55,480 --> 00:23:56,440
+activities and what
+
+800
+00:23:56,440 --> 00:23:57,280
+they're going to do that
+
+801
+00:23:57,280 --> 00:23:58,720
+night. And our scouts
+
+802
+00:23:58,720 --> 00:24:00,080
+have received it
+
+803
+00:24:00,080 --> 00:24:01,240
+reasonably well and it
+
+804
+00:24:01,240 --> 00:24:02,040
+seems to work pretty
+
+805
+00:24:02,040 --> 00:24:03,680
+good for us. Heard from
+
+806
+00:24:03,680 --> 00:24:04,920
+Rob Karagnan who is
+
+807
+00:24:04,920 --> 00:24:06,560
+with Scout Troop 1
+
+808
+00:24:06,560 --> 00:24:08,400
+in Portland, Maine, And
+
+809
+00:24:08,400 --> 00:24:09,360
+he said: can you help
+
+810
+00:24:09,360 --> 00:24:11,240
+clarify the BSA policy
+
+811
+00:24:11,240 --> 00:24:12,920
+on stoves? I am
+
+812
+00:24:12,920 --> 00:24:14,560
+interested in getting
+
+813
+00:24:14,560 --> 00:24:15,640
+an alcohol burning
+
+814
+00:24:15,640 --> 00:24:17,560
+stove But I've heard
+
+815
+00:24:17,560 --> 00:24:19,040
+and read that the BSA
+
+816
+00:24:19,040 --> 00:24:21,000
+has banned alcohol stoves.
+
+817
+00:24:21,000 --> 00:24:22,919
+I did look at policy
+
+818
+00:24:22,919 --> 00:24:23,960
+on storage, handling
+
+819
+00:24:23,960 --> 00:24:25,480
+and use of chemical fuels
+
+820
+00:24:25,480 --> 00:24:27,200
+and equipment And you'll
+
+821
+00:24:27,200 --> 00:24:28,360
+find that in the Guide
+
+822
+00:24:28,360 --> 00:24:29,440
+to Safe Scouting and I'll
+
+823
+00:24:29,440 --> 00:24:30,600
+have a link to that in the
+
+824
+00:24:30,600 --> 00:24:31,600
+post that contains this
+
+825
+00:24:31,600 --> 00:24:34,280
+podcast. Rob says: this
+
+826
+00:24:34,280 --> 00:24:36,440
+policy tells me I can
+
+827
+00:24:36,440 --> 00:24:38,679
+only use commercial stoves
+
+828
+00:24:38,679 --> 00:24:40,159
+and use them only within
+
+829
+00:24:40,159 --> 00:24:41,200
+the manufacturer's
+
+830
+00:24:41,200 --> 00:24:42,919
+instructions. Is that the
+
+831
+00:24:42,919 --> 00:24:44,240
+way that you read this
+
+832
+00:24:44,240 --> 00:24:45,240
+in the Guide to Safe
+
+833
+00:24:45,240 --> 00:24:46,639
+Scouting? Well, yeah,
+
+834
+00:24:46,640 --> 00:24:47,800
+Rob, that's exactly the way
+
+835
+00:24:47,800 --> 00:24:48,640
+I read it. The whole
+
+836
+00:24:48,640 --> 00:24:50,520
+alcohol stove ban is one
+
+837
+00:24:50,520 --> 00:24:51,720
+of those urban legends
+
+838
+00:24:51,720 --> 00:24:52,800
+in scouting that seem to
+
+839
+00:24:52,800 --> 00:24:54,840
+persist because I don't
+
+840
+00:24:54,840 --> 00:24:56,080
+think too many people
+
+841
+00:24:56,080 --> 00:24:57,200
+have bothered to read
+
+842
+00:24:57,200 --> 00:24:58,840
+the actual policy, So
+
+843
+00:24:58,840 --> 00:25:00,440
+they assume that all alcohol
+
+844
+00:25:00,440 --> 00:25:02,440
+stoves are banned. If you
+
+845
+00:25:02,440 --> 00:25:03,640
+read the policy, it is
+
+846
+00:25:03,640 --> 00:25:05,840
+just what it says: Homemade
+
+847
+00:25:05,840 --> 00:25:07,240
+alcohol stoves are
+
+848
+00:25:07,240 --> 00:25:08,520
+prohibited, but
+
+849
+00:25:08,520 --> 00:25:09,960
+commercially manufactured
+
+850
+00:25:09,960 --> 00:25:11,720
+stoves they're OK. And
+
+851
+00:25:11,720 --> 00:25:13,160
+then there's a statement
+
+852
+00:25:13,160 --> 00:25:14,680
+about fuel, And this
+
+853
+00:25:14,680 --> 00:25:16,440
+is also pretty clear:
+
+854
+00:25:16,480 --> 00:25:18,200
+Use the fuel specified by
+
+855
+00:25:18,200 --> 00:25:19,640
+the manufacturer. Pretty
+
+856
+00:25:19,640 --> 00:25:21,280
+simple, right. So if you
+
+857
+00:25:21,280 --> 00:25:22,280
+get a commercially made
+
+858
+00:25:22,280 --> 00:25:23,720
+alcohol stove and you use
+
+859
+00:25:23,720 --> 00:25:24,720
+it according to the
+
+860
+00:25:24,720 --> 00:25:26,160
+manufacturer's instructions
+
+861
+00:25:26,160 --> 00:25:27,840
+and you use only the fuel
+
+862
+00:25:27,840 --> 00:25:29,320
+that the manufacturer
+
+863
+00:25:29,320 --> 00:25:31,120
+specifies, we're in good
+
+864
+00:25:31,120 --> 00:25:32,640
+shape. Now the only thing
+
+865
+00:25:32,640 --> 00:25:33,720
+that I would add, Rob, is
+
+866
+00:25:33,720 --> 00:25:35,480
+understand that alcohol burns
+
+867
+00:25:35,480 --> 00:25:37,320
+with a very visible flame
+
+868
+00:25:37,320 --> 00:25:39,440
+in daylight. So make sure
+
+869
+00:25:39,440 --> 00:25:40,400
+you read the directions
+
+870
+00:25:40,400 --> 00:25:41,480
+that come with your stove,
+
+871
+00:25:41,480 --> 00:25:43,960
+because a common accident
+
+872
+00:25:43,960 --> 00:25:45,160
+that happens with alcohol
+
+873
+00:25:45,200 --> 00:25:46,600
+stoves is when somebody
+
+874
+00:25:46,600 --> 00:25:48,960
+tries to refuel the stove
+
+875
+00:25:48,960 --> 00:25:50,040
+while it's still burning
+
+876
+00:25:50,040 --> 00:25:51,680
+or the burner is hot. So
+
+877
+00:25:51,680 --> 00:25:52,960
+make sure that it's out
+
+878
+00:25:52,960 --> 00:25:54,040
+and the burner is cool
+
+879
+00:25:54,040 --> 00:25:55,440
+to the touch before you
+
+880
+00:25:55,440 --> 00:25:57,680
+refuel the stove. Once again,
+
+881
+00:25:57,680 --> 00:25:59,080
+folks go to the guide
+
+882
+00:25:59,080 --> 00:26:00,200
+to save scouting. read
+
+883
+00:26:00,200 --> 00:26:01,520
+that policy and see if
+
+884
+00:26:01,520 --> 00:26:03,360
+I've got it right. And
+
+885
+00:26:03,360 --> 00:26:04,400
+the last email for this
+
+886
+00:26:04,400 --> 00:26:06,200
+week is this question: What
+
+887
+00:26:06,200 --> 00:26:07,960
+is the maximum recommended
+
+888
+00:26:07,960 --> 00:26:09,800
+weight for backpacks? Some
+
+889
+00:26:09,800 --> 00:26:10,800
+of the old
+
+890
+00:26:10,800 --> 00:26:12,320
+scouters in the troop
+
+891
+00:26:12,320 --> 00:26:13,760
+keep telling me that one
+
+892
+00:26:13,760 --> 00:26:15,760
+third body weight is
+
+893
+00:26:15,760 --> 00:26:17,440
+the maximum, And I find
+
+894
+00:26:17,440 --> 00:26:19,040
+references online telling me
+
+895
+00:26:19,040 --> 00:26:20,480
+one quarter body weight
+
+896
+00:26:20,480 --> 00:26:22,040
+is maximum and I'd appreciate
+
+897
+00:26:22,040 --> 00:26:24,240
+your wisdom on this. Well,
+
+898
+00:26:24,240 --> 00:26:25,120
+I got to tell you the
+
+899
+00:26:25,120 --> 00:26:26,400
+percentage of body weight is
+
+900
+00:26:26,400 --> 00:26:27,480
+not a very good measure
+
+901
+00:26:27,480 --> 00:26:28,720
+when it comes to figuring
+
+902
+00:26:28,720 --> 00:26:30,320
+out what the maximum
+
+903
+00:26:30,320 --> 00:26:31,240
+weight of a backpack
+
+904
+00:26:31,240 --> 00:26:33,120
+ought to be, If you think
+
+905
+00:26:33,120 --> 00:26:34,480
+about this. so one third
+
+906
+00:26:34,480 --> 00:26:35,600
+or one quarter body weight
+
+907
+00:26:35,600 --> 00:26:37,680
+means 150 pound person
+
+908
+00:26:37,680 --> 00:26:39,640
+could carry up to 50 pounds
+
+909
+00:26:39,640 --> 00:26:40,960
+And to me that's
+
+910
+00:26:40,960 --> 00:26:42,360
+way way too heavy. It's
+
+911
+00:26:42,360 --> 00:26:44,080
+much more than it needs to be.
+
+912
+00:26:44,080 --> 00:26:45,960
+My pack usually weighs
+
+913
+00:26:45,960 --> 00:26:48,880
+in around 25 to 35 pounds
+
+914
+00:26:48,880 --> 00:26:50,680
+And 35 pounds is pretty heavy
+
+915
+00:26:50,680 --> 00:26:52,840
+for for a two night weekend.
+
+916
+00:26:52,840 --> 00:26:54,400
+If I was a lot more serious
+
+917
+00:26:54,400 --> 00:26:55,560
+about it, I paid more attention
+
+918
+00:26:55,560 --> 00:26:56,600
+to it, I could trim about
+
+919
+00:26:56,600 --> 00:26:57,960
+five pounds off of the
+
+920
+00:26:57,960 --> 00:26:59,080
+weight that I carry, But
+
+921
+00:26:59,080 --> 00:27:00,200
+I'm reasonably happy
+
+922
+00:27:00,200 --> 00:27:02,000
+getting it to in that
+
+923
+00:27:02,000 --> 00:27:04,320
+30 pound area. Scouts
+
+924
+00:27:04,320 --> 00:27:05,480
+in my experience are all
+
+925
+00:27:05,480 --> 00:27:06,480
+over the map with what
+
+926
+00:27:06,480 --> 00:27:07,480
+they're able to carry
+
+927
+00:27:07,480 --> 00:27:09,120
+comfortably. 30 pounds
+
+928
+00:27:09,120 --> 00:27:10,480
+is not necessarily too much
+
+929
+00:27:10,480 --> 00:27:12,760
+for a small, framed younger scout.
+
+930
+00:27:12,760 --> 00:27:14,200
+Now some smaller scouts
+
+931
+00:27:14,200 --> 00:27:15,840
+are going to be really taxed
+
+932
+00:27:15,840 --> 00:27:17,160
+trying to carry that much
+
+933
+00:27:17,160 --> 00:27:18,480
+And I've had much bigger
+
+934
+00:27:18,480 --> 00:27:20,280
+and more and older scouts
+
+935
+00:27:20,280 --> 00:27:22,440
+who have real difficulty
+
+936
+00:27:22,440 --> 00:27:23,640
+carrying a backpack.
+
+937
+00:27:23,640 --> 00:27:24,880
+It just seems to get under
+
+938
+00:27:24,880 --> 00:27:26,120
+their skin and it's very,
+
+939
+00:27:26,120 --> 00:27:27,680
+very difficult for them to do
+
+940
+00:27:27,680 --> 00:27:29,000
+And this is why, when we go
+
+941
+00:27:29,000 --> 00:27:30,360
+backpacking, we go
+
+942
+00:27:30,360 --> 00:27:32,520
+backpacking by patrols.
+
+943
+00:27:32,520 --> 00:27:33,440
+You know the whole troop is
+
+944
+00:27:33,440 --> 00:27:34,640
+there, but the patrols
+
+945
+00:27:34,640 --> 00:27:35,680
+sticks together.
+
+946
+00:27:35,680 --> 00:27:37,040
+They share their food,
+
+947
+00:27:37,040 --> 00:27:38,680
+They share their cooking gear,
+
+948
+00:27:38,720 --> 00:27:40,960
+stoves, tents, and the guys
+
+949
+00:27:40,960 --> 00:27:42,120
+who are more capable of
+
+950
+00:27:42,120 --> 00:27:43,760
+carrying more weight will
+
+951
+00:27:43,760 --> 00:27:45,480
+usually be very happy
+
+952
+00:27:45,480 --> 00:27:46,920
+to do that if somebody
+
+953
+00:27:46,920 --> 00:27:48,680
+is having trouble in their patrol.
+
+954
+00:27:48,680 --> 00:27:49,960
+So I know there's a lot
+
+955
+00:27:49,960 --> 00:27:50,960
+of advice out there that
+
+956
+00:27:50,960 --> 00:27:52,520
+talks about a percentage
+
+957
+00:27:52,520 --> 00:27:53,800
+of body weight as being
+
+958
+00:27:53,800 --> 00:27:55,360
+a measure for the maximum,
+
+959
+00:27:55,360 --> 00:27:56,760
+But, like I said, there are
+
+960
+00:27:56,760 --> 00:27:58,320
+so many different situations
+
+961
+00:27:58,320 --> 00:27:59,520
+and so many different types
+
+962
+00:27:59,520 --> 00:28:01,160
+of scouts that I would not
+
+963
+00:28:01,160 --> 00:28:02,760
+use that as a rule of thumb.
+
+964
+00:28:02,760 --> 00:28:03,920
+The way that it works best
+
+965
+00:28:03,920 --> 00:28:05,880
+for us has been to stay
+
+966
+00:28:05,920 --> 00:28:08,680
+in that 25 to 35 pound area
+
+967
+00:28:08,680 --> 00:28:09,880
+and to make sure that
+
+968
+00:28:09,880 --> 00:28:10,960
+everybody sticks together
+
+969
+00:28:10,960 --> 00:28:11,960
+as patrol,
+
+970
+00:28:11,960 --> 00:28:12,960
+And it usually seems
+
+971
+00:28:12,960 --> 00:28:15,080
+to work out just fine that way.
+
+972
+00:28:15,080 --> 00:28:16,640
+If you have a question for me,
+
+973
+00:28:16,640 --> 00:28:18,120
+it's very easy to get in touch
+
+974
+00:28:18,120 --> 00:28:18,800
+and you're going to find out
+
+975
+00:28:18,800 --> 00:28:20,360
+how to do that in just a moment.
+
+976
+00:28:35,880 --> 00:28:42,520
+Thank you for listening to this
+
+977
+00:28:42,520 --> 00:28:44,960
+268th edition of the
+
+978
+00:28:44,960 --> 00:28:46,640
+Scoutmaster podcast.
+
+979
+00:28:46,640 --> 00:28:48,240
+Here's how to keep in touch.
+
+980
+00:28:48,240 --> 00:28:49,080
+Go to the blog at
+
+981
+00:28:49,080 --> 00:28:50,560
+scoutmastercgcom
+
+982
+00:28:50,560 --> 00:28:51,600
+and you can sign up
+
+983
+00:28:51,600 --> 00:28:53,000
+to an email subscription
+
+984
+00:28:53,000 --> 00:28:54,280
+that will send every update
+
+985
+00:28:54,280 --> 00:28:56,040
+to the blog to your email inbox.
+
+986
+00:28:56,040 --> 00:28:56,960
+You can join the other
+
+987
+00:28:56,960 --> 00:28:57,840
+mobile scouts
+
+988
+00:28:57,840 --> 00:28:58,680
+or have the Scoutmaster
+
+989
+00:28:58,680 --> 00:29:00,760
+CG app on their mobile devices,
+
+990
+00:29:00,760 --> 00:29:02,200
+and the app is available
+
+991
+00:29:02,200 --> 00:29:03,480
+both on the Google Play
+
+992
+00:29:03,480 --> 00:29:05,240
+and the iTunes app store.
+
+993
+00:29:05,280 --> 00:29:06,720
+You can experience the wonders
+
+994
+00:29:06,720 --> 00:29:08,280
+of scoutmastercgcom
+
+995
+00:29:08,280 --> 00:29:10,160
+through the vast panorama
+
+996
+00:29:10,160 --> 00:29:12,440
+of social media outlets.
+
+997
+00:29:12,440 --> 00:29:13,800
+There's 8,900 folks
+
+998
+00:29:13,800 --> 00:29:15,080
+who like Scoutmaster blog
+
+999
+00:29:15,080 --> 00:29:16,200
+on Facebook.
+
+1000
+00:29:16,200 --> 00:29:17,080
+There's 1,200
+
+1001
+00:29:17,080 --> 00:29:18,520
+tweeters that tweet along
+
+1002
+00:29:18,520 --> 00:29:20,120
+with us on Twitter.
+
+1003
+00:29:20,120 --> 00:29:21,520
+There are 2,000 pinners
+
+1004
+00:29:21,520 --> 00:29:22,320
+who pin the
+
+1005
+00:29:22,320 --> 00:29:23,320
+Pultritudinous pictures
+
+1006
+00:29:23,320 --> 00:29:24,600
+we proper publicly.
+
+1007
+00:29:24,600 --> 00:29:25,680
+on Pinterest,
+
+1008
+00:29:25,680 --> 00:29:26,680
+You can watch Scoutmaster
+
+1009
+00:29:26,680 --> 00:29:28,040
+CG on YouTube
+
+1010
+00:29:28,040 --> 00:29:29,080
+and you can join
+
+1011
+00:29:29,080 --> 00:29:30,280
+the 500 odd folks
+
+1012
+00:29:30,280 --> 00:29:31,240
+who form the exclusive
+
+1013
+00:29:31,240 --> 00:29:32,600
+Scoutmaster CG circle
+
+1014
+00:29:32,600 --> 00:29:33,840
+on Google+.
+
+1015
+00:29:33,840 --> 00:29:35,040
+What's that you say
+
+1016
+00:29:35,040 --> 00:29:36,480
+You can't face Facebook?
+
+1017
+00:29:36,480 --> 00:29:37,639
+Twitter makes you better.
+
+1018
+00:29:37,639 --> 00:29:39,320
+You've no interest in Pinterest.
+
+1019
+00:29:39,320 --> 00:29:40,800
+You don't put the? U in YouTube
+
+1020
+00:29:40,800 --> 00:29:41,520
+and you're a minus
+
+1021
+00:29:41,520 --> 00:29:43,159
+when it comes to Google+.
+
+1022
+00:29:43,159 --> 00:29:44,760
+That's okay, Bunky.
+
+1023
+00:29:44,760 --> 00:29:46,560
+Just zoom into the late 90s
+
+1024
+00:29:46,560 --> 00:29:48,240
+and fire off an email.
+
+1025
+00:29:48,240 --> 00:29:49,520
+Yep, you can email me.
+
+1026
+00:29:49,520 --> 00:29:50,440
+Clark Green,
+
+1027
+00:29:50,440 --> 00:29:52,120
+your comments and questions
+
+1028
+00:29:52,120 --> 00:29:55,480
+at clark at scoutmastercgcom.
+
+1029
+00:29:55,480 --> 00:29:59,200
+C-L-A-R-K-E.
+
+1030
+00:29:59,200 --> 00:30:03,960
+at scoutmastercgcom,
+
+1031
+00:30:03,960 --> 00:30:04,920
+The Scoutmaster blog
+
+1032
+00:30:04,920 --> 00:30:06,320
+and the Scoutmaster podcast
+
+1033
+00:30:06,320 --> 00:30:07,640
+do not have the sponsorship
+
+1034
+00:30:07,640 --> 00:30:08,760
+or endorsement
+
+1035
+00:30:08,760 --> 00:30:10,520
+of any scouting organization.
+
+1036
+00:30:10,520 --> 00:30:11,840
+They are solely a product
+
+1037
+00:30:11,840 --> 00:30:12,760
+of my own ramblings
+
+1038
+00:30:12,760 --> 00:30:14,320
+and prognostications.
+
+1039
+00:30:14,320 --> 00:30:15,840
+It's just me talking
+
+1040
+00:30:15,840 --> 00:30:16,680
+into a microphone,
+
+1041
+00:30:16,680 --> 00:30:17,560
+trying to lend a hand
+
+1042
+00:30:17,560 --> 00:30:19,080
+to scouters everywhere
+
+1043
+00:30:19,080 --> 00:30:20,320
+and have a little bit of fun
+
+1044
+00:30:20,320 --> 00:30:20,760
+along the way,
+
+1045
+00:30:20,760 --> 00:30:22,400
+And speaking of fun,
+
+1046
+00:30:22,400 --> 00:30:23,760
+let's hear from our founder,
+
+1047
+00:30:23,760 --> 00:30:25,080
+Sir Robert Baden-Powell.
+
+1048
+00:30:25,080 --> 00:30:26,080
+Sir Robert,
+
+1049
+00:30:26,080 --> 00:30:27,240
+Good luck to you
+
+1050
+00:30:27,240 --> 00:30:28,720
+and good camping,
+
+1051
+00:30:28,720 --> 00:30:30,280
+Why? thank you, sir,
+
+1052
+00:30:30,280 --> 00:30:31,560
+Until next time, everyone.
+

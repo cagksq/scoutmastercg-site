@@ -2,7 +2,9 @@
 title: "Scouts and Politics"
 date: 2014-10-18
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "BSA Rules & Policy"
+  - "Citizenship & Patriotism"
 wayback_url: "https://web.archive.org/web/20141018003649/http://scoutmastercg.com:80/scouts-and-poli/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Salamanders and Limitations"
 date: 2014-08-22
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Instructional Methods"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20140822065802/http://scoutmastercg.com/salamanders-and-limitations/?replytocom=49385"
 ---
 

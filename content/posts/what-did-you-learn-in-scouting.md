@@ -2,7 +2,9 @@
 title: "What did you learn in Scouting?"
 date: 2012-05-03
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Personal Reflection"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20151017060021/http://scoutmastercg.com/what-did-you-learn-in-scouting/"
 ---
 

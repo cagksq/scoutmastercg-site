@@ -2,7 +2,9 @@
 title: "Constructive Scouting Discipline"
 date: 2014-11-12
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Discipline & Behavior"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20141112075722/http://scoutmastercg.com:80/constructive-scouting-discipline/?replytocom=69476"
 ---
 

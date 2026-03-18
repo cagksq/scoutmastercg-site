@@ -2,7 +2,9 @@
 title: "Peace Corps Lessons"
 date: 2012-08-24
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150919083341/http://scoutmastercg.com/peace-corps-lessons/"
 ---
 

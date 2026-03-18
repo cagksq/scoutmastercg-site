@@ -2,7 +2,9 @@
 title: "Mentoring Scouts"
 date: 2013-06-25
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+topics:
+  - "Mentoring & Coaching"
+  - "Baden-Powell Writings"
 wayback_url: "https://web.archive.org/web/20141012080548/http://scoutmastercg.com:80/mentoring-scouts/"
 ---
 

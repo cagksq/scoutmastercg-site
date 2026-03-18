@@ -2,7 +2,8 @@
 title: "Volunteer Boundaries"
 date: 2013-06-11
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20141009015309/http://scoutmastercg.com:80/volunteer-boundaries/"
 ---
 

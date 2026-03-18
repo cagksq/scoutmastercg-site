@@ -3,8 +3,8 @@ title: "B.P.'s Blog - Keeping Notes"
 date: 2017-07-11
 draft: false
 image: "/images/bp5.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
 wayback_url: "https://web.archive.org/web/20170711195053/http://scoutmastercg.com/b-p-s-blog-keeping-notes/"
 ---
 

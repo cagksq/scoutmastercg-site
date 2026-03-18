@@ -2,7 +2,9 @@
 title: "Choose to Prepare - Strategic Preparation 2"
 date: 2017-07-07
 draft: false
-categories: ["advancement", "scouting-ideals"]
+topics:
+  - "Scout Advancement"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20170707132551/http://scoutmastercg.com/strategic-preparation-2-chose-to-prepare/"
 ---
 

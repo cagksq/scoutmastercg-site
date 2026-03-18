@@ -2,7 +2,9 @@
 title: "The Patrol Leader's Council and Planning"
 date: 2013-02-12
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20170709055409/http://scoutmastercg.com/the-patrol-leaders-council-and-planning/"
 ---
 

@@ -2,7 +2,8 @@
 title: "3 Reasons Scouts Do Not Advance"
 date: 2015-11-13
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20151113224944/http://scoutmastercg.com:80/3-reasons-scouts-do-not-advance/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Scouting Traditions and Scouting Habit"
 date: 2013-06-28
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Scouting History & Tradition"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20140830040957/http://scoutmastercg.com/scouting-traditions/?replytocom=48553"
 ---
 

@@ -2,7 +2,8 @@
 title: "How to Run a Good Pack Meeting"
 date: 2013-10-12
 draft: false
-categories: ["scouts"]
+topics:
+  - "Scout Activities & Games"
 wayback_url: "https://web.archive.org/web/20150916074323/http://scoutmastercg.com/how-to-run-a-good-pack-meeting/"
 ---
 

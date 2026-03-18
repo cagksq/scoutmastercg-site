@@ -2,7 +2,9 @@
 title: "Deer Tracking"
 date: 2008-12-23
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Activities & Games"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20121220013957/http://www.scoutmastercg.com:80/deer-tracking/"
 ---
 

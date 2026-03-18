@@ -2,7 +2,9 @@
 title: "A Scouter's Golden Opportunity"
 date: 2012-02-16
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Character Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20141013045759/http://scoutmastercg.com:80/a-scouters-golden-opportunity/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Why Leaves Change Color"
 date: 2014-08-22
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Nature & Environment"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20140822182214/http://scoutmastercg.com/why-leaves-chan/"
 ---
 

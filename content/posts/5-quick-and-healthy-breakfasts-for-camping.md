@@ -2,7 +2,8 @@
 title: "5 Quick and Healthy Breakfasts for Camping"
 date: 2012-12-18
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20140828232806/http://scoutmastercg.com/5-quick-and-healthy-breakfasts-for-camping/?replytocom=405"
 ---
 

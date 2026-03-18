@@ -2,7 +2,9 @@
 title: "Stay Restless"
 date: 2012-02-13
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Leadership Theory"
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20141009014432/http://scoutmastercg.com:80/stay-restless/"
 ---
 

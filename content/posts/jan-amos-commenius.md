@@ -2,7 +2,8 @@
 title: "Jan Amos Commenius"
 date: 2014-08-26
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20140826055500/http://scoutmastercg.com/jan-amos-commenius/"
 ---
 

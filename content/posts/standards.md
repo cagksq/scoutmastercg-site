@@ -2,7 +2,9 @@
 title: "Standards"
 date: 2012-12-20
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20121220014019/http://www.scoutmastercg.com:80/earning-an-eagl/"
 ---
 

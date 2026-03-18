@@ -3,8 +3,9 @@ title: "B-P's Blog - Bad Camping"
 date: 2015-08-09
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20150910051712/http://scoutmastercg.com/b-ps-blog-bad-camping/?replytocom=81997"
 ---
 

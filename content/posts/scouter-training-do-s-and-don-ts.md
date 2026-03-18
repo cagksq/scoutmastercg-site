@@ -2,7 +2,9 @@
 title: "Scouter Training Do's and Don'ts"
 date: 2014-08-21
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Volunteer Management & Burnout"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20170518202436/http://scoutmastercg.com:80/scouter-training-dos-and-donts/"
 ---
 

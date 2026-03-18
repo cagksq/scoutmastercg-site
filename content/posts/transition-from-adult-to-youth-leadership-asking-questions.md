@@ -2,7 +2,9 @@
 title: "Transition from Adult to Youth Leadership - Asking Questions"
 date: 2015-10-17
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20151017052400/http://scoutmastercg.com/going-from-adult-to-youth-leadership-1/"
 ---
 

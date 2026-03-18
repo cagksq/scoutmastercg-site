@@ -2,7 +2,9 @@
 title: "Rethinking Summer Camp Merit Badges"
 date: 2013-07-04
 draft: false
-categories: ["advancement"]
+topics:
+  - "Summer Camp"
+  - "Merit Badges"
 wayback_url: "https://web.archive.org/web/20160919093128/http://scoutmastercg.com:80/rethinking-expectations-for-summer-camp-merit-badges/"
 ---
 

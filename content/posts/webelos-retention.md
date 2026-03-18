@@ -2,7 +2,9 @@
 title: "Webelos Retention"
 date: 2013-10-12
 draft: false
-categories: ["scouts"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150919143737/http://scoutmastercg.com/webelos_retenti/"
 ---
 

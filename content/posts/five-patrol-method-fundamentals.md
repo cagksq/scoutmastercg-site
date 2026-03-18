@@ -2,7 +2,9 @@
 title: "Five Patrol Method Fundamentals"
 date: 2013-10-30
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Patrol Method"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150411070552/http://scoutmastercg.com:80/five-patrol-method-fundamentals/?"
 ---
 

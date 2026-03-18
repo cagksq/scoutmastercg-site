@@ -2,7 +2,8 @@
 title: "Scout Neckerchiefs and Uniforms"
 date: 2013-08-10
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20160625122045/http://scoutmastercg.com:80/scout-neckerchiefs-and-uniforms/"
 ---
 

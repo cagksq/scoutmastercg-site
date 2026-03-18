@@ -2,7 +2,9 @@
 title: "Obstacles"
 date: 2015-09-19
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150919045516/http://scoutmastercg.com/obstacles/"
 ---
 

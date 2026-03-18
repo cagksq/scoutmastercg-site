@@ -2,7 +2,9 @@
 title: "The Vernal Equinox"
 date: 2014-08-23
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Personal Reflection"
+  - "Nature & Environment"
 wayback_url: "https://web.archive.org/web/20140823123658/http://scoutmastercg.com/the-vernal-equinox/"
 ---
 

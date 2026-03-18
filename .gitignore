@@ -9,5 +9,8 @@ static/audio/
 # macOS
 .DS_Store
 
+# API keys
+.env
+
 # Old backup
 content.BAD.091818

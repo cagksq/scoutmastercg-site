@@ -2,7 +2,9 @@
 title: "Scout Requirements and \"Double Dipping"
 date: 2017-07-04
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Scout Advancement"
+  - "Merit Badges"
 wayback_url: "https://web.archive.org/web/20170704075037/http://scoutmastercg.com/scout-requirements-and-double-dipping/"
 ---
 

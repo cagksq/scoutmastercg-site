@@ -2,7 +2,9 @@
 title: "Social and Emotional Development in Scouting"
 date: 2014-10-18
 draft: false
-categories: ["scoutmasters-life", "scouting-ideals"]
+topics:
+  - "Character Development"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20151226090839/http://scoutmastercg.com/social-and-emotional-development-in-scouting/"
 ---
 

@@ -2,7 +2,8 @@
 title: "Ask Andy"
 date: 2011-05-13
 draft: false
-categories: ["advancement"]
+topics:
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20150916202411/http://scoutmastercg.com/ask_andy/"
 ---
 

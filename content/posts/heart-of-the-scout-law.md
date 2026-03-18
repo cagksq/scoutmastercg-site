@@ -2,7 +2,9 @@
 title: "Heart of the Scout Law"
 date: 2013-01-04
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20140901033355/http://scoutmastercg.com/heart-of-the-scout-law/?replytocom=6864"
 ---
 

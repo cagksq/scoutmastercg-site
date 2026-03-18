@@ -2,7 +2,9 @@
 title: "What Would You Do? - Commanding Respect"
 date: 2011-01-19
 draft: false
-categories: ["patrol-method", "advancement"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20170920041317/http://scoutmastercg.com/what-would-you-do-commanding-respect/"
 ---
 

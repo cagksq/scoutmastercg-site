@@ -2,7 +2,9 @@
 title: "Walking on Water or Just Walking"
 date: 2014-08-25
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Personal Reflection"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20140825083812/http://scoutmastercg.com/walking-on-water-or-just-walking/"
 ---
 

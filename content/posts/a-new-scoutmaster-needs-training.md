@@ -2,7 +2,8 @@
 title: "A New Scoutmaster Needs Training"
 date: 2015-03-04
 draft: false
-categories: ["scoutmasters-job", "scouts"]
+topics:
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150304135749/http://scoutmastercg.com:80/what-a-new-scoutmaster-needs-get-trained/"
 ---
 

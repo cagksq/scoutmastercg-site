@@ -2,7 +2,9 @@
 title: "Three 'Secret Weapons' Every Scouter Should Have"
 date: 2013-12-18
 draft: false
-categories: ["scouting-history-ideas", "advancement"]
+topics:
+  - "BSA Rules & Policy"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20140825061726/http://scoutmastercg.com/three-secert-weapons-every-scouter/?replytocom=49376"
 ---
 

@@ -2,7 +2,9 @@
 title: "Circle of Knowledge Game"
 date: 2011-05-25
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Instructional Methods"
+  - "Scout Activities & Games"
 wayback_url: "https://web.archive.org/web/20150916201200/http://scoutmastercg.com/circle-of-knowledge-game/"
 ---
 

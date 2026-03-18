@@ -2,7 +2,9 @@
 title: "Your Kids Aren't All That Bad"
 date: 2012-08-12
 draft: false
-categories: ["scouts"]
+topics:
+  - "Parent Relations"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20121220014159/http://www.scoutmastercg.com:80/perspective-and-proportion/"
 ---
 

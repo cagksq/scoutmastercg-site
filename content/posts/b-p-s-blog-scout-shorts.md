@@ -3,8 +3,9 @@ title: "B.P.'s Blog - Scout Shorts"
 date: 2014-11-23
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20170901091016/http://scoutmastercg.com/b-p-s-blog-scout-shorts/"
 ---
 

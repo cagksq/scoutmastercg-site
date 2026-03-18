@@ -7,9 +7,6 @@
 
   <article class="mw7 center ph3">
     <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked ttu">
-        {{ .CurrentSection.Title }}
-      </aside>
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
       </h1>
@@ -36,8 +33,8 @@
     </div>
 
     {{ with .Params.image }}
-    <div class="mv4">
-      <img src="{{ . }}" alt="{{ $page.Title }}" style="width:100%; max-width:600px; display:block; border-radius:4px;">
+    <div style="text-align:center; margin-bottom:1rem;">
+      <img src="{{ . }}" alt="{{ $page.Title }}" style="max-width:100%; display:inline-block; border-radius:4px;">
     </div>
     {{ end }}
 
@@ -90,6 +87,32 @@
     }
 
     var params = new URLSearchParams(window.location.search);
+
+    // Highlight and scroll to section matching ?t= parameter
+    var tParam = params.get("t");
+    if (tParam) {
+      var ts = parseInt(tParam, 10);
+      function highlightSection() {
+        var acts = document.querySelectorAll(".smcg-act");
+        for (var i = 0; i < acts.length; i++) {
+          var btn = acts[i].querySelector(".smcg-act-play");
+          if (!btn) continue;
+          var m = (btn.getAttribute("onclick") || "").match(/seekTo\((\d+)\)/);
+          if (m && parseInt(m[1], 10) === ts) {
+            acts[i].classList.add("smcg-act--highlighted");
+            var top = acts[i].getBoundingClientRect().top + window.pageYOffset - 120;
+            window.scrollTo({ top: top, behavior: "smooth" });
+            break;
+          }
+        }
+      }
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", highlightSection);
+      } else {
+        highlightSection();
+      }
+    }
+
     if (!params.get("t")) {
       var saved = parseInt(localStorage.getItem(resumeKey));
       if (saved && saved > 30) {

@@ -2,7 +2,8 @@
 title: "900 and Counting"
 date: 2014-08-25
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20140825085810/http://scoutmastercg.com/900-and-counting/"
 ---
 

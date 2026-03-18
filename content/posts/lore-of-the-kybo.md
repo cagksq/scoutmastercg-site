@@ -2,7 +2,8 @@
 title: "Lore of the Kybo"
 date: 2012-02-19
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20120219045258/http://www.scoutmastercg.com:80/2012/02/lore-of-the-kybo/"
 ---
 

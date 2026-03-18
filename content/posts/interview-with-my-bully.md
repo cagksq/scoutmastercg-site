@@ -2,7 +2,9 @@
 title: "Interview With My Bully"
 date: 2017-05-22
 draft: false
-categories: ["scouting-ideals", "scouts"]
+topics:
+  - "Kindness Empathy & Inclusion"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20170522104708/http://scoutmastercg.com:80/interview-with-my-bully/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Contribution Syndrome"
 date: 2011-04-20
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Mentoring & Coaching"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150916201846/http://scoutmastercg.com/contribution-syndrome/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Can Scouts Use Power Tools?"
 date: 2011-04-02
 draft: false
-categories: ["advancement"]
+topics:
+  - "Risk Management & Safety"
+  - "Merit Badges"
 wayback_url: "https://web.archive.org/web/20120104224115/http://www.scoutmastercg.com:80/2011/03/can-scouts-use-power-tools-2/"
 ---
 

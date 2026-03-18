@@ -3,8 +3,9 @@ title: "B.P.'s Blog - Camping Season"
 date: 2014-11-30
 draft: false
 image: "/images/bp5.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20150303084254/http://scoutmastercg.com:80/b-p-s-blog-camping-season/"
 ---
 

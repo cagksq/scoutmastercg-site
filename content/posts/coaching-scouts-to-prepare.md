@@ -2,7 +2,9 @@
 title: "Coaching Scouts to Prepare"
 date: 2013-03-11
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Mentoring & Coaching"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150827041624/http://scoutmastercg.com:80/coaching-scouts-to-prepare/"
 ---
 

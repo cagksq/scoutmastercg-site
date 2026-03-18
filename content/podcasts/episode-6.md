@@ -1,9 +1,9 @@
 ---
-title: "Scoutmaster Podcast 6 - Moving from Adult to Youth Leadership"
+title: "Scoutmaster Podcast 6"
 date: 2010-02-22
 draft: false
 episode: 6
-subtitle: "Andy's essay on the word 'Scoutmaster' — in America 'master' means boss, not teacher; the UK, Australia, and Canada all use Scout leader instead; the naming decision a hundred years ago still shapes how adults misunderstand their role"
+subtitle: "Scout leader or Scoutmaster? The naming decision a hundred years ago still shapes how adults misunderstand their role"
 transcript: true
 categories: ["Podcast"]
 
@@ -20,10 +20,11 @@ description: "Commissioner Andy's essay on why the word 'Scoutmaster' has caused
 
 <div class="smcg-acts">
 <div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(0)" title="Jump to 0:00"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">INTRO</div><div class="smcg-act-note">Bill Cosby on being a Boy Scout in Philadelphia — loading up at the Army-Navy store, catching a trolley to hike in Fairmount Park</div></div></div>
-<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(161)" title="Jump to 2:41"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">SCOUTMASTERSHIP IN 7 MINUTES</div><div class="smcg-act-note">Andy's essay on the word 'Scoutmaster' — in America 'master' means boss, not teacher; the UK, Australia, and Canada all use Scout leader instead; the naming decision a hundred years ago still shapes how adults misunderstand their role</div></div></div>
-<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(743)" title="Jump to 12:23"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">ADULT-TO-YOUTH LEADERSHIP PART 1</div><div class="smcg-act-note">First instalment of a series on moving a troop from adult-led to youth-led — the moccasin telegraph; what changes and what doesn't</div></div></div>
-<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(830)" title="Jump to 13:50"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">MAILBAG</div><div class="smcg-act-note">Listener letters</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(195)" title="Jump to 3:15"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">SCOUTMASTERSHIP IN 7 MINUTES</div><div class="smcg-act-note">Andy's essay on the word 'Scoutmaster' — in America 'master' means boss, not teacher; the UK, Australia, and Canada all use Scout leader instead; the naming decision a hundred years ago still shapes how adults misunderstand their role</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(629)" title="Jump to 10:29"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">THIS HAS TO BE THE TRUTH</div><div class="smcg-act-note">A copperhead found under a tent platform — discovered via the patrol log, quietly removed and released; by morning, camp gossip had turned it into a giant snake the scoutmaster killed and made into a hatband. Clarke names this the moccasin telegraph.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(870)" title="Jump to 14:30"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">ADULT-TO-YOUTH LEADERSHIP PART 1</div><div class="smcg-act-note">A scout troop belongs to scouts, not adults — adult leaders are coaches and mentors who stay on the sideline; two fears that keep troops adult-led: that scouts will make bad decisions, or choose the wrong priorities</div></div></div>
 <div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(1288)" title="Jump to 21:28"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">SCOUTMASTER'S MINUTE</div><div class="smcg-act-note">A scout is cheerful — the ninth point of the Scout Law</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(1420)" title="Jump to 23:40"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">OUTRO</div></div></div>
 </div>
 
 <p style="margin:0.75rem 0 0;"><a href="/podcasts/episode-6/transcript/" class="smcg-transcript-link">Transcript</a></p>

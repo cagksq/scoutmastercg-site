@@ -2,7 +2,9 @@
 title: "Limitations of Scout Leader Training"
 date: 2016-07-03
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Adult Leadership Roles"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20160703061900/http://scoutmastercg.com/limitations-of-scout-leader-training/?replytocom=90583"
 ---
 

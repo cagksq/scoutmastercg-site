@@ -2,7 +2,9 @@
 title: "What Are We Walking On?"
 date: 2015-10-14
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20151014175518/http://scoutmastercg.com/what-are-we-wal/"
 ---
 

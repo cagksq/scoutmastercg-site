@@ -2,7 +2,9 @@
 title: "Nostalgia, Tradition, and the Relevance of Scouting"
 date: 2014-08-30
 draft: false
-categories: ["outdoors", "scouts"]
+topics:
+  - "Scouting History & Tradition"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20141012081503/http://scoutmastercg.com:80/nostalgia-tradition-and-the-relevance-of-scouting/"
 ---
 

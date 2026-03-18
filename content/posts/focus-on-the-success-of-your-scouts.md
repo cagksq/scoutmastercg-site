@@ -2,7 +2,9 @@
 title: "Focus on the Success of Your Scouts"
 date: 2015-09-20
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Adult Leadership Roles"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150920090909/http://scoutmastercg.com/focus-on-the-success-of-your-scouts/"
 ---
 

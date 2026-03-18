@@ -2,7 +2,9 @@
 title: "Haraka haraka haina baraka - Scoutmaster Minute"
 date: 2012-10-13
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Character Development"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20121017011409/http://www.scoutmastercg.com:80/2012/10/haraka-haraka-scoutmaster-minute/"
 ---
 

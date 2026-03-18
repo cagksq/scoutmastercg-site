@@ -2,7 +2,9 @@
 title: "'I Don't Know' is a good answer"
 date: 2012-04-11
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20141013160954/http://scoutmastercg.com:80/i-dont-know-is-a-good-answer/"
 ---
 

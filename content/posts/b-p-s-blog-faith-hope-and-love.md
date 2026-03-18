@@ -3,8 +3,9 @@ title: "B-P's Blog - Faith, Hope, and Love"
 date: 2015-11-22
 draft: false
 image: "/images/bp5.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20170606125411/http://scoutmastercg.com/b-ps-blog-faith-hope-and-love/"
 ---
 

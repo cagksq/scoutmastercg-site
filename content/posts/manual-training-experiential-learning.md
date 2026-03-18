@@ -2,7 +2,9 @@
 title: "Manual Training - Experiential Learning"
 date: 2009-03-30
 draft: false
-categories: ["advancement"]
+topics:
+  - "Instructional Methods"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20150920071346/http://scoutmastercg.com/the-young-workman-is-engaged-on-a-problem-in-wood-just-as-a-few-hours-earlier-he-was-engaged-on-a-problem-in-algebra-he/"
 ---
 

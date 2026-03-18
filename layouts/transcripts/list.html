@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <div class="pt2 pa3 pa4-ns center mw8">
+    <h1 style="font-family:'Playfair Display',serif; font-size:2.25rem; font-weight:700; color:#3B4D1E; text-align:center; margin:1.5rem 0 0.5rem;">Transcripts</h1>
+    <p style="font-family:'Roboto',sans-serif; font-size:0.75rem; letter-spacing:0.12em; text-transform:uppercase; color:#aaa; text-align:center; margin:0 0 2rem;">{{ len .Pages }} transcripts</p>
+    <table style="width:100%; border-collapse:collapse;">
+      {{ range .Pages.ByDate }}
+        <tr style="border-bottom: 1px solid #e0e0e0;">
+          <td style="padding: 10px 12px; vertical-align:top;">
+            <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">
+              <strong style="font-size:1rem; color:#222;">{{ .Params.episode_title }}</strong>
+            </a>
+            <div style="font-family:'Roboto',sans-serif; font-size:0.8rem; color:#999; margin-top:2px;">
+              {{ .Params.subtitle }}
+            </div>
+          </td>
+        </tr>
+      {{ end }}
+    </table>
+  </div>
+{{ end }}

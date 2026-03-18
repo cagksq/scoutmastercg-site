@@ -2,7 +2,9 @@
 title: "How Long Does it Take to Be a First Class Scout?"
 date: 2013-09-18
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Scout Advancement"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20160924195302/http://scoutmastercg.com:80/how-long-does-it-take-to-be-a-first-class-scout/"
 ---
 

@@ -1,0 +1,2316 @@
+1
+00:00:00,000 --> 00:00:07,000
+And now the old scout master.
+
+2
+00:00:07,000 --> 00:00:11,000
+Alright, so we are ready to go, fellas.
+
+3
+00:00:11,000 --> 00:00:12,000
+Yes, sir,
+
+4
+00:00:12,000 --> 00:00:13,000
+Alrighty,
+
+5
+00:00:13,000 --> 00:00:14,000
+Do it.
+
+6
+00:00:14,000 --> 00:00:15,000
+Hey, hike on.
+
+7
+00:00:15,000 --> 00:00:18,320
+Well, it's time for another scout master.
+
+8
+00:00:18,320 --> 00:00:21,000
+Is anyone else not ready?
+
+9
+00:00:21,000 --> 00:00:22,000
+Sorry,
+
+10
+00:00:22,000 --> 00:00:23,000
+Sorry,
+
+11
+00:00:23,000 --> 00:00:26,000
+You just had to do that, didn't you?
+
+12
+00:00:26,000 --> 00:00:29,000
+Okay, we'll do that again.
+
+13
+00:00:29,000 --> 00:00:32,000
+Alright, it's time.
+
+14
+00:00:32,000 --> 00:00:35,000
+You've got to ask.
+
+15
+00:00:35,000 --> 00:00:36,000
+Come on,
+
+16
+00:00:36,000 --> 00:00:38,000
+Alright, everybody. now
+
+17
+00:00:38,000 --> 00:00:41,000
+One, two, three begin.
+
+18
+00:00:41,000 --> 00:00:50,000
+Hey, this is podcast number 151..
+
+19
+00:00:50,000 --> 00:01:15,000
+Hey,
+
+20
+00:01:15,000 --> 00:01:17,000
+Welcome back to the scout master podcast.
+
+21
+00:01:17,000 --> 00:01:18,000
+This is Clark Green.
+
+22
+00:01:18,000 --> 00:01:19,000
+Hey, it's Christmas Eve,
+
+23
+00:01:19,000 --> 00:01:21,000
+So happy holidays, everybody.
+
+24
+00:01:21,000 --> 00:01:24,000
+I want to thank everybody for being in touch this past week.
+
+25
+00:01:24,000 --> 00:01:26,000
+I'm not going to go through the mail bag this week.
+
+26
+00:01:26,000 --> 00:01:28,000
+We'll save that for another podcast.
+
+27
+00:01:28,000 --> 00:01:32,000
+We do have a scout master panel discussion that we recorded earlier this month
+
+28
+00:01:32,000 --> 00:01:34,000
+And that's going to take up the rest of the podcast.
+
+29
+00:01:34,000 --> 00:01:37,000
+There's something else coming up in the new year that I wanted to mention to you:
+
+30
+00:01:37,000 --> 00:01:40,000
+Sunday January 13th.
+
+31
+00:01:40,000 --> 00:01:48,000
+That Sunday evening I'm working with a couple of people and we're working on a live web presentation
+
+32
+00:01:48,000 --> 00:01:49,000
+For that evening
+
+33
+00:01:49,000 --> 00:01:54,000
+And I'm going to have more details about that sometimes and exactly how to access it and things.
+
+34
+00:01:54,000 --> 00:02:00,000
+But just to let you know, put a little note on your calendar, Sunday January 13th,
+
+35
+00:02:00,000 --> 00:02:04,000
+And we'll have some more details about that within the next couple of podcasts.
+
+36
+00:02:04,000 --> 00:02:06,000
+Have a wonderful holiday,
+
+37
+00:02:06,000 --> 00:02:07,000
+Won't you?
+
+38
+00:02:07,000 --> 00:02:08,000
+Let's get started,
+
+39
+00:02:08,000 --> 00:02:15,000
+Shall we?
+
+40
+00:02:15,000 --> 00:02:35,000
+It's time for another scout master panel discussion.
+
+41
+00:02:35,000 --> 00:02:38,000
+It's time for another scout master panel discussion,
+
+42
+00:02:38,000 --> 00:02:41,000
+And joining me is Larry Geiger, down in VR, Florida.
+
+43
+00:02:41,000 --> 00:02:42,000
+How you doing, Larry?
+
+44
+00:02:42,000 --> 00:02:44,000
+Good evening, Clark.
+
+45
+00:02:44,000 --> 00:02:47,000
+Tom Gillard is in Tallahoma, Tennessee,
+
+46
+00:02:47,000 --> 00:02:48,000
+Hello Tom.
+
+47
+00:02:48,000 --> 00:02:49,000
+Hey Clark,
+
+48
+00:02:49,000 --> 00:02:53,000
+And Walter Underwood is out there in the tall trees.
+
+49
+00:02:53,000 --> 00:02:55,000
+The Palo Alto, California.
+
+50
+00:02:55,000 --> 00:02:57,000
+How you doing, Walter?
+
+51
+00:02:57,000 --> 00:02:58,000
+I'm doing great
+
+52
+00:02:58,000 --> 00:03:01,000
+High-climb.
+
+53
+00:03:01,000 --> 00:03:03,000
+We're moving right along here.
+
+54
+00:03:03,000 --> 00:03:11,000
+I had an email question that I thought would be a good topic for discussion with the panel
+
+55
+00:03:11,000 --> 00:03:13,000
+And let me read the email to you. fellas,
+
+56
+00:03:13,000 --> 00:03:24,000
+I'm a new scout master of six months and have only two years as a volunteer adult with the Boy Scouts of America and no prior experiences in scouting.
+
+57
+00:03:24,000 --> 00:03:38,000
+I just returned from a committee meeting where members complained that some of the scouts need to be punished for using their electronic devices to play games during yesterday's advancement meeting.
+
+58
+00:03:38,000 --> 00:03:42,000
+One adult suggested I make the scouts do push-ups as a punishment.
+
+59
+00:03:42,000 --> 00:03:48,000
+Others thought a type of reprimand or demerit system should be put in place.
+
+60
+00:03:48,000 --> 00:03:57,000
+I told the members that there was already a rule for scouts not to use electronic devices during the meetings and that the patrol leaders' counsel should have handled the issue.
+
+61
+00:03:57,000 --> 00:04:05,000
+Unfortunately, the senior patrol leader and the other leaders did not do anything to stop the scouts from playing games on their devices
+
+62
+00:04:05,000 --> 00:04:09,000
+And the behavior continued for about half an hour.
+
+63
+00:04:09,000 --> 00:04:13,000
+What would be an appropriate way to deal with this in the future?
+
+64
+00:04:13,000 --> 00:04:19,000
+Can the committee install a type of discipline or demerit system I would have to enforce?
+
+65
+00:04:19,000 --> 00:04:25,000
+Thank you for your help in this relatively simple but now somewhat complex issue.
+
+66
+00:04:25,000 --> 00:04:31,000
+That is a bit of a can of worms there. Who wants to get started?
+
+67
+00:04:31,000 --> 00:04:36,000
+There's three issues that you have to deal with. The first one is electronic devices.
+
+68
+00:04:36,000 --> 00:04:40,000
+You've got to talk about that. And then the second thing is punishment,
+
+69
+00:04:40,000 --> 00:04:43,000
+And I think that's the thing that you want to talk about.
+
+70
+00:04:43,000 --> 00:04:51,000
+But the third thing to talk about is that last line and that's the committee scout master relationship.
+
+71
+00:04:51,000 --> 00:04:55,000
+And I'll just start with that one just for a second and then let you guys go.
+
+72
+00:04:55,000 --> 00:04:59,000
+But no, can the committee do that?
+
+73
+00:04:59,000 --> 00:05:03,000
+No, The scout master is in charge of the program.
+
+74
+00:05:03,000 --> 00:05:07,000
+The committee chairman can certainly talk to the scout master,
+
+75
+00:05:07,000 --> 00:05:13,000
+But if it's not in the scout handbook and it doesn't say here's how the Boy Scout demerit system worked,
+
+76
+00:05:13,000 --> 00:05:17,000
+then no, the committee can't do that if the scout master and the SPL don't want to do that.
+
+77
+00:05:17,000 --> 00:05:25,000
+The committee chairman says: you know, you sent us a guy for a board and you didn't do a scout master conference.
+
+78
+00:05:25,000 --> 00:05:28,000
+The scout master says: eh, you know why do we do that.
+
+79
+00:05:28,000 --> 00:05:34,000
+Then he can say: wait, here's the book. But in this case scouting doesn't have a demerit system.
+
+80
+00:05:34,000 --> 00:05:42,000
+So no, he can't say that. So it's really up to the SPL, with the advisement of the scout master.
+
+81
+00:05:42,000 --> 00:05:47,000
+And it's a bad idea. But can the committee chairman do that? No,
+
+82
+00:05:47,000 --> 00:05:50,000
+Let's concentrate on that question for a moment.
+
+83
+00:05:50,000 --> 00:05:54,000
+Is it within the purview of the committee chairman to be able to set something like that
+
+84
+00:05:54,000 --> 00:05:57,000
+and tell the scout master it's time for him to enforce it?
+
+85
+00:05:57,000 --> 00:06:04,000
+Well, that was my first response too. It's like no, the committee cannot set up a demerit system.
+
+86
+00:06:04,000 --> 00:06:10,000
+The committee can talk to the scout master about the program,
+
+87
+00:06:10,000 --> 00:06:19,000
+But the scout master says: we are teaching the SPL and the patrol leaders how to lead.
+
+88
+00:06:19,000 --> 00:06:26,000
+And then the scout master teaches the SPL and patrol leaders: here's what you do.
+
+89
+00:06:26,000 --> 00:06:30,000
+So these guys are not paying attention, They're doing this and this
+
+90
+00:06:30,000 --> 00:06:36,000
+You need to spread out. And the next time scout master taps somebody on the shoulder,
+
+91
+00:06:36,000 --> 00:06:44,000
+takes them over and says whisper, whisper, whisper, let's you know, go settle this down.
+
+92
+00:06:44,000 --> 00:06:46,000
+so the guys are paying attention.
+
+93
+00:06:46,000 --> 00:06:54,000
+I say no to that also, And there have been times when I have noticed some of the youth,
+
+94
+00:06:54,000 --> 00:07:00,000
+some of the older scouts, doing something over on the side with a phone,
+
+95
+00:07:00,000 --> 00:07:04,000
+And I'll try and get the same patrol leaders' attention and point to it.
+
+96
+00:07:04,000 --> 00:07:07,000
+He may or may not go over and say something
+
+97
+00:07:07,000 --> 00:07:09,000
+And it'll go on for a little bit
+
+98
+00:07:09,000 --> 00:07:13,000
+And I'll sort of walk over there and look over the shoulder and see what's going on.
+
+99
+00:07:13,000 --> 00:07:17,000
+And they're looking up something that pertains to scouting on the phone.
+
+100
+00:07:17,000 --> 00:07:19,000
+That always bothers me too,
+
+101
+00:07:19,000 --> 00:07:21,000
+But you're old.
+
+102
+00:07:21,000 --> 00:07:22,000
+Yeah,
+
+103
+00:07:22,000 --> 00:07:26,000
+In consultation with the patrol leaders' council about dealing with this,
+
+104
+00:07:26,000 --> 00:07:28,000
+because it's a problem for everybody,
+
+105
+00:07:28,000 --> 00:07:33,000
+They knew if somebody was using a cell phone or an electronic device
+
+106
+00:07:33,000 --> 00:07:39,000
+in aid of what was happening or if they were just being distracted by it,
+
+107
+00:07:39,000 --> 00:07:43,000
+and that if they judge that somebody is being distracting
+
+108
+00:07:43,000 --> 00:07:48,000
+and their encouragements or directions to them go unheeded,
+
+109
+00:07:48,000 --> 00:07:51,000
+that that person needs to come to talk to me.
+
+110
+00:07:51,000 --> 00:07:57,000
+Do you guys have any specific way of handling things like that?
+
+111
+00:07:57,000 --> 00:08:01,000
+Well, now we're on to the first question that I listed, which is the devices,
+
+112
+00:08:01,000 --> 00:08:04,000
+And I disagree with you when you say everybody has a problem,
+
+113
+00:08:04,000 --> 00:08:06,000
+because I just ignore it.
+
+114
+00:08:06,000 --> 00:08:14,000
+I know on the internet I've seen conversations on various places
+
+115
+00:08:14,000 --> 00:08:17,000
+and everybody gets their drawers in a knot about this whole thing.
+
+116
+00:08:17,000 --> 00:08:22,000
+And I've ignored the whole thing because I truly believe that those guys are going to lose.
+
+117
+00:08:22,000 --> 00:08:25,000
+You cannot go backwards.
+
+118
+00:08:25,000 --> 00:08:28,000
+This thing is part of life.
+
+119
+00:08:28,000 --> 00:08:31,000
+They're going to have to learn how to pay attention
+
+120
+00:08:31,000 --> 00:08:35,000
+and get everything done, just like they did with other distractions in the world,
+
+121
+00:08:35,000 --> 00:08:37,000
+And I don't know how that's going to work out in the end.
+
+122
+00:08:37,000 --> 00:08:40,000
+but I just don't think there's any way.
+
+123
+00:08:40,000 --> 00:08:47,000
+I think making a bunch of rules and getting all involved in this is the wrong thing to do.
+
+124
+00:08:47,000 --> 00:08:50,000
+Now the scouts need to enforce amongst themselves
+
+125
+00:08:50,000 --> 00:08:55,000
+how they're going to deal with scouts that have an attention problem
+
+126
+00:08:55,000 --> 00:08:57,000
+and let them work it out.
+
+127
+00:08:57,000 --> 00:09:02,000
+But I think if you stick your nose in it and you get all spun up about it,
+
+128
+00:09:02,000 --> 00:09:05,000
+eventually those guys are just going to vote with their feet.
+
+129
+00:09:05,000 --> 00:09:07,000
+And those families that say:
+
+130
+00:09:07,000 --> 00:09:10,000
+what do you mean? my kid can't have a phone on the camp out.
+
+131
+00:09:10,000 --> 00:09:12,000
+That's crazy. Bye, I'm leaving.
+
+132
+00:09:12,000 --> 00:09:14,000
+That's their family rule.
+
+133
+00:09:14,000 --> 00:09:16,000
+I can't make a battle out of it.
+
+134
+00:09:16,000 --> 00:09:18,000
+Let me tell you this? I don't think we disagree.
+
+135
+00:09:18,000 --> 00:09:20,000
+I agree with everything you've said.
+
+136
+00:09:20,000 --> 00:09:24,000
+What I described is the way that they handle any kind of a discipline or difficulty.
+
+137
+00:09:24,000 --> 00:09:27,000
+If they can't correct it, I'm the next step.
+
+138
+00:09:27,000 --> 00:09:29,000
+Walter, what about you?
+
+139
+00:09:29,000 --> 00:09:33,000
+I'm a digital native, so everybody's got a phone.
+
+140
+00:09:33,000 --> 00:09:41,000
+Our guys, we say, maybe in the car you can chat, but put it down,
+
+141
+00:09:41,000 --> 00:09:43,000
+Let's go camping.
+
+142
+00:09:43,000 --> 00:09:47,000
+Will you go camping where there's no reception anyway?
+
+143
+00:09:47,000 --> 00:09:51,000
+Yeah, that's, what we've got is no reception.
+
+144
+00:09:51,000 --> 00:09:53,000
+Most of their parents told them to take it.
+
+145
+00:09:53,000 --> 00:09:57,000
+They've got it but they can't use it because there is no reception.
+
+146
+00:09:57,000 --> 00:10:01,000
+I don't get in a knot over them doing it,
+
+147
+00:10:01,000 --> 00:10:03,000
+I just sort of make it a.
+
+148
+00:10:03,000 --> 00:10:07,000
+If I see it. I'll just make a little point about respect
+
+149
+00:10:07,000 --> 00:10:11,000
+towards the same trollator and anything constructive right now,
+
+150
+00:10:11,000 --> 00:10:17,000
+But anyway, I don't really get upset about it.
+
+151
+00:10:17,000 --> 00:10:19,000
+That's one of the few things I guess.
+
+152
+00:10:19,000 --> 00:10:21,000
+Well, I'll tell you an interesting story.
+
+153
+00:10:21,000 --> 00:10:23,000
+When we got down to summer camp a year or so ago,
+
+154
+00:10:23,000 --> 00:10:25,000
+we were getting set up,
+
+155
+00:10:25,000 --> 00:10:27,000
+My parents were all over in their area
+
+156
+00:10:27,000 --> 00:10:31,000
+and one of my assistant scoutmasters got a phone call
+
+157
+00:10:31,000 --> 00:10:33,000
+and his phone started ringing there in the campsite.
+
+158
+00:10:33,000 --> 00:10:36,000
+He took it out and he looked at it and he said:
+
+159
+00:10:36,000 --> 00:10:39,000
+wow, I didn't know that I was going to get reception here,
+
+160
+00:10:39,000 --> 00:10:42,000
+and they must have changed the towers or something around camp.
+
+161
+00:10:42,000 --> 00:10:45,000
+He took the call and it was his wife, and he said:
+
+162
+00:10:45,000 --> 00:10:49,000
+yeah, honey, I can get a call right here in the campsite.
+
+163
+00:10:49,000 --> 00:10:53,000
+and then a look of horror spread over his face
+
+164
+00:10:53,000 --> 00:10:57,000
+And he really wanted to take those words back,
+
+165
+00:10:57,000 --> 00:11:06,000
+But for the rest of the week he just turned his phone off.
+
+166
+00:11:06,000 --> 00:11:10,000
+Well, our summer camp is up in the Sierras
+
+167
+00:11:10,000 --> 00:11:12,000
+and it's really it's kind of remote.
+
+168
+00:11:12,000 --> 00:11:17,000
+There was a cell phone bench so you can go up and around
+
+169
+00:11:17,000 --> 00:11:19,000
+off the trail and sit there,
+
+170
+00:11:19,000 --> 00:11:22,000
+and that had better cell phone reception.
+
+171
+00:11:22,000 --> 00:11:26,000
+When we're on long trips traveling,
+
+172
+00:11:26,000 --> 00:11:30,000
+having them in the cars helps keep the noise down to some extent,
+
+173
+00:11:30,000 --> 00:11:36,000
+But I like to use the scouts like if I have something
+
+174
+00:11:36,000 --> 00:11:38,000
+I would really like to tell a car, that's, you know,
+
+175
+00:11:38,000 --> 00:11:42,000
+the driver or another adult, to send the car behind me
+
+176
+00:11:42,000 --> 00:11:45,000
+or in front of me. get the scouts to be the relays,
+
+177
+00:11:45,000 --> 00:11:50,000
+Let them do the communicating between vehicles, and that works.
+
+178
+00:11:50,000 --> 00:11:52,000
+Yeah, we've done that.
+
+179
+00:11:52,000 --> 00:11:54,000
+What I think Clark really wants to talk about, though,
+
+180
+00:11:54,000 --> 00:11:55,000
+is item number two.
+
+181
+00:11:55,000 --> 00:11:59,000
+Yeah, and that's punishment
+
+182
+00:11:59,000 --> 00:12:01,000
+All right. so let's talk about that for a moment.
+
+183
+00:12:01,000 --> 00:12:05,000
+One person on the committee suggested doing push-ups.
+
+184
+00:12:05,000 --> 00:12:06,000
+How about that?
+
+185
+00:12:06,000 --> 00:12:08,000
+Let's just talk about that real quick.
+
+186
+00:12:08,000 --> 00:12:12,000
+As adults we have never, never on anything,
+
+187
+00:12:12,000 --> 00:12:15,000
+had any kind of punishment like that.
+
+188
+00:12:15,000 --> 00:12:18,000
+We've given them stuff to think about.
+
+189
+00:12:18,000 --> 00:12:24,000
+But I tell you, it's the youth that came up with push-ups,
+
+190
+00:12:24,000 --> 00:12:27,000
+especially like clearing camp before we're leaving
+
+191
+00:12:27,000 --> 00:12:29,000
+and making sure everything's picked up.
+
+192
+00:12:29,000 --> 00:12:32,000
+We tell them to sweep the camp
+
+193
+00:12:32,000 --> 00:12:34,000
+and then we'll come and look for trash
+
+194
+00:12:34,000 --> 00:12:36,000
+and see if we can find any after they do
+
+195
+00:12:36,000 --> 00:12:38,000
+and they go. what if you do?
+
+196
+00:12:38,000 --> 00:12:40,000
+And we all stand there and look at them and go.
+
+197
+00:12:40,000 --> 00:12:43,000
+I don't know what if we do push-ups
+
+198
+00:12:43,000 --> 00:12:47,000
+And we go. sure, if you want to, that's fine with us.
+
+199
+00:12:47,000 --> 00:12:50,000
+And we've never left a camp that they didn't have to do some.
+
+200
+00:12:50,000 --> 00:12:52,000
+but it's always on their terms.
+
+201
+00:12:52,000 --> 00:12:53,000
+They do it.
+
+202
+00:12:53,000 --> 00:12:56,000
+We're not making them do that.
+
+203
+00:12:56,000 --> 00:12:58,000
+Walter, what do you think about push-ups?
+
+204
+00:12:58,000 --> 00:13:01,000
+I'm a little iffy on the whole push-ups thing,
+
+205
+00:13:01,000 --> 00:13:05,000
+but hey, our guys do. if you're not in uniform,
+
+206
+00:13:05,000 --> 00:13:08,000
+as defined by the SPL,
+
+207
+00:13:08,000 --> 00:13:11,000
+then push-ups are. if you're not on time, push-ups.
+
+208
+00:13:11,000 --> 00:13:15,000
+And you know, I showed up in civilian clothes
+
+209
+00:13:15,000 --> 00:13:18,000
+to drop off some forms last night
+
+210
+00:13:18,000 --> 00:13:23,000
+and I ran out before. I had some push-ups,
+
+211
+00:13:23,000 --> 00:13:28,000
+But once, once everyone was in uniform
+
+212
+00:13:28,000 --> 00:13:31,000
+and the senior patrol did push-ups.
+
+213
+00:13:31,000 --> 00:13:33,000
+Well now, if the scouts but notice the sentence
+
+214
+00:13:33,000 --> 00:13:37,000
+it says, one adult suggested I, the scout master,
+
+215
+00:13:37,000 --> 00:13:40,000
+make the scouts do push-ups.
+
+216
+00:13:40,000 --> 00:13:43,000
+That's a different issue than what Walter's talking about.
+
+217
+00:13:43,000 --> 00:13:47,000
+when the scouts get together and do some you know
+
+218
+00:13:47,000 --> 00:13:52,000
+Yippee-ki-yay thing, some moral morale boosting thing,
+
+219
+00:13:52,000 --> 00:13:53,000
+That's different.
+
+220
+00:13:53,000 --> 00:13:56,000
+Let me be very specific about the question.
+
+221
+00:13:56,000 --> 00:13:59,000
+So I'll start with you, Larry.
+
+222
+00:13:59,000 --> 00:14:06,000
+Is it proper for an adult to impose punishment
+
+223
+00:14:06,000 --> 00:14:09,000
+through some kind of forced physical action like push-ups?
+
+224
+00:14:09,000 --> 00:14:10,000
+No,
+
+225
+00:14:10,000 --> 00:14:11,000
+Okay,
+
+226
+00:14:11,000 --> 00:14:12,000
+That's baloney.
+
+227
+00:14:12,000 --> 00:14:13,000
+No,
+
+228
+00:14:13,000 --> 00:14:14,000
+Yeah,
+
+229
+00:14:14,000 --> 00:14:15,000
+And Walter.
+
+230
+00:14:15,000 --> 00:14:17,000
+Walter says no.
+
+231
+00:14:17,000 --> 00:14:20,000
+So I'm kind of iffy about the scouts doing it.
+
+232
+00:14:20,000 --> 00:14:23,000
+I've let it ride. but
+
+233
+00:14:23,000 --> 00:14:27,000
+Well, I did check in the Scout Master's Handbook
+
+234
+00:14:27,000 --> 00:14:30,000
+because I remembered something specific about this,
+
+235
+00:14:30,000 --> 00:14:33,000
+And it will tell you very directly:
+
+236
+00:14:33,000 --> 00:14:38,000
+adults are not to impose that type of forced physical
+
+237
+00:14:38,000 --> 00:14:41,000
+punishment on anyone ever.
+
+238
+00:14:41,000 --> 00:14:44,000
+The situations you described, where this is initiated
+
+239
+00:14:44,000 --> 00:14:47,000
+by the scouts, I feel like you do, Walter.
+
+240
+00:14:47,000 --> 00:14:50,000
+I'm a little iffy about that because I can see it.
+
+241
+00:14:50,000 --> 00:14:52,000
+It can head over the edge real quick.
+
+242
+00:14:52,000 --> 00:14:54,000
+There's a game aspect to it
+
+243
+00:14:54,000 --> 00:14:59,000
+If they're initiating it. I'm going to side on the safe side
+
+244
+00:14:59,000 --> 00:15:01,000
+because we're advising people.
+
+245
+00:15:01,000 --> 00:15:04,000
+You would need to think long and hard about that
+
+246
+00:15:04,000 --> 00:15:08,000
+and you need to observe the prohibition against such things
+
+247
+00:15:08,000 --> 00:15:10,000
+that you'll find in scouting literature.
+
+248
+00:15:10,000 --> 00:15:13,000
+You can normally tell if a Scout Master's on the ball
+
+249
+00:15:13,000 --> 00:15:15,000
+and he's paying attention.
+
+250
+00:15:15,000 --> 00:15:19,000
+He can tell the difference between a bunch of gung-ho guys
+
+251
+00:15:19,000 --> 00:15:24,000
+and a 15, probably 16 or 17-year-old ROTC kid
+
+252
+00:15:24,000 --> 00:15:27,000
+riding herd on a bunch of 11-year-olds,
+
+253
+00:15:27,000 --> 00:15:30,000
+which is just as bad as the adults doing it.
+
+254
+00:15:30,000 --> 00:15:33,000
+So there's a difference and you can tell it
+
+255
+00:15:33,000 --> 00:15:35,000
+and you can feel it.
+
+256
+00:15:35,000 --> 00:15:40,000
+If it gets to the point where the PLC is up there
+
+257
+00:15:40,000 --> 00:15:43,000
+doing push-ups and then after they're done, they all cheer,
+
+258
+00:15:43,000 --> 00:15:49,000
+you can feel the difference between that and the other thing,
+
+259
+00:15:49,000 --> 00:15:52,000
+which is you guys get down on the floor.
+
+260
+00:15:52,000 --> 00:15:55,000
+There's a line and I think you've got to watch that.
+
+261
+00:15:55,000 --> 00:16:01,000
+Maybe I'll suggest the SPL, the senior patrol, does push-ups
+
+262
+00:16:01,000 --> 00:16:05,000
+unless everyone is in uniform.
+
+263
+00:16:05,000 --> 00:16:07,000
+Yes,
+
+264
+00:16:07,000 --> 00:16:09,000
+Ours is all in fun.
+
+265
+00:16:09,000 --> 00:16:11,000
+It's not the finger-pointing,
+
+266
+00:16:11,000 --> 00:16:13,000
+It's everybody. and, like Walter said,
+
+267
+00:16:13,000 --> 00:16:15,000
+it doesn't matter whether you can get up on the floor.
+
+268
+00:16:15,000 --> 00:16:19,000
+you're trying and it truly is all in fun
+
+269
+00:16:19,000 --> 00:16:21,000
+and we watch for that.
+
+270
+00:16:21,000 --> 00:16:28,000
+It's not standing over and making them do whatever it is.
+
+271
+00:16:28,000 --> 00:16:30,000
+I think I got that sense from you.
+
+272
+00:16:30,000 --> 00:16:32,000
+I'm just in an abundance of caution
+
+273
+00:16:32,000 --> 00:16:34,000
+because people are listening to us
+
+274
+00:16:34,000 --> 00:16:37,000
+and making sure that we drive that point home.
+
+275
+00:16:37,000 --> 00:16:40,000
+What is suggested in the question that we received?
+
+276
+00:16:40,000 --> 00:16:42,000
+we're not going to have that happen.
+
+277
+00:16:42,000 --> 00:16:47,000
+Patrol leaders, council or the boys may be real hard driving
+
+278
+00:16:47,000 --> 00:16:51,000
+gung-ho guys who are really doing it in a spirit of fun
+
+279
+00:16:51,000 --> 00:16:57,000
+and things. as long as it's not a tiresome routine
+
+280
+00:16:57,000 --> 00:17:00,000
+that they use to belittle or haze people,
+
+281
+00:17:00,000 --> 00:17:02,000
+I don't really have a problem with it.
+
+282
+00:17:02,000 --> 00:17:05,000
+but let's just be very, very careful
+
+283
+00:17:05,000 --> 00:17:07,000
+to differentiate between those numbers,
+
+284
+00:17:07,000 --> 00:17:08,000
+Absolutely.
+
+285
+00:17:08,000 --> 00:17:10,000
+There's a couple of hidden questions here.
+
+286
+00:17:10,000 --> 00:17:12,000
+The first one is: you know,
+
+287
+00:17:12,000 --> 00:17:15,000
+we talked about the advisability of the committee
+
+288
+00:17:15,000 --> 00:17:18,000
+trying to install a system of discipline
+
+289
+00:17:18,000 --> 00:17:20,000
+or a demerit system or something like that
+
+290
+00:17:20,000 --> 00:17:23,000
+and we agreed that that was not a good idea.
+
+291
+00:17:23,000 --> 00:17:27,000
+but is it a good idea to have such a demerit system
+
+292
+00:17:27,000 --> 00:17:30,000
+or a system of punishments or disciplines?
+
+293
+00:17:30,000 --> 00:17:33,000
+A demerit system doesn't have a place in scouting.
+
+294
+00:17:33,000 --> 00:17:35,000
+Scouting is moving forward,
+
+295
+00:17:35,000 --> 00:17:37,000
+Demerits are moving backwards.
+
+296
+00:17:37,000 --> 00:17:40,000
+If you think about it for a little while,
+
+297
+00:17:40,000 --> 00:17:44,000
+it's just not compatible with the overall way,
+
+298
+00:17:44,000 --> 00:17:47,000
+In particular some of the quotes you've had
+
+299
+00:17:47,000 --> 00:17:50,000
+in the last couple of things from Bade and Powell,
+
+300
+00:17:50,000 --> 00:17:55,000
+the last couple of posts that you've done about advancement.
+
+301
+00:17:55,000 --> 00:17:57,000
+scouting is moving forward.
+
+302
+00:17:57,000 --> 00:17:59,000
+Scouts go, they advance.
+
+303
+00:17:59,000 --> 00:18:01,000
+Scouts do not retreat.
+
+304
+00:18:01,000 --> 00:18:03,000
+They don't demerit,
+
+305
+00:18:03,000 --> 00:18:04,000
+They merit,
+
+306
+00:18:04,000 --> 00:18:09,000
+And that has to permeate everything you do.
+
+307
+00:18:09,000 --> 00:18:12,000
+If you start something like this,
+
+308
+00:18:12,000 --> 00:18:18,000
+you will end up in a mire, in a pit of mess.
+
+309
+00:18:19,000 --> 00:18:22,000
+There may be one or two places in the world
+
+310
+00:18:22,000 --> 00:18:25,000
+for that kind of thing, in certain places
+
+311
+00:18:25,000 --> 00:18:31,000
+where you're working with very serious life and death situations,
+
+312
+00:18:31,000 --> 00:18:36,000
+But in the case of education, moving ahead, advancing,
+
+313
+00:18:36,000 --> 00:18:38,000
+that's why advancement is called advancement.
+
+314
+00:18:38,000 --> 00:18:40,000
+I don't think it has any place.
+
+315
+00:18:40,000 --> 00:18:42,000
+That's my opinion.
+
+316
+00:18:42,000 --> 00:18:46,000
+It's calling somebody down in a very negative way too
+
+317
+00:18:46,000 --> 00:18:50,000
+and calling attention to them in a negative way,
+
+318
+00:18:50,000 --> 00:18:52,000
+and you really don't ever want to do that
+
+319
+00:18:52,000 --> 00:18:54,000
+and you always want to be very positive.
+
+320
+00:18:54,000 --> 00:19:00,000
+So you want the positive reinforcement versus the negative. also,
+
+321
+00:19:00,000 --> 00:19:02,000
+Walter, you got anything on that
+
+322
+00:19:02,000 --> 00:19:03,000
+Demerits? No,
+
+323
+00:19:03,000 --> 00:19:05,000
+We're talking about progress
+
+324
+00:19:05,000 --> 00:19:08,000
+Other than it being amenical to the principles
+
+325
+00:19:08,000 --> 00:19:11,000
+that we want to be exercising and scouting.
+
+326
+00:19:11,000 --> 00:19:15,000
+the other thing is, if you create a rule book like that
+
+327
+00:19:15,000 --> 00:19:18,000
+now that makes you a policeman
+
+328
+00:19:18,000 --> 00:19:20,000
+where you're going to have to be,
+
+329
+00:19:20,000 --> 00:19:22,000
+you're going to spend an inordinate amount of time
+
+330
+00:19:22,000 --> 00:19:24,000
+and your youth leaders are going to spend
+
+331
+00:19:24,000 --> 00:19:27,000
+an inordinate amount of time policing a bunch of rules,
+
+332
+00:19:27,000 --> 00:19:32,000
+when the scout law and the scout oath seem to be very adequate
+
+333
+00:19:32,000 --> 00:19:34,000
+to that task.
+
+334
+00:19:34,000 --> 00:19:36,000
+That would be what I would put into it.
+
+335
+00:19:36,000 --> 00:19:39,000
+The second hidden question here is:
+
+336
+00:19:39,000 --> 00:19:42,000
+they're having a meeting and the scouts are doing this.
+
+337
+00:19:42,000 --> 00:19:44,000
+so what's going on at the meeting?
+
+338
+00:19:44,000 --> 00:19:48,000
+that is less interesting than playing on my phone.
+
+339
+00:19:48,000 --> 00:19:51,000
+Well, and you got two issues there.
+
+340
+00:19:51,000 --> 00:19:55,000
+You got the meeting may not be theirs,
+
+341
+00:19:55,000 --> 00:19:57,000
+the regular stuff we talk about,
+
+342
+00:19:57,000 --> 00:20:00,000
+and then you may have those one or two guys
+
+343
+00:20:00,000 --> 00:20:04,000
+for whatever reason, no matter what your meeting is.
+
+344
+00:20:04,000 --> 00:20:08,000
+If Harrison Ford showed up
+
+345
+00:20:08,000 --> 00:20:09,000
+and the circus put on a show,
+
+346
+00:20:09,000 --> 00:20:11,000
+they'd be looking at their phones.
+
+347
+00:20:11,000 --> 00:20:13,000
+There's going to be other indications
+
+348
+00:20:13,000 --> 00:20:15,000
+that they're disconnected.
+
+349
+00:20:15,000 --> 00:20:17,000
+It's not going to just be their phone,
+
+350
+00:20:17,000 --> 00:20:19,000
+it's going to be behavior:
+
+351
+00:20:19,000 --> 00:20:21,000
+not showing up for camp out,
+
+352
+00:20:21,000 --> 00:20:25,000
+it's not bringing. something else is going on
+
+353
+00:20:25,000 --> 00:20:28,000
+and eventually that's
+
+354
+00:20:28,000 --> 00:20:30,000
+along with any other kind of behavior.
+
+355
+00:20:30,000 --> 00:20:32,000
+that's when you have to.
+
+356
+00:20:32,000 --> 00:20:34,000
+they're going to probably have to sit down
+
+357
+00:20:34,000 --> 00:20:35,000
+with a scout master and say:
+
+358
+00:20:35,000 --> 00:20:36,000
+what's going on here?
+
+359
+00:20:36,000 --> 00:20:38,000
+We need to make a deal.
+
+360
+00:20:39,000 --> 00:20:42,000
+Are you here because you shouldn't be,
+
+361
+00:20:42,000 --> 00:20:44,000
+but your dad brings you?
+
+362
+00:20:44,000 --> 00:20:46,000
+Do I need to sit down with you and your dad?
+
+363
+00:20:46,000 --> 00:20:48,000
+Do we all need to chat?
+
+364
+00:20:48,000 --> 00:20:50,000
+And it won't be just the phone.
+
+365
+00:20:50,000 --> 00:20:52,000
+it'll be four things.
+
+366
+00:20:52,000 --> 00:20:54,000
+I've had scouts that have already checked out
+
+367
+00:20:54,000 --> 00:20:56,000
+their parents suit them up, bring them down
+
+368
+00:20:56,000 --> 00:20:58,000
+every Tuesday at seven o'clock.
+
+369
+00:20:58,000 --> 00:21:00,000
+and he checked out three months ago
+
+370
+00:21:00,000 --> 00:21:03,000
+and I know it and he knows it
+
+371
+00:21:03,000 --> 00:21:07,000
+Well. thankfully, ours has been very,
+
+372
+00:21:07,000 --> 00:21:09,000
+very short lived.
+
+373
+00:21:09,000 --> 00:21:12,000
+They're talking about some game
+
+374
+00:21:12,000 --> 00:21:16,000
+or some viral YouTube video they saw.
+
+375
+00:21:16,000 --> 00:21:18,000
+They haven't checked out.
+
+376
+00:21:18,000 --> 00:21:20,000
+it's that little.
+
+377
+00:21:20,000 --> 00:21:22,000
+they're 15 minutes up.
+
+378
+00:21:22,000 --> 00:21:25,000
+now they moved on and a little reminder
+
+379
+00:21:25,000 --> 00:21:29,000
+and they focus back for a little while longer.
+
+380
+00:21:29,000 --> 00:21:33,000
+Thankfully, I haven't had that problem yet.
+
+381
+00:21:33,000 --> 00:21:35,000
+If I get to the end of a meeting
+
+382
+00:21:35,000 --> 00:21:38,000
+and I'm listening to the Patrol Leaders Council
+
+383
+00:21:38,000 --> 00:21:40,000
+and I'm hearing several complaints
+
+384
+00:21:40,000 --> 00:21:42,000
+about people being distracted
+
+385
+00:21:42,000 --> 00:21:44,000
+or not paying attention,
+
+386
+00:21:44,000 --> 00:21:46,000
+then my question to them is always:
+
+387
+00:21:46,000 --> 00:21:49,000
+well, what were you doing? that was not that interesting.
+
+388
+00:21:49,000 --> 00:21:51,000
+Why weren't these guys engaged?
+
+389
+00:21:51,000 --> 00:21:53,000
+Sometimes, that's the question to ask.
+
+390
+00:21:53,000 --> 00:21:55,000
+They need to make a little bit of an adjustment
+
+391
+00:21:55,000 --> 00:21:57,000
+in their presentation.
+
+392
+00:21:57,000 --> 00:21:59,000
+How are you going to fix it next week,
+
+393
+00:21:59,000 --> 00:22:01,000
+Right?
+
+394
+00:22:01,000 --> 00:22:03,000
+That's the basic thing.
+
+395
+00:22:03,000 --> 00:22:05,000
+Scouting is awesome.
+
+396
+00:22:05,000 --> 00:22:07,000
+Make it awesome.
+
+397
+00:22:07,000 --> 00:22:09,000
+How do you make it awesome?
+
+398
+00:22:09,000 --> 00:22:11,000
+I do it with a podcast.
+
+399
+00:22:11,000 --> 00:22:13,000
+Sorry,
+
+400
+00:22:13,000 --> 00:22:16,000
+I have not seen Gangum style from you.
+
+401
+00:22:16,000 --> 00:22:18,000
+Yes, they do.
+
+402
+00:22:18,000 --> 00:22:21,000
+I'm not really ready to see Gangum style from you.
+
+403
+00:22:21,000 --> 00:22:23,000
+If I had a clue what you were talking about,
+
+404
+00:22:23,000 --> 00:22:25,000
+Right?
+
+405
+00:22:25,000 --> 00:22:27,000
+I don't have any idea either.
+
+406
+00:22:27,000 --> 00:22:29,000
+Yeah,
+
+407
+00:22:29,000 --> 00:22:33,000
+Google Gangum style and you'll find out.
+
+408
+00:22:33,000 --> 00:22:35,000
+and you won't, or not.
+
+409
+00:22:35,000 --> 00:22:37,000
+you can do either one
+
+410
+00:22:37,000 --> 00:22:39,000
+Gangum.
+
+411
+00:22:39,000 --> 00:22:41,000
+Put a link to this in your podcast.
+
+412
+00:22:41,000 --> 00:22:44,000
+Gangum style? I don't think so.
+
+413
+00:22:44,000 --> 00:22:46,000
+Let me offer you this
+
+414
+00:22:46,000 --> 00:22:49,000
+and see. I want to know if you agree with me.
+
+415
+00:22:49,000 --> 00:22:52,000
+I don't think it is our responsibility
+
+416
+00:22:52,000 --> 00:22:54,000
+to punish scouts.
+
+417
+00:22:54,000 --> 00:22:56,000
+I think that's why they have parents.
+
+418
+00:22:56,000 --> 00:23:00,000
+Parents can do a much better job of it than we can.
+
+419
+00:23:00,000 --> 00:23:03,000
+If I have a behavior problem,
+
+420
+00:23:03,000 --> 00:23:06,000
+I'm going to make parents aware of it
+
+421
+00:23:06,000 --> 00:23:10,000
+and say that we don't discipline and punish,
+
+422
+00:23:10,000 --> 00:23:12,000
+but you certainly may take that option
+
+423
+00:23:12,000 --> 00:23:16,000
+if you feel it's merited in this instance.
+
+424
+00:23:16,000 --> 00:23:18,000
+We went backpacking a couple of weeks ago
+
+425
+00:23:18,000 --> 00:23:20,000
+and I woke up Sunday morning
+
+426
+00:23:20,000 --> 00:23:25,000
+to hear my troop quartermaster pretty loudly.
+
+427
+00:23:25,000 --> 00:23:28,000
+I heard the word matches
+
+428
+00:23:28,000 --> 00:23:30,000
+and I heard the word flicking
+
+429
+00:23:30,000 --> 00:23:34,000
+and I heard the word tent and burned.
+
+430
+00:23:34,000 --> 00:23:39,000
+My quartermaster was a very unhappy fellow
+
+431
+00:23:39,000 --> 00:23:45,000
+and it was a little while before they were presented to me,
+
+432
+00:23:45,000 --> 00:23:49,000
+but these guys were flicking matches in the tent
+
+433
+00:23:49,000 --> 00:23:51,000
+and they managed to burn it-
+
+434
+00:23:51,000 --> 00:23:54,000
+Not terribly, but they managed to burn it-
+
+435
+00:23:54,000 --> 00:23:57,000
+and of course that was a pretty serious problem.
+
+436
+00:23:57,000 --> 00:24:00,000
+I put it in the hands of their fathers.
+
+437
+00:24:00,000 --> 00:24:04,000
+when they came to pick them up from the trip.
+
+438
+00:24:04,000 --> 00:24:06,000
+I explained what happened
+
+439
+00:24:06,000 --> 00:24:09,000
+and I explained that we don't punish
+
+440
+00:24:09,000 --> 00:24:11,000
+and we don't discipline.
+
+441
+00:24:11,000 --> 00:24:13,000
+but they may take the opportunity
+
+442
+00:24:13,000 --> 00:24:15,000
+to see if they can figure out what happened
+
+443
+00:24:15,000 --> 00:24:17,000
+and they can figure out
+
+444
+00:24:17,000 --> 00:24:20,000
+how we wouldn't have to deal with it in the future.
+
+445
+00:24:20,000 --> 00:24:23,000
+I felt pretty good about handling it that way
+
+446
+00:24:23,000 --> 00:24:27,000
+and I didn't feel as though there was any pressure
+
+447
+00:24:27,000 --> 00:24:31,000
+on the troop to have to be the arbiters
+
+448
+00:24:31,000 --> 00:24:34,000
+of some kind of punishment or something like that.
+
+449
+00:24:34,000 --> 00:24:36,000
+Well, did the behavior stop
+
+450
+00:24:36,000 --> 00:24:38,000
+when the quartermaster went ballistic on it?
+
+451
+00:24:38,000 --> 00:24:41,000
+Yes, well, I think the behavior had already stopped.
+
+452
+00:24:41,000 --> 00:24:44,000
+I think it was discovered,
+
+453
+00:24:44,000 --> 00:24:46,000
+So you didn't have to get in between
+
+454
+00:24:46,000 --> 00:24:50,000
+a dangerous situation and the issue.
+
+455
+00:24:51,000 --> 00:24:54,000
+Some kind of little piece of brain
+
+456
+00:24:54,000 --> 00:24:57,000
+finally engaged and a clue bird landed
+
+457
+00:24:57,000 --> 00:25:00,000
+and they suddenly realized
+
+458
+00:25:00,000 --> 00:25:03,000
+what kind of condition they were in,
+
+459
+00:25:03,000 --> 00:25:05,000
+and after you talked to their dads
+
+460
+00:25:05,000 --> 00:25:08,000
+then they were starting to get a clue
+
+461
+00:25:08,000 --> 00:25:10,000
+In that particular case.
+
+462
+00:25:10,000 --> 00:25:13,000
+that's exactly perfectly handled
+
+463
+00:25:13,000 --> 00:25:17,000
+and probably turned out in the long run
+
+464
+00:25:17,000 --> 00:25:20,000
+an excellent lesson all around
+
+465
+00:25:20,000 --> 00:25:24,000
+for the quartermaster and for the two scouts,
+
+466
+00:25:24,000 --> 00:25:27,000
+and maybe even the dads,
+
+467
+00:25:27,000 --> 00:25:30,000
+Because they're going to own that tent with a hole in it,
+
+468
+00:25:30,000 --> 00:25:32,000
+with a burn spot in it, for a long time
+
+469
+00:25:32,000 --> 00:25:34,000
+and every time they look at it.
+
+470
+00:25:34,000 --> 00:25:36,000
+they'll remember what they did
+
+471
+00:25:36,000 --> 00:25:38,000
+that they shouldn't have been doing.
+
+472
+00:25:38,000 --> 00:25:41,000
+But yeah, I agree with what you've been saying,
+
+473
+00:25:41,000 --> 00:25:44,000
+that the troop really should not
+
+474
+00:25:44,000 --> 00:25:47,000
+get into the punishment business at all.
+
+475
+00:25:47,000 --> 00:25:49,000
+Very proud of my quartermaster:
+
+476
+00:25:49,000 --> 00:25:52,000
+He managed to express his displeasure
+
+477
+00:25:52,000 --> 00:25:54,000
+without losing his temper
+
+478
+00:25:54,000 --> 00:25:57,000
+and he did it in an unmistakable fashion.
+
+479
+00:25:57,000 --> 00:25:59,000
+I have to say.
+
+480
+00:25:59,000 --> 00:26:01,000
+I was a quartermaster as a scout
+
+481
+00:26:01,000 --> 00:26:04,000
+and I remember opening up the closet
+
+482
+00:26:04,000 --> 00:26:06,000
+and pulling out some Dutch ovens
+
+483
+00:26:06,000 --> 00:26:08,000
+and finding out that there were
+
+484
+00:26:08,000 --> 00:26:11,000
+some Dutch ovens with ecosystems in them
+
+485
+00:26:14,000 --> 00:26:17,000
+Which I hit with a hose
+
+486
+00:26:17,000 --> 00:26:19,000
+from a considerable distance.
+
+487
+00:26:19,000 --> 00:26:22,000
+I don't know what I said at the time,
+
+488
+00:26:22,000 --> 00:26:25,000
+but it wasn't worth many people around
+
+489
+00:26:27,000 --> 00:26:30,000
+Having the ability to dress him down
+
+490
+00:26:30,000 --> 00:26:32,000
+like you say he was doing
+
+491
+00:26:32,000 --> 00:26:34,000
+and not really losing his temper,
+
+492
+00:26:34,000 --> 00:26:39,000
+and that's a skill that will carry him far in life.
+
+493
+00:26:39,000 --> 00:26:42,000
+when he's able to tell people stuff like that-
+
+494
+00:26:42,000 --> 00:26:44,000
+and they'll thank him for doing it
+
+495
+00:26:44,000 --> 00:26:49,000
+Because he does it in such a good way,
+
+496
+00:26:49,000 --> 00:26:51,000
+They understand where he's coming from,
+
+497
+00:26:51,000 --> 00:26:55,000
+but he doesn't belittle them.
+
+498
+00:26:55,000 --> 00:26:58,000
+I think he used the word stupid several times.
+
+499
+00:26:58,000 --> 00:27:03,000
+Well, if you leave shrimp in a Dutch oven
+
+500
+00:27:03,000 --> 00:27:07,000
+and in the closet in Louisiana,
+
+501
+00:27:07,000 --> 00:27:11,000
+I mean stupid could apply.
+
+502
+00:27:16,000 --> 00:27:19,000
+Listen, we would certainly like to hear from you
+
+503
+00:27:19,000 --> 00:27:21,000
+and we would like to get you to come
+
+504
+00:27:21,000 --> 00:27:25,000
+and join us on the next scout master panel discussion.
+
+505
+00:27:25,000 --> 00:27:27,000
+We get together once a month
+
+506
+00:27:27,000 --> 00:27:29,000
+and we can have you phone in when we record,
+
+507
+00:27:29,000 --> 00:27:31,000
+and you're going to find out how to do that
+
+508
+00:27:31,000 --> 00:27:33,000
+towards the end of the podcast here,
+
+509
+00:27:33,000 --> 00:27:35,000
+But let me, before we go,
+
+510
+00:27:35,000 --> 00:27:38,000
+thank Larry for joining us this evening.
+
+511
+00:27:38,000 --> 00:27:39,000
+Thank you very much, Larry.
+
+512
+00:27:39,000 --> 00:27:40,000
+We are welcome Clark,
+
+513
+00:27:40,000 --> 00:27:43,000
+and I hope all you guys have a happy holiday
+
+514
+00:27:43,000 --> 00:27:44,000
+and a merry Christmas
+
+515
+00:27:44,000 --> 00:27:46,000
+and all you guys out in scouting land
+
+516
+00:27:46,000 --> 00:27:49,000
+maybe take a week off from troop meetings
+
+517
+00:27:49,000 --> 00:27:52,000
+and hang out with your wife on a Monday or Tuesday night.
+
+518
+00:27:52,000 --> 00:27:55,000
+But everybody, have a good vacation
+
+519
+00:27:55,000 --> 00:27:56,000
+and take care.
+
+520
+00:27:56,000 --> 00:27:58,000
+And Tom, thank you.
+
+521
+00:27:58,000 --> 00:28:00,000
+You're welcome, Clark,
+
+522
+00:28:00,000 --> 00:28:02,000
+and I'd also like to wish everyone
+
+523
+00:28:02,000 --> 00:28:04,000
+a merry Christmas and happy holidays
+
+524
+00:28:04,000 --> 00:28:06,000
+and see you next year.
+
+525
+00:28:06,000 --> 00:28:07,000
+Yep,
+
+526
+00:28:07,000 --> 00:28:08,000
+And Walter,
+
+527
+00:28:08,000 --> 00:28:11,000
+Well, I wish you luck with your axe murderer
+
+528
+00:28:11,000 --> 00:28:14,000
+and the tape to make us all sound smart,
+
+529
+00:28:14,000 --> 00:28:19,000
+But and have a lovely holiday.
+
+530
+00:28:19,000 --> 00:28:22,000
+Yeah, I'll add my best wishes in as well
+
+531
+00:28:22,000 --> 00:28:24,000
+for the holiday season
+
+532
+00:28:24,000 --> 00:28:26,000
+And we'll be back in the new year
+
+533
+00:28:26,000 --> 00:28:28,000
+with another scout master panel discussion.
+
+534
+00:28:28,000 --> 00:28:29,000
+Thanks a lot, folks,
+
+535
+00:28:34,000 --> 00:28:35,000
+Thank you.
+
+536
+00:29:04,000 --> 00:29:06,000
+Thank you for listening to this edition
+
+537
+00:29:06,000 --> 00:29:07,000
+of the Scoutmaster Podcast.
+
+538
+00:29:07,000 --> 00:29:09,000
+Here's how you can keep in touch.
+
+539
+00:29:09,000 --> 00:29:12,000
+Go to scoutmastercgcom
+
+540
+00:29:12,000 --> 00:29:14,000
+and there you can subscribe
+
+541
+00:29:14,000 --> 00:29:16,000
+to receive updates to the blog
+
+542
+00:29:16,000 --> 00:29:18,000
+and the podcast by email.
+
+543
+00:29:18,000 --> 00:29:21,000
+You can also subscribe to the Scoutmaster Podcast
+
+544
+00:29:21,000 --> 00:29:22,000
+on iTunes
+
+545
+00:29:22,000 --> 00:29:23,000
+and you can access the podcast
+
+546
+00:29:23,000 --> 00:29:25,000
+on your mobile device
+
+547
+00:29:25,000 --> 00:29:27,000
+through Stitcher Smart Radio,
+
+548
+00:29:27,000 --> 00:29:29,000
+and you get details about how to do that
+
+549
+00:29:29,000 --> 00:29:30,000
+at stitchercom.
+
+550
+00:29:30,000 --> 00:29:32,000
+You can experience all the wonders
+
+551
+00:29:32,000 --> 00:29:34,000
+of scoutmastercgcom
+
+552
+00:29:34,000 --> 00:29:37,000
+through the vast panorama of social media outlets:
+
+553
+00:29:37,000 --> 00:29:39,000
+Scoutmaster Blog on Facebook,
+
+554
+00:29:39,000 --> 00:29:42,000
+Scoutmaster CG on Twitter
+
+555
+00:29:42,000 --> 00:29:44,000
+and, for admittance to the exclusive
+
+556
+00:29:44,000 --> 00:29:46,000
+Scoutmaster CG Circle
+
+557
+00:29:46,000 --> 00:29:49,000
+Search for Scoutmaster CG on Google Plus.
+
+558
+00:29:49,000 --> 00:29:51,000
+Please email me, Clark Green,
+
+559
+00:29:51,000 --> 00:29:52,000
+your comments and questions
+
+560
+00:29:52,000 --> 00:29:58,000
+and wild ideas at scoutmastercgatverizonnet.
+
+561
+00:29:58,000 --> 00:30:01,000
+The Scoutmaster Blog and the Scoutmaster Podcast
+
+562
+00:30:01,000 --> 00:30:03,000
+are not official publications
+
+563
+00:30:03,000 --> 00:30:04,000
+of the Boy Scouts of America,
+
+564
+00:30:04,000 --> 00:30:06,000
+nor are they endorsed or sponsored
+
+565
+00:30:06,000 --> 00:30:07,000
+by the Boy Scouts of America.
+
+566
+00:30:07,000 --> 00:30:08,000
+No, it's just me
+
+567
+00:30:08,000 --> 00:30:09,000
+talking into a microphone,
+
+568
+00:30:09,000 --> 00:30:11,000
+trying to lend a hand to scout leaders
+
+569
+00:30:11,000 --> 00:30:13,000
+and maybe have a little bit of fun
+
+570
+00:30:13,000 --> 00:30:14,000
+along the way.
+
+571
+00:30:14,000 --> 00:30:15,000
+So before we leave you,
+
+572
+00:30:15,000 --> 00:30:17,000
+let's hear from our founder,
+
+573
+00:30:17,000 --> 00:30:19,000
+Sir Robert Mayden-Powell.
+
+574
+00:30:19,000 --> 00:30:20,000
+Sir Robert,
+
+575
+00:30:20,000 --> 00:30:21,000
+Good luck to you
+
+576
+00:30:21,000 --> 00:30:23,000
+and group camping.
+
+577
+00:30:23,000 --> 00:30:25,000
+Why? thank you, sir.
+
+578
+00:30:25,000 --> 00:30:27,000
+Until next time, everyone.
+
+579
+00:30:31,000 --> 00:30:33,000
+Thank you.
+

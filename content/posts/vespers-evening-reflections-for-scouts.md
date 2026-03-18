@@ -2,7 +2,9 @@
 title: "Vespers - Evening Reflections for Scouts"
 date: 2014-10-09
 draft: false
-categories: ["scouting-ideals", "scoutmasters-life"]
+topics:
+  - "Spirituality & Religion"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20141009225452/http://scoutmastercg.com:80/vespers_evening/"
 ---
 

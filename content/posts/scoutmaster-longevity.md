@@ -2,7 +2,9 @@
 title: "Scoutmaster Longevity"
 date: 2014-08-24
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Adult Leadership Roles"
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20140824000054/http://scoutmastercg.com/scoutmaster-longevity/"
 ---
 

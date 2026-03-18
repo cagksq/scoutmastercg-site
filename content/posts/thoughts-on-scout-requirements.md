@@ -2,7 +2,9 @@
 title: "Thoughts on Scout Requirements"
 date: 2017-07-04
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20170704094427/http://scoutmastercg.com/thoughts-on-scout-requirements/"
 ---
 

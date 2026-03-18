@@ -2,7 +2,9 @@
 title: "Biting Off More than the Crew Can Chew"
 date: 2014-07-06
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20140706163228/http://scoutmastercg.com/forum-2/high-adventure-trips/60-mile-trek-along-the-john-muir-trail/"
 ---
 

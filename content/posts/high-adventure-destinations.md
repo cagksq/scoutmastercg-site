@@ -2,7 +2,8 @@
 title: "High Adventure Destinations"
 date: 2011-04-05
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20140725095612/http://scoutmastercg.com/high-adventure-destinations/"
 ---
 

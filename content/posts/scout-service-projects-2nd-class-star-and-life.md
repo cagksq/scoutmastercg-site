@@ -2,7 +2,9 @@
 title: "Scout Service Projects 2nd Class, Star, and Life"
 date: 2014-08-30
 draft: false
-categories: ["scouting-ideals", "advancement"]
+topics:
+  - "Scout Advancement"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20170704092722/http://scoutmastercg.com/service-vs-obligation/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Big Picture\" Thinking"
 date: 2008-10-20
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Adult Leadership Roles"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20150920091559/http://scoutmastercg.com/big-picture-thinking/"
 ---
 

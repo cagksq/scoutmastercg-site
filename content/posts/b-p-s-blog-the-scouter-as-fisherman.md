@@ -3,8 +3,9 @@ title: "B-P's Blog - The Scouter as Fisherman"
 date: 2015-08-23
 draft: false
 image: "/images/bp5.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20160823153723/http://scoutmastercg.com:80/b-ps-blog-the-scouter-as-fisherman/"
 ---
 

@@ -2,7 +2,9 @@
 title: "What Causes Wilderness Emergencies?"
 date: 2014-07-06
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20140706111904/http://scoutmastercg.com/causes-wilderness-emergencies/?replytocom=57408"
 ---
 

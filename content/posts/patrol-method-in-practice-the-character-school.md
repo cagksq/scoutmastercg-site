@@ -2,7 +2,9 @@
 title: "Patrol Method in Practice - The Character School"
 date: 2013-01-08
 draft: false
-categories: ["patrol-method", "scouting-ideals"]
+topics:
+  - "Patrol Method"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20170720055734/http://scoutmastercg.com/patrol-method-character-school/"
 ---
 

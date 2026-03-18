@@ -2,7 +2,9 @@
 title: "What happens when Scouts take over?"
 date: 2011-04-16
 draft: false
-categories: ["scouts", "patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20110416101956/http://www.scoutmastercg.com:80/2011/04/what-happens-when-scouts-take-over/"
 ---
 

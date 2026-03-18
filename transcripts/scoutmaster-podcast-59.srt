@@ -1,0 +1,1791 @@
+1
+00:00:00,000 --> 00:00:14,580
+The next time you go out into the wilderness and you're up there in the mountains, I encourage
+
+2
+00:00:14,580 --> 00:00:20,300
+you to sit still and look at the vista before you and listen carefully, because you can
+
+3
+00:00:20,300 --> 00:00:23,400
+hear the mountains speak
+
+4
+00:00:23,400 --> 00:00:27,200
+Honestly. you can.
+
+5
+00:00:27,200 --> 00:00:31,960
+They talk about a range of topics.
+
+6
+00:00:31,960 --> 00:00:34,960
+A range of topics- mountains-
+
+7
+00:00:34,960 --> 00:00:35,960
+Yeah,
+
+8
+00:00:35,960 --> 00:00:36,960
+Oh, my go-well.
+
+9
+00:00:36,960 --> 00:00:39,960
+Hey, this is podcast number 59..
+
+10
+00:00:57,200 --> 00:01:11,080
+Welcome back to the Scoutmaster Podcast.
+
+11
+00:01:11,080 --> 00:01:13,400
+This is Clark Green,
+
+12
+00:01:13,400 --> 00:01:15,840
+So let's take a look at the email bag here.
+
+13
+00:01:15,840 --> 00:01:21,080
+Actually it's not a bag, but you know sounds good, right?
+
+14
+00:01:21,080 --> 00:01:24,480
+Bob Martin wrote this. thanks a million, Clark. I did a survey at the end of the
+
+15
+00:01:24,480 --> 00:01:33,840
+day and your session averaged 4.5 out of 5. slightly ahead of lunch.
+
+16
+00:01:33,840 --> 00:01:36,360
+It's always good to be slightly ahead of lunch.
+
+17
+00:01:36,360 --> 00:01:42,680
+That was from a virtual appearance that I did in Murfreesboro, Tennessee.
+
+18
+00:01:42,680 --> 00:01:48,760
+Bob Martin, thanks again for helping out and making that happen.
+
+19
+00:01:48,760 --> 00:01:50,440
+We had a great time.
+
+20
+00:01:50,600 --> 00:01:57,200
+Tom Gillard was at the conference and he wrote this. I heard from you yesterday.
+
+21
+00:01:57,200 --> 00:02:03,920
+I'm going to enjoy catching up with you on your webpage and listening to the podcast.
+
+22
+00:02:03,920 --> 00:02:06,600
+Thanks again for the work that you put into your blog and podcast.
+
+23
+00:02:06,600 --> 00:02:09,360
+I'm enjoying it. as corny as the jokes are,
+
+24
+00:02:09,360 --> 00:02:12,020
+I do laugh at them.
+
+25
+00:02:12,020 --> 00:02:13,920
+Maybe just a little chuckle.
+
+26
+00:02:13,920 --> 00:02:16,760
+Hey, you know better than nothing, right?
+
+27
+00:02:16,760 --> 00:02:23,120
+Thanks again for all the work you're doing to help us and help us help the boys.
+
+28
+00:02:23,120 --> 00:02:25,280
+I got this announcement this week.
+
+29
+00:02:25,280 --> 00:02:31,880
+If you're taking a trip into the Boundary Waters canoe area this summer or you're
+
+30
+00:02:31,880 --> 00:02:37,359
+going on a river paddling adventure or dreaming of an extended wilderness trip,
+
+31
+00:02:37,359 --> 00:02:41,799
+maybe you need a refresher covering the fundamentals or something to sharpen your
+
+32
+00:02:41,800 --> 00:02:43,760
+backcountry skills.
+
+33
+00:02:43,760 --> 00:02:50,160
+And Cliff Jacobson, who was interviewed a couple of podcasts ago, legendary paddler
+
+34
+00:02:50,160 --> 00:02:57,200
+and guide and author, donated a weekend of his time to conduct a special workshop,
+
+35
+00:02:57,200 --> 00:03:02,160
+And all the proceeds from this workshop are going to go to Northern Star Council's
+
+36
+00:03:02,160 --> 00:03:05,480
+Eagle Scout Scholarship Fund
+
+37
+00:03:05,480 --> 00:03:12,079
+And it provides post-secondary scholarships for 25 Northern Star Council Eagle Scouts.
+
+38
+00:03:12,079 --> 00:03:17,519
+This is going to take place at the Fred C Anderson Scout Camp in Houlton, Wisconsin,
+
+39
+00:03:17,519 --> 00:03:22,880
+which is just outside of Stillwater, Minnesota, from April 1st to the 3rd.
+
+40
+00:03:22,880 --> 00:03:30,399
+There will be a link in the post that contains this podcast at scoutmastertypepadcom
+
+41
+00:03:30,399 --> 00:03:34,320
+so that you can find out more information about this.
+
+42
+00:03:34,359 --> 00:03:40,120
+Cliff is a distinguished Eagle Scout and is offering his time to do this and it's
+
+43
+00:03:40,120 --> 00:03:45,480
+a pretty modest cost and it looks great and if I was any closer to Wisconsin I would
+
+44
+00:03:45,480 --> 00:03:46,959
+be there.
+
+45
+00:03:46,959 --> 00:03:52,240
+But just in case you're in the area and this appeals to you and it should follow
+
+46
+00:03:52,240 --> 00:03:56,079
+the link in the post that contains this podcast.
+
+47
+00:03:56,079 --> 00:04:03,560
+The newsletter went out in February and we had our monthly giveaway contest.
+
+48
+00:04:03,800 --> 00:04:07,800
+This month's giveaway winner is Dave Klein,
+
+49
+00:04:07,800 --> 00:04:12,080
+And Dave is from Lake Forest in Orange County, California.
+
+50
+00:04:12,080 --> 00:04:16,800
+He's an assistant scoutmaster and he's been involved in scouting for about 7 years
+
+51
+00:04:16,800 --> 00:04:21,720
+and he has an 8-year-old and a 13-year-old scout at home and he listens to the podcast
+
+52
+00:04:21,720 --> 00:04:25,680
+on his lunch break at work and he says it's better for his blood pressure than
+
+53
+00:04:25,680 --> 00:04:27,360
+political talk radio.
+
+54
+00:04:27,360 --> 00:04:33,400
+Well, yeah, I guess the joke part might send some people's blood pressure up, but
+
+55
+00:04:33,440 --> 00:04:34,800
+you know, oh wow,
+
+56
+00:04:34,800 --> 00:04:40,520
+Dave answered a trivia question to win four of Nalgene's newest water bottles-
+
+57
+00:04:40,520 --> 00:04:44,560
+Yeah, with some really cool features, and we've talked about those on the blog
+
+58
+00:04:44,560 --> 00:04:48,080
+and the podcast and he will be receiving those.
+
+59
+00:04:48,080 --> 00:04:54,160
+The trivia question Dave answered was: who was the author of the original
+
+60
+00:04:54,160 --> 00:04:56,640
+handbook for patrol leaders?
+
+61
+00:04:56,640 --> 00:05:00,280
+Who was the author of the original handbook for patrol leaders?
+
+62
+00:05:00,360 --> 00:05:07,360
+And the correct answer was William Greenbar, Bill Hillcourt.
+
+63
+00:05:07,360 --> 00:05:09,040
+Bill Hillcourt,
+
+64
+00:05:09,040 --> 00:05:11,640
+You can subscribe to the Scoutmaster newsletter.
+
+65
+00:05:11,640 --> 00:05:17,240
+Go to wwwscoutmastertypedcom and you'll see a link to subscribe to the newsletter
+
+66
+00:05:17,240 --> 00:05:22,560
+and there's always a great monthly giveaway and the giveaway for this coming newsletter
+
+67
+00:05:22,560 --> 00:05:26,080
+are products from E-Lite. E-Lite-
+
+68
+00:05:26,080 --> 00:05:31,680
+You might have heard E-Lite mentioned in the interview I did a podcast or two ago with
+
+69
+00:05:31,680 --> 00:05:37,000
+Dr Paul Auerbach and we'll talk a little bit more about that in the newsletter and
+
+70
+00:05:37,000 --> 00:05:41,280
+you'll see a review of those products on the blog very soon.
+
+71
+00:05:41,280 --> 00:05:45,360
+Speaking of Dr Paul, Frank Maynard wrote in to say he enjoyed the interview in
+
+72
+00:05:45,360 --> 00:05:48,520
+podcast number 57 with Dr Auerbach.
+
+73
+00:05:48,520 --> 00:05:53,320
+Tracy wrote in to say some of our guys never miss an episode of Survivorman or
+
+74
+00:05:53,320 --> 00:05:55,080
+Man vs Wild.
+
+75
+00:05:55,560 --> 00:06:01,840
+Thanks for your help and thanks for the highlight at the beginning of my every week this blog.
+
+76
+00:06:01,840 --> 00:06:04,560
+Well, thank you, Tracy, certainly do appreciate it.
+
+77
+00:06:04,560 --> 00:06:09,719
+We had an interview last week with Les Stroud, the Survivorman guy.
+
+78
+00:06:09,719 --> 00:06:14,320
+This week we've got lots of interesting things to do in Scoutmastership. in seven
+
+79
+00:06:14,320 --> 00:06:15,520
+minutes or less
+
+80
+00:06:15,520 --> 00:06:18,360
+We're going to be talking about mental health-
+
+81
+00:06:18,360 --> 00:06:22,159
+Not your mental health, not my mental health, because you know that's a foregone conclusion.
+
+82
+00:06:22,200 --> 00:06:24,200
+I think
+
+83
+00:06:24,200 --> 00:06:28,520
+Yeah, but we're going to talk about mental health awareness in Scouting. and
+
+84
+00:06:28,520 --> 00:06:35,280
+then we have a telephone call that came in about what are we going to do to
+
+85
+00:06:35,280 --> 00:06:43,160
+make moms feel safe and confident about their first year Scouts going to
+
+86
+00:06:43,160 --> 00:06:44,680
+summer camp?
+
+87
+00:06:44,680 --> 00:06:45,840
+That's a big one
+
+88
+00:06:45,840 --> 00:06:48,240
+And that is plenty to do for this podcast.
+
+89
+00:06:48,240 --> 00:06:49,520
+So let's get started, shall we?
+
+90
+00:06:49,520 --> 00:06:54,080
+Scoutmastership in seven minutes or less.
+
+91
+00:07:02,080 --> 00:07:09,840
+Several years ago I missed a backpacking trip and I had a couple of job related
+
+92
+00:07:09,840 --> 00:07:13,159
+things I had to do and there was just no way out of it.
+
+93
+00:07:13,159 --> 00:07:17,359
+So I sent the Scouts off backpacking and then the following Monday night, at a
+
+94
+00:07:17,360 --> 00:07:22,320
+troop meeting, I was approached by a very upset parent whose son had been
+
+95
+00:07:22,320 --> 00:07:27,240
+physically attacked by another Scout during the outing.
+
+96
+00:07:27,240 --> 00:07:28,880
+This was not good.
+
+97
+00:07:28,880 --> 00:07:30,840
+We have these moments.
+
+98
+00:07:30,840 --> 00:07:35,800
+So I spoke with both the Scouts and you know it was clear that one of
+
+99
+00:07:35,800 --> 00:07:39,960
+them was mouthing off and really pestering the other one and the other
+
+100
+00:07:39,960 --> 00:07:44,480
+one decided that he was going to react physically.
+
+101
+00:07:44,480 --> 00:07:48,120
+Now both of these guys obviously needed to modify their behavior.
+
+102
+00:07:48,120 --> 00:07:50,520
+Both of them were acting poorly.
+
+103
+00:07:50,520 --> 00:07:56,600
+But one thing I was really concerned about was the Scout who got physical
+
+104
+00:07:56,600 --> 00:07:58,200
+and attacked the other one.
+
+105
+00:07:58,200 --> 00:08:03,720
+This was like the second time that he'd been part of a fight.
+
+106
+00:08:03,720 --> 00:08:08,560
+He was, I say, was because he went on to become an Eagle Scout and he's
+
+107
+00:08:08,560 --> 00:08:12,640
+off to college now and, you know, doing very well.
+
+108
+00:08:12,640 --> 00:08:18,400
+He just he had some real signs of being unable to control his actions in
+
+109
+00:08:18,400 --> 00:08:20,520
+that kind of a situation.
+
+110
+00:08:20,520 --> 00:08:23,960
+And then, after I talked to him, worse yet, you know, he felt perfectly
+
+111
+00:08:23,960 --> 00:08:29,400
+justified in what he had done and he was ready to do it again in the
+
+112
+00:08:29,400 --> 00:08:31,240
+same circumstances.
+
+113
+00:08:31,240 --> 00:08:37,679
+Now this was an intelligent young man and mature enough to know that this
+
+114
+00:08:37,679 --> 00:08:40,640
+was probably not a good way to handle things.
+
+115
+00:08:40,679 --> 00:08:45,280
+Yet he was angry enough that it caused him to see it as the only course of
+
+116
+00:08:45,280 --> 00:08:47,840
+action he had left.
+
+117
+00:08:47,840 --> 00:08:55,720
+Now I sat and talked with his dad and I told him that I wouldn't allow
+
+118
+00:08:55,720 --> 00:09:01,000
+him to participate in any other Scout functions until we were sure
+
+119
+00:09:01,000 --> 00:09:03,800
+that things were okay,
+
+120
+00:09:03,800 --> 00:09:08,000
+And I suggested that the best way to do that would be to get a little
+
+121
+00:09:08,000 --> 00:09:08,960
+counseling.
+
+122
+00:09:08,960 --> 00:09:11,720
+Now, dad was not happy with this,
+
+123
+00:09:11,720 --> 00:09:15,440
+You know. predictably, he felt I was overreacting to this kind of
+
+124
+00:09:15,440 --> 00:09:18,520
+boys will be boys incident.
+
+125
+00:09:18,520 --> 00:09:23,760
+But my decision in doing this wasn't based on finding fault.
+
+126
+00:09:23,760 --> 00:09:28,120
+It was based on my concern that this boy could probably use a little
+
+127
+00:09:28,120 --> 00:09:32,960
+assistance in sorting out what was causing his problems.
+
+128
+00:09:32,960 --> 00:09:36,800
+He was miserable and he was conflicted and he was clearly having
+
+129
+00:09:36,800 --> 00:09:38,320
+some difficulties
+
+130
+00:09:38,320 --> 00:09:41,880
+And I got to tell you frankly, I was afraid for him.
+
+131
+00:09:41,880 --> 00:09:48,360
+In the end, his dad agreed and he went to do a session or two with a
+
+132
+00:09:48,360 --> 00:09:53,240
+counselor, and the counselor reported they were successful in assisting the
+
+133
+00:09:53,240 --> 00:09:57,480
+Scout and things were pretty much back to normal
+
+134
+00:09:57,480 --> 00:10:00,480
+And both of the boys that were involved in the incident managed to
+
+135
+00:10:00,480 --> 00:10:04,560
+get along and both went on to become Eagles.
+
+136
+00:10:04,560 --> 00:10:07,840
+This might be a pretty familiar story to a lot of you.
+
+137
+00:10:07,840 --> 00:10:09,920
+You've probably encountered something like this
+
+138
+00:10:09,920 --> 00:10:13,120
+If you've been around for enough years. this is going to happen,
+
+139
+00:10:13,120 --> 00:10:18,840
+And every so often we hear of some horrible, unspeakable tragedy that
+
+140
+00:10:18,840 --> 00:10:21,400
+ends the life of a young person
+
+141
+00:10:21,400 --> 00:10:25,960
+And in the aftermath we see signs that led to the tragedy and we
+
+142
+00:10:25,960 --> 00:10:28,360
+just wonder why nobody noticed.
+
+143
+00:10:28,360 --> 00:10:31,880
+It's not one of the best parts of being a Scout leader.
+
+144
+00:10:31,880 --> 00:10:35,040
+It's not one of the fun parts of being a Scout leader,
+
+145
+00:10:35,040 --> 00:10:37,959
+But we have to notice these things sometimes
+
+146
+00:10:37,959 --> 00:10:41,920
+And we have to know how to react and what to do.
+
+147
+00:10:41,920 --> 00:10:44,800
+So I would suggest this to you.
+
+148
+00:10:44,800 --> 00:10:49,760
+I found some good resources at the National Mental Health Information
+
+149
+00:10:49,760 --> 00:10:50,560
+Center.
+
+150
+00:10:50,560 --> 00:10:52,439
+It's a real good place to start
+
+151
+00:10:52,439 --> 00:10:57,520
+And I've made up a fact sheet from their Child and Adolescent Mental
+
+152
+00:10:57,520 --> 00:10:58,920
+Health section
+
+153
+00:10:58,920 --> 00:11:03,439
+And as you read, you'll see that there are some warning signs listed
+
+154
+00:11:03,440 --> 00:11:07,400
+and some of these are pretty common things that you see in adolescence.
+
+155
+00:11:07,400 --> 00:11:13,040
+We pay attention because these signs may point to mental health
+
+156
+00:11:13,040 --> 00:11:14,240
+disorders.
+
+157
+00:11:14,240 --> 00:11:18,200
+It's not that each thing is a definitive indicator of a mental
+
+158
+00:11:18,200 --> 00:11:21,000
+illness or a serious disorder,
+
+159
+00:11:21,000 --> 00:11:24,920
+But every once in a while a young person needs a little help and they
+
+160
+00:11:24,920 --> 00:11:28,960
+need to sit and talk and they need to work with a counselor.
+
+161
+00:11:28,960 --> 00:11:31,240
+I'm not a professional counselor.
+
+162
+00:11:31,240 --> 00:11:32,880
+I'm not.
+
+163
+00:11:32,880 --> 00:11:36,720
+If you have a real nice pocket watch, you don't take the back off the watch and
+
+164
+00:11:36,720 --> 00:11:41,480
+start messing around with the guts of the watch, because you know if you've
+
+165
+00:11:41,480 --> 00:11:47,120
+tried that- I've tried that- you can- you can screw things up.
+
+166
+00:11:47,120 --> 00:11:51,920
+It's very delicately balanced instrument and people's- people's minds-
+
+167
+00:11:51,920 --> 00:11:57,040
+very delicately balanced instruments, and you got to know what you're doing.
+
+168
+00:11:57,040 --> 00:12:01,200
+So let me go into this fact sheet a little bit and just give you a little
+
+169
+00:12:01,200 --> 00:12:02,200
+summary of it,
+
+170
+00:12:02,240 --> 00:12:07,040
+And there'll be a link to it in the post that contains this podcast on the
+
+171
+00:12:07,040 --> 00:12:08,040
+blog.
+
+172
+00:12:09,480 --> 00:12:12,080
+One of the things that says it says this: like adults, children and
+
+173
+00:12:12,080 --> 00:12:15,360
+adolescents can have mental health disorders that interfere with the way
+
+174
+00:12:15,360 --> 00:12:19,280
+they think, feel and act. when untreated mental health disorders can
+
+175
+00:12:19,280 --> 00:12:23,320
+lead to school failure, family conflicts, drug abuse, violence and even
+
+176
+00:12:23,320 --> 00:12:24,360
+suicide.
+
+177
+00:12:24,360 --> 00:12:28,800
+Now listen, we're being realistic here, correct?
+
+178
+00:12:28,800 --> 00:12:34,240
+I mean just because we see some things in adolescent boys that you know are a
+
+179
+00:12:34,240 --> 00:12:40,360
+little outside the norm and are an expression of their journey into
+
+180
+00:12:40,360 --> 00:12:44,560
+adulthood. it doesn't necessarily mean that every single thing we see is a
+
+181
+00:12:44,560 --> 00:12:50,160
+cause for concern, but there are signs, and when you see them in
+
+182
+00:12:50,160 --> 00:12:54,240
+combinations or you have a sense that things aren't going well, it's a
+
+183
+00:12:54,240 --> 00:13:00,360
+good idea to mention it, to talk, maybe have a little discussion with a set of
+
+184
+00:13:00,360 --> 00:13:04,240
+parents and say: you know, I've noticed these things and and, and you've
+
+185
+00:13:04,240 --> 00:13:05,880
+probably noticed them too.
+
+186
+00:13:05,880 --> 00:13:09,040
+I just want to make sure that you know it's a it's an area of concern
+
+187
+00:13:09,040 --> 00:13:13,960
+for me and whether or not there's anything I can do to help you with it.
+
+188
+00:13:13,960 --> 00:13:18,120
+The resource that I'm offering you lists a number of signs. a child or
+
+189
+00:13:18,120 --> 00:13:22,640
+adolescent might be troubled by feeling sad and hopeless for no reason, and
+
+190
+00:13:22,680 --> 00:13:24,960
+those feelings don't go away.
+
+191
+00:13:24,960 --> 00:13:28,680
+They may be very angry most of the time and crying a lot or overreacting to
+
+192
+00:13:28,680 --> 00:13:30,240
+things.
+
+193
+00:13:30,240 --> 00:13:33,760
+They may have feelings of worthlessness or guilt.
+
+194
+00:13:33,760 --> 00:13:37,199
+They may feel anxious or worried. often
+
+195
+00:13:37,199 --> 00:13:41,439
+They may be unable to get over the loss or death of somebody who was
+
+196
+00:13:41,439 --> 00:13:43,520
+important to them.
+
+197
+00:13:43,520 --> 00:13:47,800
+They may be extremely fearful or having unexplained fears.
+
+198
+00:13:47,800 --> 00:13:51,480
+They may be constantly concerned about physical problems or their physical
+
+199
+00:13:51,480 --> 00:13:53,160
+appearance.
+
+200
+00:13:53,160 --> 00:13:58,320
+They may be frightened that their mind either is controlled or is out of
+
+201
+00:13:58,320 --> 00:14:00,000
+control.
+
+202
+00:14:00,000 --> 00:14:03,680
+The other area of concern is when a child or adolescent experiences big
+
+203
+00:14:03,680 --> 00:14:08,040
+changes like showing declining performance at school or losing interest
+
+204
+00:14:08,040 --> 00:14:11,400
+in things they once enjoyed, or experiencing unexplained changes in
+
+205
+00:14:11,400 --> 00:14:13,800
+sleeping or eating patterns.
+
+206
+00:14:13,800 --> 00:14:18,320
+They may avoid friends or family and want to be alone all the time.
+
+207
+00:14:18,320 --> 00:14:21,880
+They may be daydreaming too much and not completing tasks.
+
+208
+00:14:21,880 --> 00:14:25,080
+They may be feeling life is too hard to handle.
+
+209
+00:14:25,080 --> 00:14:29,080
+Now, some of the things that I've just said. you're going to look at the
+
+210
+00:14:29,080 --> 00:14:31,880
+adolescent that you're living with or the ones that you serve as a
+
+211
+00:14:31,880 --> 00:14:36,480
+scout leader, and you're going to say, wow, you know, I see this one
+
+212
+00:14:36,480 --> 00:14:38,080
+thing happening.
+
+213
+00:14:38,080 --> 00:14:42,920
+It's really important that we understand that these are not single
+
+214
+00:14:42,920 --> 00:14:47,280
+indicators of a profound mental health problem.
+
+215
+00:14:47,280 --> 00:14:49,600
+Sometimes they're an expression of growing up.
+
+216
+00:14:49,600 --> 00:14:53,360
+But a scout leader who's on their toes is going to watch for these
+
+217
+00:14:53,360 --> 00:14:57,680
+things and is going to make sure that they bring them to the
+
+218
+00:14:57,680 --> 00:15:03,080
+attention of the scout's parents if they raise to an inappropriate
+
+219
+00:15:03,080 --> 00:15:06,720
+level and create a concern.
+
+220
+00:15:06,760 --> 00:15:08,320
+So what are we going to do?
+
+221
+00:15:08,320 --> 00:15:10,120
+What are we going to do as scout leaders?
+
+222
+00:15:10,120 --> 00:15:13,080
+I mean, this is a pretty sobering subject, isn't it?
+
+223
+00:15:13,080 --> 00:15:14,960
+Well, this is pretty sobering talk, isn't it?
+
+224
+00:15:14,960 --> 00:15:17,120
+I mean, here we are. we're volunteer scout leaders.
+
+225
+00:15:17,120 --> 00:15:18,240
+We're not professionals.
+
+226
+00:15:18,240 --> 00:15:22,280
+We're there to have fun and make life good for the
+
+227
+00:15:22,280 --> 00:15:23,880
+scouts that we serve,
+
+228
+00:15:23,880 --> 00:15:26,040
+But we're all going to run into problems.
+
+229
+00:15:26,040 --> 00:15:29,200
+We're all going to see things that concern us.
+
+230
+00:15:29,200 --> 00:15:31,480
+Now what do we do next?
+
+231
+00:15:31,480 --> 00:15:33,800
+Well, we need to raise those concerns.
+
+232
+00:15:33,800 --> 00:15:37,080
+We need to be brave enough to talk about them,
+
+233
+00:15:37,080 --> 00:15:39,680
+And we need to be brave enough to approach a set of parents
+
+234
+00:15:39,680 --> 00:15:44,840
+about them. if they raise a major concern like this,
+
+235
+00:15:44,840 --> 00:15:49,720
+It could be something that has a broad effect on a young
+
+236
+00:15:49,720 --> 00:15:51,440
+person's life.
+
+237
+00:15:51,440 --> 00:15:54,200
+It's definitely something for us to be aware of.
+
+238
+00:15:54,200 --> 00:15:57,480
+It's a skill set for us to develop so that we know how
+
+239
+00:15:57,480 --> 00:15:59,400
+to address these things when they do arise.
+
+240
+00:16:33,800 --> 00:16:51,400
+This is Cliff Jacobson, and you're listening to the
+
+241
+00:16:51,400 --> 00:16:54,160
+Scoutmaster podcast with Clark Green,
+
+242
+00:16:54,160 --> 00:17:05,399
+And now here's one of your phone calls.
+
+243
+00:17:05,399 --> 00:17:15,280
+You, too, can pick up the phone and give us a call.
+
+244
+00:17:15,280 --> 00:17:16,839
+Hi, this is Blaise Vitelli.
+
+245
+00:17:16,839 --> 00:17:18,920
+I'm a Weebles leader who's about to become the
+
+246
+00:17:18,920 --> 00:17:21,960
+scoutmaster of the newly reborn Troop 560 of
+
+247
+00:17:21,960 --> 00:17:23,879
+Grantsburg, Wisconsin.
+
+248
+00:17:23,920 --> 00:17:26,840
+I've truly enjoyed listening to each of your podcasts.
+
+249
+00:17:26,840 --> 00:17:29,760
+As each topic is brought up, I tended to develop some fear
+
+250
+00:17:29,760 --> 00:17:32,480
+about a problem I had not really understood.
+
+251
+00:17:32,480 --> 00:17:35,440
+However, by the end of the podcast I usually feel that
+
+252
+00:17:35,440 --> 00:17:37,760
+I'll be able to handle that issue.
+
+253
+00:17:37,760 --> 00:17:40,600
+Currently I'm trying to get my Weeble 02s to sign up
+
+254
+00:17:40,600 --> 00:17:42,360
+for Boy Scout summer camp.
+
+255
+00:17:42,360 --> 00:17:44,600
+I've run into some resistance from the parents who don't
+
+256
+00:17:44,600 --> 00:17:47,280
+think their son can be away from mom for a week.
+
+257
+00:17:47,280 --> 00:17:49,880
+I'd appreciate any advice related to how you
+
+258
+00:17:49,880 --> 00:17:52,960
+encourage participation in Scout camp, how you deal with
+
+259
+00:17:52,960 --> 00:17:56,720
+the parents and how you deal with homesick kids.
+
+260
+00:17:56,720 --> 00:17:58,360
+Thanks again, bye,
+
+261
+00:17:58,360 --> 00:18:00,280
+Hey Blaise, thanks for getting in touch.
+
+262
+00:18:00,280 --> 00:18:01,960
+I'll tell you this is something that comes up
+
+263
+00:18:01,960 --> 00:18:03,400
+every single year.
+
+264
+00:18:03,400 --> 00:18:04,480
+That's right.
+
+265
+00:18:04,480 --> 00:18:06,680
+Right around this time of year we're signing boys up
+
+266
+00:18:06,680 --> 00:18:09,360
+to go to summer camp, getting them committed to go,
+
+267
+00:18:09,360 --> 00:18:11,320
+And they'll be these younger guys.
+
+268
+00:18:11,320 --> 00:18:14,720
+These guys probably just crossed over from Weeblows
+
+269
+00:18:14,720 --> 00:18:16,360
+and just joined the Troop
+
+270
+00:18:16,360 --> 00:18:19,400
+And I'll get a phone call or an email or I'll have
+
+271
+00:18:19,440 --> 00:18:22,920
+mom kind of come up to me at a Scout meeting and say:
+
+272
+00:18:22,920 --> 00:18:24,680
+I want to learn a little bit more about this whole
+
+273
+00:18:24,680 --> 00:18:25,480
+summer camp thing.
+
+274
+00:18:25,480 --> 00:18:29,440
+And I can see that their brow is furrowed with worry
+
+275
+00:18:29,440 --> 00:18:33,120
+And they're not really worried about the boys.
+
+276
+00:18:33,120 --> 00:18:34,440
+They say that they are,
+
+277
+00:18:34,440 --> 00:18:36,640
+But I've learned to tell over the years
+
+278
+00:18:36,640 --> 00:18:39,640
+they're more worried about how they're going to take
+
+279
+00:18:39,640 --> 00:18:43,680
+having their son away for a week of time.
+
+280
+00:18:43,680 --> 00:18:47,760
+It's usually the first time that a Scout is going
+
+281
+00:18:47,800 --> 00:18:50,920
+to be away for this long from home
+
+282
+00:18:50,920 --> 00:18:52,320
+And moms worry about this-
+
+283
+00:18:52,320 --> 00:18:53,600
+They really do-
+
+284
+00:18:53,600 --> 00:18:55,520
+And it's something that we need to get in touch with.
+
+285
+00:18:55,520 --> 00:18:57,440
+if you're not a mom,
+
+286
+00:18:57,440 --> 00:19:00,120
+You need to know what they're concerned about
+
+287
+00:19:00,120 --> 00:19:02,200
+And you need to really address those concerns.
+
+288
+00:19:02,200 --> 00:19:05,480
+Now listen, I think it's a great thing for boys
+
+289
+00:19:05,480 --> 00:19:07,200
+to go to camp for a week.
+
+290
+00:19:07,200 --> 00:19:09,360
+I know that usually they start off being
+
+291
+00:19:09,360 --> 00:19:10,200
+a little miserable.
+
+292
+00:19:10,200 --> 00:19:12,480
+Sometimes they get a little homesick,
+
+293
+00:19:12,480 --> 00:19:15,480
+Sometimes they feel a little troubled
+
+294
+00:19:15,480 --> 00:19:16,400
+about the experience,
+
+295
+00:19:16,400 --> 00:19:17,760
+But usually within a couple of days
+
+296
+00:19:17,760 --> 00:19:21,040
+everything straightens out and they do just fine.
+
+297
+00:19:21,040 --> 00:19:22,920
+While mom's sitting at home
+
+298
+00:19:22,920 --> 00:19:25,040
+and she's wondering if what he's eating,
+
+299
+00:19:25,040 --> 00:19:27,720
+if anybody's asking him to take a shower
+
+300
+00:19:27,720 --> 00:19:31,600
+once in a while, if he's putting on clean clothes,
+
+301
+00:19:31,600 --> 00:19:34,600
+if he's feeling bad or homesick,
+
+302
+00:19:34,600 --> 00:19:37,320
+whether she should maybe get in touch with him.
+
+303
+00:19:37,320 --> 00:19:38,440
+It's a tough thing.
+
+304
+00:19:38,440 --> 00:19:41,800
+What I recommend is directly addressing this
+
+305
+00:19:41,800 --> 00:19:44,200
+and making sure that moms understand
+
+306
+00:19:44,240 --> 00:19:47,400
+that the concerns that they have are important
+
+307
+00:19:47,400 --> 00:19:48,880
+and that they will be met.
+
+308
+00:19:48,880 --> 00:19:51,200
+I found a real good article about this
+
+309
+00:19:51,200 --> 00:19:53,240
+and there's a link to it in the post
+
+310
+00:19:53,240 --> 00:19:55,400
+that contains this podcast
+
+311
+00:19:55,400 --> 00:19:56,800
+And it says this in part.
+
+312
+00:19:56,800 --> 00:19:58,200
+It says I found I was uncomfortable
+
+313
+00:19:58,200 --> 00:20:00,920
+turning over full-time care of my son
+
+314
+00:20:00,920 --> 00:20:02,960
+to people I didn't really know.
+
+315
+00:20:02,960 --> 00:20:05,240
+I worried about whether he would like the food.
+
+316
+00:20:05,240 --> 00:20:08,520
+I wondered who would make sure he had clean clothes,
+
+317
+00:20:08,520 --> 00:20:10,880
+that he took a shower every day,
+
+318
+00:20:10,880 --> 00:20:13,880
+what the other boys were going to treat him like,
+
+319
+00:20:13,880 --> 00:20:15,600
+whether they were going to tease him.
+
+320
+00:20:15,600 --> 00:20:17,720
+what if he just didn't like camp?
+
+321
+00:20:17,720 --> 00:20:19,880
+I told him that if he was unhappy
+
+322
+00:20:19,880 --> 00:20:22,760
+he could call us and that we'd come and get him
+
+323
+00:20:22,760 --> 00:20:25,800
+and that I would call him to see how he was doing.
+
+324
+00:20:25,800 --> 00:20:27,320
+But it turned out that wouldn't work
+
+325
+00:20:27,320 --> 00:20:31,280
+because the use of telephones was actively discouraged.
+
+326
+00:20:32,440 --> 00:20:34,920
+She went on to say I actually cried
+
+327
+00:20:34,920 --> 00:20:36,520
+when he left for camp
+
+328
+00:20:36,520 --> 00:20:38,760
+And at home the house seemed very quiet
+
+329
+00:20:38,760 --> 00:20:40,800
+and since we couldn't call,
+
+330
+00:20:40,800 --> 00:20:42,400
+I wrote him lots of letters.
+
+331
+00:20:42,400 --> 00:20:45,240
+The first letter we got back sounded miserable
+
+332
+00:20:45,240 --> 00:20:46,680
+And I thought about going to get him
+
+333
+00:20:46,680 --> 00:20:47,760
+and having to bring him home.
+
+334
+00:20:47,760 --> 00:20:49,040
+but the next letter sounded
+
+335
+00:20:49,040 --> 00:20:51,040
+like he was really having fun.
+
+336
+00:20:51,040 --> 00:20:54,080
+It's a tough thing for a mom to do
+
+337
+00:20:54,080 --> 00:20:56,240
+Boys. it can be a little tough,
+
+338
+00:20:56,240 --> 00:20:57,240
+but they'll get over it.
+
+339
+00:20:57,240 --> 00:20:58,920
+Moms, this is a big deal.
+
+340
+00:20:58,920 --> 00:21:00,840
+We need to make sure that moms are reassured
+
+341
+00:21:00,840 --> 00:21:01,840
+about this.
+
+342
+00:21:01,840 --> 00:21:03,280
+It's very simple
+
+343
+00:21:03,280 --> 00:21:07,600
+And you just need to have good, direct talk about it
+
+344
+00:21:07,600 --> 00:21:09,840
+and not be one of those guys that says,
+
+345
+00:21:09,879 --> 00:21:11,439
+hey, you know,
+
+346
+00:21:11,439 --> 00:21:14,720
+oh, summer camp's really hard on a first year guy,
+
+347
+00:21:14,720 --> 00:21:16,480
+but they get over it and they get tough
+
+348
+00:21:16,480 --> 00:21:18,840
+and things like: no, no,
+
+349
+00:21:18,840 --> 00:21:20,639
+Moms don't wanna hear that.
+
+350
+00:21:20,639 --> 00:21:23,959
+What they wanna hear is all of their concerns
+
+351
+00:21:23,959 --> 00:21:24,800
+will be addressed
+
+352
+00:21:24,800 --> 00:21:27,560
+and that they'll probably make it through the week.
+
+353
+00:21:27,560 --> 00:21:30,360
+The mom will, you know, as well as the boy.
+
+354
+00:21:30,360 --> 00:21:31,800
+There's a couple of things that you can do
+
+355
+00:21:31,800 --> 00:21:33,520
+to make this happen.
+
+356
+00:21:33,520 --> 00:21:35,959
+I have a couple of go-to people in the troop,
+
+357
+00:21:36,000 --> 00:21:37,480
+go-to moms
+
+358
+00:21:37,480 --> 00:21:41,360
+who, if I get serious concerns about summer camp,
+
+359
+00:21:41,360 --> 00:21:44,280
+I will ask the mother who's talking to me
+
+360
+00:21:44,280 --> 00:21:45,960
+to talk to one of them
+
+361
+00:21:45,960 --> 00:21:48,280
+and kind of help them through the experience
+
+362
+00:21:48,280 --> 00:21:49,160
+a little bit.
+
+363
+00:21:49,160 --> 00:21:51,240
+It's also worth talking about in the materials
+
+364
+00:21:51,240 --> 00:21:52,640
+that you distribute for summer camp,
+
+365
+00:21:52,640 --> 00:21:54,280
+just as a reassurance
+
+366
+00:21:54,280 --> 00:21:55,960
+that the boys are gonna be looked after,
+
+367
+00:21:55,960 --> 00:21:58,320
+that there's medical staff there,
+
+368
+00:21:58,320 --> 00:22:00,440
+that there's standards for hygiene and food
+
+369
+00:22:00,440 --> 00:22:03,880
+and that somebody's looking after the boys.
+
+370
+00:22:03,880 --> 00:22:07,120
+Because if mom's never been to scout camp before,
+
+371
+00:22:07,120 --> 00:22:10,080
+she has no idea what the experience is gonna be like
+
+372
+00:22:10,080 --> 00:22:12,320
+and you fear things that you don't know.
+
+373
+00:22:12,320 --> 00:22:14,040
+So getting to know about. it
+
+374
+00:22:14,040 --> 00:22:17,240
+is a pretty important piece for any mother
+
+375
+00:22:17,240 --> 00:22:19,240
+who's gonna be sending a younger scout
+
+376
+00:22:19,240 --> 00:22:21,240
+off to camp for a week.
+
+377
+00:22:21,240 --> 00:22:22,920
+As far as dealing with boys who get homesick,
+
+378
+00:22:22,920 --> 00:22:25,840
+well, I've got some references for that too
+
+379
+00:22:25,840 --> 00:22:28,880
+and I'll have those linked on the blog post
+
+380
+00:22:28,880 --> 00:22:31,000
+that contains the podcast,
+
+381
+00:22:31,000 --> 00:22:33,080
+just to give a very quick review of it.
+
+382
+00:22:34,040 --> 00:22:35,800
+Homesickness is for real.
+
+383
+00:22:35,800 --> 00:22:36,960
+It's very treatable
+
+384
+00:22:37,920 --> 00:22:40,240
+and there are some measures that you can take
+
+385
+00:22:40,240 --> 00:22:41,920
+before you go to camp to make sure
+
+386
+00:22:41,920 --> 00:22:44,680
+that it's manageable for all of your scouts.
+
+387
+00:22:44,680 --> 00:22:46,480
+Blaze. I really appreciate you getting in touch.
+
+388
+00:22:46,480 --> 00:22:47,920
+It's a great question
+
+389
+00:22:47,920 --> 00:22:50,760
+and you can call up with your questions,
+
+390
+00:22:50,760 --> 00:22:53,200
+and what I wanna hear this week
+
+391
+00:22:53,200 --> 00:22:54,720
+is I'd like you to call in
+
+392
+00:22:54,720 --> 00:22:57,320
+and give me your favorite scout joke,
+
+393
+00:22:58,160 --> 00:22:59,200
+because, if you haven't noticed,
+
+394
+00:22:59,200 --> 00:23:00,040
+I'm kind of running out
+
+395
+00:23:00,040 --> 00:23:01,520
+and you're gonna learn how to do that in a minute.
+
+396
+00:23:32,120 --> 00:23:33,680
+Thanks for listening.
+
+397
+00:23:33,680 --> 00:23:35,040
+Here's how to keep in touch.
+
+398
+00:23:35,040 --> 00:23:36,760
+You can read the Scoutmaster blog
+
+399
+00:23:36,760 --> 00:23:39,879
+at scoutmastertypepadcom.
+
+400
+00:23:39,879 --> 00:23:40,879
+You can also subscribe
+
+401
+00:23:40,879 --> 00:23:43,400
+to the Scoutmaster newsletter at the blog.
+
+402
+00:23:43,400 --> 00:23:45,200
+It's a monthly digest of the blog
+
+403
+00:23:45,200 --> 00:23:47,720
+and the podcast, with some great scouting resources
+
+404
+00:23:47,720 --> 00:23:49,560
+around a monthly theme.
+
+405
+00:23:49,560 --> 00:23:51,120
+Every newsletter includes a giveaway
+
+406
+00:23:51,120 --> 00:23:53,160
+from one of our affiliate sponsors
+
+407
+00:23:53,160 --> 00:23:54,680
+and this month coming up,
+
+408
+00:23:54,680 --> 00:23:57,600
+we're going to have a series of products from Elight,
+
+409
+00:23:57,600 --> 00:24:00,879
+and Elight is a electrolyte replacement product
+
+410
+00:24:00,920 --> 00:24:03,160
+that I'm very excited to tell you about.
+
+411
+00:24:09,440 --> 00:24:11,800
+You can subscribe to the Scoutmaster podcast on iTunes
+
+412
+00:24:11,800 --> 00:24:14,200
+and, when you do, feel free to leave a comment
+
+413
+00:24:14,200 --> 00:24:15,760
+or review a rating.
+
+414
+00:24:15,760 --> 00:24:17,840
+and you can also call in and leave a voicemail
+
+415
+00:24:17,840 --> 00:24:19,360
+and be included in the podcast,
+
+416
+00:24:19,360 --> 00:24:21,120
+just like Blaze was this week.
+
+417
+00:24:21,120 --> 00:24:22,080
+That's right,
+
+418
+00:24:22,080 --> 00:24:27,080
+Call in 484-734-0002..
+
+419
+00:24:27,840 --> 00:24:28,680
+One more time:
+
+420
+00:24:28,680 --> 00:24:33,680
+484-734-0002..
+
+421
+00:24:34,000 --> 00:24:36,440
+And you can leave a voicemail
+
+422
+00:24:36,440 --> 00:24:39,760
+that I will then take and include in the podcast
+
+423
+00:24:39,760 --> 00:24:41,360
+This week's assignment.
+
+424
+00:24:41,360 --> 00:24:44,160
+call in and tell me your favorite scouting joke.
+
+425
+00:24:44,160 --> 00:24:46,080
+That's right, I'm running out.
+
+426
+00:24:46,080 --> 00:24:47,080
+Give me some help.
+
+427
+00:24:54,080 --> 00:24:56,960
+You can follow us at Scoutmaster blog on Facebook
+
+428
+00:24:56,960 --> 00:24:59,000
+and ScoutmasterCG on Twitter,
+
+429
+00:24:59,000 --> 00:25:01,000
+and you can email me, Clark Green,
+
+430
+00:25:01,000 --> 00:25:02,560
+with your comments and questions
+
+431
+00:25:02,560 --> 00:25:05,480
+at clarkgreen at gmailcom.
+
+432
+00:25:05,480 --> 00:25:10,480
+That's C-L-A-R-K-E-G-R-E-E-N at gmailcom.
+
+433
+00:25:16,360 --> 00:25:17,400
+Hey, it's time to remind you
+
+434
+00:25:17,400 --> 00:25:19,960
+that the Scoutmaster blog and the Scoutmaster podcast
+
+435
+00:25:19,960 --> 00:25:21,960
+are not official publications of the Boy Scouts
+
+436
+00:25:21,960 --> 00:25:24,440
+of America, nor are they endorsed or sponsored
+
+437
+00:25:24,440 --> 00:25:26,480
+by the Boy Scouts of America.
+
+438
+00:25:26,480 --> 00:25:28,080
+Hey, it's just me.
+
+439
+00:25:28,080 --> 00:25:29,960
+I have a computer and a microphone.
+
+440
+00:25:29,960 --> 00:25:31,160
+I like to talk into it
+
+441
+00:25:32,360 --> 00:25:34,680
+and, hopefully lend a hand to Scout leaders
+
+442
+00:25:34,680 --> 00:25:37,120
+and maybe have a little bit of fun along the way.
+
+443
+00:25:39,840 --> 00:25:41,240
+Before we leave you,
+
+444
+00:25:41,240 --> 00:25:44,800
+let's hear from our founder, Sir Robert Baden Powell.
+
+445
+00:25:44,800 --> 00:25:46,040
+Sir Robert,
+
+446
+00:25:46,040 --> 00:25:48,280
+Good luck to you and good camping.
+
+447
+00:25:49,320 --> 00:25:50,840
+Why thank you, sir?
+
+448
+00:25:50,840 --> 00:25:51,800
+Until next time.

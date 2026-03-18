@@ -1,31 +1,29 @@
 ---
-title: "Scoutmaster Podcast 350 - Scouting Charters"
+title: "Scoutmaster Podcast 350"
 date: 2016-09-26
 draft: false
 episode: 350
+subtitle: "How to handle transportation cancellations and chartered organization finances in your unit"
+transcript: true
 categories: ["Podcast"]
+tags:
+  - "chartered organization"
+  - "transportation"
+  - "boards of review"
+  - "listener email"
+  - "parent involvement"
+  - "unit finances"
+summary: "Clarke Green celebrates episode 350 by reading listener mail and answering questions from Scoutmasters. Topics include involving new Scout parents in boards of review, handling last-minute transportation cancellations at troop events, and understanding how chartered organizations own and oversee unit finances. Clarke also shares a brief update on Wade and Bucky's Appalachian Trail through-hike."
+description: "Clarke Green celebrates episode 350 by reading listener mail and answering questions from Scoutmasters. Topics include involving new Scout parents in boards of review, handling last-minute transportation cancellations at troop events, and understanding how chartered organizations own and oversee unit finances. Clarke also shares a brief update on Wade and Bucky's Appalachian Trail through-hike."
 ---
 
 {{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-350.mp3" >}}
 
-Who “owns” the pack, troop or crew?
-Scouting Charters are held by a chartering organization owns all of the assets of a Scout unit.
-As for whether or not they will dictate how the money is spent; the chartered organization is responsible to make sure finances are administered properly.
-In practice most chartered organizations do not get very involved in the management of the finances or the program, they entrust those decisions to the volunteers involved.
-Someone is registered as the chartered organization representative, they handle the relationship between the packs volunteers and the chartered organization.
-Most of the time the charter for a unit predates the present volunteers and many of the people at the chartering organization. Nobody may know how any of this is arranged because they weren't around when it was set up. See the Chartered Organization Representative Guidebook link in the podcast notes to learn more.
-In This Podcast
-[0:19]
-How do you make a mosquito repellant?
-[1:07]
-Mailbag, Intro
-[5:44]
-Andrea Kuperman's advice on working with Scout parents
-[7:20]
-Scott Williams asks about parents driving Scouts to activities.
-[10:45]
-Who “owns” the pack, troop or crew?
-This podcast is brought to you by
-Patrons
-&
-Backers
+<div class="smcg-acts">
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(0)" title="Jump to 0:00"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">INTRO</div><div class="smcg-act-note">Opening joke: Scouts ask about mosquito repellent — Clarke says mosquitoes do a pretty good job of repelling themselves.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(38)" title="Jump to 0:38"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">WELCOME</div><div class="smcg-act-note">Listener mail from Mike Bailey (committee chair, Troop 9626, Shoreview MN) on involving new parents as board of review observers; thanks from John Patrick Hickey; live chat announcements; backer thanks including Greg Nash; update on Wade and Bucky's Appalachian Trail hike.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(332)" title="Jump to 5:32"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">LISTENERS EMAIL</div><div class="smcg-act-note">Andrea Cooperman on compassionate listening with Scout parents; Scott Williams (Troop 534, Flowery Branch GA) on handling last-minute transportation cancellations; anonymous question on whether a chartered organization controls unit fundraising and bank accounts.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(868)" title="Jump to 14:28"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">OUTRO</div></div></div>
+</div>
+
+<p style="margin:0.75rem 0 0;"><a href="/podcasts/episode-350/transcript/" class="smcg-transcript-link">Transcript</a></p>

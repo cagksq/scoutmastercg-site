@@ -2,8 +2,8 @@
 title: "Grandma Gatewood’s Walk by Ben Montgomery"
 date: 2017-07-08
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20170708023501/http://scoutmastercg.com/grandma-gatewood/"
 ---
 

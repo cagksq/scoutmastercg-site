@@ -2,8 +2,9 @@
 title: "W. Ben Hunt - Whittlin' Jim"
 date: 2012-07-31
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Outdoor Skills & Gear"
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20170721165105/http://scoutmastercg.com/whittlin-jim/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Don't be a Burden"
 date: 2008-03-11
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Character Development"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20140824202608/http://scoutmastercg.com/dont-be-a-burde/"
 ---
 

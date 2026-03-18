@@ -2,7 +2,9 @@
 title: "Last Minute Eagles"
 date: 2011-10-20
 draft: false
-categories: ["advancement", "scoutmasters-life"]
+topics:
+  - "Youth Leadership Development"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20130131193907/http://www.scoutmastercg.com:80/last-minute-eagles/"
 ---
 

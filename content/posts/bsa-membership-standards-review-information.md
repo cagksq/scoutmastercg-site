@@ -2,7 +2,9 @@
 title: "BSA Membership Standards Review Information"
 date: 2013-06-14
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20170831154343/http://scoutmastercg.com/bsa-membership-standards-review-information/"
 ---
 

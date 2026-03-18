@@ -3,8 +3,9 @@ title: "B-P's Blog - International Scouting"
 date: 2016-08-23
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "International Scouting"
+  - "Baden-Powell Writings"
 wayback_url: "https://web.archive.org/web/20160823154016/http://scoutmastercg.com:80/b-ps-blog-international-scouting/"
 ---
 

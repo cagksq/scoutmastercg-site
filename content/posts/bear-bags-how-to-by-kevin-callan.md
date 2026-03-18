@@ -2,7 +2,9 @@
 title: "Bear Bags - How To by Kevin Callan"
 date: 2010-09-15
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Camping"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20150919194330/http://scoutmastercg.com/kevin-callan-on-bear-bags/"
 ---
 

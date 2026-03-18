@@ -2,7 +2,9 @@
 title: "John Thurman on Scouters"
 date: 2017-06-19
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Adult Leadership Roles"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20170619164804/http://scoutmastercg.com/john-thurman-on-scouters/"
 ---
 

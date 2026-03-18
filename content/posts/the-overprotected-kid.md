@@ -2,7 +2,9 @@
 title: "The Overprotected Kid"
 date: 2014-08-22
 draft: false
-categories: ["scouts"]
+topics:
+  - "Parent Relations"
+  - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20160924194812/http://scoutmastercg.com:80/overprotected-kid/"
 ---
 

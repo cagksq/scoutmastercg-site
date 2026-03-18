@@ -2,7 +2,9 @@
 title: "Escaping the Classroom"
 date: 2012-05-01
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Instructional Methods"
+  - "Baden-Powell Writings"
 wayback_url: "https://web.archive.org/web/20141010132201/http://scoutmastercg.com:80/escaping-the-classroom/"
 ---
 

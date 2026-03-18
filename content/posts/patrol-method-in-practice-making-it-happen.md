@@ -2,7 +2,9 @@
 title: "Patrol Method in Practice - Making It Happen"
 date: 2017-07-20
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Patrol Method"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20170720061533/http://scoutmastercg.com/the-patrol-method-in-practice-what-the-patrol-does/"
 ---
 

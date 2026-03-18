@@ -2,7 +2,9 @@
 title: "Oliver Wendell Holmes on Advice"
 date: 2017-08-31
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Quotes & Brief Reflections"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20170831073715/http://scoutmastercg.com/oliver-wendell-holmes-on-advice/"
 ---
 

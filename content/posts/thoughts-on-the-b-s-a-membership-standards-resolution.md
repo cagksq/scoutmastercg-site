@@ -2,7 +2,8 @@
 title: "Thoughts on the B.S.A. Membership Standards Resolution"
 date: 2013-10-12
 draft: false
-categories: ["scoutmasters-job", "scouting-history-ideas"]
+topics:
+  - "BSA Membership & Inclusion"
 wayback_url: "https://web.archive.org/web/20161013093611/http://scoutmastercg.com:80/membership-standards-resolution/"
 ---
 

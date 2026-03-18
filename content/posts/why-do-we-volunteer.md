@@ -2,7 +2,8 @@
 title: "Why Do We Volunteer?"
 date: 2012-11-20
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20121120035532/http://www.scoutmastercg.com:80/2012/11/why-do-we-volunteer/"
 ---
 

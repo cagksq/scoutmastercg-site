@@ -3,8 +3,9 @@ title: "B.P's Blog - A Picture of Bad Scouting"
 date: 2017-09-20
 draft: false
 image: "/images/bp5.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20170920102112/http://scoutmastercg.com/b-ps-blog-picture-bad-scouting/"
 ---
 

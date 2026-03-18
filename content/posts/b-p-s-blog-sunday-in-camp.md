@@ -3,8 +3,9 @@ title: "B-P's Blog - Sunday in Camp"
 date: 2015-10-17
 draft: false
 image: "/images/bp5.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Spirituality & Religion"
 wayback_url: "https://web.archive.org/web/20151017205348/http://scoutmastercg.com/b-ps-blog-sunday-in-camp/?replytocom=78953"
 ---
 

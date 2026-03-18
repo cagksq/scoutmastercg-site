@@ -2,7 +2,9 @@
 title: "Grey Areas"
 date: 2014-08-25
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Discipline & Behavior"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20140825000857/http://scoutmastercg.com/grey-area/"
 ---
 

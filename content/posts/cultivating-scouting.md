@@ -2,7 +2,9 @@
 title: "Cultivating Scouting"
 date: 2015-03-11
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Adult Leadership Roles"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20150311144257/http://scoutmastercg.com:80/cultivating-scouting/"
 ---
 

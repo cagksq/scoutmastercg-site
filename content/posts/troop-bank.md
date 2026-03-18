@@ -2,7 +2,9 @@
 title: "Troop Bank"
 date: 2013-10-12
 draft: false
-categories: ["scouts"]
+topics:
+  - "Troop Administration"
+  - "Summer Camp"
 wayback_url: "https://web.archive.org/web/20150327022108/http://scoutmastercg.com:80/troop-bank/"
 ---
 

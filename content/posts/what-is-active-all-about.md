@@ -2,7 +2,9 @@
 title: "What is ACTIVE all about"
 date: 2012-11-26
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20121126064936/http://www.scoutmastercg.com:80/2007/03/what_is_active_/"
 ---
 

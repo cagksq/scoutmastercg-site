@@ -2,7 +2,9 @@
 title: "Training or Experience?"
 date: 2014-10-13
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20141013154246/http://scoutmastercg.com:80/training-and-experience/"
 ---
 

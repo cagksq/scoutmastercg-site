@@ -2,7 +2,9 @@
 title: "The Most Important Vote in Scouting"
 date: 2015-09-20
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150920050312/http://scoutmastercg.com/the-most-important-vote-in-scouting/"
 ---
 

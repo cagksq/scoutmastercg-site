@@ -2,7 +2,9 @@
 title: "Scouting's Positive Rites of Passage"
 date: 2017-05-22
 draft: false
-categories: ["scoutmasters-life", "outdoors"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20170522104403/http://scoutmastercg.com:80/scoutings-positive-rites-passage/"
 ---
 

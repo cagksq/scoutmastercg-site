@@ -1,0 +1,968 @@
+1
+00:00:00,000 --> 00:00:06,160
+Hi, this is Shane Adams, Scoutmaster of Troop 99 in Yorba, Linda, California.
+
+2
+00:00:06,160 --> 00:00:10,280
+This edition of the Scoutmaster podcast is sponsored by backers like me.
+
+3
+00:00:10,280 --> 00:00:11,600
+Thanks, Clark, for all that you do.
+
+4
+00:00:11,600 --> 00:00:20,000
+And now for you, Scoutmaster,
+
+5
+00:00:20,000 --> 00:00:24,600
+I finally figured out how to deal with one of the bans of being in the outdoors and
+
+6
+00:00:24,600 --> 00:00:27,080
+camping, and that is biting insects.
+
+7
+00:00:27,080 --> 00:00:37,440
+So if you want to avoid injuries caused by biting insects, do not bite the insects.
+
+8
+00:00:37,440 --> 00:00:40,200
+See what I did there.
+
+9
+00:00:40,200 --> 00:00:42,120
+Oh my, oh my.
+
+10
+00:00:42,120 --> 00:01:12,080
+This is podcast number 331..
+
+11
+00:01:12,080 --> 00:01:14,200
+Welcome back to the Scoutmaster podcast.
+
+12
+00:01:14,200 --> 00:01:18,600
+This is Clark Green again, believe it or not,
+
+13
+00:01:18,600 --> 00:01:22,920
+So let's take a look in the mailbag.
+
+14
+00:01:22,920 --> 00:01:27,039
+Kathy Von Wagoner got in touch with us and I think this was probably a while back,
+
+15
+00:01:27,039 --> 00:01:31,160
+But said I'm thrilled to get an opportunity to send a message to thank you for your
+
+16
+00:01:31,160 --> 00:01:33,200
+write up on the new scout rank.
+
+17
+00:01:33,200 --> 00:01:34,560
+It's kind of frustrating.
+
+18
+00:01:34,560 --> 00:01:38,520
+I think part of the problem is the existing paradigm that scout rank should be something
+
+19
+00:01:38,520 --> 00:01:40,120
+that is achieved quickly,
+
+20
+00:01:40,120 --> 00:01:43,800
+But I firmly believe it has way too much book learning in it.
+
+21
+00:01:43,800 --> 00:01:47,720
+I think it should include things like a two mile hike and an hour service and real
+
+22
+00:01:47,720 --> 00:01:52,320
+scouting activities to give boys a feeling for being a scout.
+
+23
+00:01:52,320 --> 00:01:56,840
+Not to see if he knows Tedia's detail about how scouting is administered.
+
+24
+00:01:56,840 --> 00:02:00,480
+Okay, I know I'm just ranting, but thanks for the opportunity.
+
+25
+00:02:00,480 --> 00:02:02,560
+Well, Kathy, thank you for getting in touch.
+
+26
+00:02:02,560 --> 00:02:04,440
+I know it's a little frustrating, isn't it?
+
+27
+00:02:04,440 --> 00:02:07,560
+And the new rank requirements, which aren't really very new anymore.
+
+28
+00:02:07,560 --> 00:02:10,080
+I guess everybody's been dealing with them for a while.
+
+29
+00:02:10,080 --> 00:02:14,520
+Yeah, I had some comments about all of that way back when
+
+30
+00:02:14,520 --> 00:02:19,640
+And some of the things for scout. yeah, they're not such a bad idea, but
+
+31
+00:02:19,640 --> 00:02:23,760
+there is a lot of telling stuff rather than doing stuff.
+
+32
+00:02:23,760 --> 00:02:26,840
+So, yeah, I get it.
+
+33
+00:02:26,840 --> 00:02:32,320
+Hey, I want to take a moment before I go any further to thank Chris Jankowski,
+
+34
+00:02:32,320 --> 00:02:35,400
+who became a backer since last week's podcast,
+
+35
+00:02:35,400 --> 00:02:39,360
+And I want to thank all of you who've added your support to the many
+
+36
+00:02:39,360 --> 00:02:43,520
+folks who help us make the blog and podcast possible through Patreon.
+
+37
+00:02:43,520 --> 00:02:47,760
+If you'd like to become a backer or join our Patreon subscribers,
+
+38
+00:02:47,760 --> 00:02:51,840
+you can visit any page at scoutmastercgcom and you'll find links to follow
+
+39
+00:02:51,840 --> 00:02:54,440
+at the top right of any page,
+
+40
+00:02:54,440 --> 00:02:59,480
+And you'll also find links in this episode's podcast notes
+
+41
+00:02:59,480 --> 00:03:02,320
+And in the remainder of this episode of the podcast.
+
+42
+00:03:02,320 --> 00:03:08,320
+I've got something to talk about in Scout Master ship in seven minutes or less-
+
+43
+00:03:08,320 --> 00:03:11,239
+And it's always more than seven minutes, by the way,
+
+44
+00:03:11,239 --> 00:03:13,000
+I haven't managed to fix that yet.
+
+45
+00:03:13,000 --> 00:03:16,000
+Anyway, onward and upward. let's get started, shall we?
+
+46
+00:03:38,320 --> 00:04:06,160
+I'm going back to a comment that I got some time ago and I believe I may have even mentioned
+
+47
+00:04:06,160 --> 00:04:07,160
+on the podcast,
+
+48
+00:04:07,160 --> 00:04:10,320
+But anyways, someone got in touch with me to say this:
+
+49
+00:04:10,320 --> 00:04:15,480
+My ninth grade son is upset with the new Cyberchip requirement for Star Rank.
+
+50
+00:04:15,480 --> 00:04:23,640
+He said he has to watch, quote dumb videos, unquote and write an electronics contract.
+
+51
+00:04:23,640 --> 00:04:28,120
+He said this is not scouts, this is for school and parents to do.
+
+52
+00:04:28,120 --> 00:04:30,080
+I hate that they're putting this stuff in.
+
+53
+00:04:30,080 --> 00:04:31,960
+Do you have any thoughts about this?
+
+54
+00:04:31,960 --> 00:04:33,360
+Well, yeah, I do.
+
+55
+00:04:33,360 --> 00:04:34,360
+I do,
+
+56
+00:04:34,360 --> 00:04:39,880
+And I feel like I want to apologize before I make those comments because they sound negative.
+
+57
+00:04:39,880 --> 00:04:42,280
+The point is not to be negative.
+
+58
+00:04:42,280 --> 00:04:47,160
+There's a lot of positive in what I'm about to say, but it is a critique of the Cyberchip
+
+59
+00:04:47,160 --> 00:04:52,040
+and the little cards and contracts that have found their way into scouting and become
+
+60
+00:04:52,040 --> 00:04:56,720
+a substitute for what may be a better way of going about this, a little bit closer
+
+61
+00:04:56,720 --> 00:05:02,000
+to what you know we started with over a century ago.
+
+62
+00:05:02,120 --> 00:05:06,920
+And as far as the whole Cyberchip thing goes, I mean I couldn't agree with your son more
+
+63
+00:05:06,920 --> 00:05:15,720
+Clearly. the issues that are raised in this are important, but the Cyberchip requirements-
+
+64
+00:05:15,720 --> 00:05:24,200
+they're just more frustrating school type work that I don't understand how this fits into scouting.
+
+65
+00:05:24,200 --> 00:05:26,840
+Young people see this sort of thing coming a mile away.
+
+66
+00:05:26,840 --> 00:05:29,200
+I know I did. when I was that age.
+
+67
+00:05:29,200 --> 00:05:33,080
+I knew that somebody was coming at me with a spoonful of medicine.
+
+68
+00:05:33,080 --> 00:05:37,479
+They were going to try and put it in. you know they were going to try and sugar it up a little bit,
+
+69
+00:05:37,479 --> 00:05:41,280
+but they had a big message for me that they wanted me to get
+
+70
+00:05:41,280 --> 00:05:48,000
+And I was instantly going to resist getting that message, especially when they tried to be cool about it.
+
+71
+00:05:48,000 --> 00:05:52,599
+You know when they, when they tried to speak to me as a young person-
+
+72
+00:05:52,599 --> 00:05:57,480
+I mean young people- know when what they're being required to do in school
+
+73
+00:05:57,480 --> 00:06:03,920
+or in scouts is inherently kind of unfair or ridiculous and they're not quite sure why.
+
+74
+00:06:03,920 --> 00:06:10,160
+I think they feel as though they're being manipulated and will be grudgingly get it over with as soon as possible
+
+75
+00:06:10,160 --> 00:06:15,600
+And that's really not a very receptive attitude in a learning environment,
+
+76
+00:06:15,600 --> 00:06:17,880
+whether it is in school or in scouts.
+
+77
+00:06:17,880 --> 00:06:27,240
+The thing about scouts is that we are in the business of building character, not compliance,
+
+78
+00:06:27,240 --> 00:06:29,480
+And they're very different things.
+
+79
+00:06:29,480 --> 00:06:31,320
+Let me explain what I mean
+
+80
+00:06:31,320 --> 00:06:37,320
+Scouting's ideals are all in the scout oath and the scout law
+
+81
+00:06:37,320 --> 00:06:43,440
+And if you look at the cyber chip materials- and I did- I found only one reference to the scout law
+
+82
+00:06:43,440 --> 00:06:49,840
+And this was in an older document and there were no references to the scout oath.
+
+83
+00:06:49,840 --> 00:06:55,640
+The character development- if that's what we're about, it- requires active, ongoing relationships.
+
+84
+00:06:55,640 --> 00:07:01,120
+It can't be reduced to rules and contracts or in schoolwork or a list of requirements.
+
+85
+00:07:01,120 --> 00:07:10,479
+We build character actively by first trusting our scouts to be as committed to doing good and being good as we are,
+
+86
+00:07:10,479 --> 00:07:22,680
+And we build character through honest reflection and discussion aimed at internalizing the ideals that we have in the scout oath and law.
+
+87
+00:07:22,720 --> 00:07:27,480
+These essential things really are just woven into the fabric of scouting.
+
+88
+00:07:27,480 --> 00:07:33,680
+Scouting is not about compelling young people to comply with rules and contracts.
+
+89
+00:07:33,680 --> 00:07:37,520
+It's about providing opportunities for young people to grow.
+
+90
+00:07:37,520 --> 00:07:48,960
+Implicit in the idea of putting rules and contracts in front of people is the flip side of that is compelling them with a fear of punishment or shame.
+
+91
+00:07:48,960 --> 00:07:54,800
+Character development is the result of examining our internal understanding of our principles and ideas,
+
+92
+00:07:54,800 --> 00:07:59,680
+our interaction with friends and mentors and counselors and coaches,
+
+93
+00:07:59,680 --> 00:08:05,640
+and trying to approach it in another way is just kind of ham-handed.
+
+94
+00:08:05,640 --> 00:08:10,200
+I have no choice about the cyber chip requirement being fulfilled.
+
+95
+00:08:10,200 --> 00:08:13,600
+It's a rule. it's sitting there, it has to be done.
+
+96
+00:08:13,600 --> 00:08:18,040
+But I am not going to require scouts to carry the cyber chip card.
+
+97
+00:08:18,080 --> 00:08:24,120
+I don't use any cards. I don't use the Totenship card, don't use the Fireman chip thing,
+
+98
+00:08:24,120 --> 00:08:33,760
+because I think it's kind of demeaning to tell a scout our trust is conditioned by the terms of a contract or card they're carrying in their pocket.
+
+99
+00:08:33,760 --> 00:08:35,960
+I just have never been able to get on board with it.
+
+100
+00:08:35,960 --> 00:08:42,840
+The clear message that we send when we employ these methods is to say: you cannot be trusted.
+
+101
+00:08:42,840 --> 00:08:48,720
+Therefore, your obedience must be coerced or compelled in some way.
+
+102
+00:08:48,720 --> 00:08:55,720
+I mean, I would rather tell scouts that our set point, the place that we begin
+
+103
+00:08:55,720 --> 00:09:01,840
+and the thing that defines everything that we do, is to strive to live the scout oath and law,
+
+104
+00:09:01,840 --> 00:09:04,080
+And I trust them to do that
+
+105
+00:09:04,080 --> 00:09:09,920
+And it's something we'll be working on every time we're together with their fellow scouts.
+
+106
+00:09:09,920 --> 00:09:16,479
+I don't think that our work as scouters is controlling the conduct of young people.
+
+107
+00:09:16,479 --> 00:09:23,839
+I think we have a much greater challenge: to form their character as defined by the scout oath and law.
+
+108
+00:09:23,839 --> 00:09:29,040
+Now, are those things a code of conduct? I don't think so.
+
+109
+00:09:29,040 --> 00:09:37,120
+Is it an ideology? No, Is it a religious text of some kind? No, It's none of those things.
+
+110
+00:09:37,120 --> 00:09:48,400
+The scout oath and law are ideals that have really defined what you would think of as positive, contributing, individual character throughout human history.
+
+111
+00:09:48,400 --> 00:09:52,480
+I don't think that's overreaching. I think it's really true.
+
+112
+00:09:52,480 --> 00:10:01,200
+You know the 12 points of the scout law that we have in the BSA, and the other way is that the scout law is enumerated in other parts of the world.
+
+113
+00:10:01,280 --> 00:10:10,240
+If you look at them all the common ideals expressed would have been familiar to a human being anytime that we've been called a human being.
+
+114
+00:10:10,240 --> 00:10:17,760
+And it's just an ingenious, simple way to build character is to keep going back to the scout oath and law and say:
+
+115
+00:10:17,760 --> 00:10:29,680
+well, let's take a look at what this has to say about how we ought to order our lives, how we ought to be, how we ought to treat other people, how we ought to treat ourselves
+
+116
+00:10:29,680 --> 00:10:37,040
+All over the world. the wording of Baden Powell's original oath and law has been adapted
+
+117
+00:10:37,040 --> 00:10:41,840
+And we've expanded our understanding of exactly what those ideals mean,
+
+118
+00:10:41,840 --> 00:10:46,720
+But the ideals themselves, I think, have remained fairly constant.
+
+119
+00:10:46,720 --> 00:10:55,280
+How do we tap into the vast character building potential of that oath and law?
+
+120
+00:10:55,280 --> 00:11:06,160
+And I think we tap into it by understanding how rules differ from ideals and how conduct differs from character.
+
+121
+00:11:06,160 --> 00:11:14,000
+Rules are different than ideals and conduct is different from character.
+
+122
+00:11:14,000 --> 00:11:21,920
+Rules control conduct. Ideals shape character.
+
+123
+00:11:21,920 --> 00:11:26,719
+Character is expressed in the way that you act in your conduct,
+
+124
+00:11:26,719 --> 00:11:34,079
+But conduct does not necessarily define your character, especially when you're a young person.
+
+125
+00:11:34,079 --> 00:11:38,160
+When you're a young person, you try lots of different ideas.
+
+126
+00:11:38,160 --> 00:11:40,319
+You try lots of different things.
+
+127
+00:11:40,319 --> 00:11:47,280
+It doesn't mean that if you do a bad thing, that you are an inherently bad person.
+
+128
+00:11:47,280 --> 00:11:53,040
+it's not your conduct defining your character at all times, in all places, in every situation.
+
+129
+00:11:53,920 --> 00:12:01,920
+Because when you're young you do untoward, silly things because you're growing up
+
+130
+00:12:01,920 --> 00:12:03,680
+and you're learning about the world around you.
+
+131
+00:12:04,720 --> 00:12:11,120
+So if you have a set of ideals to return to and say, gee, was my conduct consistent with
+
+132
+00:12:11,120 --> 00:12:16,160
+what my character ought to be according to these ideals, then there's a conversation starting.
+
+133
+00:12:16,719 --> 00:12:21,520
+So the oath and law aren't rules that control conduct.
+
+134
+00:12:21,520 --> 00:12:26,160
+They're an expression of these lively ideals that shape character.
+
+135
+00:12:26,160 --> 00:12:30,160
+And then we see that played out in the conduct of our scouts.
+
+136
+00:12:30,160 --> 00:12:32,480
+Thinking about rules, we have to remember something:
+
+137
+00:12:32,480 --> 00:12:36,400
+Rules are imposed from the outside in.
+
+138
+00:12:36,400 --> 00:12:40,560
+The rules are something outside of you that somebody says: this is the rule
+
+139
+00:12:41,120 --> 00:12:46,720
+and you're supposed to take it and internalize it and remember it and obey it.
+
+140
+00:12:47,760 --> 00:12:53,120
+We react to a list of rules much differently than we do. an expression of ideals,
+
+141
+00:12:53,120 --> 00:12:58,720
+Rules and contracts and cards and cyber chips and totem chips and things like that.
+
+142
+00:12:58,720 --> 00:13:04,000
+they may be useful for defining generally acceptable behavior or routines,
+
+143
+00:13:04,000 --> 00:13:09,600
+but they are disappointingly power on this. when it comes to building character,
+
+144
+00:13:09,680 --> 00:13:10,560
+Rules are weak.
+
+145
+00:13:12,800 --> 00:13:20,160
+They can be dissected and argued with and you can create excuses and lawyer your way around rules.
+
+146
+00:13:20,160 --> 00:13:26,640
+You can obey the letter of the law and just not really get the spirit of the law.
+
+147
+00:13:26,640 --> 00:13:31,600
+Rules are very weak when it comes to achieving the aims that we have as scouts.
+
+148
+00:13:31,600 --> 00:13:33,360
+They're a very weak tool.
+
+149
+00:13:33,360 --> 00:13:35,600
+Now, should there be rules and policies and procedures?
+
+150
+00:13:35,680 --> 00:13:40,800
+Well, yes, but the fewest and the simplest- to maintain safety and propriety,
+
+151
+00:13:40,800 --> 00:13:45,920
+and we should always be able to draw a line directly back to the scout oath and law
+
+152
+00:13:46,640 --> 00:13:49,760
+as the inspiration for having created those rules.
+
+153
+00:13:50,320 --> 00:13:54,160
+We know that rules and ideals are different.
+
+154
+00:13:54,160 --> 00:13:57,120
+We know that conduct and character are different,
+
+155
+00:13:58,080 --> 00:14:01,840
+And we know that rules are imposed from the outside in
+
+156
+00:14:01,840 --> 00:14:06,560
+and character is expressed from the inside out.
+
+157
+00:14:06,560 --> 00:14:10,000
+Now you may be able to excuse your conduct.
+
+158
+00:14:10,000 --> 00:14:15,760
+I made a mistake or I wasn't thinking, or I had a lapse of character,
+
+159
+00:14:15,760 --> 00:14:18,480
+but you can't hide from who you are inside.
+
+160
+00:14:19,040 --> 00:14:22,400
+One of my- one of my pals, author, Kevin Callan,
+
+161
+00:14:23,120 --> 00:14:27,280
+said something in the way that going camping is very revealing of character,
+
+162
+00:14:27,280 --> 00:14:31,040
+because you really can't pretend to be somebody else in the wilderness.
+
+163
+00:14:31,040 --> 00:14:33,760
+You have to deal with the realities of life,
+
+164
+00:14:33,760 --> 00:14:38,079
+And I think that extends to being true to a lot of other situations too.
+
+165
+00:14:38,079 --> 00:14:40,160
+You can't hide who you are.
+
+166
+00:14:40,160 --> 00:14:43,760
+You have to look in the mirror and you have to deal with that person.
+
+167
+00:14:43,760 --> 00:14:47,360
+And that's an important thing to understand when we're dealing with young people.
+
+168
+00:14:48,160 --> 00:14:51,040
+A scout is to be trusted.
+
+169
+00:14:51,680 --> 00:14:54,880
+That's the original wording of the scout law
+
+170
+00:14:54,880 --> 00:14:59,040
+And it's an aspiration and a declaration at the same time.
+
+171
+00:14:59,040 --> 00:15:01,199
+A scout is to be trusted.
+
+172
+00:15:01,199 --> 00:15:03,920
+And don't think I'm saying that you just kind of walk away and you say,
+
+173
+00:15:03,920 --> 00:15:05,439
+well, a scout's to be trusted,
+
+174
+00:15:05,439 --> 00:15:07,760
+They'll do the right thing. and you walk away.
+
+175
+00:15:07,760 --> 00:15:10,079
+No, because you're smarter than that.
+
+176
+00:15:10,079 --> 00:15:11,520
+You were a young person. once
+
+177
+00:15:11,520 --> 00:15:12,640
+You know how to observe,
+
+178
+00:15:12,640 --> 00:15:15,599
+You know what to look for, because they're going to try things.
+
+179
+00:15:15,599 --> 00:15:19,520
+but it doesn't necessarily mean that they possess an inherently
+
+180
+00:15:19,520 --> 00:15:20,959
+untrustworthy nature.
+
+181
+00:15:20,959 --> 00:15:24,079
+Once they understand the benefits of being trustworthy,
+
+182
+00:15:24,720 --> 00:15:30,400
+they'll begin to adopt that aspect, that ideal, into their character.
+
+183
+00:15:30,400 --> 00:15:32,400
+It does actually work.
+
+184
+00:15:32,400 --> 00:15:34,160
+What I'm trying to say is this:
+
+185
+00:15:34,160 --> 00:15:39,680
+Scouting is intended to develop an internal standard that drives outward conduct.
+
+186
+00:15:39,680 --> 00:15:42,800
+We can't do that by just opposing rules from the outside.
+
+187
+00:15:42,800 --> 00:15:48,480
+We have to get on the inside and we have to have conversations and discussions.
+
+188
+00:15:49,040 --> 00:15:54,080
+We have to take actions that develop that internal standard.
+
+189
+00:15:54,080 --> 00:15:57,600
+At first this seems difficult to do.
+
+190
+00:15:58,400 --> 00:16:06,000
+It may seem a little frightening and uncertain, and rules and regulations
+
+191
+00:16:06,000 --> 00:16:12,480
+and cards and chips might just seem, hey, that's just a much better way to go about it.
+
+192
+00:16:13,040 --> 00:16:17,760
+Because now that the scout has heard all the rules and everything like that
+
+193
+00:16:17,760 --> 00:16:20,400
+and is carrying around a card with a signature on it that says,
+
+194
+00:16:20,400 --> 00:16:24,640
+yes, that's my out, because now I can just pull that out and I can say,
+
+195
+00:16:24,640 --> 00:16:29,200
+well, this is your fault, because obviously you understood these things at one time
+
+196
+00:16:29,200 --> 00:16:31,280
+and then you made a conscious decision not to do them.
+
+197
+00:16:32,480 --> 00:16:36,960
+Yeah, I understand that, but you know how weak that is in building character.
+
+198
+00:16:36,960 --> 00:16:42,480
+Now you set yourself up into a confrontation over rules and things like that.
+
+199
+00:16:42,480 --> 00:16:43,280
+Come on,
+
+200
+00:16:43,280 --> 00:16:45,280
+It's not going to work for you
+
+201
+00:16:45,360 --> 00:16:51,199
+Working the other way, where, when you encounter difficult conduct or bad behavior.
+
+202
+00:16:51,199 --> 00:16:54,160
+you sit down and you go through it and you talk about it and you say
+
+203
+00:16:54,160 --> 00:16:58,160
+what part of the scout oath and law bears on this situation.
+
+204
+00:16:58,160 --> 00:16:59,439
+What do you understand about it?
+
+205
+00:16:59,439 --> 00:17:03,680
+How would you change the way that you handled that in the light of what we've discussed?
+
+206
+00:17:03,680 --> 00:17:04,319
+Okay,
+
+207
+00:17:04,319 --> 00:17:12,639
+Those types of things. that approach is not certain, because life is full of pitfalls
+
+208
+00:17:12,640 --> 00:17:18,080
+and growing up is confounding and even a little frightening,
+
+209
+00:17:18,080 --> 00:17:26,000
+And failures are not unusual or unexpected, and we ought to welcome the opportunity
+
+210
+00:17:26,000 --> 00:17:35,360
+for a scout to fail or to fall short of their own highest and best, because we can then turn
+
+211
+00:17:35,360 --> 00:17:40,880
+that into something positive that helps them develop an internal standard
+
+212
+00:17:40,960 --> 00:17:42,640
+and helps them develop character.
+
+213
+00:17:43,200 --> 00:17:47,600
+If we work to develop character, we not only negate bad behavior,
+
+214
+00:17:47,600 --> 00:17:53,120
+but we help our scouts form attitudes and ideals that will serve them throughout their lives.
+
+215
+00:17:53,120 --> 00:18:14,880
+Well, thank you so much for listening to this 331st edition of the Scoutmaster podcast.
+
+216
+00:18:14,880 --> 00:18:16,400
+Here's how to keep in touch.
+
+217
+00:18:16,400 --> 00:18:21,440
+You'll find 1600 plus articles and all hundreds of editions of the Scoutmaster podcast
+
+218
+00:18:21,440 --> 00:18:24,400
+at scoutmastercgcom.
+
+219
+00:18:24,400 --> 00:18:29,760
+While you're there, you can subscribe to receive updates to the podcast and the blog by email.
+
+220
+00:18:29,760 --> 00:18:33,360
+You can join us in the vast panorama of social media outlets-
+
+221
+00:18:33,360 --> 00:18:40,240
+There are around 15,000, more than 15,000 now- folks who like Scottmaster blog on Facebook.
+
+222
+00:18:40,240 --> 00:18:43,680
+We have a chorus of tweeters on Twitter and we proffer
+
+223
+00:18:43,680 --> 00:18:49,200
+poultry to this pictures publicly by pinning them with a parcel of prolific pinners on Pinterest.
+
+224
+00:18:49,200 --> 00:18:54,720
+And you can watch us at scoutmastercg on YouTube. but if you cannot face Facebook,
+
+225
+00:18:54,720 --> 00:18:57,680
+if Twitter makes you better, if you have no interest in Pinterest,
+
+226
+00:18:57,680 --> 00:19:01,680
+if you don't put the? U in YouTube, don't worry about it. old codger,
+
+227
+00:19:01,680 --> 00:19:08,320
+You can just swing your way right up into the late 1990s and fire off a good old-fashioned email.
+
+228
+00:19:08,320 --> 00:19:10,400
+Ask any 12-year-old how to do it.
+
+229
+00:19:10,400 --> 00:19:12,320
+They'll get you set up right away.
+
+230
+00:19:12,320 --> 00:19:16,960
+You can get in touch with me at clark at scoutmastercgcom.
+
+231
+00:19:16,960 --> 00:19:25,280
+That's C-L-A-R-K-E at scoutmastercgcom.
+
+232
+00:19:25,280 --> 00:19:28,560
+Now, if all else fails, the next time you're together with your fellow scouters,
+
+233
+00:19:29,120 --> 00:19:34,640
+get around a magic mirror and repeat Scoutmaster CG three times in unison and I will appear to
+
+234
+00:19:34,640 --> 00:19:37,120
+solve all your problems and answer all your questions.
+
+235
+00:19:37,120 --> 00:19:42,000
+By now it should be absolutely clear that the Scoutmaster blog and the Scoutmaster podcast
+
+236
+00:19:42,000 --> 00:19:46,080
+are not official publications of anyone other than myself.
+
+237
+00:19:46,080 --> 00:19:51,199
+I am not endorsed or sponsored by any scouting organization, including the Boy Scouts of America.
+
+238
+00:19:51,840 --> 00:19:57,280
+It's just me talking into a microphone and trying to lend a hand to Scout leaders and
+
+239
+00:19:57,280 --> 00:20:02,800
+have a little bit of fun along the way. and speaking of fun, here he is our founder.
+
+240
+00:20:02,800 --> 00:20:06,800
+that's right, Sir Robert Baden-Powell. Sir Robert,
+
+241
+00:20:06,800 --> 00:20:09,520
+Good luck to you and good camping.
+
+242
+00:20:09,520 --> 00:20:15,919
+Why? thank you, sir, Until next time, everyone.
+

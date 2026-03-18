@@ -2,7 +2,9 @@
 title: "The \"Fire Snake"
 date: 2006-06-29
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scout Activities & Games"
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20140825060243/http://scoutmastercg.com/the_fire_snake/"
 ---
 

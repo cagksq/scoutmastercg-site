@@ -2,7 +2,9 @@
 title: "Scouter's Sunday Phone Call"
 date: 2017-04-23
 draft: false
-categories: ["outdoors", "advancement"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20170423013149/http://scoutmastercg.com:80/the-sunday-phone-calli/"
 ---
 

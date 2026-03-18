@@ -1,0 +1,2644 @@
+1
+00:00:00,000 --> 00:00:02,880
+I'm John Strohmeyer and I'm a Troop Order of the Arrow
+
+2
+00:00:02,880 --> 00:00:06,800
+Representative Advisor with Troop 55 in Houston, Texas.
+
+3
+00:00:06,800 --> 00:00:09,080
+This edition of the Scoutmaster podcast
+
+4
+00:00:09,080 --> 00:00:10,880
+is sponsored by backers like me,
+
+5
+00:00:10,880 --> 00:00:13,320
+And now it's the old Scoutmaster.
+
+6
+00:00:13,320 --> 00:00:19,360
+["Scoutmaster"]
+
+7
+00:00:19,360 --> 00:00:24,360
+One of my favorite authors is. this quote is attributed to him,
+
+8
+00:00:24,360 --> 00:00:26,480
+And I'm talking about Mark Twain.
+
+9
+00:00:26,480 --> 00:00:27,960
+He probably didn't actually say it.
+
+10
+00:00:27,960 --> 00:00:31,760
+If you're a Mark Twain fan, it really does sound like him.
+
+11
+00:00:31,760 --> 00:00:33,360
+But here is what he said,
+
+12
+00:00:33,360 --> 00:00:36,880
+And I think this is a great thing for fathers everywhere
+
+13
+00:00:36,880 --> 00:00:38,040
+to know.
+
+14
+00:00:38,040 --> 00:00:42,760
+He said: when I was a boy of 14, my father was so ignorant
+
+15
+00:00:42,760 --> 00:00:47,080
+I could hardly stand to have the old man around.
+
+16
+00:00:47,080 --> 00:00:50,480
+But when I got to be 21,, I was astonished
+
+17
+00:00:50,480 --> 00:00:54,360
+at how much the old man had learned in seven years.
+
+18
+00:00:54,360 --> 00:00:57,400
+["Scoutmaster"].
+
+19
+00:00:57,960 --> 00:01:00,480
+It's called the Twain effect.
+
+20
+00:01:00,480 --> 00:01:05,840
+So if you're the father, or the mother, indeed- of a 14-year-old-
+
+21
+00:01:05,840 --> 00:01:10,120
+and yeah, they don't
+
+22
+00:01:10,120 --> 00:01:10,920
+Just wait,
+
+23
+00:01:10,920 --> 00:01:11,480
+Just wait,
+
+24
+00:01:11,480 --> 00:01:12,080
+It'll happen-
+
+25
+00:01:12,080 --> 00:01:13,720
+The Twain effect works.
+
+26
+00:01:13,720 --> 00:01:17,080
+Hey, this is podcast number 316..
+
+27
+00:01:17,080 --> 00:01:17,580
+Hey,
+
+28
+00:01:17,580 --> 00:01:20,580
+["Scoutmaster"].
+
+29
+00:01:42,500 --> 00:01:44,580
+Welcome back to the Scoutmaster podcast.
+
+30
+00:01:44,580 --> 00:01:46,060
+This is Clark Green.
+
+31
+00:01:46,060 --> 00:01:47,660
+Let's see, looking in the mailbag.
+
+32
+00:01:47,660 --> 00:01:50,540
+Actually, this came from one of the chats that we have,
+
+33
+00:01:50,540 --> 00:01:54,740
+And every Tuesday and Wednesday morning,
+
+34
+00:01:54,740 --> 00:01:57,180
+just about every Tuesday and Wednesday morning,
+
+35
+00:01:57,180 --> 00:01:59,500
+I'll be at scoutmastercgcom
+
+36
+00:01:59,500 --> 00:02:01,180
+And we'll have a live chat
+
+37
+00:02:01,180 --> 00:02:02,620
+And a lot of people show up and we
+
+38
+00:02:02,620 --> 00:02:06,340
+discuss all kinds of things, sometimes really important things,
+
+39
+00:02:06,340 --> 00:02:08,220
+And sometimes we just talk about the weather,
+
+40
+00:02:08,220 --> 00:02:10,780
+where we went camping or something like that.
+
+41
+00:02:10,780 --> 00:02:14,340
+So look at the Facebook feed and the Twitter feed
+
+42
+00:02:14,380 --> 00:02:18,700
+And watch for an announcement that the live chat is happening
+
+43
+00:02:18,700 --> 00:02:20,260
+on Tuesday and Wednesday mornings.
+
+44
+00:02:20,260 --> 00:02:21,460
+Come along and join us.
+
+45
+00:02:21,460 --> 00:02:23,140
+But on the live chat this past week
+
+46
+00:02:23,140 --> 00:02:27,140
+I heard from a parent and a committee member and a mom.
+
+47
+00:02:27,140 --> 00:02:30,300
+She signed on and she said: our scoutmaster
+
+48
+00:02:30,300 --> 00:02:33,980
+has heard that he can hold up rank advancement at a Scoutmaster
+
+49
+00:02:33,980 --> 00:02:37,340
+conference for not showing scout spirit.
+
+50
+00:02:37,340 --> 00:02:39,060
+I understand the concept, I think,
+
+51
+00:02:39,060 --> 00:02:42,580
+but I wonder how this should be done and communicated
+
+52
+00:02:42,620 --> 00:02:45,620
+to a scout that's excited about moving up in rank
+
+53
+00:02:45,620 --> 00:02:48,540
+and who has met all the requirements.
+
+54
+00:02:48,540 --> 00:02:50,540
+And my reply was: you know,
+
+55
+00:02:50,540 --> 00:02:52,340
+that's really not quite how it works.
+
+56
+00:02:52,340 --> 00:02:55,620
+A scoutmaster conference is just that: a conference.
+
+57
+00:02:55,620 --> 00:02:58,980
+A scout does not pass or fail a conference.
+
+58
+00:02:58,980 --> 00:03:02,420
+They just sit down with the scoutmaster and they have a talk.
+
+59
+00:03:02,420 --> 00:03:06,580
+And as for the requirement to demonstrate scout spirit
+
+60
+00:03:06,580 --> 00:03:09,620
+by living the scout oath and law,
+
+61
+00:03:09,620 --> 00:03:12,180
+well, that's not really a pass or fail
+
+62
+00:03:12,180 --> 00:03:15,060
+kind of a requirement, is it?
+
+63
+00:03:15,060 --> 00:03:17,300
+I never considered it to be one,
+
+64
+00:03:17,300 --> 00:03:19,780
+And it's not something that a scoutmaster evaluates
+
+65
+00:03:19,780 --> 00:03:23,700
+using their own judgment. because what is the requirement?
+
+66
+00:03:23,700 --> 00:03:26,420
+Demonstrate scout spirit by living the scout oath
+
+67
+00:03:26,420 --> 00:03:29,340
+and law. and the scout in the earlier rank
+
+68
+00:03:29,340 --> 00:03:32,540
+shares four points of the scout law.
+
+69
+00:03:32,540 --> 00:03:37,540
+It gives examples how they have been living the ideals
+
+70
+00:03:37,540 --> 00:03:39,420
+in those four points. right,
+
+71
+00:03:39,420 --> 00:03:41,340
+I don't see that as being a pass fail thing.
+
+72
+00:03:41,460 --> 00:03:44,420
+I think it's a wonderful conversation to have with a scout
+
+73
+00:03:44,420 --> 00:03:47,420
+and maybe- yeah, maybe- you encourage them to do more
+
+74
+00:03:47,420 --> 00:03:51,500
+or you congratulate them on doing just a marvelous job with it,
+
+75
+00:03:51,500 --> 00:03:56,500
+But I can't see failing that requirement.
+
+76
+00:03:56,660 --> 00:03:58,500
+I don't know how you would do that.
+
+77
+00:03:58,500 --> 00:04:03,060
+Then they replied: well, if a scoutmaster has a scout
+
+78
+00:04:03,060 --> 00:04:06,300
+he thinks is moving too fast through the ranks
+
+79
+00:04:06,300 --> 00:04:08,740
+or is having behavior issues
+
+80
+00:04:08,780 --> 00:04:13,780
+or whom the scoutmaster considers to be immature,
+
+81
+00:04:14,420 --> 00:04:17,100
+he should not be using the scout spirit excuse
+
+82
+00:04:17,100 --> 00:04:18,540
+to slow them down. then-
+
+83
+00:04:18,540 --> 00:04:21,780
+And my reply was yes, that's absolutely the point.
+
+84
+00:04:21,780 --> 00:04:25,500
+So the resource that you wanna look at to explain this
+
+85
+00:04:25,500 --> 00:04:28,020
+is the Guide to Advancement,
+
+86
+00:04:28,020 --> 00:04:30,140
+where it talks about scoutmaster conferences,
+
+87
+00:04:30,140 --> 00:04:34,500
+and I will have a link to that resource
+
+88
+00:04:34,500 --> 00:04:36,460
+in the podcast notes for you.
+
+89
+00:04:36,460 --> 00:04:38,380
+And I wanna challenge a couple of other things
+
+90
+00:04:38,380 --> 00:04:39,740
+that you said here.
+
+91
+00:04:39,740 --> 00:04:42,420
+It's impossible for a scout to move too fast
+
+92
+00:04:42,420 --> 00:04:43,700
+through the requirements.
+
+93
+00:04:43,700 --> 00:04:47,340
+There's no reference to age or maturity
+
+94
+00:04:47,340 --> 00:04:49,380
+in any of the rank requirements.
+
+95
+00:04:49,380 --> 00:04:51,300
+The only time we see age mentioned
+
+96
+00:04:51,300 --> 00:04:54,060
+is when a boy joins a scout troop.
+
+97
+00:04:54,060 --> 00:04:56,540
+So that's already all been taken care of
+
+98
+00:04:56,540 --> 00:05:01,219
+And I would probably suggest that you don't try
+
+99
+00:05:01,219 --> 00:05:03,219
+to argue with the scoutmaster
+
+100
+00:05:03,219 --> 00:05:05,800
+because they don't understand what they're doing.
+
+101
+00:05:05,800 --> 00:05:07,920
+I would think about very seriously
+
+102
+00:05:07,920 --> 00:05:09,480
+just finding another troop
+
+103
+00:05:09,480 --> 00:05:11,400
+where the scoutmaster understands scouting,
+
+104
+00:05:11,400 --> 00:05:13,880
+because the one that you're working with doesn't.
+
+105
+00:05:13,880 --> 00:05:15,680
+Now the conversation went on from there
+
+106
+00:05:15,680 --> 00:05:18,720
+and there were other things that kind of pointed out
+
+107
+00:05:18,720 --> 00:05:21,080
+that this particular scoutmaster
+
+108
+00:05:21,080 --> 00:05:24,000
+really had very little idea of what their job was.
+
+109
+00:05:24,000 --> 00:05:28,760
+The people in the position to make any kind of change
+
+110
+00:05:28,760 --> 00:05:29,640
+within a scout troop,
+
+111
+00:05:29,640 --> 00:05:30,600
+that's the committee chair
+
+112
+00:05:30,600 --> 00:05:32,960
+and the charter organization representative.
+
+113
+00:05:32,960 --> 00:05:35,000
+If they're not going to tell the scoutmaster,
+
+114
+00:05:35,040 --> 00:05:36,800
+who does not understand their work,
+
+115
+00:05:36,800 --> 00:05:39,080
+what changes they need to make,
+
+116
+00:05:39,080 --> 00:05:41,360
+then I think it's just time to find a new troop.
+
+117
+00:05:41,360 --> 00:05:43,180
+It's not that big a deal.
+
+118
+00:05:43,180 --> 00:05:45,880
+It seems like a very big deal until you're done
+
+119
+00:05:45,880 --> 00:05:47,440
+and you found a new troop,
+
+120
+00:05:47,440 --> 00:05:49,520
+because I hear from people who've done that
+
+121
+00:05:49,520 --> 00:05:50,800
+and it works out.
+
+122
+00:05:50,800 --> 00:05:54,280
+There's no reason to subject your children.
+
+123
+00:05:54,280 --> 00:05:55,960
+I understand that something like that's gonna be
+
+124
+00:05:55,960 --> 00:05:56,800
+a little upsetting.
+
+125
+00:05:56,800 --> 00:05:57,960
+it's gonna be a bit of a challenge,
+
+126
+00:05:57,960 --> 00:06:02,120
+but I hear from people who go ahead and change troops
+
+127
+00:06:02,120 --> 00:06:05,000
+and then they find out that that was a very good idea.
+
+128
+00:06:05,000 --> 00:06:07,640
+I've had lots of scouts over the years
+
+129
+00:06:07,640 --> 00:06:10,680
+who have come to our troop from a different troop
+
+130
+00:06:10,680 --> 00:06:13,120
+because it just wasn't working for them,
+
+131
+00:06:13,120 --> 00:06:14,960
+and I've had some of my scouts
+
+132
+00:06:14,960 --> 00:06:16,740
+our troop doesn't quite work for them
+
+133
+00:06:16,740 --> 00:06:18,160
+and they go to another troop.
+
+134
+00:06:18,160 --> 00:06:19,400
+That's fine,
+
+135
+00:06:19,400 --> 00:06:21,160
+I have no problem with that.
+
+136
+00:06:21,160 --> 00:06:23,280
+That's just kind of an encapsulated version
+
+137
+00:06:23,280 --> 00:06:25,760
+of a discussion that we had on the chat this past week.
+
+138
+00:06:25,760 --> 00:06:28,680
+Come and join us on Tuesday and Wednesday mornings.
+
+139
+00:06:28,680 --> 00:06:29,520
+We have a great time.
+
+140
+00:06:29,520 --> 00:06:31,720
+Lots of frequent flyers check in.
+
+141
+00:06:31,720 --> 00:06:34,480
+The only person that was new who checked in this week
+
+142
+00:06:34,480 --> 00:06:36,040
+was the person who asked me the question
+
+143
+00:06:36,040 --> 00:06:36,960
+I've been talking about,
+
+144
+00:06:36,960 --> 00:06:39,600
+and they didn't really share where they were from
+
+145
+00:06:39,600 --> 00:06:41,440
+or anything like that.
+
+146
+00:06:41,440 --> 00:06:43,600
+But come and check us out on the chat.
+
+147
+00:06:43,600 --> 00:06:45,560
+Now, before I move on to bigger and better things,
+
+148
+00:06:45,560 --> 00:06:47,600
+I need to ask you a favor.
+
+149
+00:06:47,600 --> 00:06:49,960
+If you're a regular reader and listener
+
+150
+00:06:49,960 --> 00:06:53,160
+and the resources that I've created help you,
+
+151
+00:06:53,160 --> 00:06:54,520
+you can return the favor.
+
+152
+00:06:54,520 --> 00:06:56,700
+You can support scoutmastercgcom
+
+153
+00:06:56,700 --> 00:06:58,440
+by making a one-time payment
+
+154
+00:06:58,440 --> 00:07:01,240
+and become a scoutmastercgcom backer,
+
+155
+00:07:01,240 --> 00:07:03,240
+And that's a very simple thing to do,
+
+156
+00:07:03,240 --> 00:07:07,120
+or you can make a ongoing subscription payment
+
+157
+00:07:07,120 --> 00:07:08,600
+of $5 or more a month
+
+158
+00:07:08,600 --> 00:07:13,160
+through something called Patreon, P-A-T-R-E-O-N,
+
+159
+00:07:13,160 --> 00:07:15,120
+And there are special premiums
+
+160
+00:07:15,120 --> 00:07:17,880
+for people who become patrons and backers.
+
+161
+00:07:17,880 --> 00:07:19,220
+You can learn more about those
+
+162
+00:07:19,220 --> 00:07:22,160
+by going to scoutmastercgcom. right there
+
+163
+00:07:22,160 --> 00:07:24,640
+at the top of the page over on the right,
+
+164
+00:07:24,640 --> 00:07:27,440
+There's a link that says support
+
+165
+00:07:27,440 --> 00:07:29,760
+and that'll tell you about being a backer.
+
+166
+00:07:29,760 --> 00:07:31,440
+There's a link that says Patreon
+
+167
+00:07:31,440 --> 00:07:33,120
+That'll take you to my Patreon page
+
+168
+00:07:33,120 --> 00:07:34,539
+and explain all of that.
+
+169
+00:07:34,539 --> 00:07:36,320
+That's what I need you to do for me this week.
+
+170
+00:07:36,320 --> 00:07:37,599
+Just check the two of those out,
+
+171
+00:07:37,599 --> 00:07:39,159
+see which one works for you.
+
+172
+00:07:39,159 --> 00:07:41,680
+And I want to take a moment to personally thank
+
+173
+00:07:41,680 --> 00:07:44,120
+Dan and Rose Gardner-Bowler-
+
+174
+00:07:44,120 --> 00:07:47,840
+And Dan and Rose, I had your first names last week,
+
+175
+00:07:47,840 --> 00:07:50,200
+but I found your last names this week-
+
+176
+00:07:50,200 --> 00:07:52,520
+And also Dan Stroh,
+
+177
+00:07:52,520 --> 00:07:55,360
+who became backers since last week's podcast.
+
+178
+00:07:55,360 --> 00:07:56,560
+Thanks very much, folks.
+
+179
+00:07:56,560 --> 00:07:58,599
+Become a patron or a backer this week.
+
+180
+00:07:58,600 --> 00:08:00,000
+I'll make sure to thank you personally
+
+181
+00:08:00,000 --> 00:08:01,400
+in next week's podcast.
+
+182
+00:08:01,400 --> 00:08:02,880
+And one other thing I wanted to tell you:
+
+183
+00:08:02,880 --> 00:08:04,000
+later on this week
+
+184
+00:08:04,000 --> 00:08:06,820
+I'll be recording an interview with the author
+
+185
+00:08:06,820 --> 00:08:09,720
+of the new troop leader guide,
+
+186
+00:08:09,720 --> 00:08:12,080
+both volume one and volume two.
+
+187
+00:08:12,080 --> 00:08:15,200
+Volume two is due to be out this coming month
+
+188
+00:08:15,200 --> 00:08:17,000
+And I'm gonna be recording an interview
+
+189
+00:08:17,000 --> 00:08:18,800
+with the author, Mark Ray.
+
+190
+00:08:18,800 --> 00:08:20,080
+Later on this week
+
+191
+00:08:20,080 --> 00:08:22,400
+my pal Walter Underwood's gonna join me.
+
+192
+00:08:22,400 --> 00:08:24,920
+I have an advanced copy of volume two
+
+193
+00:08:24,920 --> 00:08:26,800
+and I've looked at it and you're gonna like it.
+
+194
+00:08:26,840 --> 00:08:30,040
+It's gonna be a key resource for scouts.
+
+195
+00:08:30,040 --> 00:08:32,240
+I'm looking forward to sharing that interview with you.
+
+196
+00:08:32,240 --> 00:08:34,159
+Hopefully it'll be out next week's podcast,
+
+197
+00:08:34,159 --> 00:08:35,919
+But on this week's podcast
+
+198
+00:08:35,919 --> 00:08:38,960
+we're gonna dust off a recurring feature
+
+199
+00:08:38,960 --> 00:08:41,840
+called Scout Mastership in Seven Minutes or Less
+
+200
+00:08:41,840 --> 00:08:43,360
+And, as is usual,
+
+201
+00:08:43,360 --> 00:08:46,040
+we're probably gonna go a little more than seven minutes.
+
+202
+00:08:46,040 --> 00:08:47,200
+And my theme
+
+203
+00:08:47,200 --> 00:08:51,840
+for this installment of Scout Mastership
+
+204
+00:08:51,840 --> 00:08:53,000
+in Seven Minutes or Less-
+
+205
+00:08:53,120 --> 00:08:57,120
+scouting is something for scouts to discover.
+
+206
+00:08:57,120 --> 00:08:59,680
+So that's gonna take up the remainder of the podcast.
+
+207
+00:08:59,680 --> 00:09:01,200
+So let's get started, shall we?
+
+208
+00:09:01,200 --> 00:09:06,200
+Scouts Mastership in Seven Minutes or Less.
+
+209
+00:09:31,560 --> 00:09:36,560
+So the big idea here is that scouting
+
+210
+00:09:38,480 --> 00:09:41,360
+is something for scouts to discover.
+
+211
+00:09:41,360 --> 00:09:46,480
+One of the perennial things that we discuss is leadership.
+
+212
+00:09:46,480 --> 00:09:48,680
+Leadership is one of those magic scouting words
+
+213
+00:09:48,680 --> 00:09:49,720
+we think we understand,
+
+214
+00:09:49,720 --> 00:09:53,200
+but few of us really appreciate the length and breadth
+
+215
+00:09:53,200 --> 00:09:55,600
+of just what that magic word implies
+
+216
+00:09:55,600 --> 00:09:57,560
+when we start applying it to scouting.
+
+217
+00:09:57,560 --> 00:10:00,720
+So today I wanna talk about leadership
+
+218
+00:10:00,720 --> 00:10:04,640
+as something that scouts get to discover for themselves.
+
+219
+00:10:04,640 --> 00:10:06,280
+I wanna see if I can get you to come along
+
+220
+00:10:06,280 --> 00:10:09,480
+and really think about this, really examine this idea.
+
+221
+00:10:09,480 --> 00:10:12,040
+Now, one of the things I frequently hear from scouters
+
+222
+00:10:12,040 --> 00:10:13,920
+is that our youth leaders just don't do
+
+223
+00:10:13,920 --> 00:10:15,000
+what they're supposed to do.
+
+224
+00:10:15,000 --> 00:10:16,960
+They don't seem to have any initiative,
+
+225
+00:10:16,960 --> 00:10:20,040
+And what I hear when somebody says that,
+
+226
+00:10:20,960 --> 00:10:23,080
+what they're telling me is that their scouts
+
+227
+00:10:23,080 --> 00:10:27,640
+don't seem to care about the expectations
+
+228
+00:10:27,640 --> 00:10:29,360
+that adults have set for them.
+
+229
+00:10:29,360 --> 00:10:31,800
+So what these scouters have usually done
+
+230
+00:10:31,800 --> 00:10:34,840
+is they have set themselves up as the leader,
+
+231
+00:10:34,840 --> 00:10:38,800
+as the ones who approve or disapprove of what scouts do.
+
+232
+00:10:38,800 --> 00:10:41,040
+In other words, they have reserved
+
+233
+00:10:41,040 --> 00:10:44,200
+all of the actual authority and power to themselves.
+
+234
+00:10:44,200 --> 00:10:45,640
+They're waiting for the scouts
+
+235
+00:10:45,640 --> 00:10:47,760
+in some way to prove themselves
+
+236
+00:10:47,760 --> 00:10:49,480
+And after one or two tries
+
+237
+00:10:49,480 --> 00:10:54,440
+and the scouts don't respond as the adults want them to,
+
+238
+00:10:54,440 --> 00:10:56,280
+they usually don't try it again.
+
+239
+00:10:56,280 --> 00:10:59,080
+They oh no, we tried that a couple of times
+
+240
+00:10:59,080 --> 00:11:00,560
+and it really didn't work.
+
+241
+00:11:00,560 --> 00:11:02,680
+They don't like the way the scouts responded,
+
+242
+00:11:02,680 --> 00:11:04,760
+So they stop trying that
+
+243
+00:11:04,760 --> 00:11:06,840
+and they end up just taking over
+
+244
+00:11:06,840 --> 00:11:08,520
+and doing everything for the scouts.
+
+245
+00:11:08,520 --> 00:11:09,960
+I mean, a lot of us have the idea
+
+246
+00:11:09,960 --> 00:11:12,360
+that adults in scouting hold all the cards
+
+247
+00:11:12,360 --> 00:11:15,000
+and deal them out to the scouts as they see fit.
+
+248
+00:11:15,000 --> 00:11:17,120
+but that's really not scouting at all
+
+249
+00:11:17,120 --> 00:11:19,560
+And you aren't getting the whole idea of leadership
+
+250
+00:11:19,560 --> 00:11:21,280
+if you see yourself that way,
+
+251
+00:11:21,280 --> 00:11:23,400
+And where this gets complicated is: yes,
+
+252
+00:11:23,400 --> 00:11:25,600
+you are the adult in the equation
+
+253
+00:11:25,600 --> 00:11:28,000
+and you do have all the authority,
+
+254
+00:11:28,000 --> 00:11:29,520
+because you're there to referee
+
+255
+00:11:29,520 --> 00:11:31,800
+and make sure the things don't go wrong,
+
+256
+00:11:31,800 --> 00:11:33,720
+And naturally, we wouldn't just sit back
+
+257
+00:11:33,720 --> 00:11:36,840
+and watch young people do untoward or dangerous things-
+
+258
+00:11:36,840 --> 00:11:39,800
+They are, after all, in our care-
+
+259
+00:11:39,800 --> 00:11:42,960
+But, in another sense, you are not the authority.
+
+260
+00:11:42,960 --> 00:11:45,400
+You are not the person who must be placated
+
+261
+00:11:45,400 --> 00:11:49,480
+or pleased or served by what your scouts do.
+
+262
+00:11:49,480 --> 00:11:53,080
+That's not the kind of leadership your scouts want or need.
+
+263
+00:11:53,080 --> 00:11:55,560
+You aren't the personification of excellence
+
+264
+00:11:55,560 --> 00:11:57,040
+and the keeper of standards.
+
+265
+00:11:57,040 --> 00:11:59,160
+All of that work has already been done for you.
+
+266
+00:11:59,160 --> 00:12:02,480
+It was all established, written down and described
+
+267
+00:12:02,480 --> 00:12:05,280
+for many years, before you even showed up.
+
+268
+00:12:05,280 --> 00:12:08,640
+What I need you to do, as the adult in the equation,
+
+269
+00:12:08,640 --> 00:12:12,719
+is to consider yourself serving the things that were here
+
+270
+00:12:12,719 --> 00:12:15,400
+before you got on the scene.
+
+271
+00:12:15,400 --> 00:12:17,640
+You don't personify those things.
+
+272
+00:12:17,640 --> 00:12:19,240
+You're serving those things.
+
+273
+00:12:19,240 --> 00:12:21,240
+You're serving the program.
+
+274
+00:12:21,240 --> 00:12:23,079
+So what is this other entity?
+
+275
+00:12:23,079 --> 00:12:25,400
+What is this program?
+
+276
+00:12:25,400 --> 00:12:26,920
+Well, it's scouting itself,
+
+277
+00:12:26,920 --> 00:12:29,800
+A process, a field of play.
+
+278
+00:12:29,800 --> 00:12:31,000
+You didn't invent it,
+
+279
+00:12:31,000 --> 00:12:32,199
+You didn't create it.
+
+280
+00:12:32,199 --> 00:12:34,079
+Hopefully, though, what you're doing
+
+281
+00:12:34,079 --> 00:12:36,280
+is striving to understand it.
+
+282
+00:12:36,280 --> 00:12:39,199
+So I'm going to offer this analogy
+
+283
+00:12:39,199 --> 00:12:42,240
+And before we go down the analogy trail,
+
+284
+00:12:42,240 --> 00:12:43,599
+which is an analogy itself,
+
+285
+00:12:43,599 --> 00:12:46,040
+I need to point out three things. okay,
+
+286
+00:12:46,040 --> 00:12:48,319
+This is a really complicated analogy.
+
+287
+00:12:48,319 --> 00:12:49,719
+That's the first thing,
+
+288
+00:12:49,719 --> 00:12:51,680
+And you may have to go back and listen again.
+
+289
+00:12:51,680 --> 00:12:54,480
+Hopefully I'll get it in one try for you, okay.
+
+290
+00:12:54,480 --> 00:12:56,680
+The second thing I need to tell you
+
+291
+00:12:56,680 --> 00:13:00,440
+is you will discover in listening to this,
+
+292
+00:13:00,440 --> 00:13:02,880
+that I am actually doing the antithesis
+
+293
+00:13:02,880 --> 00:13:04,320
+of the point of the analogy
+
+294
+00:13:04,320 --> 00:13:06,080
+and explaining it the way that I am.
+
+295
+00:13:06,080 --> 00:13:09,120
+And third, and probably most importantly,
+
+296
+00:13:09,120 --> 00:13:10,720
+this is an analogy
+
+297
+00:13:13,200 --> 00:13:15,200
+which is hopefully a useful tool
+
+298
+00:13:15,200 --> 00:13:19,240
+to simplify the explanation of complex concepts.
+
+299
+00:13:19,240 --> 00:13:22,880
+And because it is an analogy,
+
+300
+00:13:22,880 --> 00:13:26,120
+it, like all analogies, breaks down at some point.
+
+301
+00:13:26,120 --> 00:13:29,120
+So don't go crazy with it, okay,
+
+302
+00:13:29,120 --> 00:13:31,280
+Don't try and read more into it.
+
+303
+00:13:31,280 --> 00:13:32,360
+It's just an analogy,
+
+304
+00:13:32,360 --> 00:13:36,280
+It's just an idea to help explain a complex concept,
+
+305
+00:13:36,280 --> 00:13:38,120
+All right. so here it is, right
+
+306
+00:13:38,120 --> 00:13:40,240
+Now. imagine you go off on a hike
+
+307
+00:13:40,240 --> 00:13:43,120
+and you discover an ancient pre-Columbian
+
+308
+00:13:43,120 --> 00:13:47,120
+Mesoamerican steppe pyramid in the forest.
+
+309
+00:13:47,120 --> 00:13:49,040
+Everybody's probably seen a picture
+
+310
+00:13:49,040 --> 00:13:51,080
+of exactly what I'm talking about,
+
+311
+00:13:51,080 --> 00:13:53,840
+And down in Central and South America
+
+312
+00:13:53,840 --> 00:13:57,720
+there are these incredible Mesoamerican steppe pyramids,
+
+313
+00:13:57,720 --> 00:13:59,960
+And so picture that in your mind.
+
+314
+00:13:59,960 --> 00:14:03,040
+You just break into a clearing and there it is.
+
+315
+00:14:03,040 --> 00:14:04,480
+Wouldn't that be something?
+
+316
+00:14:04,480 --> 00:14:06,000
+You're out hiking and you stumble
+
+317
+00:14:06,000 --> 00:14:09,400
+on this terrific structure that nobody knows about,
+
+318
+00:14:09,400 --> 00:14:10,640
+And as you approach it,
+
+319
+00:14:10,640 --> 00:14:12,240
+you see all kinds of symbols
+
+320
+00:14:12,240 --> 00:14:14,120
+have been carved into the stones.
+
+321
+00:14:14,120 --> 00:14:15,720
+So you do what anybody would do, right?
+
+322
+00:14:15,720 --> 00:14:17,200
+You climb all over the pyramid.
+
+323
+00:14:17,200 --> 00:14:18,560
+you look at the symbols,
+
+324
+00:14:18,560 --> 00:14:19,440
+you get to the top-
+
+325
+00:14:19,440 --> 00:14:21,360
+Wow, you can see a long way from the top.
+
+326
+00:14:21,360 --> 00:14:25,120
+And then you devote yourself to studying this discovery
+
+327
+00:14:25,120 --> 00:14:28,000
+and learn to understand the symbols.
+
+328
+00:14:28,000 --> 00:14:30,080
+And there's a great message in those symbols
+
+329
+00:14:30,080 --> 00:14:32,840
+that just changes your entire life.
+
+330
+00:14:32,840 --> 00:14:34,240
+That's exciting, isn't it?
+
+331
+00:14:34,240 --> 00:14:36,640
+Wow? but for the sake of this analogy,
+
+332
+00:14:36,640 --> 00:14:38,200
+that's what's happened to you.
+
+333
+00:14:38,200 --> 00:14:40,120
+You've stumbled on this great discovery.
+
+334
+00:14:40,120 --> 00:14:42,440
+Now you definitely want to share this with other people.
+
+335
+00:14:42,440 --> 00:14:43,920
+So at some point
+
+336
+00:14:43,920 --> 00:14:45,560
+you get a bunch of young people together
+
+337
+00:14:45,560 --> 00:14:47,080
+and you take them down the trail,
+
+338
+00:14:47,080 --> 00:14:49,480
+and when they first see the pyramid,
+
+339
+00:14:49,480 --> 00:14:50,480
+they're just stunned
+
+340
+00:14:50,480 --> 00:14:53,760
+And they immediately do what any young person would do:
+
+341
+00:14:53,760 --> 00:14:55,560
+They run towards it.
+
+342
+00:14:55,560 --> 00:14:57,480
+What fun, they're gonna climb it.
+
+343
+00:14:57,480 --> 00:14:58,600
+They want to play on it.
+
+344
+00:14:58,600 --> 00:15:01,880
+It's just something they've never seen before in their lives.
+
+345
+00:15:01,880 --> 00:15:04,800
+But you say: stop, stop, wait.
+
+346
+00:15:04,800 --> 00:15:07,080
+I want to explain what this whole thing means.
+
+347
+00:15:07,080 --> 00:15:08,960
+I want to explain all the symbols.
+
+348
+00:15:08,960 --> 00:15:10,640
+So over the next few hours.
+
+349
+00:15:10,640 --> 00:15:13,360
+you walk them around your discovery
+
+350
+00:15:13,360 --> 00:15:14,840
+and explain the symbols to them.
+
+351
+00:15:14,840 --> 00:15:17,560
+Now, at first they listen,
+
+352
+00:15:17,560 --> 00:15:19,480
+But, you know, within a few minutes
+
+353
+00:15:19,480 --> 00:15:21,640
+the youngest one raises their hand at one point
+
+354
+00:15:21,640 --> 00:15:23,880
+and asks how long this is gonna take.
+
+355
+00:15:23,880 --> 00:15:26,040
+And even the most interested young people
+
+356
+00:15:26,040 --> 00:15:28,080
+are starting to get a little antsy.
+
+357
+00:15:28,080 --> 00:15:30,400
+Now you've been in a situation like that, right,
+
+358
+00:15:30,400 --> 00:15:31,480
+And how do you react?
+
+359
+00:15:31,480 --> 00:15:33,200
+Well, I don't know about you,
+
+360
+00:15:33,200 --> 00:15:35,000
+but it would make me a little upset,
+
+361
+00:15:35,000 --> 00:15:36,960
+Don't they understand how important it is
+
+362
+00:15:36,960 --> 00:15:39,040
+to know what the symbols mean?
+
+363
+00:15:39,040 --> 00:15:42,200
+I mean, after all, it changed my life
+
+364
+00:15:42,200 --> 00:15:44,240
+And I'm. you know
+
+365
+00:15:44,240 --> 00:15:47,120
+you guys just need to stand here and listen
+
+366
+00:15:47,160 --> 00:15:49,560
+Because I'm telling you really important stuff.
+
+367
+00:15:49,560 --> 00:15:51,920
+So you have a little edge of resentment, right,
+
+368
+00:15:51,920 --> 00:15:53,640
+And after a while
+
+369
+00:15:53,640 --> 00:15:57,320
+you're spending as much time keeping everyone in order
+
+370
+00:15:57,320 --> 00:15:59,000
+as you are explaining,
+
+371
+00:15:59,000 --> 00:16:01,640
+And you may even have to raise your voice a couple of times.
+
+372
+00:16:01,640 --> 00:16:02,720
+Once you've done that-
+
+373
+00:16:02,720 --> 00:16:04,680
+because the young people that you're with
+
+374
+00:16:04,680 --> 00:16:07,720
+have been trained to listen to adults-
+
+375
+00:16:07,720 --> 00:16:09,280
+they finally just say, okay,
+
+376
+00:16:09,280 --> 00:16:11,020
+well, this isn't gonna be any fun,
+
+377
+00:16:11,020 --> 00:16:12,640
+but I'll give it and listen.
+
+378
+00:16:12,640 --> 00:16:15,040
+We'll just wait this adult out
+
+379
+00:16:15,040 --> 00:16:18,120
+because they've got to run out of steam sometime.
+
+380
+00:16:18,120 --> 00:16:21,719
+So you remember being a kid and thinking that you know,
+
+381
+00:16:21,719 --> 00:16:23,280
+oh, school can't last forever.
+
+382
+00:16:23,280 --> 00:16:26,480
+It has to be over at 345..
+
+383
+00:16:26,480 --> 00:16:29,640
+This old man has to stop talking sometime.
+
+384
+00:16:29,640 --> 00:16:32,219
+I'll wait him out and then we'll do fun stuff.
+
+385
+00:16:32,219 --> 00:16:34,939
+So anyway, it starts to get dark.
+
+386
+00:16:34,939 --> 00:16:36,339
+You've got to head back
+
+387
+00:16:36,339 --> 00:16:38,699
+and you're only halfway through your talk
+
+388
+00:16:38,699 --> 00:16:40,160
+And dang it. you think
+
+389
+00:16:40,160 --> 00:16:42,920
+if these kids would just listen- you know,
+
+390
+00:16:42,920 --> 00:16:45,960
+if they would just do what I say and listen-
+
+391
+00:16:45,960 --> 00:16:47,760
+we'd be much farther along
+
+392
+00:16:47,760 --> 00:16:50,920
+and they would understand this wonderful discovery
+
+393
+00:16:50,920 --> 00:16:52,040
+a lot better.
+
+394
+00:16:52,040 --> 00:16:54,320
+So you go back and you say, okay,
+
+395
+00:16:54,320 --> 00:16:57,160
+meet me here tomorrow morning and we'll go out
+
+396
+00:16:57,160 --> 00:16:58,740
+and I'll finish my talk.
+
+397
+00:16:58,740 --> 00:17:00,560
+And next morning
+
+398
+00:17:00,560 --> 00:17:03,080
+about half as many young people show up.
+
+399
+00:17:03,080 --> 00:17:04,800
+and geez, you think
+
+400
+00:17:04,800 --> 00:17:07,000
+I guess the other ones just don't understand
+
+401
+00:17:07,000 --> 00:17:08,320
+how important this is.
+
+402
+00:17:08,320 --> 00:17:11,760
+I have this incredible gift to share with them.
+
+403
+00:17:11,760 --> 00:17:13,359
+So you know it's their loss.
+
+404
+00:17:13,359 --> 00:17:15,520
+I'll take the ones that showed up. okay, fine.
+
+405
+00:17:15,520 --> 00:17:18,079
+And the second day ends up going a lot like the first.
+
+406
+00:17:18,079 --> 00:17:20,319
+as you march them around, describing all the symbols
+
+407
+00:17:20,319 --> 00:17:22,440
+in detail. you finish with the symbols
+
+408
+00:17:22,440 --> 00:17:23,920
+at the base of the pyramid
+
+409
+00:17:23,920 --> 00:17:26,000
+and now you're climbing up to the first step.
+
+410
+00:17:26,000 --> 00:17:28,920
+but oh, it gets dark again. it's time to go home.
+
+411
+00:17:28,920 --> 00:17:31,280
+And the third morning you go back
+
+412
+00:17:31,280 --> 00:17:34,040
+and there's only one or two young people who show up,
+
+413
+00:17:34,040 --> 00:17:36,120
+and it's really disheartening.
+
+414
+00:17:36,120 --> 00:17:37,920
+So what happens next?
+
+415
+00:17:37,920 --> 00:17:40,040
+Well, maybe you go to the parents of all the young
+
+416
+00:17:40,040 --> 00:17:42,920
+people and you tell them how important this is.
+
+417
+00:17:42,920 --> 00:17:45,520
+They should make their children do this
+
+418
+00:17:45,520 --> 00:17:48,560
+because they need to learn what you have to offer them,
+
+419
+00:17:48,560 --> 00:17:50,940
+because the secrets you've learned from the pyramid
+
+420
+00:17:50,940 --> 00:17:54,520
+are really important to their children's success
+
+421
+00:17:54,520 --> 00:17:55,360
+later in life.
+
+422
+00:17:55,360 --> 00:17:57,560
+And you'd probably end up with bigger crowds that way.
+
+423
+00:17:57,560 --> 00:17:59,879
+but it would be different, because you know,
+
+424
+00:17:59,879 --> 00:18:02,120
+my parents made me come here and do this
+
+425
+00:18:02,120 --> 00:18:05,159
+and get to the point so that it can be over
+
+426
+00:18:05,159 --> 00:18:06,000
+as soon as possible.
+
+427
+00:18:06,000 --> 00:18:07,520
+Yeah, yeah, yeah, yeah. the symbols:
+
+428
+00:18:07,520 --> 00:18:09,840
+Yeah, yeah, yeah, important, right,
+
+429
+00:18:09,840 --> 00:18:13,000
+Yeah, it would be a totally different thing, wouldn't it?
+
+430
+00:18:13,000 --> 00:18:15,280
+Now, maybe, instead of that, you get resentful
+
+431
+00:18:15,280 --> 00:18:17,439
+and you say: you know, these dang kids
+
+432
+00:18:17,439 --> 00:18:20,320
+just can't appreciate what I'm trying to do for them.
+
+433
+00:18:20,320 --> 00:18:22,959
+They're noisy, undisciplined rascals
+
+434
+00:18:22,959 --> 00:18:25,040
+and I'm gonna create rules and regulations
+
+435
+00:18:25,040 --> 00:18:26,199
+that they have to abide by
+
+436
+00:18:26,199 --> 00:18:27,919
+before they can go with me again.
+
+437
+00:18:27,919 --> 00:18:30,560
+That's how I became the person that I am,
+
+438
+00:18:30,560 --> 00:18:31,879
+because adults did that to me.
+
+439
+00:18:31,879 --> 00:18:33,600
+so that's what I'm gonna do to them.
+
+440
+00:18:33,600 --> 00:18:35,120
+We're gonna have a little toughness here,
+
+441
+00:18:35,120 --> 00:18:37,080
+We're gonna give them some backbone
+
+442
+00:18:37,080 --> 00:18:40,720
+and maybe, instead of those first two options,
+
+443
+00:18:40,720 --> 00:18:42,919
+you take a third option and you sit down
+
+444
+00:18:42,919 --> 00:18:44,560
+and you get kind of real with yourself
+
+445
+00:18:44,560 --> 00:18:47,040
+and you say: maybe it's not the young people
+
+446
+00:18:47,040 --> 00:18:48,159
+who are the problem here,
+
+447
+00:18:48,159 --> 00:18:50,320
+Maybe that's how I'm going about this.
+
+448
+00:18:50,320 --> 00:18:51,679
+So you start thinking.
+
+449
+00:18:51,679 --> 00:18:54,360
+So you start thinking: what was so motivating
+
+450
+00:18:54,360 --> 00:18:57,879
+and exciting about my discovery, right?
+
+451
+00:18:57,879 --> 00:19:00,600
+Well, the first time you stepped into the clearing
+
+452
+00:19:00,600 --> 00:19:02,800
+and you saw the pyramid- wow,
+
+453
+00:19:02,800 --> 00:19:05,280
+That was a moment that you'll never forget.
+
+454
+00:19:05,320 --> 00:19:07,600
+And the first time you got to the top of the pyramid
+
+455
+00:19:07,600 --> 00:19:09,280
+and looked around over the tops of the trees,
+
+456
+00:19:09,280 --> 00:19:10,879
+that was really something.
+
+457
+00:19:10,879 --> 00:19:13,800
+Then, when you studied and understood
+
+458
+00:19:13,800 --> 00:19:17,639
+the symbols on the pyramid, that was a lot of work
+
+459
+00:19:17,639 --> 00:19:19,680
+and you nearly gave up a couple of times,
+
+460
+00:19:19,680 --> 00:19:21,080
+but you're glad you kept at it,
+
+461
+00:19:21,080 --> 00:19:25,399
+because the message was just an absolute life changer.
+
+462
+00:19:25,399 --> 00:19:27,800
+So as you're thinking about this, a light comes on.
+
+463
+00:19:27,800 --> 00:19:30,600
+Now you know what you need to do.
+
+464
+00:19:30,600 --> 00:19:33,920
+Next morning. you get a big group of young people together
+
+465
+00:19:33,920 --> 00:19:35,880
+and you hike out to the pyramid
+
+466
+00:19:35,880 --> 00:19:38,040
+And, of course, along the way,
+
+467
+00:19:38,040 --> 00:19:39,760
+they're saying: are we there yet?
+
+468
+00:19:39,760 --> 00:19:41,040
+Where are we going?
+
+469
+00:19:41,040 --> 00:19:42,480
+What are you doing?
+
+470
+00:19:42,480 --> 00:19:44,920
+And you just say: well, follow along a little further.
+
+471
+00:19:44,920 --> 00:19:46,240
+We're almost there.
+
+472
+00:19:46,240 --> 00:19:48,080
+And just before you break through the forest
+
+473
+00:19:48,080 --> 00:19:49,880
+into the clearing. you stop and you say,
+
+474
+00:19:49,880 --> 00:19:52,760
+okay, it's just a little ways. now you go ahead
+
+475
+00:19:52,760 --> 00:19:54,560
+And the young people pass you by
+
+476
+00:19:54,560 --> 00:19:58,040
+and you hear them as they step out of the forest
+
+477
+00:19:58,040 --> 00:19:59,400
+into the clearing.
+
+478
+00:19:59,400 --> 00:20:02,720
+Wow, will you look at that?
+
+479
+00:20:02,760 --> 00:20:04,760
+Then they shout and they're happy
+
+480
+00:20:04,760 --> 00:20:06,640
+and you hear the sound of running feet.
+
+481
+00:20:06,640 --> 00:20:08,640
+And when you get into the clearing,
+
+482
+00:20:08,640 --> 00:20:10,520
+the young people are climbing all over the pyramid.
+
+483
+00:20:10,520 --> 00:20:12,080
+They're shouting and playing
+
+484
+00:20:12,080 --> 00:20:14,360
+And of course, somebody is the first one to get to the top
+
+485
+00:20:14,360 --> 00:20:15,840
+and all the others have to get to the top
+
+486
+00:20:15,840 --> 00:20:16,800
+and look around.
+
+487
+00:20:16,800 --> 00:20:19,480
+They're just as excited as you were
+
+488
+00:20:19,480 --> 00:20:20,800
+the day you discovered it.
+
+489
+00:20:20,800 --> 00:20:22,680
+So you set up the chair that you brought along
+
+490
+00:20:22,680 --> 00:20:24,120
+and you sit down and you watch them.
+
+491
+00:20:24,120 --> 00:20:27,040
+And you see them going over on that right-hand side,
+
+492
+00:20:27,040 --> 00:20:28,800
+where it's a real long drop,
+
+493
+00:20:28,800 --> 00:20:31,400
+and you say, hey, watch out there.
+
+494
+00:20:31,440 --> 00:20:33,440
+And they step back from the edge
+
+495
+00:20:33,440 --> 00:20:35,800
+and you just keep a watchful eye on them
+
+496
+00:20:35,800 --> 00:20:37,680
+to make sure they don't injure themselves
+
+497
+00:20:37,680 --> 00:20:40,680
+or mess up the pyramid in some way or something.
+
+498
+00:20:40,680 --> 00:20:42,760
+And after they've played and climbed around
+
+499
+00:20:42,760 --> 00:20:43,920
+on it a couple of hours,
+
+500
+00:20:43,920 --> 00:20:45,840
+a few young people come over to where you're sitting
+
+501
+00:20:45,840 --> 00:20:48,600
+and they say, hey, what does that panther
+
+502
+00:20:48,600 --> 00:20:49,920
+on the pyramid mean.
+
+503
+00:20:49,920 --> 00:20:50,880
+What is that?
+
+504
+00:20:50,880 --> 00:20:52,360
+And you look at them and you say,
+
+505
+00:20:52,360 --> 00:20:54,120
+well, what do you think it means?
+
+506
+00:20:54,120 --> 00:20:56,480
+Did you see any other symbols on the pyramid?
+
+507
+00:20:56,480 --> 00:20:57,800
+And you have a little discussion
+
+508
+00:20:57,800 --> 00:20:59,040
+about what they think it means.
+
+509
+00:20:59,040 --> 00:21:00,240
+and they're getting close.
+
+510
+00:21:00,240 --> 00:21:02,880
+They almost understand that particular symbol
+
+511
+00:21:02,880 --> 00:21:05,480
+and in the way it works with all the other ones.
+
+512
+00:21:05,480 --> 00:21:07,320
+but you're not gonna tell them right away.
+
+513
+00:21:07,320 --> 00:21:09,280
+You want them to have the joy
+
+514
+00:21:09,280 --> 00:21:11,600
+of figuring it out for themselves.
+
+515
+00:21:11,600 --> 00:21:13,480
+So day after day
+
+516
+00:21:13,480 --> 00:21:15,160
+you bring this group of young people
+
+517
+00:21:15,160 --> 00:21:17,480
+to this wonderful pyramid that you found.
+
+518
+00:21:17,480 --> 00:21:19,920
+The younger ones are happy to climb around and play.
+
+519
+00:21:19,920 --> 00:21:22,080
+Some of the older ones have started to interpret
+
+520
+00:21:22,080 --> 00:21:24,560
+the basic symbols and you can tell it won't be long
+
+521
+00:21:24,560 --> 00:21:27,120
+before they understand and they know what you know,
+
+522
+00:21:27,120 --> 00:21:28,960
+And indeed before too long.
+
+523
+00:21:28,960 --> 00:21:31,880
+the young people really don't need you around much anymore.
+
+524
+00:21:31,880 --> 00:21:34,200
+They understand where the dangerous spots are
+
+525
+00:21:34,200 --> 00:21:36,040
+and everything, and they understand
+
+526
+00:21:36,040 --> 00:21:38,440
+what the symbols mean and how it all works
+
+527
+00:21:38,440 --> 00:21:40,400
+and they know their way around the pyramid
+
+528
+00:21:40,400 --> 00:21:43,200
+and then delight in helping others discover it.
+
+529
+00:21:43,200 --> 00:21:45,440
+So every morning the crowd's getting a little bigger
+
+530
+00:21:45,440 --> 00:21:47,360
+because they're telling their friends about it.
+
+531
+00:21:47,360 --> 00:21:50,720
+So I'm gonna stop before the analogy
+
+532
+00:21:50,720 --> 00:21:52,840
+begins to break down. but did you get it?
+
+533
+00:21:52,840 --> 00:21:54,680
+Does the analogy work for you?
+
+534
+00:21:54,680 --> 00:21:56,840
+Of course the pyramid is scouting:
+
+535
+00:21:56,879 --> 00:21:59,760
+A discovery that you share with young people,
+
+536
+00:21:59,760 --> 00:22:01,959
+not by explaining it to them,
+
+537
+00:22:01,959 --> 00:22:06,439
+but through their own sense of inquisitiveness and discovery.
+
+538
+00:22:06,439 --> 00:22:08,760
+Now let's loop back to where we began.
+
+539
+00:22:08,760 --> 00:22:11,040
+We began with the idea of leadership.
+
+540
+00:22:11,040 --> 00:22:13,760
+Scouting belongs to scouts
+
+541
+00:22:13,760 --> 00:22:18,159
+who lead themselves through the scouting experience right.
+
+542
+00:22:18,159 --> 00:22:20,480
+It does not belong to adults.
+
+543
+00:22:20,480 --> 00:22:23,679
+Scouters are not the chief executive officers.
+
+544
+00:22:23,679 --> 00:22:26,080
+They are mentors and enablers.
+
+545
+00:22:26,120 --> 00:22:29,199
+Scouting is not a useful set of skills we need to teach
+
+546
+00:22:29,199 --> 00:22:31,840
+or object lessons we have to explain.
+
+547
+00:22:31,840 --> 00:22:35,919
+It is a unique path of discovery with opportunities
+
+548
+00:22:35,919 --> 00:22:39,439
+to learn those skills and those object lessons
+
+549
+00:22:39,439 --> 00:22:41,199
+and experience growth.
+
+550
+00:22:41,199 --> 00:22:46,199
+Scouting is not a program we prepare and present to scouts.
+
+551
+00:22:46,439 --> 00:22:50,520
+It is a program based on the magic of discovery
+
+552
+00:22:50,520 --> 00:22:54,040
+and things that they learn for themselves
+
+553
+00:22:54,040 --> 00:22:56,000
+and then they're able to turn around
+
+554
+00:22:56,000 --> 00:22:57,120
+and share with others.
+
+555
+00:22:57,120 --> 00:22:59,680
+So for our scouts- and I'm speaking of our scouts
+
+556
+00:22:59,680 --> 00:23:04,680
+of every age, from joeys and beavers to cubs,
+
+557
+00:23:04,680 --> 00:23:07,320
+and ventures and rovers-
+
+558
+00:23:07,320 --> 00:23:10,920
+it's about discovering scouting for yourself,
+
+559
+00:23:10,920 --> 00:23:14,880
+under your own steam, under your own leadership,
+
+560
+00:23:14,880 --> 00:23:19,000
+exercised in correspondence with your age and your abilities.
+
+561
+00:23:19,000 --> 00:23:21,880
+And rather than explaining exactly how that works
+
+562
+00:23:21,880 --> 00:23:23,920
+across all ages and abilities,
+
+563
+00:23:23,920 --> 00:23:26,880
+let me refer you to a post I wrote earlier this year
+
+564
+00:23:26,880 --> 00:23:28,880
+called Every Scout is a Leader,
+
+565
+00:23:28,880 --> 00:23:31,920
+And I'll have a link to that post in the podcast notes.
+
+566
+00:23:31,920 --> 00:23:35,120
+In that post I lay out four types of leadership
+
+567
+00:23:35,120 --> 00:23:37,200
+Basically. first, you lead yourself.
+
+568
+00:23:37,200 --> 00:23:39,680
+Second, you follow cooperatively.
+
+569
+00:23:39,680 --> 00:23:42,040
+Third, you help your fellow scouts.
+
+570
+00:23:42,040 --> 00:23:43,960
+And fourth, you shape the directions
+
+571
+00:23:43,960 --> 00:23:45,920
+and plans of your patrol and troop.
+
+572
+00:23:45,920 --> 00:23:47,880
+Now you really can't skip any of those steps,
+
+573
+00:23:47,880 --> 00:23:50,640
+so you have to start where your scouts are.
+
+574
+00:23:50,640 --> 00:23:52,440
+And I'm not going to say
+
+575
+00:23:52,440 --> 00:23:55,160
+that adults aren't leaders in scouting,
+
+576
+00:23:55,160 --> 00:23:57,120
+because we definitely are.
+
+577
+00:23:57,120 --> 00:24:00,160
+It's just the kind of leaders that we need to be.
+
+578
+00:24:00,160 --> 00:24:02,680
+We need to be responsive leaders.
+
+579
+00:24:02,680 --> 00:24:05,840
+Our response and our level of involvement
+
+580
+00:24:05,840 --> 00:24:08,740
+in what is happening needs to correspond
+
+581
+00:24:08,740 --> 00:24:11,320
+with the growing abilities of our scouts.
+
+582
+00:24:11,320 --> 00:24:13,520
+You can't just decide.
+
+583
+00:24:13,520 --> 00:24:16,080
+if you're in a scout troop, for example,
+
+584
+00:24:16,080 --> 00:24:18,600
+you can't just decide, okay,
+
+585
+00:24:18,600 --> 00:24:20,480
+we're going to be youth led now,
+
+586
+00:24:20,480 --> 00:24:22,660
+and throw a switch and walk away.
+
+587
+00:24:22,660 --> 00:24:24,400
+It's not instantaneous.
+
+588
+00:24:24,400 --> 00:24:27,360
+Youth leadership is not throwing a switch.
+
+589
+00:24:27,360 --> 00:24:30,160
+It's more like planting a seed. okay,
+
+590
+00:24:30,160 --> 00:24:33,760
+And I know more analogies, right,
+
+591
+00:24:33,760 --> 00:24:35,360
+Okay, just bear with me.
+
+592
+00:24:35,360 --> 00:24:37,480
+If we throw a light switch and the light
+
+593
+00:24:37,480 --> 00:24:40,360
+doesn't come on right away, we get impatient.
+
+594
+00:24:40,360 --> 00:24:42,800
+But if we plant a seed and it doesn't sprout
+
+595
+00:24:42,800 --> 00:24:45,480
+in 10 seconds, well, we aren't surprised.
+
+596
+00:24:45,480 --> 00:24:48,660
+We know that this sort of thing takes time.
+
+597
+00:24:48,660 --> 00:24:50,900
+You can't plant a seed and go boop
+
+598
+00:24:50,900 --> 00:24:53,340
+and the next minute have an oak tree right.
+
+599
+00:24:53,340 --> 00:24:54,540
+It takes some time.
+
+600
+00:24:54,540 --> 00:24:57,300
+So what's in that seed that causes it to grow?
+
+601
+00:24:57,300 --> 00:24:59,820
+There's tremendous potential in there,
+
+602
+00:24:59,820 --> 00:25:01,620
+but it has to have the right environment
+
+603
+00:25:01,620 --> 00:25:04,860
+And the right environment. in scouting,
+
+604
+00:25:04,860 --> 00:25:07,980
+the mysterious process at the heart of it all
+
+605
+00:25:07,980 --> 00:25:09,380
+is discovery.
+
+606
+00:25:09,380 --> 00:25:12,500
+So back to the big analogy. it's back to the pyramid.
+
+607
+00:25:12,500 --> 00:25:15,960
+You're leading because you're getting them there right.
+
+608
+00:25:15,960 --> 00:25:18,960
+You're getting them to the opportunities.
+
+609
+00:25:18,960 --> 00:25:21,680
+You don't really create the opportunities quite so much
+
+610
+00:25:21,680 --> 00:25:24,360
+as scouting itself creates the opportunities.
+
+611
+00:25:24,360 --> 00:25:26,280
+And you're keeping an eye on things
+
+612
+00:25:26,280 --> 00:25:29,080
+because, yes, the scouts are in our care,
+
+613
+00:25:29,080 --> 00:25:31,960
+So we have to have that authority to keep an eye on things,
+
+614
+00:25:31,960 --> 00:25:35,800
+make sure they're not doing untoward or dangerous things,
+
+615
+00:25:35,800 --> 00:25:38,560
+but we bring them to this place
+
+616
+00:25:38,560 --> 00:25:40,800
+of opportunity and discovery,
+
+617
+00:25:40,800 --> 00:25:42,800
+And that's what scouting really is.
+
+618
+00:25:42,800 --> 00:25:45,000
+I'd love to hear your thoughts on this.
+
+619
+00:25:45,040 --> 00:25:46,680
+I want you to get in touch with me this week.
+
+620
+00:25:46,680 --> 00:25:48,200
+It's real easy
+
+621
+00:25:48,200 --> 00:25:50,800
+And I'm gonna tell you how to do it in just a moment.
+
+622
+00:26:20,879 --> 00:26:24,159
+Well, thank you for listening to this 316th edition
+
+623
+00:26:24,159 --> 00:26:26,080
+of the Scoutmaster podcast.
+
+624
+00:26:26,080 --> 00:26:27,560
+Here's how to keep in touch:
+
+625
+00:26:27,560 --> 00:26:31,399
+Go to scoutmastercgcom, where you can read the blog
+
+626
+00:26:31,399 --> 00:26:34,040
+and you can subscribe to updates by email.
+
+627
+00:26:34,040 --> 00:26:38,320
+And you know a lot of folks follow us on social media-
+
+628
+00:26:38,320 --> 00:26:41,360
+13,000 folks like Scoutmaster blog on Facebook.
+
+629
+00:26:41,360 --> 00:26:43,280
+There's a chorus of tweeters on Twitter.
+
+630
+00:26:43,280 --> 00:26:45,879
+Plenty of people peruse the Pultritudinous pictures
+
+631
+00:26:45,879 --> 00:26:47,879
+we proffer publicly on Pinterest
+
+632
+00:26:47,879 --> 00:26:50,720
+And you can watch us at Scoutmastercg on YouTube.
+
+633
+00:26:50,720 --> 00:26:53,040
+But if you can't face Facebook and Twitter
+
+634
+00:26:53,040 --> 00:26:55,000
+makes you bitter and you have no interest in Pinterest
+
+635
+00:26:55,000 --> 00:26:56,320
+and you don't put the? U in YouTube,
+
+636
+00:26:56,320 --> 00:26:57,600
+well, that's all right, Bunky,
+
+637
+00:26:57,600 --> 00:26:59,000
+Don't worry about that.
+
+638
+00:26:59,000 --> 00:27:01,160
+Just zoom into the late 90s
+
+639
+00:27:01,160 --> 00:27:03,560
+and fire off a good old fashioned email.
+
+640
+00:27:03,560 --> 00:27:06,280
+You can get in touch with me, Clark Green,
+
+641
+00:27:06,280 --> 00:27:09,480
+at Clark at scoutmastercgcom,
+
+642
+00:27:09,480 --> 00:27:14,480
+C-L-A-R-K-E at scoutmastercgcom.
+
+643
+00:27:17,240 --> 00:27:18,960
+Now, if none of that works for you,
+
+644
+00:27:18,960 --> 00:27:20,120
+the next time you're out camping,
+
+645
+00:27:20,120 --> 00:27:22,240
+gather your fellow scouters around a magic mirror
+
+646
+00:27:22,240 --> 00:27:25,600
+and repeat Scoutmaster CG three times in unison
+
+647
+00:27:25,600 --> 00:27:28,120
+And I will appear and answer all of your questions.
+
+648
+00:27:28,120 --> 00:27:30,840
+Now, by this time it should be abundantly clear
+
+649
+00:27:30,840 --> 00:27:32,720
+that the Scoutmaster blog and podcast
+
+650
+00:27:32,720 --> 00:27:35,080
+are not official publications of the Boy Scouts of America,
+
+651
+00:27:35,080 --> 00:27:38,280
+nor they endorse or sponsored by the Boy Scouts of America
+
+652
+00:27:38,280 --> 00:27:40,360
+or any scouting organization for that matter.
+
+653
+00:27:40,360 --> 00:27:43,240
+No, it is only me talking into a microphone
+
+654
+00:27:43,240 --> 00:27:46,240
+and trying to lend a hand to my fellow scouters
+
+655
+00:27:46,240 --> 00:27:48,360
+and having a little bit of fun along the way.
+
+656
+00:27:48,360 --> 00:27:51,440
+And speaking of fun, here he is our founder,
+
+657
+00:27:51,440 --> 00:27:53,440
+Sir Robert Baden Powell.
+
+658
+00:27:53,440 --> 00:27:54,480
+Sir Robert,
+
+659
+00:27:54,480 --> 00:27:57,360
+Good luck to you and good camping.
+
+660
+00:27:57,360 --> 00:27:58,920
+Why? thank you, sir.
+
+661
+00:27:58,920 --> 00:28:00,320
+Until next time, everyone.
+

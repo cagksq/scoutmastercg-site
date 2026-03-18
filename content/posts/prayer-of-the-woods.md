@@ -2,7 +2,9 @@
 title: "Prayer of the Woods"
 date: 2012-09-11
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Nature & Environment"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20150926210220/http://scoutmastercg.com:80/prayer-of-the-woods/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Trophic Cascades and the Scout Law"
 date: 2014-10-11
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Nature & Environment"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20141011193019/http://scoutmastercg.com:80/trophic-cascades-and-the-scout-law/?replytocom=68774"
 ---
 

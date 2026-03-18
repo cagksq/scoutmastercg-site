@@ -2,7 +2,9 @@
 title: "Ten Causes of Scouting Disasters in the Wild"
 date: 2013-03-29
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20150912162721/http://scoutmastercg.com/scouting-disasters-in-the-wild/"
 ---
 

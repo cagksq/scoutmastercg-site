@@ -2,7 +2,8 @@
 title: "ACLU v. BSA"
 date: 2005-12-01
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "BSA Membership & Inclusion"
 wayback_url: "https://web.archive.org/web/20141017150406/http://scoutmastercg.com:80/aclu_v_bsa/"
 ---
 

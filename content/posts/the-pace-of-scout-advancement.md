@@ -2,7 +2,9 @@
 title: "The Pace of Scout Advancement"
 date: 2014-10-11
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20141011004711/http://scoutmastercg.com:80/the-pace-of-scout-advancement/"
 ---
 

@@ -2,7 +2,9 @@
 title: "What is Wilderness First Aid Training?"
 date: 2017-05-28
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20170528184742/http://scoutmastercg.com:80/what-is-wilderness-first-aid-training/"
 ---
 

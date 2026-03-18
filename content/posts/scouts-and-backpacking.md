@@ -2,7 +2,9 @@
 title: "Scouts and Backpacking"
 date: 2013-01-02
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Camping"
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20130102224222/http://www.scoutmastercg.com:80/scouts-and-backpacking/"
 ---
 

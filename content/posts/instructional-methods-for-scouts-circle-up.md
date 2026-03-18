@@ -2,7 +2,8 @@
 title: "Instructional Methods For Scouts - Circle Up!"
 date: 2006-08-14
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20140724083312/http://scoutmastercg.com/instructional_m_2/"
 ---
 

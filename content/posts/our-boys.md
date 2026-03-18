@@ -2,7 +2,8 @@
 title: "Our Boys"
 date: 2012-12-20
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20121220013319/http://www.scoutmastercg.com:80/our-boys/"
 ---
 

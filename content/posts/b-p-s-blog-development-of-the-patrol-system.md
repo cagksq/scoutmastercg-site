@@ -3,8 +3,9 @@ title: "B.P.'s Blog - Development of the Patrol System"
 date: 2015-04-05
 draft: false
 image: "/images/bp4.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20160311023404/http://scoutmastercg.com:80/b-p-s-blog-development-of-the-patrol-system/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Preparedness is Awareness"
 date: 2014-08-25
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20140825092716/http://scoutmastercg.com/preparedness/"
 ---
 

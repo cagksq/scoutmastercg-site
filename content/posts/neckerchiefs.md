@@ -2,7 +2,9 @@
 title: "Neckerchiefs"
 date: 2012-02-15
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scouting History & Tradition"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20120215093859/http://www.scoutmastercg.com:80/2007/12/neckerchiefs/"
 ---
 

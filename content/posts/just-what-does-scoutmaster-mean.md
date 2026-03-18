@@ -2,7 +2,9 @@
 title: "Just What Does 'Scoutmaster' Mean?"
 date: 2015-01-20
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Adult Leadership Roles"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20150120005532/http://scoutmastercg.com:80/just-what-does-scoutmaster-mean/?"
 ---
 

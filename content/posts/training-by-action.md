@@ -2,7 +2,9 @@
 title: "Training by Action."
 date: 2015-10-16
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20151016171855/http://scoutmastercg.com/training-by-act/"
 ---
 

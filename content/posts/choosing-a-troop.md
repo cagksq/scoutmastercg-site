@@ -2,7 +2,9 @@
 title: "Choosing a Troop"
 date: 2015-09-19
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Scout Parents"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150919225735/http://scoutmastercg.com/choosing-a-troop/"
 ---
 

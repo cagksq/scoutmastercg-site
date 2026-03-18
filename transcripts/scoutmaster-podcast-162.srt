@@ -1,0 +1,948 @@
+1
+00:00:00,000 --> 00:00:05,360
+Hey, this is Clark, and I want to remind you that this podcast is brought to you by ScoutmasterCGcom
+
+2
+00:00:05,360 --> 00:00:10,640
+Backers. The funds we get from our backers cover the expenses of producing and publishing
+
+3
+00:00:10,640 --> 00:00:17,360
+everything at ScoutmasterCGcom, including what you're about to listen to. Go to ScoutmasterCGcom
+
+4
+00:00:17,360 --> 00:00:21,600
+and click the support link at the top of the page and you can join hundreds of your fellow
+
+5
+00:00:21,600 --> 00:00:27,200
+Scouters who help me keep the podcast freely available for Scouters all over the world.
+
+6
+00:00:27,200 --> 00:00:29,040
+And now for you, Scoutmaster.
+
+7
+00:00:35,600 --> 00:00:42,160
+Hey, here's a scouting fun fact. okay, If you took all the Scouts in, all the troops across the country
+
+8
+00:00:42,160 --> 00:00:47,840
+and you formed a line, that line would stretch from the Atlantic Ocean up to right about where
+
+9
+00:00:47,840 --> 00:00:52,960
+the dunes are on the beach, where a tenderfoot scout would run out of the line and start chasing
+
+10
+00:00:52,960 --> 00:00:57,760
+seagulls. About 20 feet from there there'd be a scout whose mom called him on his cell phone to
+
+11
+00:00:57,760 --> 00:01:02,240
+ask him where he was and what he was doing and when he would be coming home, and by that time
+
+12
+00:01:02,240 --> 00:01:06,640
+the rest of the Scouts in the line would be getting a little antsy. so about a half a mile
+
+13
+00:01:06,640 --> 00:01:11,520
+in there would be a game of pickup football going on and the line would be a little wavy from
+
+14
+00:01:11,520 --> 00:01:16,800
+that point until you got to the place where the senior patrol leader forgot to phone his
+
+15
+00:01:16,800 --> 00:01:21,840
+patrol leaders and have them show up for the giant scout line that is stretching across the country,
+
+16
+00:01:21,840 --> 00:01:27,039
+And then there'd be a pretty good gap there and Scouts in Kansas would be wondering where
+
+17
+00:01:27,039 --> 00:01:31,840
+everybody was and where the line crosses the Rockies. the Scouts in Colorado would probably
+
+18
+00:01:31,840 --> 00:01:36,160
+be snowboarding and not paying much attention to the whole thing, And on some beach in
+
+19
+00:01:36,160 --> 00:01:40,400
+California Scouts would be milling around for a while until they decided: you know,
+
+20
+00:01:40,480 --> 00:01:45,760
+forget this line thing, let's go swimming. You know, you get the idea right.
+
+21
+00:01:49,520 --> 00:01:52,000
+Hey, this is podcast number 162..
+
+22
+00:02:10,400 --> 00:02:26,160
+Hey, welcome back to the Scout Master Podcast. This is Clark Green. Well, let's take a look
+
+23
+00:02:26,160 --> 00:02:31,840
+in the mailbag. Ron Lasala wrote in and he said: I'm a great fan of your site and then he told
+
+24
+00:02:31,840 --> 00:02:38,320
+me how to fix my karak bend- not infographic- that I published last week. I don't know if
+
+25
+00:02:38,320 --> 00:02:43,840
+you guys caught that or not. I managed to catch it pretty quick. I fixed it and I had one of the
+
+26
+00:02:43,840 --> 00:02:49,200
+crossings wrong and oh my goodness. But this is. this is the problem when you proofread your own
+
+27
+00:02:49,200 --> 00:02:55,280
+stuff, folks. Actually I'm happy that I have a lot of proofreaders out there And you know,
+
+28
+00:02:55,280 --> 00:03:00,160
+if you find a problem and you see something that I've gotten wrong, get in touch. I really,
+
+29
+00:03:00,160 --> 00:03:06,240
+I really really do appreciate it. And Ron's in in Tallinn, Connecticut, with Troop too. Thanks,
+
+30
+00:03:06,240 --> 00:03:11,200
+Ron, Thanks for getting in touch and thanks for helping me out there. Terry Dutton is with Troop
+
+31
+00:03:11,200 --> 00:03:17,040
+16 in Oak Park, Illinois, And he writes in to say: Hi, Clark, your work is appreciated. I listen
+
+32
+00:03:17,040 --> 00:03:22,320
+and read, looking for ways to be a better scouter for my Scouts, and your podcasts and blog always hit
+
+33
+00:03:22,320 --> 00:03:28,320
+home. Thanks for the great work. Well, thank you very much for being in touch, Terry, And
+
+34
+00:03:28,320 --> 00:03:33,600
+I certainly appreciate the kind words. Heidi Medina Cordero wrote in to say Thanks,
+
+35
+00:03:33,600 --> 00:03:40,079
+I'm loving it. Thanks, Heidi, I love it when people write in. I really do. David Thompson
+
+36
+00:03:40,079 --> 00:03:46,400
+writes in from Mililani, Hawaii, Troop 164, and says: I just started my role as Scoutmaster in
+
+37
+00:03:46,400 --> 00:03:51,840
+January. You have a fantastic resource that has infinitely sped up my education as a Scoutmaster.
+
+38
+00:03:52,400 --> 00:03:59,280
+Yes, they showed me the volcano and I jumped in. Thank you, And you know, in Hawaii, David,
+
+39
+00:03:59,280 --> 00:04:05,360
+that's kind of almost literal, isn't it? You can get in touch with me. I send a question,
+
+40
+00:04:05,360 --> 00:04:12,320
+send a comment or just say hi, And you can do that by emailing me at Clark C L A R K E
+
+41
+00:04:12,320 --> 00:04:20,640
+at ScoutmasterCGcom. So in this podcast we're going to answer some email questions
+
+42
+00:04:20,640 --> 00:04:24,960
+And that's going to take care of the rest of the podcast. So let's get started, shall we?
+
+43
+00:04:29,600 --> 00:04:39,600
+Hi, I'm Kevin Callan and I'm listening to Scoutmaster iPod. No, I can't.
+
+44
+00:04:45,600 --> 00:04:50,000
+I am Kevin Callan, the happy camper, and you're listening to the Scoutmaster podcast.
+
+45
+00:04:59,280 --> 00:05:26,560
+I had this question come in. I came across a situation that happened to one of my venturing crew
+
+46
+00:05:26,560 --> 00:05:31,200
+members who was also registered with a Scout troop. He completed all his requirements for
+
+47
+00:05:31,200 --> 00:05:37,200
+the rank of life, asked for a border review and his trip denied him the opportunity to have
+
+48
+00:05:37,200 --> 00:05:42,240
+a border review because he owed them money for rechartering. While I respect that you have to
+
+49
+00:05:42,240 --> 00:05:48,000
+enforce collection of a past due fee, is restricting an advancement opportunity a valid
+
+50
+00:05:48,000 --> 00:05:54,960
+method? My view as a unit could maybe restrict youth members participation in camping or other
+
+51
+00:05:54,960 --> 00:06:01,039
+events due to an outstanding debt, But I see in the guide to advancement that no unit can add
+
+52
+00:06:01,039 --> 00:06:06,960
+additional requirements to advancement. Isn't requiring a Scout to be paid in full adding
+
+53
+00:06:06,960 --> 00:06:12,080
+a requirement for advancement? Am I right in reading this into the definition of the situation?
+
+54
+00:06:12,080 --> 00:06:17,679
+Well, yes, you are. A border review is one of the four steps in our system of advancement
+
+55
+00:06:17,679 --> 00:06:23,919
+And qualifying. to go before a border review means that a Scout has completed the requirements
+
+56
+00:06:23,920 --> 00:06:28,560
+and he's had, you know, his Scoutmaster conference, which is one of the requirements,
+
+57
+00:06:28,560 --> 00:06:32,640
+and he's headed for the board. I can understand theoretically why a troop would have this kind
+
+58
+00:06:32,640 --> 00:06:37,680
+of restriction. Okay, you know, when you think about it, all right, it makes sense. But
+
+59
+00:06:38,320 --> 00:06:44,400
+there's some things that aren't being thought about here. These things trump any concerns you
+
+60
+00:06:44,400 --> 00:06:50,400
+have about financial administration and things like that. I think it's wrongheaded to try and hold
+
+61
+00:06:50,400 --> 00:06:55,920
+Scouts responsible for the actions of their parents. If a parent has missed the rechartering date,
+
+62
+00:06:56,800 --> 00:07:01,040
+you know there could be a variety of reasons, especially in today's economic climate.
+
+63
+00:07:01,040 --> 00:07:07,520
+But here we've got a Scout who's been responsible enough to complete the requirements for the
+
+64
+00:07:07,520 --> 00:07:13,600
+rank of life. He's asked for the border review and then the board has the sand to say, well,
+
+65
+00:07:13,600 --> 00:07:16,800
+no, we're not. we're not going to let you have a border review because you owe us money.
+
+66
+00:07:16,800 --> 00:07:21,840
+When I hear about things like this, I wonder if people have been trained and I wonder if they
+
+67
+00:07:21,840 --> 00:07:28,720
+get it. The Scouting program is a program for boys. Boys have families. Some families function at a
+
+68
+00:07:28,720 --> 00:07:34,960
+very high level. They pay all the dues, they pay rechartering fees on time, they pay camp fees
+
+69
+00:07:34,960 --> 00:07:41,200
+in time. Some families are just a mess And it's not the boys responsibility to try and
+
+70
+00:07:41,200 --> 00:07:47,920
+fix his family. If you have a policy or a practice in your troop or your pack or your crew that's
+
+71
+00:07:47,920 --> 00:07:53,120
+making life hard for a Scout who may be at the mercy of a dysfunctional family,
+
+72
+00:07:53,840 --> 00:07:58,159
+reconsider what you're doing, would you please. And I think in the case that was stated in
+
+73
+00:07:58,159 --> 00:08:03,280
+this email, I think that you're off base procedure wise, because you are adding,
+
+74
+00:08:03,280 --> 00:08:08,960
+you're adding another requirement that is preventing this, this Scout, from getting a border review.
+
+75
+00:08:08,960 --> 00:08:14,640
+Let's get trained, Let's get on board and let's figure out exactly what we're supposed to be doing.
+
+76
+00:08:14,640 --> 00:08:20,080
+I also received this email. I'm a fairly new Scout master and I asked our committee if we could
+
+77
+00:08:20,080 --> 00:08:25,200
+just go ahead and give merit badges and rank patches out at troop meetings and then hold the
+
+78
+00:08:25,200 --> 00:08:30,720
+certificates and present those at the court of honor. They declined to do this because they said
+
+79
+00:08:30,720 --> 00:08:35,280
+if they handed out the badges at troop meetings, no one would ever show up for a court of
+
+80
+00:08:35,280 --> 00:08:40,480
+honor. Then I noticed that they were handing out an Eagle Award to a Scout who wasn't even on a 100%
+
+81
+00:08:40,480 --> 00:08:45,600
+uniform? How do I change things when a committee seems to be stuck in their old ways? How do I
+
+82
+00:08:45,600 --> 00:08:50,640
+ensure parents and Scouts are going to attend quarterly courts of honor, even if their Scout
+
+83
+00:08:50,640 --> 00:08:55,600
+didn't necessarily advance in that last quarter? What you write about is a good example of a troop
+
+84
+00:08:55,600 --> 00:09:02,079
+practice running up against recommended best practices. A recommended best practice is
+
+85
+00:09:02,080 --> 00:09:07,600
+something in the literature or training that's not necessarily a mandated procedure, and I think
+
+86
+00:09:07,600 --> 00:09:12,240
+it's pretty well explained this way in the Guide to Advancement. Under a paragraph titled
+
+87
+00:09:12,240 --> 00:09:17,200
+Mandated Procedures and Recommended Practices- and you'll find this on page two of the Guide to
+
+88
+00:09:17,200 --> 00:09:23,280
+Advancement. The paragraph reads: this publication clearly identifies mandated procedures with
+
+89
+00:09:23,280 --> 00:09:28,320
+words such as must and shall. Where such language is used, no council, committee,
+
+90
+00:09:28,320 --> 00:09:34,320
+district unit or individual has the authority to deviate from the procedures covered. Recommended
+
+91
+00:09:34,320 --> 00:09:41,200
+best practices are offered using words like should, while other options and guidelines are indicated
+
+92
+00:09:41,200 --> 00:09:48,720
+with terms such as may or can't. So you've understood the best practice about presenting badges
+
+93
+00:09:48,720 --> 00:09:53,200
+at troop meetings and then presenting certificates at courts of honor. Here's where it's
+
+94
+00:09:53,200 --> 00:10:01,680
+mentioned in the Guide to Advancement, and this is section 4.2.1.4.. The Scout is recognized.
+
+95
+00:10:01,680 --> 00:10:07,440
+It reads this way: When the Board of Review has approved his advancement. the Scout deserves
+
+96
+00:10:07,440 --> 00:10:13,680
+recognition as soon as possible. This should be done at a ceremony at the next unit meeting.
+
+97
+00:10:13,680 --> 00:10:19,920
+The certificate for his new rank may be presented later during a formal court of honor.
+
+98
+00:10:19,920 --> 00:10:27,280
+So notice in that paragraph the word should and may. It's not shall or must. okay, What's
+
+99
+00:10:27,280 --> 00:10:32,160
+being recommended here is a best practice. It's not saying that this is the only way to make
+
+100
+00:10:32,160 --> 00:10:38,800
+things happen, but it's a best practice. Now the committee is worried that if they don't
+
+101
+00:10:38,800 --> 00:10:45,040
+hold on to badges, Scouts won't attend the next court of honor, and I can see that's an
+
+102
+00:10:45,120 --> 00:10:52,240
+understandable concern. but I think that that concern is misdirected. I'd be more concerned that
+
+103
+00:10:52,240 --> 00:10:58,640
+there's one or more things in the way you guys are presenting a court of honor that may be causing
+
+104
+00:10:58,640 --> 00:11:03,839
+the problem. So let me ask you these questions: Who's running the court of honor? To my way of
+
+105
+00:11:03,839 --> 00:11:07,680
+thinking, the senior patrol leader ought to be the master of ceremonies, aided by his fellow
+
+106
+00:11:07,680 --> 00:11:11,839
+youth leaders. If it's the Scout master or the troop committee handing out badges and
+
+107
+00:11:11,840 --> 00:11:17,680
+taking a long time to do it, or maybe just a short time to do it and the Scouts are just watching,
+
+108
+00:11:17,680 --> 00:11:22,000
+it's not likely they're going to be very interested in attending. Why would you? Okay,
+
+109
+00:11:22,000 --> 00:11:25,840
+I've got my badge and all's I'm going to do is sit there and listen to the Scout master or
+
+110
+00:11:25,840 --> 00:11:31,200
+the troop committee spout off for a while and they're going to bring me up and yeah, I don't
+
+111
+00:11:31,200 --> 00:11:37,040
+need to do that. How long is the court of honor? Now? I would tell you that our troop
+
+112
+00:11:37,040 --> 00:11:44,000
+courts of honor, you know, with a troop of about 35 Scouts, average maybe a half hour to 45 minutes.
+
+113
+00:11:44,000 --> 00:11:49,280
+If we're presenting an Eagle rank, which we do as a part of our regular troop courts of honor,
+
+114
+00:11:49,280 --> 00:11:57,360
+it may go as much as an hour, an hour 15, but we keep that time brief and meaningful rather than
+
+115
+00:11:57,360 --> 00:12:03,120
+long and kind of hard to deal with. What's the program at the court of honor? Is it
+
+116
+00:12:03,120 --> 00:12:09,440
+appropriately formal without being, like, incredibly overblown? I think simple words, spoken in honesty,
+
+117
+00:12:09,440 --> 00:12:16,160
+are always better than a lot of pageantry. Scouts want some formality and ceremony, but they don't
+
+118
+00:12:16,160 --> 00:12:20,800
+want it to the point where they're reluctant to participate. Remember yourself when you were that
+
+119
+00:12:20,800 --> 00:12:24,640
+age Now, some of us would have thought that standing up in front of a bunch of people in
+
+120
+00:12:24,640 --> 00:12:30,000
+our Scout uniform and saluting and getting our hands shaken and badges presented and everything
+
+121
+00:12:30,000 --> 00:12:36,640
+like that was pretty cool and we would really enjoy doing that. Some Scouts are not going to like
+
+122
+00:12:36,640 --> 00:12:41,280
+doing that very much and they'll you kind of have to encourage and congel them. So it's just a
+
+123
+00:12:41,280 --> 00:12:46,640
+minute or two and it's important that you stand up here as an example to your fellow Scouts and
+
+124
+00:12:46,640 --> 00:12:53,040
+the families that are here to be recognized for your achievement. If we're putting Scouts through
+
+125
+00:12:53,040 --> 00:13:00,160
+this kind of gauntlet of ceremonial things that they have to do and everything, consider that
+
+126
+00:13:00,160 --> 00:13:08,319
+they might not want to do that and think about what the program is like and think about maybe
+
+127
+00:13:08,319 --> 00:13:14,880
+rewriting it and starting over again. What else is happening at the court of honor? I'll say that
+
+128
+00:13:14,880 --> 00:13:19,360
+our practice is usually to combine our court of honor with some announcements and discussions with
+
+129
+00:13:19,360 --> 00:13:24,080
+parents. It's kind of like a parent's business meeting for a few minutes before each court of
+
+130
+00:13:24,080 --> 00:13:28,400
+honor while the Scouts are getting ready to talk about our schedule of camping trips and
+
+131
+00:13:28,400 --> 00:13:33,680
+rechartering or friends of scouting or whatever information needs to be exchanged. and it also
+
+132
+00:13:33,680 --> 00:13:39,600
+gives parents a chance to bring up questions and things, but only for a few minutes. It's not
+
+133
+00:13:39,600 --> 00:13:46,880
+an hour long thing, You know. it's relatively informal and this is value added for a parent
+
+134
+00:13:46,960 --> 00:13:53,520
+and it's an encouragement for them to attend. When is the court of honor? We hold our courts of honor
+
+135
+00:13:53,520 --> 00:13:59,840
+in place of a regular troop meeting on that troop meeting night, so that way it's on everybody's
+
+136
+00:13:59,840 --> 00:14:05,840
+schedule already. You got to think about a family with a couple of active children. They're likely
+
+137
+00:14:05,840 --> 00:14:10,560
+to have a pretty involved schedule of meetings and activities, and I think it's important to
+
+138
+00:14:10,560 --> 00:14:17,360
+make things as easy for them to remember and to attend this kind of thing as possible,
+
+139
+00:14:17,360 --> 00:14:22,400
+because they already have a pretty busy schedule. Now, if you apply some of those ideas- like when
+
+140
+00:14:22,400 --> 00:14:27,680
+the court of honor is, what's happening at the court of honor, what the program is, how long
+
+141
+00:14:27,680 --> 00:14:32,400
+the court of honor is and who's actually running the court of honor, you may find that parents
+
+142
+00:14:32,400 --> 00:14:37,600
+and Scouts are a little more interested in them and make a point to attend. Now, that being
+
+143
+00:14:37,600 --> 00:14:42,160
+said, there's little chance you're going to get every single Scout and family to any given court
+
+144
+00:14:42,160 --> 00:14:48,720
+of honor. so do what I do: Concentrate on who shows up and remain aware that a few simple changes
+
+145
+00:14:48,720 --> 00:14:53,600
+may make it possible for a lot more people to get there. It's not the fault of families and
+
+146
+00:14:53,600 --> 00:14:58,400
+Scouts when they don't attend something like this. We ought to look at what we're doing,
+
+147
+00:14:58,400 --> 00:15:03,840
+how we're doing it and why we're doing it before we get too upset that nobody's showing up for
+
+148
+00:15:03,840 --> 00:15:08,240
+what we're doing. Scouts and families vote with their feet. if they aren't showing up,
+
+149
+00:15:08,800 --> 00:15:14,240
+it's more than likely that we may have something off base. Now you also touch on something that
+
+150
+00:15:14,240 --> 00:15:18,480
+a lot of Scoutmasters ask: how do you get a committee to change their old ways?
+
+151
+00:15:18,480 --> 00:15:24,640
+and the answer all begins with training and studying resources like the troop committee
+
+152
+00:15:24,640 --> 00:15:29,360
+guidebook and the guide to advancement and the Scoutmaster handbook. I mean, we all too often
+
+153
+00:15:29,360 --> 00:15:33,840
+think that we have to wait for a training event. You know, we look at a council or a district schedule.
+
+154
+00:15:33,840 --> 00:15:37,600
+we see a training event as a couple months away and we think, okay, we're going to go do that and
+
+155
+00:15:37,600 --> 00:15:41,760
+we try and encourage the people working with the troop to get there. and you know what happens.
+
+156
+00:15:42,400 --> 00:15:48,640
+The schedules are this way and that way. training events can fall at bad times and all of a
+
+157
+00:15:48,640 --> 00:15:54,320
+sudden, instead of five or six people getting there, it's you and maybe one other person. Don't
+
+158
+00:15:54,320 --> 00:15:59,760
+limit yourself that way. take the initiative and get your adult volunteers the resources
+
+159
+00:15:59,760 --> 00:16:04,560
+and work with them to learn about these things together. There's a number of resources out there.
+
+160
+00:16:04,560 --> 00:16:09,280
+there's online training through scoutingorg, there's training events, like I said, at your
+
+161
+00:16:09,280 --> 00:16:14,240
+district or council, and there's always asking somebody to come and hold a training session
+
+162
+00:16:14,240 --> 00:16:19,840
+for your troop and your adult volunteers. If that is unworkable, how about studying
+
+163
+00:16:19,840 --> 00:16:25,200
+things together as a group and using what resources you can find online? Think creatively,
+
+164
+00:16:25,200 --> 00:16:30,320
+get everyone trained or retrained and make that an annual thing. Once you start thinking about
+
+165
+00:16:30,320 --> 00:16:35,520
+these things, old habits have a tendency to get changed, especially when you see the wisdom
+
+166
+00:16:36,080 --> 00:16:40,880
+in a lot of these recommended best practices. I would make one observation about the ego
+
+167
+00:16:40,880 --> 00:16:46,160
+presentation you mentioned. Uniforms are a best, recommended practice and they're not required
+
+168
+00:16:46,160 --> 00:16:52,640
+by policy at any time or any place, and you'll find this in the guide to awards and insignia, on page five,
+
+169
+00:16:52,640 --> 00:16:58,240
+which says- and I'm quoting: while wearing the uniform is not mandatory, it is highly encouraged.
+
+170
+00:16:58,240 --> 00:17:01,920
+the leaders of scouting, both volunteer and professional, promote the wearing of the
+
+171
+00:17:01,920 --> 00:17:06,639
+correct complete uniform on all suitable occasions. Whenever I mention this, I get a lot
+
+172
+00:17:06,639 --> 00:17:13,359
+of comments, and so let's be clear on something: Yes, uniforming. yes, uniforming is one of the
+
+173
+00:17:13,360 --> 00:17:19,280
+methods of scouting. yes, uniforming is important. yes, uniforming is highly encouraged. We've made
+
+174
+00:17:19,280 --> 00:17:23,840
+the mistake sometimes of thinking that it's mandatory and then enshrining unit rules about
+
+175
+00:17:23,840 --> 00:17:28,800
+uniforms and things like that. What I want to do is just encourage you to think about it. okay,
+
+176
+00:17:28,800 --> 00:17:33,920
+and this email came across the transom this week. I'm writing to share part of an email from a
+
+177
+00:17:33,920 --> 00:17:39,760
+parent about merit badges, because to me it's a classic helicopter situation. Here's what she
+
+178
+00:17:39,760 --> 00:17:45,040
+wrote: can you tell me what badges my son has partially completed at summer camp? I'd like to
+
+179
+00:17:45,040 --> 00:17:50,240
+work with you to get these finished up now, between now and summer camp, and I would like him to be able
+
+180
+00:17:50,240 --> 00:17:55,280
+to register for merit badge work at camp on new badges instead of spending his time finishing
+
+181
+00:17:55,280 --> 00:18:00,879
+badges from last year. Additionally, I'd like to talk to you about his earning some of the eagle
+
+182
+00:18:00,879 --> 00:18:07,360
+required badges, like the citizenship badges and things that seem pretty intense. I would like
+
+183
+00:18:07,360 --> 00:18:13,120
+to plan his summer around badge work versus signing him up for all kinds of busy work camps around town.
+
+184
+00:18:13,120 --> 00:18:17,760
+My challenge is is that this parent hasn't picked up on the general hints about the
+
+185
+00:18:17,760 --> 00:18:22,640
+onus being on the scout, the importance of his own interest and motivations being driving
+
+186
+00:18:22,640 --> 00:18:28,240
+factors in earning badges, the real learning that comes from communicating these things.
+
+187
+00:18:28,880 --> 00:18:34,000
+So I'd love to hear your thoughts on how I can send a clear yet respectful message to this
+
+188
+00:18:34,000 --> 00:18:40,400
+parent when the subtle hints I've dropped don't seem to be enough. This is actually a pretty common
+
+189
+00:18:40,400 --> 00:18:46,720
+thing. Parents can be kind of hard driving. they get behind their boys and they really drive them
+
+190
+00:18:46,720 --> 00:18:53,680
+on advancement, and I think that we can do what we can do to explain to them that this should
+
+191
+00:18:53,680 --> 00:18:59,120
+be boy driven, that this should be based on a scout's interests and he should be allowed
+
+192
+00:18:59,120 --> 00:19:05,200
+the latitude to administer his own advancement in the way that he sees fit. Not every parent is
+
+193
+00:19:05,200 --> 00:19:09,920
+going to get this and this is not going to be consistent with every parenting style out there.
+
+194
+00:19:09,920 --> 00:19:14,720
+So what do you do when there's a hard driving parent? Well, first of all, we don't punish the boy,
+
+195
+00:19:14,720 --> 00:19:19,120
+right? We're not going to make remarks about his parents or the way things are going or
+
+196
+00:19:19,120 --> 00:19:23,760
+anything like that. We're going to cooperate with this parent. We're going to do our best
+
+197
+00:19:23,760 --> 00:19:30,080
+to help satisfy what they're trying to do. We don't really know what's going on at home, do we?
+
+198
+00:19:30,080 --> 00:19:35,360
+We don't know what this parent's driving at. It may be that, hey, we just have one of those
+
+199
+00:19:35,360 --> 00:19:40,960
+good tiger moms who's driving the kids pretty hard to achieve, or we may have a mom who's a bit
+
+200
+00:19:40,960 --> 00:19:46,480
+worried about her boy and trying to help him focus and trying to help him use his time wisely.
+
+201
+00:19:46,480 --> 00:19:51,440
+Absent that knowledge, what I would encourage anyone facing this kind of situation to do
+
+202
+00:19:51,440 --> 00:19:58,480
+is to accept the fact that not every parenting style is going to be absolutely consistent with the
+
+203
+00:19:58,480 --> 00:20:04,240
+way that you see parenting and the way that you see scouting, That parents are supporting
+
+204
+00:20:04,240 --> 00:20:09,840
+their boy's participation in scouts because they see that participation as being something consistent
+
+205
+00:20:09,840 --> 00:20:14,000
+with the goals that they have for their sons. If they're going to drive pretty hard and
+
+206
+00:20:14,000 --> 00:20:19,760
+they're going to have maybe more to do with what then we think is appropriate with
+
+207
+00:20:20,560 --> 00:20:26,320
+shaping what their sons do in scouts, we're going to deal with it as diplomatically and as kindly and
+
+208
+00:20:26,320 --> 00:20:31,040
+as respectfully as possible. We're not going to make the scouts suffer for the actions of their
+
+209
+00:20:31,040 --> 00:20:36,800
+parents and we're going to cooperate as much as we possibly can with what parents are doing.
+
+210
+00:20:36,800 --> 00:20:41,920
+Don't take that advice as the thin end of the wedge where we just say, oh well, we can't help
+
+211
+00:20:41,920 --> 00:20:46,560
+anything, so we just go and we do whatever parents want us to do. You know, sometimes
+
+212
+00:20:46,560 --> 00:20:50,080
+there's a line and we need to point that out and we need to say: look, you know,
+
+213
+00:20:51,120 --> 00:20:56,080
+for this to work the way that you want it to work and to achieve the goals that you want it to achieve,
+
+214
+00:20:56,639 --> 00:21:02,159
+I'm going to recommend that you think about maybe stepping back a little bit and helping him focus-
+
+215
+00:21:02,159 --> 00:21:08,639
+yes, but making sure that he's focusing on the things that he wants to do rather than the
+
+216
+00:21:08,639 --> 00:21:14,560
+things that you want him to do. Sometimes a little kind nudging and advice like that works,
+
+217
+00:21:14,639 --> 00:21:20,320
+sometimes it doesn't, and getting ourselves too exercised over it can have negative results for the
+
+218
+00:21:20,320 --> 00:21:26,720
+boy and negative results for the family. so you know, that's my best advice on the situation.
+
+219
+00:21:26,720 --> 00:21:31,919
+everybody's going to handle a little bit differently, but at the basis of it, we're cooperating with
+
+220
+00:21:31,919 --> 00:21:36,399
+parents for what they want for their sons. So if you have a question, you can email me
+
+221
+00:21:36,400 --> 00:21:50,240
+and you'll find out how to do that in just a moment.
+
+222
+00:22:06,720 --> 00:22:13,360
+well, thank you so much for listening. now here's how to keep in touch. you can read the scout master
+
+223
+00:22:13,360 --> 00:22:19,920
+blog at scoutmastercgcom, where you can subscribe to receive updates to the blog by email. you can
+
+224
+00:22:19,920 --> 00:22:24,560
+subscribe to the scout master podcast on iTunes and when you do, please leave a comment to review
+
+225
+00:22:24,560 --> 00:22:29,360
+or a rating. you can access the podcast on your mobile device through stitcher smart radio
+
+226
+00:22:29,360 --> 00:22:34,560
+and you can get details about how to do that at stitchercom. you can also experience the
+
+227
+00:22:34,560 --> 00:22:41,760
+wonders of scoutmastercgcom through the vast panorama of social media outlets. that's right.
+
+228
+00:22:41,760 --> 00:22:48,320
+you can follow us at scoutmaster blog on facebook, tweet scoutmastercg on twitter and, for exclusive
+
+229
+00:22:48,320 --> 00:22:56,000
+admittance to the exclusive scoutmastercg circles, search for scoutmastercg on google plus. if all
+
+230
+00:22:56,000 --> 00:23:02,240
+else fails, there's always email. yep, that's right. zoom into the 90s with me and email me your
+
+231
+00:23:02,320 --> 00:23:10,720
+comments and question and wild ideas at clarkclarke at scoutmastercgcom.
+
+232
+00:23:11,280 --> 00:23:22,160
+clarkclarke at scoutmastercgcom. the scoutmaster blog and the scoutmaster podcast are not official
+
+233
+00:23:22,160 --> 00:23:27,840
+publications the Boy Scouts of America, nor are they endorsed or sponsored by the Boy Scouts of America.
+
+234
+00:23:27,840 --> 00:23:32,399
+no, it's just me sitting in my little home office with a microphone and a laptop,
+
+235
+00:23:32,399 --> 00:23:36,879
+trying to lend a hand to scout leaders and maybe have a little bit of fun along the way.
+
+236
+00:23:36,879 --> 00:23:40,720
+and speaking of fun, here's our founder, Sir Robert Baden Powell. Sir Robert,
+
+237
+00:23:40,720 --> 00:23:57,600
+good luck to you and good camping, why? thank you, sir, until next time.
+

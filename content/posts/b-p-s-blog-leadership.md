@@ -3,8 +3,9 @@ title: "B-P's Blog - Leadership"
 date: 2016-08-23
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20160823091009/http://scoutmastercg.com:80/b-ps-blog-leadership/"
 ---
 

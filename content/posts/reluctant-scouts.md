@@ -2,7 +2,9 @@
 title: "Reluctant Scouts"
 date: 2013-10-11
 draft: false
-categories: ["advancement"]
+topics:
+  - "Parent Relations"
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20150402073915/http://scoutmastercg.com:80/reluctant-scouts/"
 ---
 

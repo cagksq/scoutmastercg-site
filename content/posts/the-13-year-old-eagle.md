@@ -2,7 +2,9 @@
 title: "The 13 year-old Eagle?"
 date: 2015-09-16
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Eagle Scout"
 wayback_url: "https://web.archive.org/web/20150916201404/http://scoutmastercg.com/the-13-year-old-eagle/"
 ---
 

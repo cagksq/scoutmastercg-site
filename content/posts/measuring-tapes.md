@@ -2,7 +2,9 @@
 title: "Measuring Tapes?"
 date: 2014-10-18
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Adult Leadership Roles"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20141018125018/http://scoutmastercg.com:80/measuring_tapes/"
 ---
 

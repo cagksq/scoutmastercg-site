@@ -2,7 +2,9 @@
 title: "The Four Roles of Mentors"
 date: 2011-04-06
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Mentoring & Coaching"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150310235253/http://scoutmastercg.com:80/the-four-roles-of-mentors/"
 ---
 

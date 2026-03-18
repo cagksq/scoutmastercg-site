@@ -2,7 +2,9 @@
 title: "BSA Membership Policy Resources"
 date: 2013-08-10
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20160913214243/http://scoutmastercg.com/bsa-membership-policy-resources/"
 ---
 

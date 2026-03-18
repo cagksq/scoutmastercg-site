@@ -2,7 +2,9 @@
 title: "Kids Need to do Less"
 date: 2011-06-28
 draft: false
-categories: ["scouts"]
+topics:
+  - "Character Development"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20170901190713/http://scoutmastercg.com/kids-need-to-do-less/"
 ---
 

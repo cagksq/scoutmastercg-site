@@ -2,7 +2,9 @@
 title: "The Value, The Rightness, The Truth of the Work Itself."
 date: 2013-10-11
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Personal Reflection"
+  - "Quotes & Brief Reflections"
 wayback_url: "https://web.archive.org/web/20140825013321/http://scoutmastercg.com/the-value-the-rightness-the-truth-of-the-work-itself/"
 ---
 

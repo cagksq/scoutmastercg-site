@@ -1,0 +1,34 @@
+{{ define "main" }}
+  <article class="mw7 center ph3 pb5">
+
+    {{/* Find the main category this topic belongs to */}}
+    {{ range site.Data.topic_structure }}
+      {{ $parent := .name }}
+      {{ range .subcategories }}
+        {{ if eq .name $.Title }}
+          {{ $.Scratch.Set "parentCat" $parent }}
+          {{ $.Scratch.Set "parentSlug" ($parent | urlize) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    <nav class="smcg-breadcrumb">
+      <a href="/">All Topics</a>
+      <span class="smcg-breadcrumb-sep">›</span>
+      <a href="/#{{ $.Scratch.Get "parentSlug" }}">{{ $.Scratch.Get "parentCat" }}</a>
+    </nav>
+
+    <h1 class="topics-page-title">{{ .Title }}</h1>
+    <div class="topics-page-count">{{ len .Pages }} posts</div>
+
+    <div class="topics-page-list">
+      {{ range .Pages.ByDate.Reverse }}
+        <a class="topics-page-row" href="{{ .RelPermalink }}">
+          <div class="topics-page-row-title">{{ .Title }}</div>
+          <div class="topics-page-row-summary">{{ index (split (.Summary | plainify) ".") 0 }}.</div>
+        </a>
+      {{ end }}
+    </div>
+
+  </article>
+{{ end }}

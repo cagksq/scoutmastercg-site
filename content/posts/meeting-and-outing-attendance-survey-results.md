@@ -2,7 +2,8 @@
 title: "Meeting and Outing Attendance Survey Results"
 date: 2012-04-24
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20121220124615/http://www.scoutmastercg.com:80/meeting-and-outing-attendance-survey-results/"
 ---
 

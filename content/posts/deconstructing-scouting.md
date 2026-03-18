@@ -2,10 +2,10 @@
 title: "Deconstructing Scouting"
 date: 2006-01-01
 draft: false
-categories:
-  - scouting-ideals
+topics:
+  - "Leadership Theory"
+  - "Scouting History & Tradition"
 ---
-
 Don't be afraid, deconstruction is not demolition, it is examination. I am not suggesting that we tear things down, but that we understand them.
 
 By deconstruction I mean discovering, recognizing, and understanding the unspoken and the implicit assumptions, ideas, and frameworks of scouting. It is not my intention to deconstruct the program but to describe the process because I have found it helpful.

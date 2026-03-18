@@ -2,7 +2,8 @@
 title: "Avoiding Advancement Clinkers"
 date: 2014-08-25
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20140825015229/http://scoutmastercg.com/avoiding-advancement-clinkers/"
 ---
 

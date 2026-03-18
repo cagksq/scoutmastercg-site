@@ -2,7 +2,9 @@
 title: "Looking Ahead - Recruiting and Membership."
 date: 2009-12-29
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Troop Administration"
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20160924202513/http://scoutmastercg.com:80/looking-ahead-how-many/"
 ---
 

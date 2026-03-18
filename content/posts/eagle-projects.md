@@ -2,7 +2,9 @@
 title: "Eagle Projects"
 date: 2005-12-01
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150919205413/http://scoutmastercg.com/eagle_projects/"
 ---
 

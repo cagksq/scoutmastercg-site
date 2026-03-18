@@ -2,7 +2,8 @@
 title: "A Scout is Obedient - Scoutmaster Minute"
 date: 2009-02-16
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20151014180015/http://scoutmastercg.com/a-scout-is-obedient-scoutmaster-minute/"
 ---
 

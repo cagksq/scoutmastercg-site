@@ -2,7 +2,9 @@
 title: "Mistakes Were Made"
 date: 2013-01-02
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20151014180151/http://scoutmastercg.com/mistakes-were-made/"
 ---
 

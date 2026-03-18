@@ -2,7 +2,9 @@
 title: "Thirsty?"
 date: 2015-09-19
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Kindness Empathy & Inclusion"
+  - "Spirituality & Religion"
 wayback_url: "https://web.archive.org/web/20150919033404/http://scoutmastercg.com/thirsty/"
 ---
 

@@ -2,7 +2,9 @@
 title: "A New Scoutmaster - Chapter Fourteen"
 date: 2015-11-10
 draft: false
-categories: ["scouting-ideals", "scoutmasters-job"]
+topics:
+  - "Discipline & Behavior"
+  - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20151110051936/http://scoutmastercg.com:80/new-scoutmaster-chapter-fourteen/"
 ---
 

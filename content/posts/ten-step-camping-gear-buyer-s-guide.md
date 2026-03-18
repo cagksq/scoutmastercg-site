@@ -2,7 +2,8 @@
 title: "Ten Step Camping Gear Buyer's Guide"
 date: 2012-10-01
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20121001033032/http://www.scoutmastercg.com:80/2011/04/camping-gear-buyers-guide/"
 ---
 

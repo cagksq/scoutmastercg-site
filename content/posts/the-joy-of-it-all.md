@@ -2,7 +2,8 @@
 title: "The Joy Of It All!"
 date: 2013-01-03
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20151017055604/http://scoutmastercg.com/what-should-we-be/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Kim's Game"
 date: 2012-12-20
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scout Activities & Games"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20121220014127/http://www.scoutmastercg.com:80/long-distance-k/"
 ---
 

@@ -3,8 +3,9 @@ title: "B-P's Blog - Camping and Hiking"
 date: 2015-08-30
 draft: false
 image: "/images/bp4.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20160825002442/http://scoutmastercg.com:80/b-ps-blog-camping-and-hiking/"
 ---
 

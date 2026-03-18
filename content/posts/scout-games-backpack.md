@@ -2,7 +2,9 @@
 title: "Scout Games Backpack"
 date: 2017-09-18
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scout Activities & Games"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20170918115049/http://scoutmastercg.com/scout-games-backpack/"
 ---
 

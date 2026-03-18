@@ -2,7 +2,9 @@
 title: "Transcendent Values"
 date: 2012-10-26
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20121026015249/http://www.scoutmastercg.com:80/2012/10/transcendent-values/"
 ---
 

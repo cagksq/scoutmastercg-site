@@ -2,7 +2,9 @@
 title: "Thorns and Roses"
 date: 2014-10-18
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20141018125033/http://scoutmastercg.com:80/thorns_and_rose_1/"
 ---
 

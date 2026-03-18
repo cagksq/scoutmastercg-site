@@ -2,7 +2,9 @@
 title: "Declination"
 date: 2014-08-26
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Personal Reflection"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20140826150912/http://scoutmastercg.com/declination/"
 ---
 

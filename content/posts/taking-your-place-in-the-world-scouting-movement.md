@@ -2,7 +2,8 @@
 title: "Taking Your Place in the World Scouting Movement"
 date: 2014-08-30
 draft: false
-categories: ["scouting-history-ideas", "outdoors"]
+topics:
+  - "International Scouting"
 wayback_url: "https://web.archive.org/web/20141007234857/http://scoutmastercg.com:80/taking-place-world-scouting-movement/"
 ---
 

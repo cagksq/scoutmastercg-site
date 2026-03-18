@@ -2,7 +2,9 @@
 title: "Training or Developing Youth Leaders"
 date: 2015-03-20
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150320090109/http://scoutmastercg.com:80/training-youth-leaders/?"
 ---
 

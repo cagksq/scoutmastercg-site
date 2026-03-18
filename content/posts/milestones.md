@@ -2,7 +2,9 @@
 title: "Milestones"
 date: 2014-10-17
 draft: false
-categories: ["advancement"]
+topics:
+  - "Personal Reflection"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20141017150444/http://scoutmastercg.com:80/milestones/"
 ---
 

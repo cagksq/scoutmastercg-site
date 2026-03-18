@@ -2,7 +2,8 @@
 title: "Keeping it Real"
 date: 2014-08-26
 draft: false
-categories: ["scouts"]
+topics:
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20140826103309/http://scoutmastercg.com/keeping-it-real/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Looking Ahead - Program Health"
 date: 2010-01-01
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Troop Administration"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20141011012003/http://scoutmastercg.com:80/looking-ahead-program-health/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Coaches and Players"
 date: 2005-11-01
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150920025918/http://scoutmastercg.com/coaches_and_pla/"
 ---
 

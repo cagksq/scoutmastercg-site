@@ -2,7 +2,9 @@
 title: "Avoiding Eagle Scout Problems - Part 2"
 date: 2009-11-03
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20141013045830/http://scoutmastercg.com:80/avoiding-eagle-scout-drama-part-2/"
 ---
 

@@ -1,0 +1,1304 @@
+1
+00:00:00,000 --> 00:00:06,500
+I'm Chuck Wolf and I am an Assistant Scout Master with Troop 342 in Raleigh, North Carolina.
+
+2
+00:00:06,500 --> 00:00:10,700
+This edition of the Scout Master podcast is sponsored by backers like me.
+
+3
+00:00:10,700 --> 00:00:12,700
+And now for you, Scout Master-
+
+4
+00:00:19,700 --> 00:00:23,700
+Little-known fact in British royal history:
+
+5
+00:00:23,700 --> 00:00:26,200
+King Richard III ran a camping equipment store-
+
+6
+00:00:26,200 --> 00:00:29,200
+It was the royal camping equipment store- right
+
+7
+00:00:29,200 --> 00:00:30,900
+Right there in London,
+
+8
+00:00:30,900 --> 00:00:34,900
+And every December he would put a big sign in the window that read:
+
+9
+00:00:34,900 --> 00:00:39,400
+Now is the winter of our discount tents.
+
+10
+00:00:41,400 --> 00:00:43,900
+Yep, that's all I got.
+
+11
+00:00:47,500 --> 00:00:50,400
+Hey, this is podcast number 285..
+
+12
+00:00:50,400 --> 00:00:50,900
+Hey,
+
+13
+00:00:59,200 --> 00:01:18,400
+Welcome back to the Scout Master podcast.
+
+14
+00:01:18,400 --> 00:01:19,400
+This is Clark Green.
+
+15
+00:01:19,400 --> 00:01:22,400
+Oh my, let's take a look at the mailbag.
+
+16
+00:01:22,400 --> 00:01:25,400
+Oh, right over on Amazon
+
+17
+00:01:25,800 --> 00:01:32,400
+We got a very kind review of my book- So Far, So Good- from Kendall Brown.
+
+18
+00:01:32,400 --> 00:01:32,800
+He said
+
+19
+00:01:32,800 --> 00:01:34,800
+I read this when it first came out and I loved it.
+
+20
+00:01:34,800 --> 00:01:39,200
+I bought two copies, gave one away to a fellow scouter,
+
+21
+00:01:39,200 --> 00:01:43,800
+the second one to other Assistant Scout Masters in R Troop.
+
+22
+00:01:43,800 --> 00:01:47,300
+There are so many nuggets of how to run a boy-led troop using the patrol method
+
+23
+00:01:47,300 --> 00:01:49,600
+and how to handle the quote difficulties-
+
+24
+00:01:49,600 --> 00:01:51,900
+unquote- that inevitably occur with youth.
+
+25
+00:01:51,900 --> 00:01:53,200
+Keep up the good work, Clark.
+
+26
+00:01:53,200 --> 00:01:54,600
+Well, thank you so much, Kendall.
+
+27
+00:01:54,600 --> 00:01:57,200
+I do so appreciate that
+
+28
+00:01:57,200 --> 00:02:01,200
+If you haven't seen: So Far, So Good: a new Scout Master story.
+
+29
+00:02:01,200 --> 00:02:07,000
+it's an easy read and it's just kind of in a storytelling style.
+
+30
+00:02:07,000 --> 00:02:09,800
+Talks about the patrol method and how you work at it
+
+31
+00:02:09,800 --> 00:02:12,400
+and how you work with scouts to make it happen.
+
+32
+00:02:12,400 --> 00:02:14,200
+You can get it on Amazon, obviously,
+
+33
+00:02:14,200 --> 00:02:18,200
+and you can get an electronic version for your Kindle reader
+
+34
+00:02:18,200 --> 00:02:22,400
+or any other reader at scoutmastercgcom.
+
+35
+00:02:22,400 --> 00:02:24,700
+And while I'm on the subject,
+
+36
+00:02:24,700 --> 00:02:26,400
+if you're a regular reader and listener
+
+37
+00:02:26,400 --> 00:02:28,800
+and the resources that I've created have helped you,
+
+38
+00:02:28,800 --> 00:02:30,300
+I'm asking you return the favor
+
+39
+00:02:30,300 --> 00:02:33,400
+by becoming a scoutmastercgcom backer.
+
+40
+00:02:33,400 --> 00:02:35,800
+The funds we get from backers go to cover the expenses
+
+41
+00:02:35,800 --> 00:02:39,500
+of producing and publishing everything at scoutmastercgcom
+
+42
+00:02:39,500 --> 00:02:42,600
+and including this podcast you're listening to right now.
+
+43
+00:02:42,600 --> 00:02:45,100
+So go to scoutmastercgcom,
+
+44
+00:02:45,100 --> 00:02:47,300
+click the support link at the top of the page
+
+45
+00:02:47,300 --> 00:02:48,900
+and you can choose from a number of options
+
+46
+00:02:48,900 --> 00:02:50,700
+to support this work.
+
+47
+00:02:50,700 --> 00:02:53,700
+I'd like to take a moment to personally thank John Clements,
+
+48
+00:02:53,700 --> 00:02:57,100
+Paul Menina, Kelly Tansy and Gerald Dosh,
+
+49
+00:02:57,100 --> 00:03:00,200
+who've all become backers since our last podcast.
+
+50
+00:03:00,200 --> 00:03:02,600
+Once again, go to scoutmastercgcom,
+
+51
+00:03:02,600 --> 00:03:04,000
+become a backer this week
+
+52
+00:03:04,000 --> 00:03:06,900
+and I'll be sure to thank you during our next podcast.
+
+53
+00:03:06,900 --> 00:03:09,500
+If you keep an eye on our Facebook feed and our Twitter feed,
+
+54
+00:03:09,500 --> 00:03:13,000
+I should say we hit a considerable Facebook milestone this week.
+
+55
+00:03:13,000 --> 00:03:16,600
+If Facebook, if you're not interested in it. just
+
+56
+00:03:16,600 --> 00:03:18,000
+this won't take long,
+
+57
+00:03:18,000 --> 00:03:21,900
+But we got 10,000 likes on Facebook,
+
+58
+00:03:21,900 --> 00:03:24,200
+So we've got 10,000 people looking in
+
+59
+00:03:24,200 --> 00:03:26,400
+on scoutmastercgcom on Facebook.
+
+60
+00:03:26,400 --> 00:03:27,500
+Thanks everybody,
+
+61
+00:03:27,500 --> 00:03:30,300
+That was a pretty big deal and I really appreciate that.
+
+62
+00:03:30,300 --> 00:03:33,300
+But anyway, if you keep an eye on the Facebook feed
+
+63
+00:03:33,300 --> 00:03:35,500
+and our Twitter feed,
+
+64
+00:03:35,500 --> 00:03:38,900
+you will find out that we have live chat sessions
+
+65
+00:03:38,900 --> 00:03:41,000
+And usually these are Tuesday and Wednesday mornings
+
+66
+00:03:41,000 --> 00:03:43,900
+from eight o'clock to around noon time
+
+67
+00:03:43,900 --> 00:03:46,800
+or a little past Eastern time
+
+68
+00:03:46,800 --> 00:03:49,600
+And you can check in and there's a lot of folks that do-
+
+69
+00:03:49,600 --> 00:03:51,900
+we call them our frequent flyers- and they check in
+
+70
+00:03:51,900 --> 00:03:53,600
+and we just discuss.
+
+71
+00:03:53,600 --> 00:03:55,500
+It's just kind of hanging out,
+
+72
+00:03:55,500 --> 00:03:58,100
+And sometimes there are matters of great import
+
+73
+00:03:58,100 --> 00:04:01,400
+and sometimes it's just kind of hanging out.
+
+74
+00:04:01,400 --> 00:04:04,100
+So but I wanted to thank Nick Young,
+
+75
+00:04:04,100 --> 00:04:07,300
+who's an assistant scoutmaster in Southeast Minnesota,
+
+76
+00:04:07,300 --> 00:04:08,600
+who was on the chat this week,
+
+77
+00:04:08,600 --> 00:04:14,300
+as was Jeff Bee, who is an assistant scoutmaster in Nebraska,
+
+78
+00:04:14,300 --> 00:04:17,100
+and Francisco Lea checked in.
+
+79
+00:04:17,100 --> 00:04:18,400
+He's in Tucson, Arizona,
+
+80
+00:04:18,400 --> 00:04:22,200
+where he's currently the scoutmaster of Troop 339..
+
+81
+00:04:22,200 --> 00:04:25,400
+Brad from North Florida, who's a past cubmaster
+
+82
+00:04:25,400 --> 00:04:28,000
+and now working with his son's second year
+
+83
+00:04:28,000 --> 00:04:29,900
+Weeblos Den was there,
+
+84
+00:04:29,900 --> 00:04:32,700
+And Kelly, who's in Iowa, currently the troop committee
+
+85
+00:04:32,700 --> 00:04:34,700
+chair, and during the chat
+
+86
+00:04:34,700 --> 00:04:36,800
+she says she's probably going to become a tiger den leader
+
+87
+00:04:36,800 --> 00:04:38,400
+for her youngest this year.
+
+88
+00:04:38,400 --> 00:04:40,900
+So being a tiger den leader,
+
+89
+00:04:40,900 --> 00:04:42,800
+what a great thing to do
+
+90
+00:04:42,800 --> 00:04:45,300
+and what a great thing for a good experience scouter to do.
+
+91
+00:04:45,300 --> 00:04:46,700
+You should check that out.
+
+92
+00:04:46,700 --> 00:04:48,000
+If you're a good experience scouter
+
+93
+00:04:48,000 --> 00:04:50,500
+and you're not going to too many meetings already,
+
+94
+00:04:50,500 --> 00:04:53,600
+go to the pack and offer to help them with the tiger den.
+
+95
+00:04:53,600 --> 00:04:55,200
+So in this week's podcast,
+
+96
+00:04:55,200 --> 00:04:58,200
+I want to spend some time in Scout Master's ship.
+
+97
+00:04:58,200 --> 00:04:59,200
+in seven minutes or less,
+
+98
+00:04:59,200 --> 00:05:00,700
+which is going to be more than seven minutes,
+
+99
+00:05:00,700 --> 00:05:02,700
+which it almost always is,
+
+100
+00:05:02,700 --> 00:05:05,800
+because you know I like to talk-
+
+101
+00:05:05,800 --> 00:05:09,500
+I want to share some thinking about
+
+102
+00:05:09,500 --> 00:05:14,200
+how we deal with the influences of the broader world,
+
+103
+00:05:14,200 --> 00:05:15,800
+of our broader culture,
+
+104
+00:05:15,800 --> 00:05:18,200
+when we're working with our scouts,
+
+105
+00:05:18,200 --> 00:05:20,100
+and that's going to take up the remainder of the podcast.
+
+106
+00:05:20,100 --> 00:05:21,100
+So let's get started.
+
+107
+00:05:21,100 --> 00:05:22,100
+Shall we?
+
+108
+00:05:22,700 --> 00:05:35,500
+He's my favorite all time boys scout.
+
+109
+00:05:35,500 --> 00:05:45,400
+You're my favorite all time boys scout.
+
+110
+00:05:45,400 --> 00:05:46,000
+You're my favorite all time boys scout.
+
+111
+00:05:46,000 --> 00:05:49,440
+You were always on the beat boy, beat boy. yeah,
+
+112
+00:05:49,440 --> 00:05:52,640
+You were always on the beat boy, beat boy.
+
+113
+00:05:52,640 --> 00:05:56,160
+I'm hanging in the street boy, street boy.
+
+114
+00:05:56,160 --> 00:05:59,680
+We were dancing to the beat boy, beat boy. yeah,
+
+115
+00:05:59,680 --> 00:06:02,960
+Feel my favorite all-time boys now.
+
+116
+00:06:02,960 --> 00:06:06,400
+Feel my favorite all-time boys now.
+
+117
+00:06:06,400 --> 00:06:10,480
+He's my favorite all-time boys Scout.
+
+118
+00:06:16,000 --> 00:06:30,160
+What do we do about the outside influences in the lives of our Scouts?
+
+119
+00:06:30,160 --> 00:06:35,520
+To begin with, let's figure out what's outside and what's inside.
+
+120
+00:06:35,520 --> 00:06:41,760
+So for the purposes of this discussion, let's make this very, very simple. okay,
+
+121
+00:06:41,760 --> 00:06:45,360
+Outside influences on our Scouts are something that's beyond the scope of
+
+122
+00:06:45,360 --> 00:06:49,120
+our control as Scouts. Inside influences are
+
+123
+00:06:49,120 --> 00:06:52,240
+something within the scope of our control as Scouts.
+
+124
+00:06:52,240 --> 00:06:55,920
+So let's take a look at what's outside of our control.
+
+125
+00:06:55,920 --> 00:07:01,280
+So pick any time in the last century or the century
+
+126
+00:07:01,280 --> 00:07:04,560
+preceding that, or indeed the one preceding that,
+
+127
+00:07:04,560 --> 00:07:08,800
+and you'll read about adults working with young people
+
+128
+00:07:08,800 --> 00:07:12,640
+battling the broader influences, the outside ones,
+
+129
+00:07:12,640 --> 00:07:16,000
+that they can't control, And confronting something you can't control
+
+130
+00:07:16,000 --> 00:07:19,599
+feels terrible, doesn't it? I mean, it's just very
+
+131
+00:07:19,599 --> 00:07:25,440
+oh, it's upsetting and it takes up a lot of energy and a lot of time.
+
+132
+00:07:25,440 --> 00:07:31,280
+It's it's a kind of silly and it's also really aggravating and frustrating.
+
+133
+00:07:31,280 --> 00:07:34,560
+There's a lot of bad feeling that comes with it, isn't there?
+
+134
+00:07:34,560 --> 00:07:39,440
+You have a feeling of helplessness and you just try and
+
+135
+00:07:39,440 --> 00:07:42,800
+fight against things. I want to suggest a better way
+
+136
+00:07:42,800 --> 00:07:46,000
+of dealing with these things beyond our control. okay,
+
+137
+00:07:46,000 --> 00:07:50,800
+Because we're outnumbered, We're outgunned.
+
+138
+00:07:50,800 --> 00:07:54,400
+Here's how psychologist and social philosopher
+
+139
+00:07:54,400 --> 00:07:59,440
+BF Skinner put it in his book Walden II, He said each of us has interests
+
+140
+00:07:59,440 --> 00:08:02,880
+which conflict with the interests of everybody else.
+
+141
+00:08:02,880 --> 00:08:07,760
+Everybody else we call society. It's a powerful opponent and it almost
+
+142
+00:08:07,760 --> 00:08:11,120
+always wins. Oh, here and there, an individual prevails
+
+143
+00:08:11,120 --> 00:08:15,360
+for a while and he gets what he wants. Sometimes he storms the culture of a
+
+144
+00:08:15,360 --> 00:08:18,560
+society and changes it to his own advantage,
+
+145
+00:08:18,560 --> 00:08:25,920
+But society wins in the long run, for it has the advantage of numbers and age.
+
+146
+00:08:25,920 --> 00:08:29,120
+So, while we're on this philosophical plane for a moment, we're all humans,
+
+147
+00:08:29,120 --> 00:08:33,200
+right, We're all swimming in a sea of influences, Call them what you may.
+
+148
+00:08:33,200 --> 00:08:36,480
+Some of them are within our control and some of them are outside of our
+
+149
+00:08:36,480 --> 00:08:41,600
+control, And these influences, for good or ill, have always been with us.
+
+150
+00:08:41,600 --> 00:08:47,680
+They're a part of what we'll call for the purposes of this discussion, the human
+
+151
+00:08:47,680 --> 00:08:51,680
+condition. Now, I hear from a lot of people and I
+
+152
+00:08:51,680 --> 00:08:55,760
+am. one of the common threads that I hear from scouts about
+
+153
+00:08:55,760 --> 00:09:00,960
+is things like outside influences, like video games and cell phones, and the
+
+154
+00:09:00,960 --> 00:09:05,600
+level of involvement of the scouts, parents and things that are really not
+
+155
+00:09:05,600 --> 00:09:09,920
+within the scope of a scouter's control. Now, think about
+
+156
+00:09:09,920 --> 00:09:13,040
+this, okay, Because before we had cell phones and video
+
+157
+00:09:13,040 --> 00:09:16,960
+games to contend with, there was TV, and before TV there was radio. and before
+
+158
+00:09:16,960 --> 00:09:20,880
+radio there was moving pictures. and before moving pictures
+
+159
+00:09:20,880 --> 00:09:24,480
+there was burlesque shows in vaudeville. and
+
+160
+00:09:24,480 --> 00:09:28,640
+before burlesque shows in vaudeville there were spicy novels.
+
+161
+00:09:28,640 --> 00:09:32,720
+and you know that guy Gutenberg, with his movable type, he caused a lot of
+
+162
+00:09:32,720 --> 00:09:35,440
+trouble. Now I'm not saying that influences that are
+
+163
+00:09:35,440 --> 00:09:39,040
+outside the scope of our control are are either
+
+164
+00:09:39,040 --> 00:09:42,640
+insignificant or they're totally objectively good
+
+165
+00:09:42,640 --> 00:09:48,400
+or bad. You know, we just have to accept the premise
+
+166
+00:09:48,400 --> 00:09:52,640
+that our scouts are subject to a number of influences beyond the scope of our
+
+167
+00:09:52,640 --> 00:09:56,400
+control. It's part of the human condition. So what do we do?
+
+168
+00:09:56,400 --> 00:10:00,560
+Do we just give up or do we go to battle with these influences?
+
+169
+00:10:00,560 --> 00:10:05,120
+So let's get tie all of this to some very practical things we can apply in our
+
+170
+00:10:05,120 --> 00:10:08,720
+work as scouts. I think that if we go to battle with the
+
+171
+00:10:08,720 --> 00:10:11,680
+human condition, it means we're fighting a losing battle. Remember,
+
+172
+00:10:11,680 --> 00:10:16,480
+society wins in the long run, for it has the advantage of numbers and age.
+
+173
+00:10:16,480 --> 00:10:20,400
+Now you can look at something like that and you go, oh well, let's just give up.
+
+174
+00:10:20,400 --> 00:10:23,760
+then You know, we don't, we, there's nothing we can do.
+
+175
+00:10:23,760 --> 00:10:27,600
+so we'll just give up and let these influences roll over us and roll over
+
+176
+00:10:27,600 --> 00:10:30,720
+our scouts, and everything will go to hell in a hand basket.
+
+177
+00:10:30,720 --> 00:10:34,480
+But that's not what I'm saying. If battling the human condition is fighting
+
+178
+00:10:34,480 --> 00:10:37,920
+a losing battle, that doesn't mean that the only other option
+
+179
+00:10:37,920 --> 00:10:42,320
+is surrendering. I'm not saying that we're going to surrender,
+
+180
+00:10:42,320 --> 00:10:45,840
+but we have to get to a point to make some progress.
+
+181
+00:10:45,840 --> 00:10:49,280
+and when we accept that these influences have always been there and
+
+182
+00:10:49,280 --> 00:10:52,960
+they will always be there- they simply are what they are-
+
+183
+00:10:52,960 --> 00:10:56,320
+we're going to start making some progress. In his book
+
+184
+00:10:56,320 --> 00:11:00,480
+Aids to Scout Mastership, Baden Powell discusses dealing with
+
+185
+00:11:00,480 --> 00:11:05,280
+these types of broad outside influences. He he talks about things like moving
+
+186
+00:11:05,280 --> 00:11:09,760
+pictures in almost exactly the same terms that I
+
+187
+00:11:09,760 --> 00:11:13,280
+hear applied to things like cell phones and the internet today.
+
+188
+00:11:13,280 --> 00:11:17,120
+But after he kind of examines the corrosive influence of moving pictures
+
+189
+00:11:17,120 --> 00:11:20,640
+on our youth, he encourages us to replace
+
+190
+00:11:20,640 --> 00:11:25,040
+those influences with something positive. and he quoted me says:
+
+191
+00:11:25,040 --> 00:11:30,319
+you can't do this by forbidding or punishment, but by substituting
+
+192
+00:11:30,319 --> 00:11:35,839
+something at least equally attractive but good in its effects.
+
+193
+00:11:35,839 --> 00:11:39,199
+And over and over again in his writings Baden Powell talks about
+
+194
+00:11:39,199 --> 00:11:43,120
+this very simple concept, and you know what it boils down to. it's kind of
+
+195
+00:11:43,120 --> 00:11:45,920
+trite and you've heard it a thousand times before.
+
+196
+00:11:45,920 --> 00:11:49,839
+it's better to light a single candle than to curse the darkness. so we don't
+
+197
+00:11:49,839 --> 00:11:53,520
+give up. We don't let the broader influences of
+
+198
+00:11:53,520 --> 00:11:56,640
+the human condition just roll over us and say, well,
+
+199
+00:11:56,640 --> 00:12:01,199
+nothing I can control, oh well, we'll just do it. but we don't go to battle with them
+
+200
+00:12:01,199 --> 00:12:04,079
+either. What we do, we set up something that, as
+
+201
+00:12:04,079 --> 00:12:09,360
+Baden Powell said, is equally attractive but good in its effects,
+
+202
+00:12:09,360 --> 00:12:13,520
+And once I started doing just that, I learned
+
+203
+00:12:13,520 --> 00:12:17,280
+not to battle with these things anymore and I honestly I don't pay much attention
+
+204
+00:12:17,280 --> 00:12:20,640
+to them because it's really a waste of my time.
+
+205
+00:12:20,640 --> 00:12:24,720
+I'm trying to control things I can't control. I'm not going to do that.
+
+206
+00:12:24,720 --> 00:12:29,040
+What I found is, if I apply my energy in my time
+
+207
+00:12:29,040 --> 00:12:32,160
+to making sure scouts get the opportunities
+
+208
+00:12:32,160 --> 00:12:36,800
+to do what scouts do and I make the most of those opportunities,
+
+209
+00:12:36,800 --> 00:12:40,480
+I don't have to worry about battling outside influences, because I've got
+
+210
+00:12:40,480 --> 00:12:43,760
+something better. I've got a program of lively
+
+211
+00:12:43,760 --> 00:12:48,480
+activities at whose center is the scout oath and the scout law and the
+
+212
+00:12:48,480 --> 00:12:52,720
+development of character and man. it really, really works.
+
+213
+00:12:52,720 --> 00:12:57,200
+I don't have to forbid my scouts to bring video games and cell phones on
+
+214
+00:12:57,200 --> 00:13:00,800
+camping trips. I just need to make sure that there's no reason
+
+215
+00:13:00,800 --> 00:13:04,960
+they would need to have them because they're so engaged and excited
+
+216
+00:13:04,960 --> 00:13:08,400
+in developing their character and discovering all of this wonderful
+
+217
+00:13:08,400 --> 00:13:11,840
+stuff about the scout, oath and law through these vibrant,
+
+218
+00:13:11,840 --> 00:13:15,760
+engaging activities. they don't need a cell phone,
+
+219
+00:13:15,840 --> 00:13:19,040
+you know I I haven't even thought about my cell phone-
+
+220
+00:13:19,040 --> 00:13:23,600
+that it shouts down all of these other influences.
+
+221
+00:13:23,600 --> 00:13:27,439
+Each of our scouts has talents and abilities and each has challenges and
+
+222
+00:13:27,439 --> 00:13:31,360
+difficulties. The interesting thing is, if we spend
+
+223
+00:13:31,360 --> 00:13:36,080
+our time focusing on how scouting can have a positive influence
+
+224
+00:13:36,080 --> 00:13:39,520
+on developing the talents and abilities
+
+225
+00:13:39,520 --> 00:13:44,160
+the, their challenges and difficulties and the outside influences over which we
+
+226
+00:13:44,160 --> 00:13:47,360
+have no control and are part of the human condition,
+
+227
+00:13:47,360 --> 00:13:51,199
+they kind of become irrelevant. So remember we were talking about inside and
+
+228
+00:13:51,199 --> 00:13:55,040
+outside that stuff, outside our control and inside our control. well,
+
+229
+00:13:55,040 --> 00:13:59,439
+getting getting our scouts into the scouting environment right,
+
+230
+00:13:59,439 --> 00:14:03,680
+getting them into the place where we do have some control,
+
+231
+00:14:03,680 --> 00:14:10,079
+is an incredibly powerful force for good in their lives. The other thing
+
+232
+00:14:10,079 --> 00:14:13,760
+that you'll see if you read back, you know, like I said, over the last
+
+233
+00:14:13,840 --> 00:14:17,920
+century of scouting, you will see scouts talking about
+
+234
+00:14:17,920 --> 00:14:22,560
+the influence of an involvement of scouts families
+
+235
+00:14:22,560 --> 00:14:26,800
+and how it affects their involvement in scouting. This is also
+
+236
+00:14:26,800 --> 00:14:30,000
+almost totally beyond the scope of our control of scouts.
+
+237
+00:14:30,000 --> 00:14:34,000
+We can encourage and incentivize families
+
+238
+00:14:34,000 --> 00:14:37,680
+to work in a certain way for us. but beyond that,
+
+239
+00:14:37,680 --> 00:14:41,360
+we can't go into everybody's homes and tell them how to raise their
+
+240
+00:14:41,360 --> 00:14:44,960
+children. If you think about it, every parent that I've ever known,
+
+241
+00:14:44,960 --> 00:14:50,480
+myself included, is a good influence in some ways- and I'm not so great- or about
+
+242
+00:14:50,480 --> 00:14:53,680
+influence in others, and you got to kind of roll with that
+
+243
+00:14:53,680 --> 00:14:57,040
+and you have to accept the fact that the way parents are
+
+244
+00:14:57,040 --> 00:15:00,800
+is, for the most part, beyond the scope of your control.
+
+245
+00:15:00,800 --> 00:15:04,080
+so any so let's buy a show of hands. tell me
+
+246
+00:15:04,080 --> 00:15:08,320
+who picked their parents. which one who's listening
+
+247
+00:15:08,320 --> 00:15:11,520
+picked their parents? I don't see any hands. okay,
+
+248
+00:15:11,520 --> 00:15:15,040
+nobody picks their parents. our scouts didn't choose their parents
+
+249
+00:15:15,040 --> 00:15:18,720
+and changing how their parents are is certainly beyond the scope of their
+
+250
+00:15:18,720 --> 00:15:21,440
+control. and if you, if you accept that scouts
+
+251
+00:15:21,440 --> 00:15:24,400
+are pretty powerless to change their parents and they play the hand that
+
+252
+00:15:24,400 --> 00:15:27,840
+they're, they're dealt them, we get some clues about how
+
+253
+00:15:27,840 --> 00:15:31,040
+to work with them individually to help them discover and
+
+254
+00:15:31,040 --> 00:15:35,040
+realize their potential, no matter what kind of influence their parents are
+
+255
+00:15:35,040 --> 00:15:39,280
+asserting. and it can be hard work for us to find a way
+
+256
+00:15:39,280 --> 00:15:42,959
+to make that happen for each individual scout and I've there have been many
+
+257
+00:15:42,959 --> 00:15:45,520
+times where I've talked with parents, formally or
+
+258
+00:15:45,520 --> 00:15:48,719
+informally, and I've made some suggestions about how things could go
+
+259
+00:15:48,719 --> 00:15:51,760
+better for them in the context of how things are going
+
+260
+00:15:51,760 --> 00:15:54,000
+and scouting. sometimes it means getting more involved,
+
+261
+00:15:54,000 --> 00:15:58,079
+something more often than not it's kind of like: oh well, back,
+
+262
+00:15:58,079 --> 00:16:01,520
+often, let him do his thing, and sometimes this works
+
+263
+00:16:01,520 --> 00:16:06,000
+and sometimes it doesn't- again beyond the scope of my control.
+
+264
+00:16:06,000 --> 00:16:11,840
+if I spend my time and my energy on things that are wholly within my power-
+
+265
+00:16:11,840 --> 00:16:17,360
+right, like making sure my scouts get the opportunities to do what scouts do,
+
+266
+00:16:17,360 --> 00:16:21,520
+and I work at making the most of each of those opportunities,
+
+267
+00:16:21,520 --> 00:16:27,520
+then I begin to see progress in their lives. I begin to see the scout oath
+
+268
+00:16:27,520 --> 00:16:33,360
+and law active in their lives and, in the relatively short amount of time
+
+269
+00:16:33,360 --> 00:16:36,880
+that their lives are within the scope of my control,
+
+270
+00:16:36,880 --> 00:16:44,480
+I help them learn things that will enable them to navigate that wide world of
+
+271
+00:16:44,480 --> 00:16:48,319
+influences that are beyond the scope of my control.
+
+272
+00:16:48,319 --> 00:16:52,880
+so, as I said before, this is- this is a kind of a wordy, complicated way
+
+273
+00:16:52,880 --> 00:16:56,560
+of saying: hey, you know, instead of cursing in darkness, let's light a candle
+
+274
+00:16:56,560 --> 00:17:00,320
+here. instead of battling with the human condition,
+
+275
+00:17:00,320 --> 00:17:05,200
+let's get really good at providing opportunities for our scouts to
+
+276
+00:17:05,200 --> 00:17:09,360
+live the oath and law and grow in character,
+
+277
+00:17:09,360 --> 00:17:13,440
+grow in stature as human beings and enable them
+
+278
+00:17:13,440 --> 00:17:17,360
+to navigate the rest of their lives and the rest of the world
+
+279
+00:17:17,360 --> 00:17:21,680
+beyond the scope of our control. it works, I got to tell you it works.
+
+280
+00:17:21,680 --> 00:17:25,280
+if you think that it's going to work in a week and a half,
+
+281
+00:17:25,280 --> 00:17:29,280
+if you think that it's going to work in a year or even two,
+
+282
+00:17:29,280 --> 00:17:34,160
+you're probably mistaken. it takes a long time. it takes a lot of patience,
+
+283
+00:17:34,160 --> 00:17:38,320
+it takes getting a real handle on the principles
+
+284
+00:17:38,320 --> 00:17:41,760
+of scouting and the principles in the oath and law.
+
+285
+00:17:41,760 --> 00:17:45,200
+and remember, we're not about controlling
+
+286
+00:17:45,200 --> 00:17:50,160
+and changing the conduct of our scouts, because if that was our goal,
+
+287
+00:17:50,160 --> 00:17:53,680
+all we need to do is make a bunch of rules- okay,
+
+288
+00:17:53,680 --> 00:17:57,680
+and that's the easiest way to control the conduct of
+
+289
+00:17:57,680 --> 00:18:01,920
+a group of people- set up a bunch of laws and rules that controls their conduct.
+
+290
+00:18:01,920 --> 00:18:05,440
+but we have a bigger aim, don't we? we have something much bigger than
+
+291
+00:18:05,440 --> 00:18:09,200
+controlling their conduct, because we understand that their conduct
+
+292
+00:18:09,200 --> 00:18:12,720
+and the way that they navigate the world is motivated
+
+293
+00:18:12,720 --> 00:18:16,880
+by their character, by the kind of human being they are.
+
+294
+00:18:16,880 --> 00:18:20,960
+rather than trying to control their conduct, what we're doing is we're
+
+295
+00:18:20,960 --> 00:18:24,880
+building their character. rules, control conduct. they do a very good
+
+296
+00:18:24,880 --> 00:18:30,080
+job of that. but to build character you use principles,
+
+297
+00:18:30,080 --> 00:18:34,800
+and the principles in the scout oath and law are incredibly strong tools to do
+
+298
+00:18:34,800 --> 00:18:38,000
+just that.
+
+299
+00:18:50,960 --> 00:19:03,360
+hey, thanks for listening to this 285th edition of the scout master podcast.
+
+300
+00:19:03,360 --> 00:19:07,600
+here's how you can keep in touch. read the blog at scoutmastercgcom and, while
+
+301
+00:19:07,600 --> 00:19:11,200
+you're there, you can subscribe to receive updates to the blog by email.
+
+302
+00:19:11,200 --> 00:19:14,400
+you can experience all the wonders of scoutmastercgcom
+
+303
+00:19:14,400 --> 00:19:19,120
+through the vast panorama of social media. join the now 10 000 folks who
+
+304
+00:19:19,120 --> 00:19:22,960
+like scoutmaster blog on facebook. tweet along with the chorus of 1,300
+
+305
+00:19:22,960 --> 00:19:25,680
+tweeters on twitter. pin the pultritudinous pictures we
+
+306
+00:19:25,680 --> 00:19:30,880
+proffer publicly with 2,300 other prolific pinners on pinterest.
+
+307
+00:19:30,880 --> 00:19:34,400
+watch us at scoutmastercg on youtube. but look, i understand.
+
+308
+00:19:34,400 --> 00:19:37,600
+not everybody can face facebook. twitter makes some people
+
+309
+00:19:37,600 --> 00:19:41,360
+downright bitter. not everybody has an interest in pinterest
+
+310
+00:19:41,360 --> 00:19:44,880
+and a lot of us don't put the? u in youtube. but that's all right. all you
+
+311
+00:19:44,880 --> 00:19:48,720
+got to do is zoom into the late 90s and send me an email.
+
+312
+00:19:48,720 --> 00:19:54,320
+i'm available all the time at clark at scoutmastercgcom.
+
+313
+00:19:54,320 --> 00:20:04,480
+it's c, l, a, r, k, e at scoutmastercgcom. and if email doesn't work for you, if you've
+
+314
+00:20:04,480 --> 00:20:07,840
+got up on the roof of your scout camp headquarters,
+
+315
+00:20:07,840 --> 00:20:11,120
+you'll find a big spotlight that projects a special signal up against the
+
+316
+00:20:11,120 --> 00:20:14,720
+clouds, switching on for a few minutes, and i'll get in touch.
+
+317
+00:20:14,720 --> 00:20:17,920
+alls i need to do before we go is remind you that the scout master blog and
+
+318
+00:20:17,920 --> 00:20:22,080
+the scout master podcast are not official publications of anybody in
+
+319
+00:20:22,080 --> 00:20:25,200
+particular other than myself. they're not endorsed
+
+320
+00:20:25,200 --> 00:20:29,040
+or sponsored by the Boy Scouts of America or any other scouting organization.
+
+321
+00:20:29,040 --> 00:20:33,760
+they're not official anything. it's just me trying to lend a hand to my fellow
+
+322
+00:20:33,760 --> 00:20:37,280
+scouts, talking into this microphone and having a
+
+323
+00:20:37,280 --> 00:20:40,240
+little bit of fun as we go along. and speaking of fun,
+
+324
+00:20:40,240 --> 00:20:43,680
+here's our founder, sir robert bedan. pal, sir robert.
+
+325
+00:20:43,680 --> 00:20:48,000
+good luck to you and good camping, why? thank you, sir.
+
+326
+00:20:48,000 --> 00:21:00,320
+until next time, everyone.
+

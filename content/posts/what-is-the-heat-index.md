@@ -2,7 +2,9 @@
 title: "What is the Heat Index ?"
 date: 2011-07-14
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20110724083543/http://www.scoutmastercg.com:80/2011/07/heat-index-2/"
 ---
 

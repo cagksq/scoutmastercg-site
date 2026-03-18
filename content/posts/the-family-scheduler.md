@@ -2,7 +2,9 @@
 title: "The Family Scheduler"
 date: 2017-07-08
 draft: false
-categories: ["patrol-method", "scouting-history-ideas"]
+topics:
+  - "Parent Relations"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20170708234613/http://scoutmastercg.com/the-family-scheduler/"
 ---
 

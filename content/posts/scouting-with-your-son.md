@@ -2,7 +2,9 @@
 title: "Scouting With Your Son"
 date: 2012-12-17
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Parent Relations"
+  - "Scout Parents"
 wayback_url: "https://web.archive.org/web/20121217065751/http://www.scoutmastercg.com:80/scouting-with-your-son/"
 ---
 

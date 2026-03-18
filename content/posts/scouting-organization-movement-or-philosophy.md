@@ -2,7 +2,9 @@
 title: "Scouting: Organization, Movement or Philosophy?"
 date: 2014-08-23
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scouting History & Tradition"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20140823025827/http://scoutmastercg.com/scouting-organization-movement-or-philosophy/"
 ---
 

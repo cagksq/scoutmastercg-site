@@ -2,8 +2,8 @@
 title: "Sand County Almanac - Aldo Leopold"
 date: 2014-08-29
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20140829123745/http://scoutmastercg.com/aldo-leopold/"
 ---
 

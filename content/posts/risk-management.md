@@ -2,7 +2,8 @@
 title: "Risk Management"
 date: 2015-09-16
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20150916202248/http://scoutmastercg.com/rsik_management/"
 ---
 

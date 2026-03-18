@@ -2,7 +2,9 @@
 title: "What is a Junior Assistant Scoutmaster?"
 date: 2017-06-06
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20170606143948/http://scoutmastercg.com/what-is-a-junior-assistant-scoutmaster/"
 ---
 

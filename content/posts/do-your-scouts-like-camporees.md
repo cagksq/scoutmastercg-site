@@ -2,7 +2,9 @@
 title: "Do your Scouts like Camporees?"
 date: 2012-01-04
 draft: false
-categories: ["outdoors", "patrol-method"]
+topics:
+  - "Scout Activities & Games"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20121229025900/http://www.scoutmastercg.com:80/do-your-scouts-like-camporees/"
 ---
 

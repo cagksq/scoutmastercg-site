@@ -2,7 +2,8 @@
 title: "Scout Summer Camp Information"
 date: 2014-12-23
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Summer Camp"
 wayback_url: "https://web.archive.org/web/20141223164102/http://scoutmastercg.com:80/scout-summer-camp-information/"
 ---
 

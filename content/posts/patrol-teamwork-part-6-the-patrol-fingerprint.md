@@ -2,7 +2,9 @@
 title: "Patrol Teamwork Part 6 - The Patrol Fingerprint"
 date: 2016-07-19
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20160719022947/http://scoutmastercg.com:80/patrol-teamwork-part-6-patrol-fingerprint/"
 ---
 

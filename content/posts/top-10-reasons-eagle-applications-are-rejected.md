@@ -2,7 +2,9 @@
 title: "Top 10 Reasons Eagle Applications are Rejected"
 date: 2013-02-24
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20130224105924/http://www.scoutmastercg.com:80/top_10_reasons_/"
 ---
 

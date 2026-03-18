@@ -2,7 +2,9 @@
 title: "The Twain Effect"
 date: 2006-01-01
 draft: false
-categories: ["scouts"]
+topics:
+  - "Scout Parents"
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20121029030734/http://www.scoutmastercg.com:80/2012/10/the_twain_effec/"
 ---
 

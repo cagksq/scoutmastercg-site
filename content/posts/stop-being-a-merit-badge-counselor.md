@@ -2,7 +2,9 @@
 title: "Stop Being a Merit Badge Counselor"
 date: 2015-05-22
 draft: false
-categories: ["advancement"]
+topics:
+  - "Mentoring & Coaching"
+  - "Merit Badges"
 wayback_url: "https://web.archive.org/web/20150522035047/http://scoutmastercg.com:80/stop-being-a-merit-badge-counselor/?"
 ---
 

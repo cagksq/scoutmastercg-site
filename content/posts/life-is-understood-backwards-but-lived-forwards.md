@@ -2,7 +2,9 @@
 title: "Life is understood backwards; but lived forwards.."
 date: 2012-11-12
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Personal Reflection"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150926210320/http://scoutmastercg.com:80/life-can-only-be-understood-backwards-but-it-must-be-lived-forwards/"
 ---
 

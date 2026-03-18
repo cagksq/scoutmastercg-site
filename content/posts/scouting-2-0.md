@@ -2,7 +2,9 @@
 title: "Scouting 2.0?"
 date: 2012-11-18
 draft: false
-categories: ["scouting-ideals", "advancement"]
+topics:
+  - "Leadership Theory"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20121118214900/http://www.scoutmastercg.com:80/2012/11/scouting-2-0/"
 ---
 

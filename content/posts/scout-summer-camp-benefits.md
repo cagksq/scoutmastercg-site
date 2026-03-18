@@ -2,7 +2,9 @@
 title: "Scout Summer Camp Benefits"
 date: 2013-08-01
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Summer Camp"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20140829173627/http://scoutmastercg.com/scout-summer-camp-benefits/?replytocom=13145"
 ---
 

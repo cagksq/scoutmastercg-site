@@ -2,7 +2,9 @@
 title: "Happy (Scout) Mother's Day!"
 date: 2013-10-11
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Parent Relations"
+  - "Scout Parents"
 wayback_url: "https://web.archive.org/web/20170630071449/http://scoutmastercg.com/happy-scout-mothers-day/"
 ---
 

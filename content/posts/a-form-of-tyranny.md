@@ -2,7 +2,8 @@
 title: "A 'Form' of Tyranny"
 date: 2009-11-11
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scoutmaster Conference"
 wayback_url: "https://web.archive.org/web/20140824202537/http://scoutmastercg.com/oh-horrors/"
 ---
 

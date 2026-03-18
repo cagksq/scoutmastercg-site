@@ -2,7 +2,9 @@
 title: "Scouting Jargon"
 date: 2014-10-08
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Instructional Methods"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20141008162942/http://scoutmastercg.com:80/scouting-jargon/"
 ---
 

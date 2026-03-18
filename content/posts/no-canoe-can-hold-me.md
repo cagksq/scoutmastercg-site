@@ -2,7 +2,9 @@
 title: "No Canoe Can Hold Me"
 date: 2006-03-29
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20121220014153/http://www.scoutmastercg.com:80/no_canoe_can_ho/"
 ---
 

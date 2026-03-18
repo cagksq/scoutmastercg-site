@@ -2,7 +2,9 @@
 title: "Fledge Eagle Scout"
 date: 2012-12-19
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20121219142611/http://www.scoutmastercg.com:80/fledge_eagle_scouts/"
 ---
 

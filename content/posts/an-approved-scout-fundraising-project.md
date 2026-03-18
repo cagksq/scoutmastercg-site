@@ -2,7 +2,8 @@
 title: "An Approved Scout Fundraising Project"
 date: 2013-08-10
 draft: false
-categories: ["scouting-history-ideas", "scoutmasters-job"]
+topics:
+  - "Fundraising & Finances"
 wayback_url: "https://web.archive.org/web/20140901034540/http://scoutmastercg.com/an-approved-scout-fundraising-project/?replytocom=48802"
 ---
 

@@ -2,7 +2,9 @@
 title: "Four Steps to Scout Advancement - Introduction"
 date: 2012-11-20
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Baden-Powell Writings"
 wayback_url: "https://web.archive.org/web/20121128180608/http://www.scoutmastercg.com:80/2012/11/four-steps-to-scout-advancement-overview/"
 ---
 

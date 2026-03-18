@@ -2,7 +2,9 @@
 title: "Developing Youth Leaders - Ready, Fire, Aim"
 date: 2015-07-11
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20150711050937/http://scoutmastercg.com:80/developing-youth-leaders-ready-fire-aim/?"
 ---
 

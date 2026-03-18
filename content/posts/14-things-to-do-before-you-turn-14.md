@@ -2,7 +2,8 @@
 title: "14 things to do before you turn 14"
 date: 2016-03-31
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scout Activities & Games"
 wayback_url: "https://web.archive.org/web/20160331085544/http://scoutmastercg.com:80/14-things-to-do-before-you-turn-14/"
 ---
 

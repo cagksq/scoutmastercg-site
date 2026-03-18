@@ -2,7 +2,9 @@
 title: "Earnest Thompson-Seton and Scouts"
 date: 2017-09-01
 draft: false
-categories: ["scouting-ideals", "scouting-history-ideas"]
+topics:
+  - "Scouting History & Tradition"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20170901184314/http://scoutmastercg.com/earnest-thompson-seton-and-scouts/"
 ---
 

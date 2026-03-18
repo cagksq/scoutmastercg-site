@@ -2,7 +2,8 @@
 title: "Adolescent Brain"
 date: 2014-08-24
 draft: false
-categories: ["scouts"]
+topics:
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20140824215659/http://scoutmastercg.com/adolescent-brain/"
 ---
 

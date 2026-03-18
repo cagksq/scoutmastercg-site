@@ -1,0 +1,976 @@
+1
+00:00:00,000 --> 00:00:05,680
+I'm Jonathan Brower and I'm a Scoutmaster with Troop 19 in Fort Wayne, Indiana.
+
+2
+00:00:05,680 --> 00:00:09,360
+This edition of the Scoutmaster podcast is sponsored by backers like me.
+
+3
+00:00:09,920 --> 00:00:15,600
+Thank you for all your insight and your experience. You helped me be a better Scoutmaster.
+
+4
+00:00:15,600 --> 00:00:17,440
+And now for you, Scoutmaster.
+
+5
+00:00:24,320 --> 00:00:28,960
+Sensitivity is an important character trait. It's part of being a good person-
+
+6
+00:00:29,040 --> 00:00:34,480
+being friendly and kind and courteous and respectful, And as much a part of a good, strong
+
+7
+00:00:34,480 --> 00:00:42,000
+character as sensitivity is. it's not going to do you much good if it's not backed up by some resilience.
+
+8
+00:00:43,040 --> 00:00:47,040
+You also have to be resilient, don't you? It's just something I was thinking about.
+
+9
+00:00:47,040 --> 00:01:00,080
+Hey, this is podcast number 330..
+
+10
+00:01:00,160 --> 00:01:21,680
+Welcome back to the Scoutmaster podcast. This is Clark Green. Last week we talked about
+
+11
+00:01:21,680 --> 00:01:25,120
+maripazes and I predicted that a lot of people would get back to me, and a lot of people got
+
+12
+00:01:25,120 --> 00:01:31,920
+back to me. So let's go to the mailbag and replies to last week's podcast.
+
+13
+00:01:31,920 --> 00:01:38,160
+Jim Hilliard said: too many maripages feel like school Scouts are already in school all day
+
+14
+00:01:38,160 --> 00:01:43,680
+and the last thing they want to be doing on a weekend night is sitting down in classroom
+
+15
+00:01:43,680 --> 00:01:47,920
+formation doing more schoolwork, unless it's a topic that really interests them.
+
+16
+00:01:48,480 --> 00:01:53,200
+But even then, let's put the fun back into maripages. Let's learn by doing,
+
+17
+00:01:53,200 --> 00:01:59,360
+experiencing and practicing. Christian said. I find myself torn on this whole thing.
+
+18
+00:01:59,360 --> 00:02:04,080
+Some of the scouts are truly motivated by the badges and the work that goes into them.
+
+19
+00:02:04,720 --> 00:02:08,960
+Some could care less about the industrial complex that maripages have become.
+
+20
+00:02:09,520 --> 00:02:15,040
+Every scout is motivated differently And in the end, as you often state, Clark, the goal
+
+21
+00:02:15,040 --> 00:02:19,520
+is to build character in the boys. I would rather work with the system as it is
+
+22
+00:02:19,600 --> 00:02:25,360
+and try to motivate all the scouts in their own way. Well, Christian, it is a conundrum
+
+23
+00:02:25,360 --> 00:02:32,960
+And I want to go back to what Baden Powell had to say about advancement and badges and things like
+
+24
+00:02:32,960 --> 00:02:39,120
+that. What we're looking for is a way to get all the scouts along, Everybody along. And yeah,
+
+25
+00:02:39,120 --> 00:02:44,160
+And of course scouts are motivated by different things. But my whole argument about maripages
+
+26
+00:02:44,160 --> 00:02:47,840
+is they've just become something that doesn't look like scouting anymore.
+
+27
+00:02:47,840 --> 00:02:54,560
+Evan got in touch and said: I recently started counseling maripages. I became an eagle in 2006..
+
+28
+00:02:54,560 --> 00:02:59,040
+And I see how the focus on maripages detracts from some of the benefits of summer camp.
+
+29
+00:02:59,040 --> 00:03:04,720
+I like what you talked about in the World Organization, the scouting movements wrap
+
+30
+00:03:04,720 --> 00:03:08,800
+program. I agree that changing that kind of system is highly unlikely,
+
+31
+00:03:08,800 --> 00:03:13,600
+but I wonder what your thoughts are about how a change like that could be accomplished.
+
+32
+00:03:14,320 --> 00:03:17,519
+And, Evan, I got to say I don't have any thoughts.
+
+33
+00:03:19,280 --> 00:03:26,720
+The organization that most of us are members of, the BSA, is solidly run by adults And most of
+
+34
+00:03:26,720 --> 00:03:32,320
+them are men. Most of them are over the age of 30. And I think basically there's zero chance that
+
+35
+00:03:32,320 --> 00:03:37,280
+there's going to be any substantive change to all this. If we had any kind of youth
+
+36
+00:03:37,280 --> 00:03:41,440
+government as a part of our organization above the unit level, I think things might
+
+37
+00:03:41,440 --> 00:03:47,440
+be a little different. but that's not going to happen. And I know I'm sounding really negative,
+
+38
+00:03:47,440 --> 00:03:51,200
+but I don't really see a way out of the situation or seeing any sweeping changes
+
+39
+00:03:51,200 --> 00:03:57,359
+being made. It's so baked into our concept of scouting that I think it eclipses reason.
+
+40
+00:03:57,359 --> 00:04:01,680
+Philip got in touch to say maripages have become the tail that wags the dog.
+
+41
+00:04:01,680 --> 00:04:05,920
+In order to get them, a scout has to do the opposite of what the program is supposed to do.
+
+42
+00:04:06,720 --> 00:04:11,120
+That's a very good thought, Philip. Instead of being part of a patrol in a troop,
+
+43
+00:04:11,120 --> 00:04:15,680
+he spends his time working alone on requirements. Instead of being outdoors, he's indoors
+
+44
+00:04:15,680 --> 00:04:21,040
+writing reports and building displays. They should be de-emphasized. And Philip notes
+
+45
+00:04:21,040 --> 00:04:26,880
+that will never happen And the emphasis put on part of being in a patrol or a troop,
+
+46
+00:04:26,880 --> 00:04:30,800
+leading and following, learning to work with people And, more importantly,
+
+47
+00:04:30,800 --> 00:04:37,600
+the emphasis put on fun. Good memories are one of the best assets to own. I'm going to say that again
+
+48
+00:04:37,600 --> 00:04:42,560
+because I think that's a great thought, Philip. Good memories are one of the best assets to own.
+
+49
+00:04:43,120 --> 00:04:48,560
+I don't think that all of this has happened purposefully. I just think that when people
+
+50
+00:04:48,560 --> 00:04:53,280
+think of Boy Scouts, they think of a sash full of maripages. It's something tangible that
+
+51
+00:04:53,280 --> 00:04:58,240
+can be measured. Well, Philip, I appreciate those thoughts. Dennis Unger got in touch and
+
+52
+00:04:58,240 --> 00:05:03,520
+said the soapbox moment in the last podcast was really inspiring. These are things that need to
+
+53
+00:05:03,520 --> 00:05:09,680
+be addressed. I was a scout in the 1980s and we focused on skills and maripages were second.
+
+54
+00:05:10,560 --> 00:05:15,600
+Bill Daniel commented: summer camp has seemed wrongheaded to me for some time. Are there any
+
+55
+00:05:15,600 --> 00:05:20,800
+camps that make advancement or maripages the almost accidental byproduct of a great adventure?
+
+56
+00:05:20,800 --> 00:05:26,880
+Not to my knowledge, Bill. there are probably isolated parts of camp programs
+
+57
+00:05:27,600 --> 00:05:32,560
+where you have a set of counselors that really get that. the idea is to go out and have fun and
+
+58
+00:05:32,560 --> 00:05:37,760
+then maybe look at the fun that you had and say, oh, we earned a maripage too, But what's
+
+59
+00:05:37,760 --> 00:05:44,320
+baked in is just this approach, that is, a school approach, because that's what everybody knows.
+
+60
+00:05:44,320 --> 00:05:49,200
+It's the easiest thing to do, isn't it? It's the least challenging way to get all this done.
+
+61
+00:05:50,159 --> 00:05:55,920
+when we look at the mountain of work, of maripages that you have to do as a scout if you want
+
+62
+00:05:55,920 --> 00:05:59,520
+to become an Eagle Scout, The easiest way to get it done is just to set up a school.
+
+63
+00:06:00,400 --> 00:06:06,720
+Makes sense. I don't like it, but it makes perfect sense. So the most sensible approach
+
+64
+00:06:06,720 --> 00:06:10,560
+is not always the scouting approach, is it? You may quote me?
+
+65
+00:06:13,680 --> 00:06:19,680
+Oh hey, we had a nice live chat session this week and, in addition to all of the frequent
+
+66
+00:06:19,680 --> 00:06:26,640
+flyers, they checked in- we heard from Don, who is a Wolf-Dan leader with PAC 791 in Hopkinsville,
+
+67
+00:06:26,640 --> 00:06:34,800
+Kentucky, Scott, who is a scout master, Elaine, who is working with a BSA troop in London, England,
+
+68
+00:06:34,800 --> 00:06:40,480
+And Mike Summers checked in during the chat and he's a scout master with Troop 89 in Wilson,
+
+69
+00:06:40,480 --> 00:06:46,080
+North Carolina. If you want to join us for a live chat, keep an eye on our Facebook feeds
+
+70
+00:06:46,080 --> 00:06:52,080
+and our Twitter feed, because I'll always announce when we're going to be live at scoutmastercgcom for
+
+71
+00:06:52,080 --> 00:06:58,080
+a chat. These will happen most of the time on Tuesday and or Wednesday mornings. I want to take a
+
+72
+00:06:58,080 --> 00:07:04,240
+moment and pause here to thank all the folks who are scoutmastercgcom backers, especially Ed
+
+73
+00:07:04,240 --> 00:07:11,599
+Graytricks and Constance Ryan, who added their names to the list of backers since our last podcast.
+
+74
+00:07:11,600 --> 00:07:17,040
+I want to say thanks, too, to all of you who've added their support, to the many folks who helped
+
+75
+00:07:17,040 --> 00:07:22,240
+make the blog and podcast possible through something called Patreon. Now, if you'd like to
+
+76
+00:07:22,240 --> 00:07:29,760
+become a backer or join our Patreon subscribers, visit scoutmastercgcom. You'll find links
+
+77
+00:07:29,760 --> 00:07:36,160
+to follow at the top right of any page on the website and links in this episode's podcast notes.
+
+78
+00:07:36,880 --> 00:07:42,480
+And, speaking of this episode, we've got a bunch of email questions to answer. We're still
+
+79
+00:07:42,480 --> 00:07:47,200
+chipping away at the giant backlog of email questions. So let's get started, shall we?
+
+80
+00:07:50,560 --> 00:07:57,200
+Oh, Mr Johnson had troubles of his own. He had a yellow cat that wouldn't leave his home.
+
+81
+00:07:57,200 --> 00:08:03,600
+He tried and he tried to get a cat away. He gave it to a man going far, far away,
+
+82
+00:08:03,600 --> 00:08:10,880
+but the cat came back the very next morning. Yeah, the cat came back. the very next day.
+
+83
+00:08:10,880 --> 00:08:18,160
+The cat came back. They thought it wasn't gonna, but the cat came back. It just couldn't stay away.
+
+84
+00:08:20,960 --> 00:08:21,360
+Away,
+
+85
+00:08:24,320 --> 00:08:24,800
+Away,
+
+86
+00:08:27,840 --> 00:08:28,160
+Away,
+
+87
+00:08:33,600 --> 00:08:34,159
+Away.
+
+88
+00:08:48,240 --> 00:08:54,160
+Email, that is folks. And here's an answer to one of your emails,
+
+89
+00:08:54,880 --> 00:09:09,680
+Email question number one. This one will remain anonymous. The author wrote:
+
+90
+00:09:09,680 --> 00:09:15,120
+I am a unit commissioner and our scout master called me and told me his senior patrol leader
+
+91
+00:09:15,120 --> 00:09:21,040
+had sexually harassed a teacher at school and had been suspended for holding a broom like a machine
+
+92
+00:09:21,040 --> 00:09:28,160
+gun. Wow, Okay. The young man apologized to the teacher, accepted his punishment. The scout master
+
+93
+00:09:28,160 --> 00:09:32,319
+then proceeded to tell me he thought he should fire the senior patrol leader for conduct on
+
+94
+00:09:32,319 --> 00:09:38,000
+becoming a scout. What's your take on the situation? This sort of situation is something
+
+95
+00:09:38,000 --> 00:09:43,040
+I get asked about quite often And forgive me if you've heard answers to this sort of thing
+
+96
+00:09:43,040 --> 00:09:48,160
+recently, but since the question keeps coming up, I think the answer can keep going out: How
+
+97
+00:09:48,160 --> 00:09:55,360
+do we react to events in a scout's life outside of scouting? Now, if those events, if they've done
+
+98
+00:09:55,360 --> 00:10:02,160
+something that evidences a real and present danger to their fellow scouts, we're gonna
+
+99
+00:10:02,160 --> 00:10:08,240
+have to handle them differently than the things that were described in the question asked in
+
+100
+00:10:08,240 --> 00:10:13,760
+this email. And in the event that there is something that puts the question of whether
+
+101
+00:10:13,760 --> 00:10:21,120
+or not it is safe to have a given scout involved in our activities, then the best thing to do is to
+
+102
+00:10:21,120 --> 00:10:27,520
+back off, tell the scout and his family. until all of these issues are resolved and all of the processes
+
+103
+00:10:27,520 --> 00:10:33,040
+play out around them, we're really we're going to ask you not to actively participate at this
+
+104
+00:10:33,040 --> 00:10:38,560
+point, And I've had to do that before once in 30 years, so it's not a very common thing.
+
+105
+00:10:38,560 --> 00:10:42,480
+What's more common is something like this: A scout has some kind of trouble outside of
+
+106
+00:10:42,480 --> 00:10:47,040
+scouting, is dealing with the consequences of those we take notice of and we say: well,
+
+107
+00:10:47,040 --> 00:10:50,960
+you know, how can this guy be a senior patrol leader? It's conduct. I'm becoming a scout.
+
+108
+00:10:51,520 --> 00:10:58,480
+Well, you know, look, we do our best when we go back to the simpler principles involved.
+
+109
+00:10:58,480 --> 00:11:03,520
+So what is our job? Our job is to help young people grow in character, And there's a number of
+
+110
+00:11:03,520 --> 00:11:09,920
+associated issues in accomplishing this, but any action we take should be aimed at getting our
+
+111
+00:11:10,000 --> 00:11:17,520
+job done, aimed at the growth of character. A scout master is not the boss of a company. I will say
+
+112
+00:11:17,520 --> 00:11:23,839
+that again. A scout master is not the boss of a company with youth leaders who are his or her
+
+113
+00:11:23,839 --> 00:11:31,120
+employees, whom we discipline or hire and fire. They are scouts selected by their fellow scouts
+
+114
+00:11:31,120 --> 00:11:40,720
+to lead them. So the idea of firing- quote unquote- a senior patrol leader is silly, because that's not
+
+115
+00:11:40,720 --> 00:11:47,680
+the relationship that we have with our youth leadership. A scout master is not the commanding
+
+116
+00:11:47,680 --> 00:11:54,000
+officer. Let me say it again: A scout master is not the commanding officer and his youth leaders
+
+117
+00:11:54,000 --> 00:12:01,920
+are his soldiers, who he can discipline for- quote- conduct unbecoming a scout unquote. That's
+
+118
+00:12:01,920 --> 00:12:07,520
+an equally foolish idea. Let's get that out of our heads as well. Scouters and scout masters hold a
+
+119
+00:12:07,520 --> 00:12:13,280
+unique role in a young person's life. if they understand their job properly, They are part
+
+120
+00:12:13,280 --> 00:12:21,120
+parent, part coach, part counselor, part mentor and friend. We are not a boss. We are not a
+
+121
+00:12:21,120 --> 00:12:27,040
+commanding officer. If an event like the one that was described in this email comes to our attention,
+
+122
+00:12:27,040 --> 00:12:32,240
+how should we approach it? understanding our role and understanding the goal of our work?
+
+123
+00:12:32,240 --> 00:12:37,760
+We're dealing with people at an inherently unstable time of their lives, and a young
+
+124
+00:12:37,760 --> 00:12:42,960
+person's actions can certainly be out of sync with their own highest and best. and I
+
+125
+00:12:42,960 --> 00:12:49,680
+bet you, if you think about it for 30 seconds, you can recall an instance in your own young life
+
+126
+00:12:49,680 --> 00:12:56,160
+when this was the case, when you did something that you regret it Now. how the people in our lives
+
+127
+00:12:56,160 --> 00:13:01,280
+reacted to those incidents is a key part of the formation of our character When you're talking
+
+128
+00:13:01,280 --> 00:13:07,200
+about the administration of a school. they have a limited spectrum of responses to this sort of thing.
+
+129
+00:13:07,200 --> 00:13:11,440
+They have rules and regulations that they're obligated to follow. On the other hand, in
+
+130
+00:13:11,440 --> 00:13:18,480
+scouting we have a set of guiding principles in the oath and law that we can apply with
+
+131
+00:13:18,560 --> 00:13:26,640
+compassion and friendship and kindness to individual situations. Of course, as I said when we began
+
+132
+00:13:26,640 --> 00:13:32,160
+talking about the answer to this particular email, there are policies and procedures to follow
+
+133
+00:13:32,880 --> 00:13:40,560
+when the actions of a scout rise to the level of concern for the safety and well-being of
+
+134
+00:13:40,560 --> 00:13:45,200
+other scouts. but that's not the situation we're talking about here. We're talking about
+
+135
+00:13:45,200 --> 00:13:50,160
+a young person who's gone and done something inadvisable and stupid, probably really deeply
+
+136
+00:13:50,160 --> 00:13:54,400
+regrets having done it, has already apologized for it happened outside of scout. so what are we
+
+137
+00:13:54,400 --> 00:13:59,040
+going to do? Well, given that kind of a scenario, I would sit down with the scout and I would ask
+
+138
+00:13:59,040 --> 00:14:03,360
+him some questions. I would ask him what happened. I would ask him why he thought this
+
+139
+00:14:03,360 --> 00:14:08,400
+happened. I would ask him what parts of the scout oath and law bear on the situation. I would
+
+140
+00:14:08,400 --> 00:14:17,120
+ask him how it affects their ability to maintain a position of responsibility and be a leader by
+
+141
+00:14:17,120 --> 00:14:22,160
+example in the troop. I would ask them what actions they're planning to take, so far as the
+
+142
+00:14:22,160 --> 00:14:26,240
+scouts are concerned, in resolving this issue. Does he think there's anything he needs to
+
+143
+00:14:26,240 --> 00:14:30,720
+say to people? Does he think that this whole thing necessitates some kind of explanation
+
+144
+00:14:30,720 --> 00:14:34,880
+to the scouts and their families? and none of these questions are rhetorical. They are true,
+
+145
+00:14:34,880 --> 00:14:39,520
+open-ended questions. I want to know what's going on and I believe the resulting conversation would
+
+146
+00:14:39,520 --> 00:14:44,720
+suggest some ways forward with the scout, and I know it certainly would get them exercising that
+
+147
+00:14:44,720 --> 00:14:49,920
+internal standard that we call character. that's based on the scout oath and law. Now, if I reacted
+
+148
+00:14:49,920 --> 00:14:55,680
+to the situation as you described by issuing a judgment and I thought that I was the boss of
+
+149
+00:14:55,680 --> 00:15:00,480
+the scout and I could fire him, or I thought I was the commanding officer of the scout and I could
+
+150
+00:15:00,560 --> 00:15:06,560
+bring him up on charges for conduct, I'm becoming, I would deny the scout and myself the significant
+
+151
+00:15:06,560 --> 00:15:13,200
+opportunity to better understand exactly what the scout oath and law mean. There are situations
+
+152
+00:15:13,200 --> 00:15:18,480
+where our response is defined by various policies and rules, and those are rare
+
+153
+00:15:18,480 --> 00:15:23,200
+and serious situations, but the one that is described in this email, I think, is clearly a
+
+154
+00:15:23,200 --> 00:15:28,960
+judgment call. I've never been disappointed when I apply my judgment to the best interest of
+
+155
+00:15:28,960 --> 00:15:34,000
+the individual scout by seizing the opportunity to help them examine and develop their character.
+
+156
+00:15:34,720 --> 00:15:41,040
+and the fringe benefit of this is examining and developing my own character and my own skills
+
+157
+00:15:41,040 --> 00:15:46,800
+as a scouter. I got this email from Jim Manson and he asked: do troop fundraisers count as
+
+158
+00:15:46,800 --> 00:15:52,080
+service hours? If our troop has a booth at a local event to sell refreshments and scouts work
+
+159
+00:15:52,080 --> 00:15:56,640
+at it, does it count as service hours? Well, so you need to fill in a little more information
+
+160
+00:15:56,640 --> 00:16:02,000
+here. who's the service being rendered to and where will the funds be spent? If their troop has a
+
+161
+00:16:02,000 --> 00:16:07,439
+booth at a local event and they sell refreshments and you keep the profits, it benefits the scouts
+
+162
+00:16:07,439 --> 00:16:12,880
+themselves. so that's not really service to others, is it? If you have that booth and the
+
+163
+00:16:12,880 --> 00:16:18,319
+profits are being given to a community organization, that's service to others. So Jim replied: what
+
+164
+00:16:18,319 --> 00:16:23,040
+if a scout does trail maintenance for a Boy Scout property? should that count as service hours?
+
+165
+00:16:23,599 --> 00:16:29,120
+Again, you ask the same question: who does the service benefit? Is the benefit limited to just
+
+166
+00:16:29,120 --> 00:16:34,160
+his troop, to the scout himself or to the wider community? So if you go out and you raise funds
+
+167
+00:16:34,160 --> 00:16:38,640
+for your troop, part of that fundraising accrues directly to the scout's personal benefit, right,
+
+168
+00:16:38,640 --> 00:16:45,360
+and so I would not count that as as service to others. that's self-serving. I guess you could
+
+169
+00:16:45,360 --> 00:16:52,160
+probably say that doing the trail work accrues to the benefit of the scout in some ways, but it
+
+170
+00:16:52,160 --> 00:16:57,600
+also accrues to the benefit as his member of a broader community, a scout. so I say, yeah, that that
+
+171
+00:16:57,600 --> 00:17:03,920
+sounds like service to others. to me, The bigger issue here is the idea of doing service work is
+
+172
+00:17:03,920 --> 00:17:08,560
+not getting credit for it, but forming habits of service to others that will follow a scout
+
+173
+00:17:08,560 --> 00:17:14,159
+throughout their lifetime, right? So hopefully, service to others is emphasized in each troop
+
+174
+00:17:14,159 --> 00:17:18,319
+to the point where there's no real question of fulfilling the hours required, where there's
+
+175
+00:17:18,319 --> 00:17:23,679
+no real question of a scout having to go. geez, you know, I need three hours of service to get my next
+
+176
+00:17:23,679 --> 00:17:29,360
+rank. what can I do? well, no, this is something that we do all the time. If a scout for some reason
+
+177
+00:17:29,360 --> 00:17:36,000
+wasn't able to participate in different service projects that a troop was doing, he could certainly
+
+178
+00:17:36,000 --> 00:17:41,439
+go out and do his own, his own service hours. He could go out and do something nice for other
+
+179
+00:17:41,439 --> 00:17:46,560
+people. He can grab a trash bag and a pair of gloves and a high visibility vest and walk
+
+180
+00:17:46,560 --> 00:17:51,280
+around his neighborhood and pick up trash. He can go across the street with a rake and rake leaves
+
+181
+00:17:51,280 --> 00:17:56,399
+for that older couple that has a little trouble getting around. He can volunteer for any number of
+
+182
+00:17:56,399 --> 00:18:01,760
+community organizations to help them accomplish their work. Service is not something that you get
+
+183
+00:18:01,760 --> 00:18:06,159
+credit for as a rank. service is a way of life. you look after other people, you take care of
+
+184
+00:18:06,159 --> 00:18:11,679
+their concerns, you help. you know that's that's being a scout. Our scout should be good,
+
+185
+00:18:12,320 --> 00:18:16,320
+active, contributing members of their community right now. we don't have to wait till their adults.
+
+186
+00:18:16,320 --> 00:18:21,520
+they can be that right now. so the question of service hours: that should be the easiest one
+
+187
+00:18:21,520 --> 00:18:27,520
+in that whole set of requirements. I heard from Brian Kerner who's asked: can you provide
+
+188
+00:18:27,520 --> 00:18:34,879
+a definition for the life rank requirement which requires conservation related service hours? I can't
+
+189
+00:18:34,879 --> 00:18:41,200
+seem to find any definition published by the BSA. Aha, well, Brian, I wrote about this a while back
+
+190
+00:18:41,200 --> 00:18:48,960
+when the new rank requirements came out. I'll have a link to the post that I'm talking about
+
+191
+00:18:48,960 --> 00:18:56,480
+in the podcast notes for this episode. Here's what the life requirement reads. it says: while a star
+
+192
+00:18:56,480 --> 00:19:02,080
+scout participate in six hours of service through one or more service projects approved by your
+
+193
+00:19:02,080 --> 00:19:09,440
+scout master, at least three hours of this service must be conservation related. I noted at the time
+
+194
+00:19:09,440 --> 00:19:14,560
+when I first read this that specifying three hours of conservation related projects
+
+195
+00:19:14,560 --> 00:19:20,640
+is a good idea, but it will become one of those questions that are going to come up all the time
+
+196
+00:19:20,640 --> 00:19:25,840
+and the probably the source of some argument. I would have worded it differently. I would have said
+
+197
+00:19:25,840 --> 00:19:30,160
+three hours of service and three hours of conservation work, and I would have provided
+
+198
+00:19:30,160 --> 00:19:36,640
+definitions. but there's no definition that I know of. so it's pretty simple, right, if we read the
+
+199
+00:19:36,640 --> 00:19:43,040
+requirement, who approves these service projects? the scout master does, so whatever the scout master
+
+200
+00:19:43,040 --> 00:19:48,640
+defines as conservation related is going to be approved work towards that requirement.
+
+201
+00:19:48,640 --> 00:19:52,720
+Here's the fourth and last email question for this episode of the scout master podcast. boy,
+
+202
+00:19:52,720 --> 00:19:57,440
+we're setting them up and knocking them down today, aren't we? and this comes from Robert Grimes, who
+
+203
+00:19:57,440 --> 00:20:04,640
+says: I'm a new scout master for a BSA troop in Madrid, Spain. I was wondering: should scouts use
+
+204
+00:20:04,640 --> 00:20:09,920
+the mister honorific when addressing the scout master and assistant scout masters?
+
+205
+00:20:09,920 --> 00:20:15,360
+scouting is one of the few places that manners are observed. scouting is one of the few places that
+
+206
+00:20:15,360 --> 00:20:22,400
+manners are observed. I hope that's not the case, however, Robert goes on to say: I want to be
+
+207
+00:20:22,400 --> 00:20:27,360
+approachable, I don't want to hinder interaction with authority figures. I am I am aware that
+
+208
+00:20:27,360 --> 00:20:32,960
+respect is something that is earned and not bestowed simply by a title, but the scouts are
+
+209
+00:20:32,960 --> 00:20:38,960
+addressing their elders and I wonder what you had to say about that. well, I you know, I began as a
+
+210
+00:20:38,960 --> 00:20:43,680
+fairly young scout master and the scouts always have called me by my first name and it hasn't changed
+
+211
+00:20:43,680 --> 00:20:49,920
+in 35 years. I have had other nicknames when I was a camp counselor and when I was a coach.
+
+212
+00:20:49,920 --> 00:20:56,320
+you know, it all worked for me. manners and respect are a two-way street. if you want to be called
+
+213
+00:20:56,320 --> 00:21:02,240
+mr Grimes, address all the scouts the same way. mr Jones, mr Smith, you know things like that.
+
+214
+00:21:02,240 --> 00:21:07,920
+I would also have the grace never to correct anyone on a matter of manners, because that to me is
+
+215
+00:21:07,920 --> 00:21:14,320
+unmanorly. I mean, I would just model the manners that you expect. if you model the behavior in
+
+216
+00:21:14,320 --> 00:21:18,800
+the manners that you expect, your scouts will reply in kind. and if you don't set yourself up as a
+
+217
+00:21:18,800 --> 00:21:25,280
+constant judge in a pain about exactly how things ought to be in your mind, you will be modeling the
+
+218
+00:21:25,280 --> 00:21:30,560
+gracious, good manners I think that you intend. in the end, I don't have a whole lot of preference
+
+219
+00:21:30,560 --> 00:21:35,120
+about what my scouts call me. some of them do use mr, some of them just use my first name.
+
+220
+00:21:35,679 --> 00:21:40,879
+it doesn't really matter to me, just so long as they don't call me late for supper, right, hey, if you
+
+221
+00:21:40,879 --> 00:21:44,960
+have a question or a comment, you can get in touch. it's very simple to do and I'm going to tell you
+
+222
+00:21:44,960 --> 00:21:53,280
+how to do that in just a moment. thank you so much for listening to this 330th edition of the scout
+
+223
+00:21:53,280 --> 00:22:00,159
+master podcast. now here's how to keep in touch. if you go to scoutmastercgcom, you'll find 1600
+
+224
+00:22:00,160 --> 00:22:06,480
+articles and over 300 editions of the podcast and while you're there, you can subscribe to receive
+
+225
+00:22:06,480 --> 00:22:12,640
+updates to the blog and the podcast by email. you can follow us in the vast panorama of social media
+
+226
+00:22:12,640 --> 00:22:19,280
+outlet. over 15,000 folks follow us at scoutmaster blog on facebook, where you're much more than
+
+227
+00:22:19,280 --> 00:22:24,160
+just a face in the crowd. we have an ever-growing chorus of tweeters on twitter who typed truly
+
+228
+00:22:24,160 --> 00:22:28,560
+tremendous, thoughtful tweets. we pinned the paltritudinous pictures proffered publicly with a
+
+229
+00:22:28,560 --> 00:22:33,600
+parcel of prolific printers on pinterest, and you can always watch us at scoutmastercg on youtube.
+
+230
+00:22:33,600 --> 00:22:39,040
+but if you can't face facebook and twitter tends to make you better. if you've no interest in pinterest
+
+231
+00:22:39,040 --> 00:22:46,000
+and you don't put the? u in youtube, that's okay, i understand. here's what you do. old codger, zoom
+
+232
+00:22:46,000 --> 00:22:54,000
+into the late 90s and send me an email. yep, dust off that old desktop system. log into your aol account.
+
+233
+00:22:54,080 --> 00:22:59,760
+if you don't have one, i've got a cd. you can use an email me. i'm clark green and you can get in
+
+234
+00:22:59,760 --> 00:23:12,560
+touch with me anytime at clark at scoutmastercgcom. c, l, a, r, k, e at scoutmastercgcom. if all else
+
+235
+00:23:12,560 --> 00:23:18,000
+fails, take a look around your stately manor home and there you will find a bronze bust of
+
+236
+00:23:18,000 --> 00:23:22,720
+shakespeare. it's right there in the library on the desk. there's a button inside that that will
+
+237
+00:23:22,720 --> 00:23:28,400
+open up a secret passageway. slide down the bat pole in that passageway and i will be waiting for you
+
+238
+00:23:28,400 --> 00:23:33,680
+in the bat game by now. it should be abundantly clear that the scoutmaster blog and the scoutmaster
+
+239
+00:23:33,680 --> 00:23:39,920
+podcast are not official publications of anyone in particular other than myself. i am not endorsed
+
+240
+00:23:39,920 --> 00:23:44,240
+or sponsored by the boyscouts of america or any other scouting organization for that matter. it's
+
+241
+00:23:44,240 --> 00:23:49,920
+just me. i have a microphone, a way to get online and people actually listen to this podcast, which
+
+242
+00:23:49,920 --> 00:23:54,800
+is still kind of amazing to me. and i am doing it to lend a hand to my fellow scouts and have a
+
+243
+00:23:54,800 --> 00:24:00,560
+little bit of fun along the way. and speaking of fun, here he is our founder, sir robert bidden. pal,
+
+244
+00:24:01,200 --> 00:24:10,160
+sir robert, good luck to you and good camping. oh, i thank you, sir, until next time, everyone.
+

@@ -3,8 +3,9 @@ title: "B-P's Blog - Religious Observance"
 date: 2015-06-07
 draft: false
 image: "/images/bp4.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Spirituality & Religion"
 wayback_url: "https://web.archive.org/web/20151019100000/http://scoutmastercg.com/b-ps-blog-religious-observance/?replytocom=79477"
 ---
 

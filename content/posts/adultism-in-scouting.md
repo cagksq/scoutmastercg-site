@@ -2,7 +2,9 @@
 title: "Adultism in Scouting"
 date: 2012-10-28
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Youth Leadership Development"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20141012003954/http://scoutmastercg.com:80/adultism-in-scouting/"
 ---
 

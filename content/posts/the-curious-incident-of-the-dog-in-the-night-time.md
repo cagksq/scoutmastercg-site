@@ -2,8 +2,8 @@
 title: "The Curious Incident of the Dog in the Night-Time."
 date: 2016-06-19
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20160619204538/http://scoutmastercg.com:80/the-curious-incident-of-the-dog-in-the-night-time/"
 ---
 

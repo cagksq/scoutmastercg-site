@@ -2,7 +2,9 @@
 title: "Troubleshooting the Patrol Method"
 date: 2012-10-10
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Patrol Method"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20121015051029/http://www.scoutmastercg.com:80/2012/10/troubleshooting-the-patrol-method/"
 ---
 

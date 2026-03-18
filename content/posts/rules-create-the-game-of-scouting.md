@@ -2,7 +2,9 @@
 title: "Rules Create the Game of Scouting"
 date: 2017-07-13
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "BSA Rules & Policy"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20170713213942/http://scoutmastercg.com/rules-create-the-game-of-scouting/"
 ---
 

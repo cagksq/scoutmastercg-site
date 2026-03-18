@@ -2,7 +2,9 @@
 title: "Inspiring Discovery"
 date: 2012-09-18
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Personal Reflection"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20171020123334/http://scoutmastercg.com/inspire-a-thirst-for-discovery/"
 ---
 

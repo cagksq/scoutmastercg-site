@@ -2,7 +2,8 @@
 title: "Charlie Green 1925-2016"
 date: 2017-06-06
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20170606085053/http://scoutmastercg.com/charlie-green-1925-2016/"
 ---
 

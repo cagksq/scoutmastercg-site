@@ -2,7 +2,9 @@
 title: "Ten Things Adults Do to Frustrate Troop Youth Leadership."
 date: 2013-10-12
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150916204809/http://scoutmastercg.com/ten-things-adul/"
 ---
 

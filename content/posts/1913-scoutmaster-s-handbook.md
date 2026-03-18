@@ -2,8 +2,9 @@
 title: 1913 Scoutmaster's Handbook
 date: 2006-12-26
 draft: false
-categories:
-  - scouting-ideals
+topics:
+  - "Adult Leadership Roles"
+  - "Leadership Theory"
 wayback_url: https://web.archive.org/web/20170210200739/http://scoutmastercg.com:80/handbook_for_sc/
 ---
 [The 1913 edition of the Handbook for Scout Masters is available on the net archive.](https://archive.org/details/handbookforscou00amergoog)

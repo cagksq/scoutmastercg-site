@@ -2,7 +2,9 @@
 title: "Can You See What Scouts See?"
 date: 2015-05-22
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150522034739/http://scoutmastercg.com:80/can-you-see-what-scouts-see/?"
 ---
 

@@ -2,7 +2,9 @@
 title: "Things Overheard at Scout Camp"
 date: 2011-07-24
 draft: false
-categories: ["patrol-method", "advancement"]
+topics:
+  - "Scout Activities & Games"
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20121225231449/http://www.scoutmastercg.com:80/things-overheard-at-scout-camp/"
 ---
 

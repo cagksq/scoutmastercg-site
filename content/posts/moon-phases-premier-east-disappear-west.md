@@ -2,7 +2,8 @@
 title: "Moon Phases - Premier East Disappear West"
 date: 2011-05-25
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20130117083053/http://www.scoutmastercg.com:80/moon-phases/"
 ---
 

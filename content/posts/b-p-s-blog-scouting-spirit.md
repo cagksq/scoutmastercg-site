@@ -3,8 +3,9 @@ title: "B.P.'s Blog - Scouting Spirit"
 date: 2016-10-29
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20161029232518/http://scoutmastercg.com:80/b-p-s-blog-scouting-spirit/"
 ---
 

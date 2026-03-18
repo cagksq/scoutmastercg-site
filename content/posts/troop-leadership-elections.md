@@ -2,7 +2,9 @@
 title: "Troop Leadership Elections"
 date: 2012-11-28
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20121128205720/http://www.scoutmastercg.com:80/2012/09/troop-leadership-elections/"
 ---
 

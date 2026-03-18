@@ -2,7 +2,9 @@
 title: "Scouting as Ecopsychotherapy"
 date: 2012-12-20
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Nature & Environment"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20150312025901/http://scoutmastercg.com:80/scouting-as-ecopsychotherapy/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Boy Scout Attendance Policies"
 date: 2014-10-14
 draft: false
-categories: ["advancement"]
+topics:
+  - "Troop Administration"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20141014222954/http://scoutmastercg.com:80/attendance/"
 ---
 

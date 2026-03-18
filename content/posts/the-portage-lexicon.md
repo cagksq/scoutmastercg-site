@@ -2,7 +2,9 @@
 title: "The Portage Lexicon"
 date: 2008-08-15
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20121220014813/http://www.scoutmastercg.com:80/the-portage-lex/"
 ---
 

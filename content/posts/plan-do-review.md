@@ -2,7 +2,9 @@
 title: "Plan-Do-Review"
 date: 2016-06-12
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Instructional Methods"
+  - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20160612230020/http://scoutmastercg.com:80/plan-do-review/"
 ---
 

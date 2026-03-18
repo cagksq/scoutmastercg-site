@@ -2,7 +2,9 @@
 title: "Transition from Adult to Youth Leadership - What Really Matters"
 date: 2009-07-10
 draft: false
-categories: ["patrol-method", "scoutmasters-life"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20151016235510/http://scoutmastercg.com/transition-from-adult-to-youth-leadership-what-really-matters/"
 ---
 

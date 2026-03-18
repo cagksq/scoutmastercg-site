@@ -2,7 +2,8 @@
 title: "Ask the Experts"
 date: 2014-08-25
 draft: false
-categories: ["advancement", "scouting-history-ideas"]
+topics:
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20140825060012/http://scoutmastercg.com/ask-the-experts/"
 ---
 

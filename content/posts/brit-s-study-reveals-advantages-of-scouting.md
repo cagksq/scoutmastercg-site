@@ -2,7 +2,8 @@
 title: "Brit's Study Reveals Advantages of Scouting"
 date: 2006-12-08
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20140828064930/http://scoutmastercg.com/brits_study_rev/"
 ---
 

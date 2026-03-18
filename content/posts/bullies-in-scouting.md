@@ -2,7 +2,9 @@
 title: "Bullies in Scouting"
 date: 2017-09-01
 draft: false
-categories: ["scouts"]
+topics:
+  - "Discipline & Behavior"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20170901012432/http://scoutmastercg.com/bullies_in_scou/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Rules or Spirit"
 date: 2017-09-01
 draft: false
-categories: ["scouting-ideals", "patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20170901170655/http://scoutmastercg.com/rules-or-spirit/"
 ---
 

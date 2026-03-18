@@ -2,7 +2,9 @@
 title: "The Philosophy of Camp Fires"
 date: 2017-09-18
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Nature & Environment"
+  - "Spirituality & Religion"
 wayback_url: "https://web.archive.org/web/20170918152241/http://scoutmastercg.com/camp_fires/"
 ---
 

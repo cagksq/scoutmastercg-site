@@ -2,7 +2,9 @@
 title: "Teenage Brains Article in National Geographic"
 date: 2011-10-12
 draft: false
-categories: ["scouts"]
+topics:
+  - "Mentoring & Coaching"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20111012024419/http://www.scoutmastercg.com:80/2011/10/teenage-brains-article-in-national-geographic/"
 ---
 

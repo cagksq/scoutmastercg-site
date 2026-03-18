@@ -2,7 +2,9 @@
 title: "Looking Ahead - Financial Stability"
 date: 2011-04-17
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Fundraising & Finances"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20110417014840/http://www.scoutmastercg.com:80/2009/12/looking-ahead-financial-stability/"
 ---
 

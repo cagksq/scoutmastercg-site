@@ -2,7 +2,8 @@
 title: "Acting Like a Leader - Be a Leader! Part 3"
 date: 2014-02-01
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20170720053409/http://scoutmastercg.com/leader-part-3-acting-like-leader/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Scouting as an antidote to the Spoiled American Child."
 date: 2013-01-15
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Character Development"
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20150402073614/http://scoutmastercg.com:80/scouting-antidote-spoiled-american-child/"
 ---
 

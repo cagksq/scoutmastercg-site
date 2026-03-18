@@ -6,37 +6,45 @@
     <p class="smcg-hero-sub"><a href="/podcasts/">372 podcast episodes</a> · 900+ blog posts · <a href="/about/">Clarke Green</a></p>
   </div>
 
-{{/* Topic list */}}
-  {{ $descs := dict
-      "patrol-method"          "Youth leadership, patrol life, the PLC, senior patrol leader. The argument that Scouting works when boys run it."
-      "scoutmasters-job"       "What the adult role actually is — and isn't. Training, responsibilities, safe scouting, youth protection. How to lead without taking over."
-      "scoutmasters-life"      "The personal side of volunteering. Discouragement, satisfaction, transitions, humor. What it costs and what it gives back."
-      "scouts"                 "Working with individual Scouts — behavior, special needs, older Scouts, parents, retention."
-      "advancement"            "Boards of review, courts of honor, merit badges, Eagle, scoutmaster conferences. A skeptical eye on advancement as an end in itself."
-      "outdoors"               "Camping, backpacking, canoeing, high adventure, cooking, skills, nature study, summer camp."
-      "scouting-ideals"        "Citizenship, reverence, service, the Scout Oath and Law as living ideas rather than ritual recitation. BP's Blog lives here."
-      "scouting-history-ideas" "Historical figures, original sources, the broader Scouting movement, surveys, the BSA's institutional decisions."
-  }}
+  {{/* Topic accordion */}}
   <section class="topics-section">
-    <h2 class="topics-heading">Browse 1,000+ Blog Posts by Topic</h2>
+    <h2 class="topics-heading">Browse 900+ Blog Posts by Topic</h2>
     <div class="topics-list">
-      {{ range .Site.Taxonomies.categories.ByCount }}
-        {{ if ne .Term "podcast" }}
-          {{ $desc := index $descs .Term }}
-          <a class="topic-row" href="{{ .Page.RelPermalink }}">
-            <div class="topic-row-body">
-              <div class="topic-row-name">{{ strings.Replace .Term "-" " " | title }}</div>
-              {{ if $desc }}<div class="topic-row-desc">{{ $desc }}</div>{{ end }}
-            </div>
-            <div class="topic-row-right">
-              <span class="topic-row-count">{{ .Count }}</span>
+      {{ range $i, $main := site.Data.topic_structure }}
+        <div class="topic-main" id="{{ $main.name | urlize }}">
+          <button class="topic-main-btn" onclick="smcgToggle(this)" aria-expanded="false">
+            <span class="topic-main-name">{{ $main.name }}</span>
+            <span class="topic-main-meta">
+              <span class="topic-row-count">{{ $main.count }}</span>
               <span class="topic-row-posts">posts</span>
-            </div>
-            <span class="topic-row-arrow">›</span>
-          </a>
-        {{ end }}
+            </span>
+            <span class="topic-main-arrow">›</span>
+          </button>
+          <div class="topic-sub-list" hidden>
+            {{ range $main.subcategories }}
+              {{ $slug := .name | urlize }}
+              <a class="topic-sub-row" href="/topics/{{ $slug }}/">
+                <span class="topic-sub-name">{{ .name }}</span>
+                <span class="topic-sub-meta">
+                  <span class="topic-row-count">{{ .count }}</span>
+                  <span class="topic-row-posts">posts</span>
+                </span>
+                <span class="topic-row-arrow">›</span>
+              </a>
+            {{ end }}
+          </div>
+        </div>
       {{ end }}
     </div>
   </section>
+
+  <script>
+  function smcgToggle(btn) {
+    var panel = btn.nextElementSibling;
+    var open = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', open ? 'false' : 'true');
+    if (open) { panel.hidden = true; } else { panel.hidden = false; }
+  }
+  </script>
 
 {{ end }}

@@ -2,7 +2,9 @@
 title: "Advancing to Eagle; a Parable"
 date: 2014-10-13
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Scout Advancement"
+  - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20141013045805/http://scoutmastercg.com:80/advancing_to_ea/"
 ---
 

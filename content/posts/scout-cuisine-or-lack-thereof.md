@@ -2,7 +2,9 @@
 title: "Scout Cuisine (or Lack Thereof)"
 date: 2014-08-25
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scout Activities & Games"
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20140825110142/http://scoutmastercg.com/scout-cuisine-or-lack-thereof/"
 ---
 

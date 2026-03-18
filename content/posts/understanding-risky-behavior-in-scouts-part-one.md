@@ -2,7 +2,9 @@
 title: "Understanding Risky Behavior in Scouts Part One"
 date: 2012-06-05
 draft: false
-categories: ["scouts"]
+topics:
+  - "Risk Management & Safety"
+  - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20121220013434/http://www.scoutmastercg.com:80/understanding-risky-behavior-in-scouts-part-one/"
 ---
 

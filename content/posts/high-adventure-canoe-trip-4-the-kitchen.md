@@ -2,7 +2,9 @@
 title: "High Adventure Canoe Trip 4 - The Kitchen"
 date: 2013-04-09
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20160917000019/http://scoutmastercg.com:80/high-adventure-canoe-trip-4-the-kitchen/"
 ---
 

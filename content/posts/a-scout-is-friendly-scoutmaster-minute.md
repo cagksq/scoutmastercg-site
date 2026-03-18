@@ -2,7 +2,8 @@
 title: "A Scout is Friendly - Scoutmaster Minute"
 date: 2009-01-26
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20151014180217/http://scoutmastercg.com/a-scout-is-friendly-scoutmaster-minute/"
 ---
 

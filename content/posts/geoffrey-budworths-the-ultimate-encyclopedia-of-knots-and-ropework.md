@@ -2,8 +2,8 @@
 title: "Geoffrey Budworth’s The Ultimate Encyclopedia of Knots and Ropework"
 date: 2013-02-10
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20170721035930/http://scoutmastercg.com/knots-guide-icicle-hitch/"
 ---
 

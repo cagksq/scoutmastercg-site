@@ -2,7 +2,9 @@
 title: "Jay's Story"
 date: 2013-03-01
 draft: false
-categories: ["patrol-method", "advancement"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20141009014307/http://scoutmastercg.com:80/jay/"
 ---
 

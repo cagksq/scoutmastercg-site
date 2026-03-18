@@ -2,7 +2,9 @@
 title: "Nature Based Recreation in Decline?"
 date: 2014-08-23
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Nature & Environment"
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20140823185824/http://scoutmastercg.com/outdoors-or-in/"
 ---
 

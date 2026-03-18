@@ -2,7 +2,9 @@
 title: "Earning Your Scout's Respect"
 date: 2013-05-29
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Mentoring & Coaching"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20140822162843/http://scoutmastercg.com/earning-your-scouts-respect/?replytocom=48535"
 ---
 

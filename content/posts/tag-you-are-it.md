@@ -2,7 +2,9 @@
 title: "Tag - You Are It!"
 date: 2007-03-30
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150920045917/http://scoutmastercg.com/tag_you_are_it/"
 ---
 

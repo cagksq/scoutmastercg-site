@@ -2,7 +2,8 @@
 title: "1925 Scouting Equipment Catalog"
 date: 2017-06-06
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20170606002257/http://scoutmastercg.com/scouting-equipment-catalog-1925/"
 ---
 

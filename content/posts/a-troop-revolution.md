@@ -2,7 +2,9 @@
 title: "A Troop Revolution"
 date: 2016-04-25
 draft: false
-categories: ["patrol-method", "outdoors"]
+topics:
+  - "Patrol Method"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20160425105758/http://scoutmastercg.com:80/a-troop-revolution/"
 ---
 

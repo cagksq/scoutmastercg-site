@@ -2,7 +2,8 @@
 title: "Acknowledging with Grateful Hearts"
 date: 2014-08-23
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Spirituality & Religion"
 wayback_url: "https://web.archive.org/web/20140823032500/http://scoutmastercg.com/acknowledging-with-grateful-hearts/"
 ---
 

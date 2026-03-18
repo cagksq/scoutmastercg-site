@@ -2,7 +2,9 @@
 title: "Capital Assests; Canoes, Trailers, Buses and the like"
 date: 2012-10-01
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Troop Administration"
+  - "Fundraising & Finances"
 wayback_url: "https://web.archive.org/web/20121001033548/http://www.scoutmastercg.com:80/2011/02/capital-assests-canoes-trailers-buses-and-the-like/"
 ---
 

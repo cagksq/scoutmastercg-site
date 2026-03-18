@@ -2,7 +2,9 @@
 title: "Train ‘em, Trust ‘em, Let ‘em Lead!"
 date: 2013-04-02
 draft: false
-categories: ["patrol-method", "scouting-ideals"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20171019210021/http://scoutmastercg.com/train_em_trust_/"
 ---
 

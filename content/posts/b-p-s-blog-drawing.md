@@ -3,8 +3,9 @@ title: "B-P's Blog - Drawing"
 date: 2017-07-11
 draft: false
 image: "/images/bp4.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20170711191533/http://scoutmastercg.com/b-ps-blog-drawing/"
 ---
 

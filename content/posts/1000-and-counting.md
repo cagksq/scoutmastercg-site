@@ -2,7 +2,8 @@
 title: "1000 and Counting"
 date: 2014-08-23
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20140823082541/http://scoutmastercg.com/1000-and-counting/"
 ---
 

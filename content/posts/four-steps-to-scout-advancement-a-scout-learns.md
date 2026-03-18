@@ -2,7 +2,9 @@
 title: "Four Steps to Scout Advancement - A Scout Learns"
 date: 2012-11-20
 draft: false
-categories: ["outdoors", "advancement"]
+topics:
+  - "Scout Advancement"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20121205234214/http://www.scoutmastercg.com:80/four-steps-to-scout-advancement-a-scout-learns/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Webelos Visits to Troop Meetings"
 date: 2013-10-12
 draft: false
-categories: ["patrol-method", "scoutmasters-job"]
+topics:
+  - "Parent Relations"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150916074538/http://scoutmastercg.com/webelos-visits-to-troop-meetings/"
 ---
 

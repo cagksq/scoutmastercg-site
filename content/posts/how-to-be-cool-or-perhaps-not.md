@@ -2,7 +2,8 @@
 title: "How to be Cool (or perhaps not)"
 date: 2015-09-19
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20150919193942/http://scoutmastercg.com/cool/"
 ---
 

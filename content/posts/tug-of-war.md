@@ -2,7 +2,9 @@
 title: "Tug-of-War"
 date: 2012-11-26
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Activities & Games"
+  - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20121126062701/http://www.scoutmastercg.com:80/2006/09/tugofwar/"
 ---
 

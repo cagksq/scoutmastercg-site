@@ -2,7 +2,9 @@
 title: "Scout Parent Struggles With Letting Go"
 date: 2013-01-15
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scout Parents"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20130115215214/http://www.scoutmastercg.com:80/scout-parent-struggles-with-letting-go/"
 ---
 

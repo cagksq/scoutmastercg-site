@@ -2,7 +2,8 @@
 title: "Teacup Storms and How to Avoid Them"
 date: 2013-10-11
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Baden-Powell Writings"
 wayback_url: "https://web.archive.org/web/20140707140756/http://scoutmastercg.com/teacup-storms-a/"
 ---
 

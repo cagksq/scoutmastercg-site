@@ -2,8 +2,8 @@
 title: "Camping’s Top Secrets - Cliff Jacobsen"
 date: 2011-04-06
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20110406074715/http://www.scoutmastercg.com:80/2009/08/campings-top-secrets/"
 ---
 

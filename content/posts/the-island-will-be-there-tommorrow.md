@@ -2,7 +2,9 @@
 title: "The Island Will be There Tommorrow"
 date: 2012-12-20
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20121220014756/http://www.scoutmastercg.com:80/the-island-will/"
 ---
 

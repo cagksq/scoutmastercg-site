@@ -3,8 +3,9 @@ title: "B.P.'s Blog - The Origin of Scouting for Boys"
 date: 2014-09-28
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20170503233540/http://scoutmastercg.com:80/b-p-s-blog-origin-scouting-boys/"
 ---
 

@@ -3,8 +3,9 @@ title: "B.P.'S Blog - Discipline"
 date: 2014-06-15
 draft: false
 image: "/images/bp4.png"
-categories:
-  - bps-blog
+topics:
+  - "Mentoring & Coaching"
+  - "Baden-Powell Writings"
 wayback_url: "https://web.archive.org/web/20140825094831/http://scoutmastercg.com/b-p-s-blog-discipline/?replytocom=57431"
 ---
 

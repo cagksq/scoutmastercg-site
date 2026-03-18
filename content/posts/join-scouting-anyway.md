@@ -2,10 +2,10 @@
 title: "Join Scouting Anyway"
 date: 2006-01-01
 draft: false
-categories:
-  - scouting-ideals
+topics:
+  - "BSA Membership & Inclusion"
+  - "Personal Reflection"
 ---
-
 A brief discussion with a reader leads me to encourage parents who differ with the policies of the BSA to consider joining scouting anyway.
 
 Most comment and discussion surrounding the issue of the BSA excluding atheists and gays from scouting assumes that all of us endorse these policies, we don't.

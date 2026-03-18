@@ -2,7 +2,9 @@
 title: "Walden"
 date: 2005-12-01
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Camping"
+  - "Nature & Environment"
 wayback_url: "https://web.archive.org/web/20150310042302/http://scoutmastercg.com:80/walden/"
 ---
 

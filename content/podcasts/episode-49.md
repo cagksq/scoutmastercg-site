@@ -19,7 +19,7 @@ description: "Clarke Green reads listener mail including a review from Skater Br
 
 <div class="smcg-acts">
 <div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(0)" title="Jump to 0:00"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">INTRO</div><div class="smcg-act-note">You know why they didn't make two Yogi Bears? They tried, but somebody made a boo-boo</div></div></div>
-<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(57)" title="Jump to 0:57"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">MAILBAG</div><div class="smcg-act-note">Skater Brian (iTunes) and Troop 237 listener letters</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(57)" title="Jump to 0:57"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">WELCOME</div><div class="smcg-act-note">Skater Brian (iTunes) and Troop 237 listener letters</div></div></div>
 <div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(846)" title="Jump to 14:06"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">PATROL METHOD FILMSTRIP</div><div class="smcg-act-note">Vintage BSA patrol method filmstrip audio — and listener responses</div></div></div>
 <div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(1076)" title="Jump to 17:56"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">OUTRO</div></div></div>
 </div>

@@ -2,7 +2,9 @@
 title: "Reinvention"
 date: 2015-09-21
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Personal Reflection"
+  - "International Scouting"
 wayback_url: "https://web.archive.org/web/20150921201106/http://scoutmastercg.com/reinvention/"
 ---
 

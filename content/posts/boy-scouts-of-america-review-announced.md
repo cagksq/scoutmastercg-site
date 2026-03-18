@@ -2,7 +2,8 @@
 title: "Boy Scouts of America Review Announced"
 date: 2013-06-25
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "BSA Membership & Inclusion"
 wayback_url: "https://web.archive.org/web/20141008083556/http://scoutmastercg.com:80/boy-scouts-of-america-review-announced/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Is your Advancement Program Aimed at \"True North\"?"
 date: 2008-03-17
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Baden-Powell Writings"
 wayback_url: "https://web.archive.org/web/20141008040956/http://scoutmastercg.com:80/are-you-aimed-a/"
 ---
 

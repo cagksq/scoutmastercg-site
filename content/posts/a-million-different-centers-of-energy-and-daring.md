@@ -2,7 +2,8 @@
 title: "... A million different centers of energy and daring ..."
 date: 2010-07-03
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Citizenship & Patriotism"
 wayback_url: "https://web.archive.org/web/20141016025810/http://scoutmastercg.com:80/a-million-different-centers-of-energy-and-daring/"
 ---
 

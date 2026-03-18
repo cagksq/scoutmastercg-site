@@ -2,7 +2,8 @@
 title: "10 Point Scout Troop Checkup"
 date: 2015-02-17
 draft: false
-categories: ["scoutmasters-job", "patrol-method"]
+topics:
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150217045554/http://scoutmastercg.com:80/10-point-scout-troop-checkup/?"
 ---
 

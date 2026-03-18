@@ -2,7 +2,9 @@
 title: "Balanced Scouting Activities"
 date: 2013-10-12
 draft: false
-categories: ["advancement"]
+topics:
+  - "Youth Leadership Development"
+  - "Scout Activities & Games"
 wayback_url: "https://web.archive.org/web/20140904191647/http://scoutmastercg.com/scouting-activities/?replytocom=48296"
 ---
 

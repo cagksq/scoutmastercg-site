@@ -2,8 +2,8 @@
 title: "Woodland Indians - Keith Wilbur"
 date: 2014-08-25
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20140825233754/http://scoutmastercg.com/native-american-history-skills/?replytocom=51912"
 ---
 

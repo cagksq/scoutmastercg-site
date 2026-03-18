@@ -2,7 +2,9 @@
 title: "To Parents at an Eagle Court of Honor"
 date: 2017-07-04
 draft: false
-categories: ["advancement"]
+topics:
+  - "Parent Relations"
+  - "Eagle Scout"
 wayback_url: "https://web.archive.org/web/20170704082603/http://scoutmastercg.com/to-parents-at-an-eagle-court-of-honor/"
 ---
 

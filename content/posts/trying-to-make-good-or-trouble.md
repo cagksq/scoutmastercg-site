@@ -2,7 +2,9 @@
 title: "Trying to Make Good or Trouble?"
 date: 2012-02-01
 draft: false
-categories: ["scouts"]
+topics:
+  - "Discipline & Behavior"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20120213181206/http://www.scoutmastercg.com:80/2012/02/trying-to-make-good-or-trouble/"
 ---
 

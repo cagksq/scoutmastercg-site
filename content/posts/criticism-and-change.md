@@ -2,7 +2,9 @@
 title: "Criticism and Change"
 date: 2014-10-09
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Adult Leadership Roles"
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20141009014402/http://scoutmastercg.com:80/scouting-is-not-you/"
 ---
 

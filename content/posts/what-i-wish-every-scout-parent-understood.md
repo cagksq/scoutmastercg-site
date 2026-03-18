@@ -2,7 +2,9 @@
 title: "What I Wish Every Scout Parent Understood"
 date: 2014-01-02
 draft: false
-categories: ["advancement", "scoutmasters-life"]
+topics:
+  - "Parent Relations"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20171023044438/http://scoutmastercg.com/what-i-wish-every-scout-parent-understood/"
 ---
 

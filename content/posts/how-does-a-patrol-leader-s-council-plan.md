@@ -2,7 +2,9 @@
 title: "How Does a Patrol Leader’s Council Plan?"
 date: 2011-05-09
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20110509234550/http://www.scoutmastercg.com:80/2011/05/how-does-a-patrol-leaders-council-plan/"
 ---
 

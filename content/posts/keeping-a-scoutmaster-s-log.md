@@ -2,7 +2,9 @@
 title: "Keeping a Scoutmaster's Log"
 date: 2006-05-09
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Patrol Planning & Operations"
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20140823150818/http://scoutmastercg.com/keeping_a_scout_1/"
 ---
 

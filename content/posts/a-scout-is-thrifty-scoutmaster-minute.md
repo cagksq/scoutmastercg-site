@@ -2,7 +2,8 @@
 title: "A Scout is Thrifty - Scoutmaster Minute"
 date: 2012-11-07
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20121107031324/http://www.scoutmastercg.com:80/2009/03/a-scout-is-thrifty-scoutmaster-minute/"
 ---
 

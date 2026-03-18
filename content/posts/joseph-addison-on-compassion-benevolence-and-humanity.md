@@ -2,7 +2,8 @@
 title: "Joseph Addison on Compassion, Benevolence and Humanity"
 date: 2014-08-24
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Quotes & Brief Reflections"
 wayback_url: "https://web.archive.org/web/20140824211358/http://scoutmastercg.com/man-is-subject/"
 ---
 

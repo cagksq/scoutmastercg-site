@@ -2,7 +2,9 @@
 title: "Scout Parent Problems"
 date: 2012-09-24
 draft: false
-categories: ["scoutmasters-job", "scouts"]
+topics:
+  - "Parent Relations"
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20170325221346/http://scoutmastercg.com:80/scout-parent-problems/"
 ---
 

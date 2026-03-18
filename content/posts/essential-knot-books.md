@@ -2,8 +2,8 @@
 title: "Essential Knot Books"
 date: 2011-07-14
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20110714131017/http://www.scoutmastercg.com:80/2006/11/essential_knot_/"
 ---
 

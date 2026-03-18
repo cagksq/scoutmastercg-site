@@ -3,8 +3,9 @@ title: "B-P's Blog - Decentralization"
 date: 2014-08-25
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Organizational Structure"
 wayback_url: "https://web.archive.org/web/20140825045450/http://scoutmastercg.com/decentralizatio/"
 ---
 

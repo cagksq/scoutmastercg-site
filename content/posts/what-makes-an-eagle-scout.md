@@ -2,7 +2,9 @@
 title: "What Makes an Eagle Scout?"
 date: 2012-11-26
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20121126065511/http://www.scoutmastercg.com:80/2011/11/what-makes-an-eagle-scout/"
 ---
 

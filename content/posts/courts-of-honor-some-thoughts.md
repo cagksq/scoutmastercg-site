@@ -2,7 +2,9 @@
 title: "Courts of Honor - Some Thoughts"
 date: 2012-11-26
 draft: false
-categories: ["advancement"]
+topics:
+  - "Troop Administration"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20121126060659/http://www.scoutmastercg.com:80/2008/06/courts-of-honor/"
 ---
 

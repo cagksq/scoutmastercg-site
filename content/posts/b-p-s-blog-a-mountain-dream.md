@@ -3,8 +3,9 @@ title: "B-P's Blog - A Mountain Dream"
 date: 2016-07-03
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20160703044800/http://scoutmastercg.com/b-ps-blog-mountain-dream/?replytocom=89892"
 ---
 

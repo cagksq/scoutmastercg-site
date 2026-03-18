@@ -2,7 +2,9 @@
 title: "The Natural Genius of Children"
 date: 2011-04-17
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Character Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20170901174839/http://scoutmastercg.com/the-natural-genius-of-children/"
 ---
 

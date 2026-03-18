@@ -2,7 +2,9 @@
 title: "Group Air Travel - A Saga"
 date: 2013-10-12
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "International Scouting"
+  - "Fundraising & Finances"
 wayback_url: "https://web.archive.org/web/20170918104343/http://scoutmastercg.com/group-air-travel-a-saga/"
 ---
 

@@ -2,7 +2,9 @@
 title: "How to Save the BSA"
 date: 2014-08-27
 draft: false
-categories: ["scoutmasters-job", "scouting-history-ideas"]
+topics:
+  - "BSA Rules & Policy"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20140827124945/http://scoutmastercg.com/how-to-save-the-bsa/"
 ---
 

@@ -2,7 +2,9 @@
 title: "What is an Eagle Scout?"
 date: 2015-01-25
 draft: false
-categories: ["advancement"]
+topics:
+  - "Eagle Scout"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20150125190952/http://scoutmastercg.com:80/eagle-scout/?replytocom=71575"
 ---
 

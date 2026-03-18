@@ -2,7 +2,8 @@
 title: "To Build a Fire"
 date: 2005-11-01
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20150310042258/http://scoutmastercg.com:80/to_build_a_fire/"
 ---
 

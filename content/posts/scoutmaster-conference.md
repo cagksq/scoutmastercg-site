@@ -2,7 +2,8 @@
 title: "Scoutmaster Conference"
 date: 2013-10-25
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scoutmaster Conference"
 wayback_url: "https://web.archive.org/web/20171011234340/http://scoutmastercg.com/scoutmaster-conference/"
 ---
 

@@ -2,7 +2,8 @@
 title: "Scouters are Extra-Ordinary"
 date: 2017-07-09
 draft: false
-categories: ["scoutmasters-job", "outdoors"]
+topics:
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20170709085059/http://scoutmastercg.com/scouters-are-extraordinary/"
 ---
 

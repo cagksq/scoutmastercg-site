@@ -2,7 +2,9 @@
 title: "The One Essential Feature of Scouting Explained"
 date: 2013-05-28
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Patrol Method"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20141009014427/http://scoutmastercg.com:80/small-self-governing-groups/"
 ---
 

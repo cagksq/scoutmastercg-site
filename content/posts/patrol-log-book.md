@@ -2,8 +2,8 @@
 title: "Patrol Log Book"
 date: 2014-10-03
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20141003033020/http://scoutmastercg.com:80/patrol-log-book-pdf/?replytocom=58011"
 ---
 

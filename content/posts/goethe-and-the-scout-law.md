@@ -2,7 +2,9 @@
 title: "Goethe and the Scout Law"
 date: 2015-09-10
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20150910172042/http://scoutmastercg.com/friendship/"
 ---
 

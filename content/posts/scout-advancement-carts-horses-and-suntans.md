@@ -2,7 +2,9 @@
 title: "Scout Advancement - Carts, Horses, and Suntans"
 date: 2012-10-25
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20121027235412/http://www.scoutmastercg.com:80/2012/10/scout-advancement-carts-horses-and-suntans/"
 ---
 

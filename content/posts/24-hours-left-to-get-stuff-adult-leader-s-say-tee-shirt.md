@@ -2,7 +2,10 @@
 title: "24 Hours left to get \"Stuff Adult Leader's Say\" tee shirt"
 date: 2012-09-29
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Outdoor Skills & Gear"
+  - "Eagle Scout"
+  - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20121005035056/http://www.scoutmastercg.com:80/2012/09/24-hours-left-to-get-stuff-adult-leaders-say-tee-shirt/"
 ---
 

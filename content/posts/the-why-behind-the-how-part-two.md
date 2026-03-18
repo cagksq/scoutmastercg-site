@@ -2,7 +2,9 @@
 title: "The Why Behind The How Part Two"
 date: 2015-12-26
 draft: false
-categories: ["advancement"]
+topics:
+  - "Youth Leadership Development"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20151226025706/http://scoutmastercg.com/quotations/"
 ---
 

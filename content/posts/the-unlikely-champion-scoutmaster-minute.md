@@ -2,7 +2,9 @@
 title: "The Unlikely Champion - Scoutmaster Minute"
 date: 2009-01-20
 draft: false
-categories: ["scouts"]
+topics:
+  - "Character Development"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20151014174938/http://scoutmastercg.com/the-unlikely-champion-scoutmaster-minute/"
 ---
 

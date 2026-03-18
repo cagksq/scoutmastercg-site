@@ -2,7 +2,9 @@
 title: "Fun"
 date: 2014-10-18
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20141018212800/http://scoutmastercg.com:80/fun/"
 ---
 

@@ -2,7 +2,9 @@
 title: "The Uncertain Senior Patrol Leader"
 date: 2017-09-19
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20170919193619/http://scoutmastercg.com/the-uncertain-s/"
 ---
 

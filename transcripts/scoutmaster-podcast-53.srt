@@ -1,0 +1,903 @@
+1
+00:00:00,040 --> 00:00:02,120
+And now for you, Scoutmaster.
+
+2
+00:00:08,260 --> 00:00:13,880
+So I was thinking about this and I wonder if, when mosquitoes go camping, they complain about all the people
+
+3
+00:00:15,440 --> 00:00:17,140
+I don't know. What do you think?
+
+4
+00:00:17,820 --> 00:00:19,980
+Hey, this is podcast number 53..
+
+5
+00:00:30,000 --> 00:00:54,540
+Welcome back to the Scoutmaster Podcast. This is Clark Green.
+
+6
+00:00:54,540 --> 00:00:59,680
+I wanted to let you know that I have an interview scheduled tomorrow morning with Cliff Jacobson,
+
+7
+00:01:00,180 --> 00:01:09,660
+And Cliff is a very respected outdoors author, a guide, and I am really looking forward to speaking with him
+
+8
+00:01:09,860 --> 00:01:14,000
+And hopefully we'll have that interview on next week's podcast.
+
+9
+00:01:15,400 --> 00:01:18,320
+So a lot of you got in touch this week. Let me see here:
+
+10
+00:01:18,320 --> 00:01:27,420
+Arlen, thanks for the retweet on podcast number 52 and the Scoutmaster newsletter which went out last week.
+
+11
+00:01:27,480 --> 00:01:29,620
+The January edition went out last week
+
+12
+00:01:30,000 --> 00:01:42,740
+And there's always a giveaway in the Scoutmaster newsletter and I will let you know who won that next week because the giveaway is open for entries until tomorrow. I think
+
+13
+00:01:43,640 --> 00:01:46,100
+Tim got in touch about the newsletter
+
+14
+00:01:46,100 --> 00:01:51,919
+And the content of the newsletter. the focus of the newsletter this time was special needs scouting
+
+15
+00:01:52,539 --> 00:01:56,399
+And Tim had this to say: He says thanks for starting up your newsletter.
+
+16
+00:01:56,860 --> 00:02:00,140
+Your writings on special needs scouting were very timely for me today.
+
+17
+00:02:00,539 --> 00:02:03,520
+This weekend on a campout, I had a Scout approach me for a hug.
+
+18
+00:02:04,220 --> 00:02:08,079
+It was the first time that had ever happened and it was a bit awkward, to tell you the truth.
+
+19
+00:02:08,080 --> 00:02:14,540
+My mind was racing with youth protection concerns as to how this might appear to others in the room.
+
+20
+00:02:15,340 --> 00:02:22,080
+And what you said about hugs are for families and scouts. shake hands sounds like a great approach
+
+21
+00:02:22,380 --> 00:02:25,080
+And if I ever run into this again, I'll give it a try.
+
+22
+00:02:25,540 --> 00:02:29,000
+Tim, I'm glad that you found that information useful. I really am.
+
+23
+00:02:29,000 --> 00:02:33,160
+James, a Scoutmaster from Haymarket, Virginia, sent me this story,
+
+24
+00:02:33,940 --> 00:02:39,020
+He said three years ago, a Scout with Down syndrome bridged over from Weebelos into our troop.
+
+25
+00:02:39,660 --> 00:02:44,840
+His parents were a little skeptical about scouting as other troops were kind of waving them off,
+
+26
+00:02:45,300 --> 00:02:49,600
+And I told them that the other troops were wrong and I welcomed this great opportunity.
+
+27
+00:02:50,740 --> 00:02:54,980
+This Scout was functioning at about a third grade level and he had some physical challenges.
+
+28
+00:02:55,400 --> 00:02:57,640
+His first summer camp was a great success,
+
+29
+00:02:57,640 --> 00:03:03,239
+You know. as a matter of fact, he fared better than my son and even earned more merit badges than he did.
+
+30
+00:03:04,079 --> 00:03:12,239
+Our Scouts may have gotten more out of working with this Scout, whose name was Rusty, than Rusty ever got out of scouting.
+
+31
+00:03:13,059 --> 00:03:23,179
+As years passed, I kept in touch with his parents and eventually we came to the conclusion that Rusty just was not keeping up with us and within our troop,
+
+32
+00:03:23,180 --> 00:03:27,920
+So we started looking around to try to find a troop that could better suit his needs.
+
+33
+00:03:28,680 --> 00:03:31,620
+I found an active troop that worked with boys like Rusty,
+
+34
+00:03:32,180 --> 00:03:38,960
+And Rusty and his parents and I visited them and decided that this was a great place for Rusty to continue in scouting.
+
+35
+00:03:39,460 --> 00:03:43,600
+They have several members with Down syndrome, including the Scoutmaster's son.
+
+36
+00:03:43,600 --> 00:03:50,780
+This past summer, as a part of my diversity ticket for wood badge, my troop and Rusty's new troop planned a joint activity.
+
+37
+00:03:51,480 --> 00:03:56,040
+Our youth leadership met with theirs and they planned the event together.
+
+38
+00:03:56,500 --> 00:04:02,519
+We held a joint troop meeting and a Saturday session to work on the historic carpentry merit badge.
+
+39
+00:04:02,520 --> 00:04:08,160
+Scouts formed a group with members from both troops and about 30 scouts completed the merit badge that day.
+
+40
+00:04:08,240 --> 00:04:09,460
+What a production that was.
+
+41
+00:04:10,100 --> 00:04:14,300
+We formed some friendships and planned more joint activities with this troop.
+
+42
+00:04:14,540 --> 00:04:16,680
+James, thanks so much for sending me the story.
+
+43
+00:04:17,200 --> 00:04:18,960
+That's very inspirational
+
+44
+00:04:19,300 --> 00:04:23,300
+And it also points something out that I think is important to realize.
+
+45
+00:04:23,300 --> 00:04:32,640
+There is a point in mainstreaming boys with some special needs where you might come to a juncture and say:
+
+46
+00:04:32,860 --> 00:04:41,700
+well, you know, what we're doing here is not answering the needs that this particular Scout needs.
+
+47
+00:04:41,920 --> 00:04:47,180
+Jim, I've got to give you a lot of credit for understanding that and for assessing the situation
+
+48
+00:04:47,180 --> 00:04:50,380
+and then making sure that Rusty could continue on in scouting.
+
+49
+00:04:50,380 --> 00:04:53,360
+That's a great story and I really do appreciate it.
+
+50
+00:04:53,500 --> 00:04:55,540
+I also had this message from Doug, who says this:
+
+51
+00:04:55,640 --> 00:04:59,520
+We have three scouts in our troop and these three have been members of patrol since September,
+
+52
+00:05:00,600 --> 00:05:05,080
+And one is a tenderfoot and two are scouts
+
+53
+00:05:05,740 --> 00:05:08,580
+In February. we have five scouts crossing over from Cub Scouts
+
+54
+00:05:08,659 --> 00:05:14,159
+and I'm looking for opinions or guidance on whether we should have the five join the existing patrol
+
+55
+00:05:14,159 --> 00:05:19,580
+and reach the magic number eight, or if we should just have a new patrol, one having three and one having five.
+
+56
+00:05:19,580 --> 00:05:22,320
+Well, Doug, since you asked, here's my advice.
+
+57
+00:05:22,859 --> 00:05:26,260
+I think I've boiled things down to two basic rules of thumb on patrols.
+
+58
+00:05:26,760 --> 00:05:32,840
+First is that the most important thing for scouts is they want to be in a patrol with their buddies,
+
+59
+00:05:33,060 --> 00:05:34,780
+and I think that's our first consideration.
+
+60
+00:05:34,780 --> 00:05:42,840
+So that would be one of the factors that I would want to discover: see who was buddies with who
+
+61
+00:05:43,239 --> 00:05:45,059
+and make sure they all got to be in the same patrol.
+
+62
+00:05:45,159 --> 00:05:50,059
+That being said, patrols do function best with at least six, but no more than ten members.
+
+63
+00:05:50,239 --> 00:05:52,460
+Eight is, as you say, the magic number.
+
+64
+00:05:52,460 --> 00:05:58,180
+So my bias would be towards making sure that I have a patrol of at least eight,
+
+65
+00:05:58,760 --> 00:06:03,460
+because patrols of three and five? historically for me they don't work very well
+
+66
+00:06:03,659 --> 00:06:05,560
+because there's always one guy missing,
+
+67
+00:06:06,240 --> 00:06:09,359
+And if it's a patrol of three, well now, you're down to one guy.
+
+68
+00:06:09,880 --> 00:06:11,799
+If it's a patrol of five, you're down to four,
+
+69
+00:06:12,179 --> 00:06:14,280
+And a lot of times you know, the more guys in a patrol,
+
+70
+00:06:14,400 --> 00:06:17,740
+the more chance you have of a guy missing a particular meeting or event.
+
+71
+00:06:17,740 --> 00:06:22,360
+So fighting strength seems to be about eight guys, no more than ten.
+
+72
+00:06:22,840 --> 00:06:24,980
+You know, rule of thumb: no fewer than six.
+
+73
+00:06:25,380 --> 00:06:28,960
+None of this is official policy or rules or anything like that.
+
+74
+00:06:29,000 --> 00:06:30,780
+It's just rules of thumb, in my opinion,
+
+75
+00:06:31,100 --> 00:06:32,780
+And that's what you asked for, wasn't it, Doug?
+
+76
+00:06:33,220 --> 00:06:34,840
+So thanks for being in touch.
+
+77
+00:06:35,300 --> 00:06:38,900
+Today we're going to be talking a little bit about venture patrols.
+
+78
+00:06:39,600 --> 00:06:40,520
+Venture patrols,
+
+79
+00:06:40,560 --> 00:06:41,440
+Not venture crews,
+
+80
+00:06:41,580 --> 00:06:42,360
+Venture patrols.
+
+81
+00:06:42,360 --> 00:06:47,080
+This is an outgrowth of a discussion that we've been having over the last couple of podcasts,
+
+82
+00:06:47,080 --> 00:06:50,060
+but we'll talk about that in Scoutmaster Ship in seven minutes or less.
+
+83
+00:06:50,240 --> 00:06:51,659
+Then we got an email to answer.
+
+84
+00:06:52,419 --> 00:06:53,880
+That sounds like a lot to get done,
+
+85
+00:06:54,140 --> 00:06:55,400
+So let's get started. shall we
+
+86
+00:06:55,520 --> 00:06:59,840
+Scoutmaster Ship in seven minutes or less?
+
+87
+00:07:06,700 --> 00:07:10,659
+Over the past couple of podcasts we've been talking about patrols and how patrols are made up.
+
+88
+00:07:10,660 --> 00:07:20,160
+I mentioned in our last podcast- number 52, that we had been using this kind of loose venture patrol model for a long time
+
+89
+00:07:20,540 --> 00:07:21,780
+And I got a couple of comments,
+
+90
+00:07:21,900 --> 00:07:23,040
+One from Larry Geiger.
+
+91
+00:07:23,180 --> 00:07:23,800
+Thanks, Larry,
+
+92
+00:07:24,020 --> 00:07:25,300
+Thanks for being in touch again.
+
+93
+00:07:26,120 --> 00:07:31,080
+He says just to comment on podcast 52 concerning venture activities.
+
+94
+00:07:31,640 --> 00:07:33,960
+I think what you're describing is a venture patrol.
+
+95
+00:07:34,580 --> 00:07:36,960
+A venture crew is a chartered unit of scouting
+
+96
+00:07:36,960 --> 00:07:41,280
+And I did call it a venture crew in the last podcast.
+
+97
+00:07:41,560 --> 00:07:44,280
+So this is trying to clear up a little bit of confusion.
+
+98
+00:07:44,719 --> 00:07:47,320
+It doesn't really matter to me what you call it. Larry says
+
+99
+00:07:47,520 --> 00:07:53,380
+But to have a venture crew, you do, you know, have to have a committee, a venture crew leader, a charter and everything like that.
+
+100
+00:07:53,740 --> 00:07:57,599
+So we're not trying to get stuck in terminology here, just like Larry says.
+
+101
+00:07:57,700 --> 00:08:00,620
+But this is a pretty important little piece here
+
+102
+00:08:00,620 --> 00:08:07,880
+And what Larry sent me were a couple of links to some descriptions of venture patrols
+
+103
+00:08:07,940 --> 00:08:13,540
+And I'm going to have those links on the blog post that contains this podcast,
+
+104
+00:08:14,040 --> 00:08:15,900
+So you'll want to go and check those out.
+
+105
+00:08:16,120 --> 00:08:20,800
+Larry goes on to say: we've had the venture patrol in both of my troops but I've never used the venture patch.
+
+106
+00:08:20,800 --> 00:08:30,800
+Now you'll see if you follow the links that I provide you. there is a venture patch available for the uniform that indicates that a scout is part of the venture patrol.
+
+107
+00:08:31,120 --> 00:08:40,539
+The venture patrol usually becomes active in my troops in September or October when we start planning our Appalachian Trail, 50 miler every two years.
+
+108
+00:08:41,039 --> 00:08:42,980
+They meet throughout the year to get ready for the hike.
+
+109
+00:08:43,380 --> 00:08:45,300
+They elect a patrol leader and a quartermaster.
+
+110
+00:08:45,300 --> 00:08:50,300
+All the scouts and adults going get together about once a month outside of regular scout meetings.
+
+111
+00:08:50,819 --> 00:08:53,740
+All the money collected for the trip goes through the regular troop treasury.
+
+112
+00:08:54,520 --> 00:08:56,300
+And then Walter also commented.
+
+113
+00:08:57,060 --> 00:08:59,579
+He said: we do exactly what you do for the venture patrol.
+
+114
+00:09:00,180 --> 00:09:03,819
+It is a virtual patrol that exists purely for high adventure outings.
+
+115
+00:09:04,319 --> 00:09:06,479
+They're still members of their regular patrols.
+
+116
+00:09:06,560 --> 00:09:10,240
+The right terminology is venture patrol and not crew.
+
+117
+00:09:10,319 --> 00:09:14,219
+You know, I'm really thankful that there are guys out there who are smarter than me.
+
+118
+00:09:15,300 --> 00:09:17,800
+Thank you, Walter and Larry, for putting me straight on that.
+
+119
+00:09:18,300 --> 00:09:19,579
+A crew is a chartered unit.
+
+120
+00:09:20,260 --> 00:09:23,120
+The leader is venture patrol leader.
+
+121
+00:09:23,680 --> 00:09:28,540
+That is a leadership position that qualifies for Eagle. so it's worth using the right terminology.
+
+122
+00:09:28,939 --> 00:09:30,579
+You are exactly right, my friend.
+
+123
+00:09:31,260 --> 00:09:36,979
+Members can wear the venture patch, certainly one of the more obscure bits of the official uniform.
+
+124
+00:09:36,980 --> 00:09:41,620
+The Scoutmaster Handbook has a whopping one or two paragraphs about venture patrols,
+
+125
+00:09:41,680 --> 00:09:46,980
+but the scheme is essentially a return to explorers in the troop from the 1950s.
+
+126
+00:09:47,160 --> 00:09:52,880
+This 60-year-old diagram is much more helpful than what is in the current handbook,
+
+127
+00:09:53,460 --> 00:09:58,660
+and Walter provided me a link to an ancient piece of scouting literature
+
+128
+00:09:58,660 --> 00:10:04,560
+that describes the relationship between this older boy patrol within a troop,
+
+129
+00:10:04,560 --> 00:10:11,239
+And I think it is, as Walter says, a pretty easy way of looking at and picturing this,
+
+130
+00:10:11,339 --> 00:10:13,439
+and I'll have that link on the blog.
+
+131
+00:10:13,959 --> 00:10:15,300
+What exactly are we talking about?
+
+132
+00:10:15,420 --> 00:10:19,219
+Well, you can establish a venture patrol within your troop.
+
+133
+00:10:19,339 --> 00:10:23,800
+This qualifies the scouts who are members of that patrol to wear the venture strip,
+
+134
+00:10:23,959 --> 00:10:28,839
+which is a badge that goes on their uniform and it just says venture on it.
+
+135
+00:10:28,840 --> 00:10:33,900
+The other interesting thing is is that there is actually a venture patrol letter.
+
+136
+00:10:34,760 --> 00:10:35,480
+That's right.
+
+137
+00:10:35,700 --> 00:10:40,580
+It looks like a letter like you would get in high school for being a part of an athletic team.
+
+138
+00:10:40,900 --> 00:10:41,640
+It's a big V
+
+139
+00:10:42,200 --> 00:10:48,140
+And there are pins associated with activities that you can get to put on that letter.
+
+140
+00:10:48,620 --> 00:10:52,440
+Now, I'm not personally using this, but I wanted to point it out
+
+141
+00:10:52,560 --> 00:10:56,160
+just to know that that program exists and it's something that you can work with.
+
+142
+00:10:56,160 --> 00:11:01,600
+Some of you will see that this is very similar to the varsity scout letter.
+
+143
+00:11:02,020 --> 00:11:07,400
+Varsity scouting is, you know, kind of like a not-so-well-known program within scouting
+
+144
+00:11:07,500 --> 00:11:09,339
+and it's not used in a whole lot of places.
+
+145
+00:11:09,699 --> 00:11:13,439
+The reason that the venture patrol letter looks similar to the varsity letter
+
+146
+00:11:13,439 --> 00:11:15,780
+is because it is exactly the same thing.
+
+147
+00:11:16,380 --> 00:11:22,000
+So just a little program note there to know that hey, there's some badges and pins that can be worked with,
+
+148
+00:11:22,000 --> 00:11:26,080
+and follow the links on the blog and you'll be able to see what I'm talking about.
+
+149
+00:11:26,080 --> 00:11:33,340
+Now I will reiterate that Walter and Larry and myself use this venture patrol
+
+150
+00:11:33,340 --> 00:11:37,500
+to organize and arrange high adventure trips.
+
+151
+00:11:38,160 --> 00:11:44,920
+Larry does a once-every-two-years 50-miler Appalachian trail hike using the venture patrol concept.
+
+152
+00:11:44,920 --> 00:11:47,180
+We do an annual outing.
+
+153
+00:11:47,740 --> 00:11:51,300
+Usually it's up to Canada for a canoe trip,
+
+154
+00:11:52,020 --> 00:11:55,500
+or this year we're going over to Kondersteg in Switzerland
+
+155
+00:11:55,880 --> 00:11:58,839
+and we're using the venture patrol model around this.
+
+156
+00:11:59,120 --> 00:12:02,420
+Now I have incorrectly called it a venture crew,
+
+157
+00:12:03,260 --> 00:12:05,880
+but it is actually a venture patrol.
+
+158
+00:12:06,219 --> 00:12:11,900
+So you encounter every once in a while little bits of scouting that are not really well-defined
+
+159
+00:12:11,900 --> 00:12:16,420
+and I hope this helps lend a little bit of definition to it-
+
+160
+00:12:16,880 --> 00:12:20,480
+The boys in our troop who are members of the venture patrol.
+
+161
+00:12:21,060 --> 00:12:25,280
+that venture patrol does not exist within the troop as an official,
+
+162
+00:12:25,980 --> 00:12:30,020
+like ongoing patrol, that meets every time patrols meet.
+
+163
+00:12:30,220 --> 00:12:36,100
+This is an identification for scouts who are participating in this high adventure activity.
+
+164
+00:12:36,260 --> 00:12:39,660
+They usually have to be a minimum age of 13 to do this
+
+165
+00:12:39,660 --> 00:12:45,079
+and they get together outside of the regular meetings of the troop
+
+166
+00:12:45,079 --> 00:12:47,020
+to plan and arrange their activities.
+
+167
+00:12:47,360 --> 00:12:51,520
+I would love to know what your older boy program looks like in your troop.
+
+168
+00:12:51,939 --> 00:12:53,920
+if you have something similar to this
+
+169
+00:12:54,000 --> 00:12:55,540
+or if you're doing it a different way,
+
+170
+00:12:55,839 --> 00:12:57,360
+I'd love to have you get in touch with me
+
+171
+00:12:57,380 --> 00:12:59,760
+and you'll find out how to do that right at the end of the podcast.
+
+172
+00:12:59,760 --> 00:13:07,819
+Have you ever wandered lonely through the woods
+
+173
+00:13:09,180 --> 00:13:12,660
+And everything? that feels just as it should.
+
+174
+00:13:12,660 --> 00:13:18,740
+You're part of a life there. you're part of something good.
+
+175
+00:13:18,740 --> 00:13:23,760
+If you've ever wandered lonely through the woods,
+
+176
+00:13:23,760 --> 00:13:35,400
+Find me a letter,
+
+177
+00:13:35,400 --> 00:13:37,620
+Send it by mail-
+
+178
+00:13:37,620 --> 00:13:40,760
+Email that is, folks.
+
+179
+00:13:41,460 --> 00:13:44,360
+And here's an answer to one of your emails.
+
+180
+00:13:44,360 --> 00:13:56,500
+Well, this email came in from Chris in Cranberry Township, Pennsylvania.
+
+181
+00:13:56,880 --> 00:14:01,180
+He says: hello. I've approached several district executives, as well as our council executive,
+
+182
+00:14:01,300 --> 00:14:03,920
+and I really haven't been able to get a clear-cut answer on my question.
+
+183
+00:14:04,760 --> 00:14:11,680
+My question is: can an 18-year-old assistant scoutmaster drive youth members to and from camping trips?
+
+184
+00:14:11,680 --> 00:14:17,160
+Our troop has always shrugged it off and firmly said: no driving scouts until you're 21..
+
+185
+00:14:17,780 --> 00:14:22,880
+Recently the troop has started saying an 18-year-old can drive if he has a 21-year-old in the vehicle,
+
+186
+00:14:23,000 --> 00:14:26,260
+which defeats the purpose because that requires two adults to drive one vehicle.
+
+187
+00:14:27,219 --> 00:14:31,760
+Any help you could give to clear this up would be greatly appreciated.
+
+188
+00:14:32,120 --> 00:14:33,199
+Hey Chris, this one's easy
+
+189
+00:14:33,680 --> 00:14:35,020
+Look at the tour permit form,
+
+190
+00:14:35,020 --> 00:14:44,740
+And a tour permit is a piece of paperwork that gets filled out whenever you're going camping away from your scout reservation or your scout camp
+
+191
+00:14:45,199 --> 00:14:49,640
+And it simply describes where you're going, what you're planning on doing
+
+192
+00:14:49,800 --> 00:14:54,840
+and making sure that people have the proper training and qualifications to lead the outing.
+
+193
+00:14:55,480 --> 00:14:58,960
+If you look on the back of the tour permit, there you'll find this statement
+
+194
+00:14:59,620 --> 00:15:04,220
+And let's make sure that we're talking about the most recent revision of the tour permit.
+
+195
+00:15:04,220 --> 00:15:08,160
+If you go online and you just search for scouting tour permit,
+
+196
+00:15:08,300 --> 00:15:12,620
+you're liable to come up with a dozen different iterations of the tour permit.
+
+197
+00:15:13,160 --> 00:15:19,940
+So check with your council and make sure that you have the most current edition of the tour permit.
+
+198
+00:15:20,180 --> 00:15:27,320
+I will have a link to a PDF file of what I am pretty sure is the most current edition of the tour permit.
+
+199
+00:15:27,560 --> 00:15:29,960
+But, like I said, make sure to check with your council.
+
+200
+00:15:29,960 --> 00:15:34,040
+If you look on the back it'll say this: driver qualifications.
+
+201
+00:15:34,600 --> 00:15:41,460
+In part it says all drivers must have a valid driver's license and must be at least 18 years of age.
+
+202
+00:15:41,460 --> 00:15:44,180
+There is a youth member exception.
+
+203
+00:15:44,180 --> 00:15:54,079
+When traveling to an area, regional or national, Boy Scout activity or any venturing event under the leadership of an adult who is 21 years or older,
+
+204
+00:15:54,479 --> 00:16:00,959
+a youth member at least 16 years of age may be a driver subject to the following conditions:
+
+205
+00:16:00,960 --> 00:16:06,280
+One, he must have six months driving experience as a licensed driver-
+
+206
+00:16:06,900 --> 00:16:10,040
+Time on a learner's permit or equivalent is not to be counted.
+
+207
+00:16:10,680 --> 00:16:14,920
+And two, he has no record of accidents or moving violations.
+
+208
+00:16:14,920 --> 00:16:21,660
+And three, parental permission has been granted to leader, driver and riders.
+
+209
+00:16:23,060 --> 00:16:33,979
+So the answer to your question, Chris, is that the BSA permits a driver who is at least 18 years of age is a qualified driver for a scout outing.
+
+210
+00:16:33,980 --> 00:16:45,520
+There is a youth member exception if a youth member is at least 16 years old and he meets those criteria: six months driving experience, no record of accidents or moving violations
+
+211
+00:16:45,860 --> 00:16:55,480
+and he has his parents' permission to drive and he also has the permission of any scouts he'll be transporting. he also has the permission of their parents.
+
+212
+00:16:55,820 --> 00:16:57,840
+He becomes a qualified driver.
+
+213
+00:16:57,840 --> 00:17:04,720
+One thing that might be confusing the issue in your troop is the too-deep leadership conundrum when it comes to driving.
+
+214
+00:17:05,540 --> 00:17:13,960
+While two adults 121 years or older and a registered BSA leader with youth protection training are required for tour permits,
+
+215
+00:17:14,520 --> 00:17:16,620
+they are not required in each and every vehicle.
+
+216
+00:17:17,319 --> 00:17:23,460
+The youth protection concept that goes into effect here is there is no one-on-one contact.
+
+217
+00:17:23,700 --> 00:17:27,319
+In other words, you don't need to have two adults in every vehicle,
+
+218
+00:17:27,839 --> 00:17:37,740
+We just don't want one adult and one scout in a vehicle by themselves, unless that is a father and son or mother and son.
+
+219
+00:17:38,780 --> 00:17:42,399
+More than one scout per vehicle is the way that you solve your problem.
+
+220
+00:17:43,159 --> 00:17:46,080
+Naturally, a parent can transport their scout to and fro,
+
+221
+00:17:46,959 --> 00:17:54,399
+So I hope that helps clear that up for you, Chris, and for everyone who's listening, and I appreciate you being in touch.
+
+222
+00:17:54,400 --> 00:17:59,340
+You can get in touch with your questions and comments, and you're going to find out how in just a moment.
+
+223
+00:17:59,340 --> 00:18:08,919
+Thanks for listening to this edition of the Scoutmaster Podcast,
+
+224
+00:18:09,699 --> 00:18:10,980
+And here's how to keep in touch.
+
+225
+00:18:11,360 --> 00:18:15,879
+You can read the Scoutmaster blog at scoutmastertypepadcom
+
+226
+00:18:15,880 --> 00:18:20,240
+And, when you do, stop through and subscribe to the Scoutmaster newsletter.

@@ -2,7 +2,9 @@
 title: "A New Scoutmaster - Chapter Three"
 date: 2017-07-05
 draft: false
-categories: ["patrol-method", "scoutmasters-job"]
+topics:
+  - "Patrol Method"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20170705220304/http://scoutmastercg.com/new-scoutmaster-chapter-three/"
 ---
 

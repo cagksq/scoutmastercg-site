@@ -2,7 +2,9 @@
 title: "Why do Scouts Play Games?"
 date: 2014-10-07
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Activities & Games"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20141007173641/http://scoutmastercg.com:80/why-do-scouts-play-games/"
 ---
 

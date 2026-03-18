@@ -2,7 +2,9 @@
 title: "What Do Scouts Decide?"
 date: 2013-12-21
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Patrol Method"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150402063221/http://scoutmastercg.com:80/what-do-scouts-decide/?"
 ---
 

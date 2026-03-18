@@ -2,7 +2,9 @@
 title: "Avoiding Eagle Scout Problems - Part 1"
 date: 2009-11-02
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20141013045910/http://scoutmastercg.com:80/eagle-scout-problems/"
 ---
 

@@ -16,7 +16,10 @@
     </header>
 
     <div class="smcg-tp-body">
-      {{- .Content -}}
+      {{ $key := printf "episode-%d" .Params.episode }}
+      {{ with index .Site.Data.transcripts $key }}
+        {{ .html | safeHTML }}
+      {{ end }}
     </div>
 
     <div style="margin:2rem 0 3rem; padding-top:1.5rem; border-top:1px solid #e8e8e8;">

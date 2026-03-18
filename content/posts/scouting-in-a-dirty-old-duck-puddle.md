@@ -2,7 +2,9 @@
 title: "Scouting in a Dirty Old Duck Puddle."
 date: 2014-08-23
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Baden-Powell Writings"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20140823013445/http://scoutmastercg.com/scouting-dirty-old-duck-puddle/?replytocom=55943"
 ---
 

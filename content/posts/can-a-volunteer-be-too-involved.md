@@ -2,7 +2,8 @@
 title: "Can a Volunteer be Too Involved?"
 date: 2014-10-09
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20141009014736/http://scoutmastercg.com:80/can-volunteer-be-too-involved/"
 ---
 

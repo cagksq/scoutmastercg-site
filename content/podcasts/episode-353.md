@@ -1,24 +1,30 @@
 ---
-title: "Scoutmaster Podcast 353 - Two Key Ideas for Scouters"
+title: "Scoutmaster Podcast 353"
 date: 2016-10-17
 draft: false
 episode: 353
+subtitle: "Two key concepts: experiential learning over academic methods, and a relentlessly positive attitude rooted in the Scout Oath and Law."
+transcript: true
 categories: ["Podcast"]
+tags:
+  - "experiential learning"
+  - "Scout Oath"
+  - "Scout Law"
+  - "patrol system"
+  - "leadership"
+  - "character development"
+  - "teaching methods"
+summary: "Clarke Green discusses two core ideas for better Scouting: first, that Scouting is non-academic experiential learning where Scouts discover skills through doing rather than instruction; second, that effective Scouter leadership is grounded in the Scout Oath and Law as aspirational ideals that bring people together rather than divide them. He reflects on how the language of the Scout Oath — 'on my "
+description: "Clarke Green discusses two core ideas for better Scouting: first, that Scouting is non-academic experiential learning where Scouts discover skills through doing rather than instruction; second, that effective Scouter leadership is grounded in the Scout Oath and Law as aspirational ideals that bring people together rather than divide them. He reflects on how the language of the Scout Oath — 'on my "
 ---
 
 {{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-353.mp3" >}}
 
-I'll be brief, well, kind of…
-… join me as I talk about two key ideas for Scouters I hope you find helpful .
-This podcast condenses into one talk the answers I wrote to several common email questions I had this summer. I want to share two key ideas
-I have talked about many times before, but I think are always important to emphasize. You can't talk too much about these two ideas for Scouters, I hope!
-Scouters are in the opportunity business, we create opportunities for young people to do things. How
-we approach our work is all important, our attitudes, perspectives and methods are important – because we are believers in the ability of young people to make our world a better place.
-We do our work in a relentlessly positive atmosphere – the Scout oath and law are about who to be and what to do, not who not to be and what not to do.
-Young people yearn for leaders to take them in a positive direction, one that points them towards love and goodwill, they do great things, and become great leaders themselves if we create the opportunities and encourage them to understand and apply the ideals of Scouting.
-In This Podcast
-Two Key Ideas for Scouters
-This podcast is brought to you by
-Patrons
-&
-Backers
+<div class="smcg-acts">
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(0)" title="Jump to 0:00"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">INTRO</div><div class="smcg-act-note">Coin under the pillow / sleeping quarters pun.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(20)" title="Jump to 0:20"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">WELCOME</div><div class="smcg-act-note">Clarke welcomes listeners, notes a brief visit this week, and introduces two key concepts drawn from summer email discussions.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(49)" title="Jump to 0:49"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">EXPERIENTIAL LEARNING AND THE SCOUT OATH</div><div class="smcg-act-note">Clarke explores non-academic experiential learning in Scouting and a relentlessly positive leadership attitude grounded in the Scout Oath and Law, emphasizing unity over division.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(1050)" title="Jump to 17:30"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">OUTRO</div></div></div>
+</div>
+
+<p style="margin:0.75rem 0 0;"><a href="/podcasts/episode-353/transcript/" class="smcg-transcript-link">Transcript</a></p>

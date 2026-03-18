@@ -2,7 +2,9 @@
 title: "Finances and Scouting"
 date: 2012-09-27
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Fundraising & Finances"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20120927113828/http://www.scoutmastercg.com:80/2007/01/finances_and_sc/"
 ---
 

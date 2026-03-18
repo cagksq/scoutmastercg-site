@@ -2,7 +2,9 @@
 title: "The Big Picture in Scouting"
 date: 2015-02-24
 draft: false
-categories: ["scouts", "outdoors"]
+topics:
+  - "Youth Leadership Development"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20150224155227/http://scoutmastercg.com:80/hothouse-scouts/?"
 ---
 

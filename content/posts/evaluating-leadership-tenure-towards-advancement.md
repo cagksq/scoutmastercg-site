@@ -2,7 +2,9 @@
 title: "Evaluating Leadership Tenure Towards Advancement"
 date: 2013-10-12
 draft: false
-categories: ["advancement"]
+topics:
+  - "Youth Leadership Development"
+  - "Scoutmaster Conference"
 wayback_url: "https://web.archive.org/web/20140901024746/http://scoutmastercg.com/evaluating-leadership-tenure-towards-advancement/?replytocom=520"
 ---
 

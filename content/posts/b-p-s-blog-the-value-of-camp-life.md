@@ -3,8 +3,9 @@ title: "B.P.'S Blog -The Value of Camp Life"
 date: 2014-06-01
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20141012080512/http://scoutmastercg.com:80/b-p-s-blog-value-camp-life/"
 ---
 

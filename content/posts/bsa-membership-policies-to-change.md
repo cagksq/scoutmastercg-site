@@ -2,7 +2,8 @@
 title: "BSA Membership Policies to Change?"
 date: 2013-02-01
 draft: false
-categories: ["scouting-history-ideas", "scouting-ideals"]
+topics:
+  - "BSA Membership & Inclusion"
 wayback_url: "https://web.archive.org/web/20130201235100/http://www.scoutmastercg.com:80/bsa-membership-policies-to-change/"
 ---
 

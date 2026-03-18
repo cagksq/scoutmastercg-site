@@ -2,7 +2,9 @@
 title: "Webelos Troop Visit"
 date: 2013-01-18
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Parent Relations"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20140825051000/http://scoutmastercg.com/webelos-troop-visit/?replytocom=47405"
 ---
 

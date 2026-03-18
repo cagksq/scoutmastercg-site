@@ -2,8 +2,8 @@
 title: "Rope Works"
 date: 2012-12-20
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20121220013706/http://www.scoutmastercg.com:80/rope-works-1/"
 ---
 

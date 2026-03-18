@@ -3,8 +3,9 @@ title: "B.P.'s Blog - The Game of Scouting"
 date: 2015-03-22
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20170711181656/http://scoutmastercg.com/b-p-s-blog-the-game-of-scouting/"
 ---
 

@@ -2,7 +2,9 @@
 title: "A New Scoutmaster - Chapter Ten"
 date: 2015-02-18
 draft: false
-categories: ["patrol-method", "scoutmasters-job"]
+topics:
+  - "Patrol Method"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150218054646/http://scoutmastercg.com:80/new-scoutmaster-chapter-ten/"
 ---
 

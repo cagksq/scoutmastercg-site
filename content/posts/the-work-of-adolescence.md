@@ -2,10 +2,10 @@
 title: "The Work of Adolescence"
 date: 2005-11-01
 draft: false
-categories:
-  - scouts
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 ---
-
 Adolescence is serious work. The quality of the product is proportional to the value we place on it.
 
 This stage of life requires that we question the legitimacy of the adult world we stand to inherit. A person of integrity cannot simply accept values and practices without qualification; they must be examined and tested. In this search for answers we rebel, we test boundaries, we reinvent the wheel. If the adults in our lives react defensively we sense a weakness to be exploited. If they react with understanding, consistency and Patience some of the chaos is quieted.

@@ -2,8 +2,8 @@
 title: "AMC Guide to Outdoor Leadership - Alex Kosseff"
 date: 2011-05-13
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20160617134428/http://scoutmastercg.com:80/amc-guide-to-outdoor-leadership/"
 ---
 

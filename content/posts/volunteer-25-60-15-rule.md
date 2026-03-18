@@ -2,7 +2,8 @@
 title: "Volunteer 25-60-15 Rule"
 date: 2012-06-27
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20141009014801/http://scoutmastercg.com:80/community-volunteer-work-25-60-15-rule/"
 ---
 

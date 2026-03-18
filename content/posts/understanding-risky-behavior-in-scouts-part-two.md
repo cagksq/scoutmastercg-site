@@ -2,7 +2,9 @@
 title: "Understanding Risky Behavior in Scouts Part Two"
 date: 2012-06-06
 draft: false
-categories: ["scouting-ideals", "scouts"]
+topics:
+  - "Risk Management & Safety"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20120620180331/http://www.scoutmastercg.com:80/2012/06/understanding-risky-behavior-in-scouts-part-two/"
 ---
 

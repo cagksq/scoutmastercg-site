@@ -2,7 +2,9 @@
 title: "The Better Part of Valor"
 date: 2014-08-24
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Risk Management & Safety"
+  - "Scoutmaster Conference"
 wayback_url: "https://web.archive.org/web/20140824102714/http://scoutmastercg.com/the-better-part-of-valor/"
 ---
 

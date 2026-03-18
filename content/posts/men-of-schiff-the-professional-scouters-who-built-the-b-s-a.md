@@ -2,8 +2,8 @@
 title: "Men of Schiff: The Professional Scouters Who Built the B.S.A."
 date: 2013-06-11
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20160307185626/http://scoutmastercg.com:80/men-of-schiff-a-history-of-the-professional-scouters-who-built-the-boy-scouts-of-america/"
 ---
 

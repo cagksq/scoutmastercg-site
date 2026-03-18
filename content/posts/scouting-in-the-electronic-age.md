@@ -2,7 +2,9 @@
 title: "Scouting in the Electronic Age"
 date: 2010-10-13
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Scouting History & Tradition"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20121220014226/http://www.scoutmastercg.com:80/scouting-in-the-electronic-age/"
 ---
 

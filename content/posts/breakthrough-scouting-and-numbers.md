@@ -2,7 +2,9 @@
 title: "Breakthrough Scouting and Numbers"
 date: 2013-09-01
 draft: false
-categories: ["scouts"]
+topics:
+  - "Leadership Theory"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150301172704/http://scoutmastercg.com:80/breakthrough-scouting-numbers/"
 ---
 

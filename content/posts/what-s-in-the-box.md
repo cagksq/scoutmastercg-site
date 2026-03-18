@@ -2,7 +2,8 @@
 title: "What's in the box?"
 date: 2012-08-08
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20150910170949/http://scoutmastercg.com/whats-in-the-box/"
 ---
 

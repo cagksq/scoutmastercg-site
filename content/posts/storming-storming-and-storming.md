@@ -2,7 +2,9 @@
 title: "Storming, Storming and Storming"
 date: 2012-12-20
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20121220014243/http://www.scoutmastercg.com:80/storming-storming-and-storming/"
 ---
 

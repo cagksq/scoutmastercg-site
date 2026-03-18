@@ -2,7 +2,9 @@
 title: "Confessions of a Straight as an Order of the Arrow Boy Scout"
 date: 2013-08-10
 draft: false
-categories: ["outdoors", "scouts"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20160913221129/http://scoutmastercg.com/confessions-of-a-straight-as-an-order-of-the-arrow-boy-scout/"
 ---
 

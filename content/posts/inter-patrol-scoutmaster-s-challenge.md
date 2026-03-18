@@ -2,7 +2,9 @@
 title: "Inter-Patrol Scoutmaster's Challenge"
 date: 2006-08-22
 draft: false
-categories: ["patrol-method", "outdoors"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20150305010552/http://scoutmastercg.com:80/interpatrol_sco/"
 ---
 

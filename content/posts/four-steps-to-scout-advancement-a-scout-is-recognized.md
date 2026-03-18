@@ -2,7 +2,9 @@
 title: "Four Steps to Scout Advancement - A Scout is Recognized"
 date: 2012-12-29
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20121229025605/http://www.scoutmastercg.com:80/scout-advancement-a-scout-is-recognized/"
 ---
 

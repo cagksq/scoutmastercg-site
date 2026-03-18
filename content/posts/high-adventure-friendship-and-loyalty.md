@@ -2,7 +2,9 @@
 title: "High Adventure, Friendship and Loyalty"
 date: 2013-03-22
 draft: false
-categories: ["outdoors", "scouting-ideals"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20170711191537/http://scoutmastercg.com/high-adventure-friendship-and-loyalty/"
 ---
 

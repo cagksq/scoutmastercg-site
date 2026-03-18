@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Leadership & Youth Development",
+    "count": 403,
+    "subcategories": [
+      {
+        "name": "Youth Leadership Development",
+        "count": 240
+      },
+      {
+        "name": "Adult Leadership Roles",
+        "count": 78
+      },
+      {
+        "name": "Patrol Method",
+        "count": 19
+      },
+      {
+        "name": "Mentoring & Coaching",
+        "count": 62
+      },
+      {
+        "name": "Leadership Theory",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Scouting Program & Methods",
+    "count": 345,
+    "subcategories": [
+      {
+        "name": "Scout Advancement",
+        "count": 118
+      },
+      {
+        "name": "Merit Badges",
+        "count": 2
+      },
+      {
+        "name": "Eagle Scout",
+        "count": 65
+      },
+      {
+        "name": "Instructional Methods",
+        "count": 81
+      },
+      {
+        "name": "Scout Activities & Games",
+        "count": 67
+      },
+      {
+        "name": "Patrol Planning & Operations",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "name": "Outdoor Program",
+    "count": 614,
+    "subcategories": [
+      {
+        "name": "Camping",
+        "count": 376
+      },
+      {
+        "name": "High Adventure & Canoe Trips",
+        "count": 61
+      },
+      {
+        "name": "Risk Management & Safety",
+        "count": 39
+      },
+      {
+        "name": "Outdoor Skills & Gear",
+        "count": 78
+      },
+      {
+        "name": "Nature & Environment",
+        "count": 60
+      }
+    ]
+  },
+  {
+    "name": "Scoutmaster Practice",
+    "count": 285,
+    "subcategories": [
+      {
+        "name": "Scoutmaster Conference",
+        "count": 6
+      },
+      {
+        "name": "Troop Administration",
+        "count": 15
+      },
+      {
+        "name": "Discipline & Behavior",
+        "count": 134
+      },
+      {
+        "name": "Parent Relations",
+        "count": 115
+      },
+      {
+        "name": "Volunteer Management & Burnout",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "name": "BSA Policy & History",
+    "count": 164,
+    "subcategories": [
+      {
+        "name": "BSA Rules & Policy",
+        "count": 11
+      },
+      {
+        "name": "Scouting History & Tradition",
+        "count": 25
+      },
+      {
+        "name": "Baden-Powell Writings",
+        "count": 75
+      },
+      {
+        "name": "BSA Membership & Inclusion",
+        "count": 14
+      },
+      {
+        "name": "Organizational Structure",
+        "count": 39
+      }
+    ]
+  },
+  {
+    "name": "Character & Values",
+    "count": 243,
+    "subcategories": [
+      {
+        "name": "Scout Law & Oath",
+        "count": 132
+      },
+      {
+        "name": "Character Development",
+        "count": 34
+      },
+      {
+        "name": "Citizenship & Patriotism",
+        "count": 43
+      },
+      {
+        "name": "Spirituality & Religion",
+        "count": 27
+      },
+      {
+        "name": "Kindness, Empathy & Inclusion",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "Community & Context",
+    "count": 52,
+    "subcategories": [
+      {
+        "name": "Scout Parents",
+        "count": 1
+      },
+      {
+        "name": "Fundraising & Finances",
+        "count": 5
+      },
+      {
+        "name": "Summer Camp",
+        "count": 19
+      },
+      {
+        "name": "International Scouting",
+        "count": 6
+      },
+      {
+        "name": "Personal Reflection",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "name": "Reflections & Humor",
+    "count": 23,
+    "subcategories": [
+      {
+        "name": "Quotes and Brief Reflections",
+        "count": 23
+      },
+      {
+        "name": "Opening Jokes",
+        "count": 0
+      },
+      {
+        "name": "Brick Mason Episodes",
+        "count": 0
+      },
+      {
+        "name": "This Has to Be the Truth",
+        "count": 0
+      }
+    ]
+  }
+]

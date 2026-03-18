@@ -1,0 +1,956 @@
+1
+00:00:00,000 --> 00:00:06,000
+I'm James Longo and I am a troop committee chairman with Troop 228 in Rockford, Michigan.
+
+2
+00:00:06,000 --> 00:00:11,000
+This edition of the Scoutmaster Podcast is sponsored by backers like me.
+
+3
+00:00:11,000 --> 00:00:13,000
+And now the old Scoutmaster.
+
+4
+00:00:19,000 --> 00:00:24,000
+Hey, I have a theory I want to share with you. I think Santa is a scouter.
+
+5
+00:00:24,000 --> 00:00:33,000
+Yeah, because he has a beard, wears a uniform, drives an ancient vehicle and his clothes are all tarnished with ashes and soot.
+
+6
+00:00:33,000 --> 00:00:35,000
+What do you think?
+
+7
+00:00:36,000 --> 00:00:39,000
+Hey, this is podcast number 297.. Hey,
+
+8
+00:00:54,000 --> 00:01:10,000
+Welcome back to the Scoutmaster Podcast. This is Clark Green. Let's take a look in the mailbag
+
+9
+00:01:10,000 --> 00:01:16,000
+We heard from Scouter James, who's with the 4th Chatham Scout Troop in Chatham, Ontario, Canada.
+
+10
+00:01:16,000 --> 00:01:19,000
+He said lots of good stuff in the PDF package I just got.
+
+11
+00:01:19,000 --> 00:01:23,000
+I've posted a few around the Scout Hall for our parents' visit.
+
+12
+00:01:23,000 --> 00:01:30,000
+My general theme is: ask not what you can do for your Scouts, Ask what your Scouts can do for themselves.
+
+13
+00:01:30,000 --> 00:01:35,000
+Things like: it's not your backpack, it's theirs, Let them pack it.
+
+14
+00:01:35,000 --> 00:01:40,000
+It's good to know, James, that our brothers to the North encounter the same difficulties that we do.
+
+15
+00:01:40,000 --> 00:01:46,000
+And James goes on to say: also, the parents have finally stopped asking me what the Scouts are doing, because my response has been:
+
+16
+00:01:46,000 --> 00:01:50,000
+I don't know. have you asked your Scout? And they say: but he doesn't know.
+
+17
+00:01:50,000 --> 00:01:53,000
+And I say, well, has he asked his patrol leader?
+
+18
+00:01:53,000 --> 00:01:58,000
+Ah yes, Simple yet effective answers. Thanks for getting in touch, James.
+
+19
+00:01:58,000 --> 00:02:05,000
+John Ruth is wearing several hats. He's volunteering for the Seneca District of the Great Trail Council in Akron, Ohio.
+
+20
+00:02:05,000 --> 00:02:11,000
+And John wrote in to say I returned to Scouting this year after 40 years. in the quote wilderness unquote.
+
+21
+00:02:11,000 --> 00:02:15,000
+I earned my Eagle and aged out in 1975..
+
+22
+00:02:15,000 --> 00:02:21,000
+I found your website a month or so ago and I finished my first run through your podcast archive in 19 days.
+
+23
+00:02:21,000 --> 00:02:24,000
+Wow, John, that's got to be a record.
+
+24
+00:02:24,000 --> 00:02:31,000
+Anybody else? Have you gotten through the back log of podcasts in anything less than 19 days? I doubt it.
+
+25
+00:02:31,000 --> 00:02:37,000
+I found this auditory track, or death march perhaps, was very rewarding.
+
+26
+00:02:37,000 --> 00:02:42,000
+I agree with your emphasis on asking questions on the patrol method and the Scout-led troop,
+
+27
+00:02:42,000 --> 00:02:46,000
+which is really Baden Powell's original vision for Scouting.
+
+28
+00:02:46,000 --> 00:02:50,000
+I also appreciate your emphasis on advancement by doing what Scouts do
+
+29
+00:02:50,000 --> 00:02:56,000
+and on judging a Scout's progress by asking how far he's come, not how far he has left to go.
+
+30
+00:02:56,000 --> 00:03:00,000
+As I listened to each podcast I thought back over my time in Scouting.
+
+31
+00:03:00,000 --> 00:03:04,000
+I'd have to say that my Scout troop, troop 170 in Fremont, California,
+
+32
+00:03:04,000 --> 00:03:11,000
+probably was more adult than youth-led, but with enough left to the patrols that a good amount of creative chaos remained.
+
+33
+00:03:11,000 --> 00:03:17,000
+It is clear that Scout-led Scouting is a valuable antidote to many of today's schools,
+
+34
+00:03:17,000 --> 00:03:22,000
+and directing Scouts energy and natural curiosity so they learn for themselves
+
+35
+00:03:22,000 --> 00:03:29,000
+is superior to imposing artificial constraints and requiring only the repetition of assigned course material.
+
+36
+00:03:29,000 --> 00:03:34,000
+Put another way, Scout-led Discovery beats adult-led efficiency.
+
+37
+00:03:34,000 --> 00:03:36,000
+That's a great thought, John. I really like that.
+
+38
+00:03:36,000 --> 00:03:40,000
+Scout-led Discovery beats adult-led efficiency.
+
+39
+00:03:40,000 --> 00:03:42,000
+John went on to say thanks for all you do.
+
+40
+00:03:42,000 --> 00:03:49,000
+The only thing more remarkable than your dedication to Scouting is the stantyma you display in keeping ScoutmasterCGcom humming.
+
+41
+00:03:49,000 --> 00:03:51,000
+May it continue to be blessed in both regards.
+
+42
+00:03:51,000 --> 00:03:53,000
+Well, thank you so much.
+
+43
+00:03:53,000 --> 00:04:01,000
+And John also sent me a number of reflections on the technical end of the podcast and I really do appreciate that.
+
+44
+00:04:01,000 --> 00:04:07,000
+Our old pal, Frank Maynard, is a unit commissioner in the mighty Ottawa district in Novi Michigan
+
+45
+00:04:07,000 --> 00:04:13,000
+and he wrote to say I like the way you talked about cooperative volunteering in podcast 294
+
+46
+00:04:13,000 --> 00:04:17,000
+and how lots of adults in troops aren't really that good of a thing.
+
+47
+00:04:17,000 --> 00:04:24,000
+I was looking back through some of our troops, old rosters, and drew a casual correlation between the quality of the program,
+
+48
+00:04:24,000 --> 00:04:31,000
+whether it was youth run and Scouts actually responsible for things and the ratio of adults to Scouts.
+
+49
+00:04:31,000 --> 00:04:33,000
+I mean it makes sense, doesn't it, Frank?
+
+50
+00:04:33,000 --> 00:04:37,000
+If there's a lot of adults involved, Scouts don't really have that much of a fighting chance,
+
+51
+00:04:37,000 --> 00:04:40,000
+because adults, you know they want to do something.
+
+52
+00:04:40,000 --> 00:04:45,000
+Frank went on to say: isn't it curious that we usually have a shortage of adult help at the Cub Scout level
+
+53
+00:04:45,000 --> 00:04:50,000
+but then suddenly volunteers come out of the woodwork when their son crosses into the troop.
+
+54
+00:04:50,000 --> 00:04:52,000
+Yeah, it is kind of curious
+
+55
+00:04:52,000 --> 00:04:58,000
+And I think it's a really good idea for experienced Scoutsers to go offer their help to the Cub Scout pack,
+
+56
+00:04:58,000 --> 00:05:02,000
+because you'll form a bridge right between the Cub Scout pack and the Scout troop
+
+57
+00:05:02,000 --> 00:05:04,000
+and the Venture crew and everything else.
+
+58
+00:05:04,000 --> 00:05:06,000
+I think it's a great idea for you to do.
+
+59
+00:05:06,000 --> 00:05:08,000
+Thanks for being in touch, Frank.
+
+60
+00:05:08,000 --> 00:05:13,000
+Most weeks we try and have a couple of live chat sessions over at ScoutMasterCGcom.
+
+61
+00:05:13,000 --> 00:05:18,000
+Watch the Facebook feed and the Twitter feed for announcements when those happen.
+
+62
+00:05:18,000 --> 00:05:22,000
+The standard times are Tuesday and Wednesday mornings.
+
+63
+00:05:22,000 --> 00:05:24,000
+Come on over and join us at the chat,
+
+64
+00:05:24,000 --> 00:05:27,000
+Like all of our frequent flyers. and we had a few new people show up this week:
+
+65
+00:05:27,000 --> 00:05:32,000
+Rob, who's with PAC-135 and is a committee chair, and Weebelow's den leader,
+
+66
+00:05:32,000 --> 00:05:37,000
+James Longo, who's in Rockford, Michigan, and he's with Troop 228..
+
+67
+00:05:37,000 --> 00:05:42,000
+Mike Doemer, in Overland Park, Kansas, and he's a member of the committee for his troop
+
+68
+00:05:42,000 --> 00:05:44,000
+and a summer camp coordinator,
+
+69
+00:05:44,000 --> 00:05:48,000
+And he'll be the committee chair for his PAC starting at the beginning of the year.
+
+70
+00:05:48,000 --> 00:05:50,000
+Thanks to all of you for checking in.
+
+71
+00:05:50,000 --> 00:05:55,000
+Once again, a live chat over at ScoutMasterCGcom Tuesday and Wednesday mornings.
+
+72
+00:05:55,000 --> 00:05:58,000
+Most weeks it's going to be a little dicey around the holidays.
+
+73
+00:05:58,000 --> 00:05:59,000
+I think everybody's going to be busy,
+
+74
+00:05:59,000 --> 00:06:03,000
+But keep an eye on the Facebook feed and the Twitter feed and we'll let you know that we're there.
+
+75
+00:06:03,000 --> 00:06:10,000
+So this week's podcast- number 297, is going to be the last live podcast for this year, for 2015..
+
+76
+00:06:10,000 --> 00:06:14,000
+I'm going to set up some encore presentations for the next three weeks during the holidays
+
+77
+00:06:14,000 --> 00:06:19,000
+And I'll be back with podcast 298 on January 11th
+
+78
+00:06:19,000 --> 00:06:27,000
+And that will set us up for the 300th edition of the ScoutMaster podcast to be published on January 25th.
+
+79
+00:06:27,000 --> 00:06:32,000
+And that's exactly six years from the day I published podcast number one
+
+80
+00:06:32,000 --> 00:06:37,000
+And I've got a few new things ready for 2016 that I'll announce during that podcast.
+
+81
+00:06:37,000 --> 00:06:41,000
+So I get to hear from a lot of folks every week and it's really heartening to hear from you
+
+82
+00:06:41,000 --> 00:06:45,000
+And it's very gratifying to know I can lend you a hand once in a while.
+
+83
+00:06:45,000 --> 00:06:52,000
+What I'm asking for in return is that you support all of this by becoming a ScoutMasterCGcom backer.
+
+84
+00:06:52,000 --> 00:06:53,000
+It's pretty easy to do:
+
+85
+00:06:53,000 --> 00:06:57,000
+Go to ScoutMasterCGcom and click the support link at the top of the page.
+
+86
+00:06:57,000 --> 00:07:03,000
+You'll find a number of options on making a voluntary one-time subscription payment to keep things up and running.
+
+87
+00:07:03,000 --> 00:07:08,000
+And, as promised, I'd like to take a moment this week to personally thank Gary Bezal and Aaron Kohler,
+
+88
+00:07:08,000 --> 00:07:11,000
+who've become backers since our last podcast.
+
+89
+00:07:11,000 --> 00:07:15,000
+Go to ScoutMasterCGcom, click the support link at the top of the page,
+
+90
+00:07:15,000 --> 00:07:19,000
+Become a backer and I will thank you during our next podcast.
+
+91
+00:07:19,000 --> 00:07:23,000
+Well, in this week's podcast, I got one simple thing for you.
+
+92
+00:07:23,000 --> 00:07:26,000
+It's in ScoutMasterCG in seven minutes or less.
+
+93
+00:07:26,000 --> 00:07:27,000
+I'm kind of excited about it
+
+94
+00:07:27,000 --> 00:07:30,000
+And that's going to take up the remainder of this brief podcast.
+
+95
+00:07:30,000 --> 00:07:32,000
+So let's get started. shall we
+
+96
+00:07:53,000 --> 00:08:21,000
+Scout MasterCG in seven minutes or less.
+
+97
+00:08:23,000 --> 00:08:36,000
+For nearly six years, as I've recorded the podcast- and it's more like 10 or 11 years that the blog has been going-
+
+98
+00:08:36,000 --> 00:08:38,000
+I've been writing and thinking about scouting
+
+99
+00:08:38,000 --> 00:08:45,000
+And one of my little pet projects has been trying to reduce everything that we do down to a couple of sentences.
+
+100
+00:08:45,000 --> 00:08:47,000
+But I've got news for you.
+
+101
+00:08:47,000 --> 00:08:51,000
+I think I came up with one sentence that works,
+
+102
+00:08:51,000 --> 00:08:53,000
+And I'm going to explain why.
+
+103
+00:08:53,000 --> 00:08:57,000
+Because it's a lot easier to memorize one sentence than like a whole bunch of gobbledygook,
+
+104
+00:08:57,000 --> 00:09:04,000
+And if I can impress upon you the import of that, then you have something that's useful for you, right?
+
+105
+00:09:04,000 --> 00:09:08,000
+That's actually has some utility for you as a scouter.
+
+106
+00:09:08,000 --> 00:09:13,000
+So I want to take a little time and explain exactly what I'm talking about.
+
+107
+00:09:13,000 --> 00:09:18,000
+If you follow my reasoning, scouters have one aim and one method.
+
+108
+00:09:18,000 --> 00:09:21,000
+That's a little radical, but bear with me for a moment.
+
+109
+00:09:21,000 --> 00:09:23,000
+See if this makes sense.
+
+110
+00:09:23,000 --> 00:09:29,000
+Now. aim is a particularly well-chosen word to describe our focus as adult volunteers in scouting.
+
+111
+00:09:29,000 --> 00:09:33,000
+It's the word that we inherit from Baden Powell: the aim of scouting-
+
+112
+00:09:33,000 --> 00:09:36,000
+What is scouting supposed to do?
+
+113
+00:09:36,000 --> 00:09:43,000
+And a lot of times we hear that scouting has three specific objectives that are commonly referred to as the aims of scouting,
+
+114
+00:09:43,000 --> 00:09:47,000
+And they are character development, citizenship training and personal fitness.
+
+115
+00:09:47,000 --> 00:09:52,000
+Now I'm going to take a little leap here and reduce that list to one aim,
+
+116
+00:09:52,000 --> 00:09:54,000
+And here's why
+
+117
+00:09:54,000 --> 00:10:01,000
+An ideal person of good character is going to be a good citizen and is going to keep themselves fit.
+
+118
+00:10:01,000 --> 00:10:11,000
+I think that we can reasonably say we have one aim, and that is to shape individuals of good character.
+
+119
+00:10:11,000 --> 00:10:16,000
+Now, I'm not saying that citizenship and personal fitness aren't important, but you understand what I'm saying, right.
+
+120
+00:10:16,000 --> 00:10:20,000
+I'm not saying that we erase those or we don't think about them.
+
+121
+00:10:20,000 --> 00:10:27,000
+If we're going to make this easy to remember and we're going to make it something that is a tool that you can use,
+
+122
+00:10:27,000 --> 00:10:32,000
+that you can actually apply, let's get it down to one aim
+
+123
+00:10:32,000 --> 00:10:34,000
+And talk about aim for a moment. okay,
+
+124
+00:10:34,000 --> 00:10:41,000
+Because an aim is a purpose or intention towards which one's efforts are directed.
+
+125
+00:10:41,000 --> 00:10:45,000
+As a shooting sports director at our camp years ago, I learned a lot about aiming.
+
+126
+00:10:45,000 --> 00:10:50,000
+It's not as simple as leveling a bow or a rifle at a target and hoping for the best.
+
+127
+00:10:50,000 --> 00:10:55,000
+The goal of a good shooter is developing consistency in their aim and the execution of the shot.
+
+128
+00:10:55,000 --> 00:11:02,000
+Now, when an arrow leaves the bow and travel towards a target, it's subject to a number of forces that affect its flight and where it hits the target,
+
+129
+00:11:02,000 --> 00:11:04,000
+And it's really kind of interesting to study.
+
+130
+00:11:04,000 --> 00:11:08,000
+If you come down to the archery range at camp and you're of scout age,
+
+131
+00:11:08,000 --> 00:11:16,000
+you are not at first really interested in finding out like all of these fascinating things about what happens to an arrow after it leaves the bow
+
+132
+00:11:16,000 --> 00:11:18,000
+and how what you do affects that.
+
+133
+00:11:18,000 --> 00:11:23,000
+What you're interested in doing is shooting as many arrows towards a target as you possibly can,
+
+134
+00:11:23,000 --> 00:11:25,000
+And that's the way we all start right
+
+135
+00:11:25,000 --> 00:11:28,000
+When we're volunteering for scouts. we want to go, man,
+
+136
+00:11:28,000 --> 00:11:30,000
+We want to do stuff.
+
+137
+00:11:30,000 --> 00:11:36,000
+Please don't make me sit under the tarp here and listen to you talk about the physics of archery
+
+138
+00:11:36,000 --> 00:11:39,000
+or how scouting works.
+
+139
+00:11:39,000 --> 00:11:41,000
+Please, let me get out there and do some stuff.
+
+140
+00:11:41,000 --> 00:11:43,000
+Well, and that's fine.
+
+141
+00:11:43,000 --> 00:11:51,000
+You go out and you do some stuff and you gain some experience. and that experience reveals that you need to know more stuff,
+
+142
+00:11:51,000 --> 00:11:55,000
+That you need to spend some time perfecting your aim.
+
+143
+00:11:55,000 --> 00:12:00,000
+When guys came down to the archery range at camp, it was the idea was: okay, I know you want to shoot,
+
+144
+00:12:00,000 --> 00:12:01,000
+Let's go out and shoot.
+
+145
+00:12:01,000 --> 00:12:03,000
+Here's the simple safety rules,
+
+146
+00:12:03,000 --> 00:12:04,000
+Here's the way to get you started.
+
+147
+00:12:04,000 --> 00:12:06,000
+Let's get out and start shooting
+
+148
+00:12:06,000 --> 00:12:10,000
+And then, once they had some experience with it, then you could actually explain things right
+
+149
+00:12:10,000 --> 00:12:17,000
+And you could actually get somewhere, because you could say, okay, well, here's the different steps in aiming
+
+150
+00:12:17,000 --> 00:12:21,000
+And this is how to work it, and that will get you a better result.
+
+151
+00:12:21,000 --> 00:12:24,000
+And I think it's exactly the same way with scouting,
+
+152
+00:12:24,000 --> 00:12:29,000
+You have to go out and you have to try some things out and you get a little bit of experience and you go:
+
+153
+00:12:29,000 --> 00:12:34,000
+wow, that worked really well. but the other thing that I did didn't work all that well.
+
+154
+00:12:34,000 --> 00:12:40,000
+I better study up a little bit and see if there's anything that I'm doing wrong or things that I can do better.
+
+155
+00:12:40,000 --> 00:12:42,000
+So back to my metaphor:
+
+156
+00:12:42,000 --> 00:12:46,000
+An arrow's flight depends wholly on how it's aimed and released,
+
+157
+00:12:46,000 --> 00:12:54,000
+And a scout's progress and our effectiveness is largely dependent on how well we know and focus on the aim
+
+158
+00:12:54,000 --> 00:12:56,000
+And then we apply the methods.
+
+159
+00:12:56,000 --> 00:12:57,000
+We know what the aim is.
+
+160
+00:12:57,000 --> 00:12:58,000
+It's the center of the target.
+
+161
+00:12:58,000 --> 00:13:02,000
+We got that, but now we need some methods to get the arrow into that target.
+
+162
+00:13:02,000 --> 00:13:07,000
+If, for some reason, you had never seen a bow and an arrow before, you've never seen anybody shoot it,
+
+163
+00:13:07,000 --> 00:13:11,000
+and I handed you a bow and an arrow and I said, go ahead, put that in a target,
+
+164
+00:13:11,000 --> 00:13:18,000
+Well, you would have to do an awful lot of experimenting, probably before you got even close to the target
+
+165
+00:13:18,000 --> 00:13:25,000
+And in the end, given the time, you'd find out the method of making that happen.
+
+166
+00:13:25,000 --> 00:13:27,000
+So what are the methods of scouting?
+
+167
+00:13:27,000 --> 00:13:31,000
+If you do a quick Google search, you'll find lots of lists of them
+
+168
+00:13:31,000 --> 00:13:33,000
+And most of them are in common.
+
+169
+00:13:33,000 --> 00:13:40,000
+Most of them are like standard BSA methods and you can find them repeated in other scouting organizations and things like that
+
+170
+00:13:40,000 --> 00:13:48,000
+Slightly different wording. but I think we can reduce the whole list down to one method
+
+171
+00:13:48,000 --> 00:13:52,000
+And if this isn't the first podcast you've listened to, you know what that method is. right,
+
+172
+00:13:52,000 --> 00:13:53,000
+It's the patrol method.
+
+173
+00:13:53,000 --> 00:13:55,000
+Well, what about all the other method?
+
+174
+00:13:55,000 --> 00:13:57,000
+I thought we were supposed to balance everything, right.
+
+175
+00:13:57,000 --> 00:14:01,000
+I thought we had like eight methods that were supposed to balance all equally.
+
+176
+00:14:01,000 --> 00:14:02,000
+Well, no,
+
+177
+00:14:02,000 --> 00:14:07,000
+No, there's one method out of which all the other methods flow.
+
+178
+00:14:07,000 --> 00:14:12,000
+That is the way that we gain the other results, and that's the patrol method.
+
+179
+00:14:12,000 --> 00:14:18,000
+It's kind of like I was saying at the beginning: we can take the three aims of scouting and reduce them down to one.
+
+180
+00:14:18,000 --> 00:14:31,000
+We can take all the methods of scouting which, if you want the list, okay, it's: ideals, patrols, outdoor programs, advancement, association with adults, personal growth, leadership development and the uniform.
+
+181
+00:14:31,000 --> 00:14:39,000
+If we take all eight of those, the one method that assures we're going to get all eight of those things is the patrol method,
+
+182
+00:14:39,000 --> 00:14:46,000
+And I guess I could spend a lot of time going over each one of them and explaining exactly what I mean by that. but I think you get it right.
+
+183
+00:14:46,000 --> 00:14:56,000
+So now I found my one-sentence job description, you know one-sentence mission statement for every scouter everywhere.
+
+184
+00:14:56,000 --> 00:14:57,000
+Here it is:
+
+185
+00:14:57,000 --> 00:15:01,000
+Are you ready to shape character by applying the patrol method?
+
+186
+00:15:01,000 --> 00:15:02,000
+Ta-da,
+
+187
+00:15:02,000 --> 00:15:06,000
+So you can memorize that
+
+188
+00:15:06,000 --> 00:15:11,000
+My job as a scouter is to shape character by applying the patrol method.
+
+189
+00:15:11,000 --> 00:15:13,000
+It's pretty easy to understand.
+
+190
+00:15:13,000 --> 00:15:20,000
+That's really the starting line and the finish line. the whole McGillow, the whole Bollowax, the one single test of what we are doing.
+
+191
+00:15:20,000 --> 00:15:24,000
+Can we draw a line back to shaping character using the patrol method?
+
+192
+00:15:24,000 --> 00:15:25,000
+Then that's scouting.
+
+193
+00:15:25,000 --> 00:15:27,000
+If we can't, it isn't.
+
+194
+00:15:27,000 --> 00:15:30,000
+I know that's a bold statement, isn't it?
+
+195
+00:15:30,000 --> 00:15:34,000
+But I like bold statements, don't you?
+
+196
+00:15:34,000 --> 00:15:38,000
+No, but I really be curious to hear your reflections on that.
+
+197
+00:15:38,000 --> 00:15:49,000
+And if you are not working with a scout troop, if you're working with a cub pack or a venturing crew, you're working in rovers or weeblows or beavers or any of those types of groups.
+
+198
+00:15:49,000 --> 00:15:55,000
+all those groups work by an age-appropriate application of the patrol method.
+
+199
+00:15:55,000 --> 00:15:57,000
+Don't let the word patrol throw you.
+
+200
+00:15:57,000 --> 00:16:02,000
+A beaver colony is going to use the patrol method at an age-appropriate level, right?
+
+201
+00:16:02,000 --> 00:16:07,000
+A cub scout den is going to use the patrol method at an age-appropriate level.
+
+202
+00:16:07,000 --> 00:16:13,000
+Rovers are going to use the patrol method at an age-appropriate level as our venturers, as our scouts.
+
+203
+00:16:13,000 --> 00:16:19,000
+So our job as scouters is to shape character by applying the patrol method.
+
+204
+00:16:19,000 --> 00:16:20,000
+It's that simple,
+
+205
+00:16:20,000 --> 00:16:22,000
+That's the key,
+
+206
+00:16:22,000 --> 00:16:32,000
+And every key that unlocks a door and every simple statement of course, opens into a whole world of other things to study and to understand.
+
+207
+00:16:32,000 --> 00:16:36,000
+So you know, don't think that we're done once we have that down,
+
+208
+00:16:36,000 --> 00:16:38,000
+But that's the starting line.
+
+209
+00:16:38,000 --> 00:16:43,000
+That's where we begin to open the understanding of this wonderful game called scouting.
+
+210
+00:16:43,000 --> 00:16:48,000
+Your job as a scouter is to develop character by applying the patrol method.
+
+211
+00:16:48,000 --> 00:16:49,000
+Pretty cool, huh?
+
+212
+00:16:49,000 --> 00:17:11,000
+Well, thanks so much for listening to this 297th edition of the Scoutmaster Podcast.
+
+213
+00:17:11,000 --> 00:17:15,000
+You can keep in touch by reading the blog at scoutmastercgcom
+
+214
+00:17:15,000 --> 00:17:19,000
+and subscribing to receive updates to the blog and the podcast by email.
+
+215
+00:17:19,000 --> 00:17:27,000
+You can join all the folks who look in on scoutmastercgcom through the vast panorama of social media outlets.
+
+216
+00:17:27,000 --> 00:17:31,000
+You can join over 11,000 folks who like Scoutmaster Blog on Facebook.
+
+217
+00:17:31,000 --> 00:17:35,000
+Tweet along with the chorus of 1,300 tweeters on Twitter.
+
+218
+00:17:35,000 --> 00:17:42,000
+Pin the Pultitudinous Pictures proffered publicly with 2,300 other prolific pinners on Pinterest.
+
+219
+00:17:42,000 --> 00:17:45,000
+You can watch us at ScoutmasterCG on YouTube.
+
+220
+00:17:45,000 --> 00:17:50,000
+but if you can't face Facebook and Twitter. make sure you have no interest in Pinterest
+
+221
+00:17:50,000 --> 00:17:53,000
+and you simply don't put the? U in YouTube. that's alright.
+
+222
+00:17:53,000 --> 00:17:56,000
+Zoom in to the late 90s and fire off an email.
+
+223
+00:17:56,000 --> 00:18:02,000
+You can get in touch with me, Clark Green, at Clark at scoutmastercgcom.
+
+224
+00:18:02,000 --> 00:18:09,000
+C-L-A-R-K-E at scoutmastercgcom.
+
+225
+00:18:09,000 --> 00:18:14,000
+If all else fails, if you'll get up on the roof of your scout hall or camp headquarters,
+
+226
+00:18:14,000 --> 00:18:18,000
+you'll find a big spotlight that projects a special signal up against the clouds.
+
+227
+00:18:18,000 --> 00:18:23,000
+Switch it on, for I don't know three or four minutes and I'll get in touch
+
+228
+00:18:23,000 --> 00:18:27,000
+By now. it should be abundantly clear that the Scoutmaster Blog and the Scoutmaster Podcast
+
+229
+00:18:27,000 --> 00:18:34,000
+are not official publications of anybody in particular, or endorsed or sponsored by any scouting organization.
+
+230
+00:18:34,000 --> 00:18:39,000
+No, it's just me. somehow I got access to a microphone and the internet
+
+231
+00:18:39,000 --> 00:18:44,000
+and here I am trying to lend a hand to Scouters and have a little bit of fun along the way.
+
+232
+00:18:44,000 --> 00:18:49,000
+And speaking of fun, here is our founder, Sir Robert Baden-Pal.
+
+233
+00:18:49,000 --> 00:18:50,000
+Sir Robert,
+
+234
+00:18:50,000 --> 00:18:53,000
+Good luck to you and good camping.
+
+235
+00:18:53,000 --> 00:18:54,000
+Well, I thank you, sir.
+
+236
+00:18:54,000 --> 00:18:56,000
+Happy holidays and have a wonderful new year.
+
+237
+00:18:56,000 --> 00:18:58,000
+I'll be back in January.
+
+238
+00:18:58,000 --> 00:19:00,000
+Until next time, everyone,
+
+239
+00:19:04,000 --> 00:19:11,000
+Thank you.
+

@@ -2,7 +2,9 @@
 title: "Responding to Initiative"
 date: 2015-12-15
 draft: false
-categories: ["scouting-ideals", "patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20151215040421/http://scoutmastercg.com:80/responding-to-initiative/"
 ---
 

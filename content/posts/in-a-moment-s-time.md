@@ -2,7 +2,8 @@
 title: "In a moment's time."
 date: 2010-12-24
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20140822151153/http://scoutmastercg.com/in-a-moments-time/"
 ---
 

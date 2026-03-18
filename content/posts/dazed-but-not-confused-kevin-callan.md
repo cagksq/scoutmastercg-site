@@ -2,8 +2,8 @@
 title: "Dazed But Not Confused - Kevin Callan"
 date: 2013-04-18
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20141008084237/http://scoutmastercg.com:80/dazed-but-not-confused-kevin-callan/"
 ---
 

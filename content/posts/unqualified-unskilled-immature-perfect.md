@@ -2,7 +2,9 @@
 title: "Unqualified, Unskilled, Immature: Perfect!"
 date: 2012-02-13
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20121220014834/http://www.scoutmastercg.com:80/unqualified-unskilled-immature-perfect/"
 ---
 

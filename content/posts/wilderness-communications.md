@@ -2,7 +2,9 @@
 title: "Wilderness Communications"
 date: 2012-10-04
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20140831141407/http://scoutmastercg.com/wilderness-communications/?replytocom=3049"
 ---
 

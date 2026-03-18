@@ -2,7 +2,9 @@
 title: "Maintain Inefficiency!"
 date: 2014-11-19
 draft: false
-categories: ["patrol-method", "advancement"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20141119233111/http://scoutmastercg.com:80/maintain-inefficiency/?"
 ---
 

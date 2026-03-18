@@ -2,7 +2,8 @@
 title: "A ShelterBox Story"
 date: 2011-10-12
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Citizenship & Patriotism"
 wayback_url: "https://web.archive.org/web/20141009104117/http://scoutmastercg.com:80/a-shelterbox-story/"
 ---
 

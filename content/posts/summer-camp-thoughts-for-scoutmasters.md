@@ -2,7 +2,9 @@
 title: "Summer Camp Thoughts for Scoutmasters"
 date: 2015-09-20
 draft: false
-categories: ["outdoors", "advancement"]
+topics:
+  - "Summer Camp"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150920025741/http://scoutmastercg.com/summer-camp-tho/"
 ---
 

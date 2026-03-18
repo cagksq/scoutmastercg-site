@@ -2,7 +2,9 @@
 title: "Getting Parents Excited About Scouting"
 date: 2008-05-14
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Parent Relations"
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20130102221507/http://www.scoutmastercg.com:80/getting-parents/"
 ---
 

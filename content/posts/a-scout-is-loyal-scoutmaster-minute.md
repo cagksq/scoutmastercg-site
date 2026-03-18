@@ -2,7 +2,8 @@
 title: "A Scout is Loyal - Scoutmaster Minute"
 date: 2013-09-01
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20151014174838/http://scoutmastercg.com/a-scout-is-loyal/"
 ---
 

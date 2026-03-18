@@ -2,7 +2,9 @@
 title: "Making Scout Patrols Work"
 date: 2013-10-11
 draft: false
-categories: ["scouts"]
+topics:
+  - "Patrol Method"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150916204138/http://scoutmastercg.com/making-scout-patrols-work/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Choosing a Backpacking Route"
 date: 2014-08-29
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20140829184545/http://scoutmastercg.com/choosing_a_back/"
 ---
 

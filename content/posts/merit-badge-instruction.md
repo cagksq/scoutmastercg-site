@@ -2,7 +2,9 @@
 title: "Merit Badge Instruction"
 date: 2013-10-12
 draft: false
-categories: ["advancement"]
+topics:
+  - "Merit Badges"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20140720123238/http://scoutmastercg.com/merit_badge_ins/"
 ---
 

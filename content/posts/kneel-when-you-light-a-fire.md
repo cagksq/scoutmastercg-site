@@ -2,10 +2,10 @@
 title: "Kneel When You Light a Fire"
 date: 2005-11-01
 draft: false
-categories:
-  - outdoors
+topics:
+  - "Spirituality & Religion"
+  - "Nature & Environment"
 ---
-
 Kneel always when you light a fire. 
 - John Oxenham
 

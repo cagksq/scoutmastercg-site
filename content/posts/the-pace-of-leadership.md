@@ -2,7 +2,9 @@
 title: "The Pace of Leadership"
 date: 2015-09-19
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Adult Leadership Roles"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150919205111/http://scoutmastercg.com/the-pace-of-leadership/"
 ---
 

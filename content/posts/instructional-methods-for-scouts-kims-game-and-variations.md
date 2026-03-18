@@ -2,7 +2,8 @@
 title: "Instructional Methods For Scouts - Kims Game and Variations"
 date: 2006-08-11
 draft: false
-categories: ["outdoors", "scouting-ideals"]
+topics:
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20140724075430/http://scoutmastercg.com/instructional_m_1/"
 ---
 

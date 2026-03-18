@@ -2,7 +2,9 @@
 title: "3 Rules of Scouting Leadership"
 date: 2014-10-11
 draft: false
-categories: ["patrol-method", "outdoors"]
+topics:
+  - "Adult Leadership Roles"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20141011011817/http://scoutmastercg.com:80/the-three-rules-of-scouting-leadership/"
 ---
 

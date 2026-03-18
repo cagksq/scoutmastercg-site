@@ -2,7 +2,9 @@
 title: "Scout Rank Requirements and Policies"
 date: 2014-10-13
 draft: false
-categories: ["advancement"]
+topics:
+  - "BSA Rules & Policy"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20141013050150/http://scoutmastercg.com:80/reading-requirements-and-policies/"
 ---
 

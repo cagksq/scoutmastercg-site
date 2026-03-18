@@ -2,7 +2,9 @@
 title: "A Scout is Helpful"
 date: 2015-10-14
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20151014175204/http://scoutmastercg.com/a-scout-is-helpful/"
 ---
 

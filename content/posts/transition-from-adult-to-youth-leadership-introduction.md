@@ -2,7 +2,9 @@
 title: "Transition from Adult to Youth Leadership - Introduction"
 date: 2009-07-08
 draft: false
-categories: ["patrol-method", "scoutmasters-life"]
+topics:
+  - "Youth Leadership Development"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20151016235128/http://scoutmastercg.com/going-from-adult-to-youth-leadership/"
 ---
 

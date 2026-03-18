@@ -2,7 +2,9 @@
 title: "High Adventure Canoe Trip 1 - Overview"
 date: 2013-04-17
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20170518032002/http://scoutmastercg.com:80/high-adventure-canoe-trip-part-one/"
 ---
 

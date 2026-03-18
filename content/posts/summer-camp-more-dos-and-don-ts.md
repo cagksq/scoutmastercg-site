@@ -2,7 +2,9 @@
 title: "Summer Camp! More Dos and Don'ts"
 date: 2008-06-04
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Summer Camp"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20140831211140/http://scoutmastercg.com/summer-camp-mor/?replytocom=677"
 ---
 

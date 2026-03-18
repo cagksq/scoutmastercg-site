@@ -2,7 +2,9 @@
 title: "How do YOU Handle Mistakes?"
 date: 2014-07-08
 draft: false
-categories: ["patrol-method", "scouting-ideals"]
+topics:
+  - "Character Development"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20170707132123/http://scoutmastercg.com/how-do-you-handle-mistakes/"
 ---
 

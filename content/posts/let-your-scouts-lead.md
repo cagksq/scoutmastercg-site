@@ -2,7 +2,9 @@
 title: "Let Your Scouts Lead"
 date: 2015-09-16
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150916204412/http://scoutmastercg.com/let-your-scouts/"
 ---
 

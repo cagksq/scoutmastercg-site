@@ -2,7 +2,9 @@
 title: "Reflections while Camping"
 date: 2012-05-24
 draft: false
-categories: ["outdoors", "scoutmasters-life"]
+topics:
+  - "Character Development"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20120526144127/http://www.scoutmastercg.com:80/2012/05/ten-inspiring-meditations-scouts/"
 ---
 

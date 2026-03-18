@@ -2,7 +2,8 @@
 title: "Instructional Methods For Scouts - Round Robins"
 date: 2006-08-08
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20140724085023/http://scoutmastercg.com/instructional_m-2/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Trouble in the Troop (or Pack or Crew)"
 date: 2011-06-28
 draft: false
-categories: ["scoutmasters-job", "scouting-ideals"]
+topics:
+  - "Troop Administration"
+  - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20110628015821/http://www.scoutmastercg.com:80/2011/06/trouble-in-the-troop-or-pack-or-crew/"
 ---
 

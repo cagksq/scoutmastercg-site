@@ -2,7 +2,9 @@
 title: "Scout Accounts"
 date: 2014-01-18
 draft: false
-categories: ["scouts", "outdoors"]
+topics:
+  - "Troop Administration"
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20160311003636/http://scoutmastercg.com:80/scout-accounts/"
 ---
 

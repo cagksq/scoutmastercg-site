@@ -2,7 +2,9 @@
 title: "A New Scoutmaster - Chapter Thirteen"
 date: 2015-04-18
 draft: false
-categories: ["scoutmasters-job", "scouts"]
+topics:
+  - "Discipline & Behavior"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150418040324/http://scoutmastercg.com:80/new-scoutmaster-chapter-twelve-2/"
 ---
 

@@ -2,7 +2,9 @@
 title: "High Adventure Canoe Trip 2 - Gear and Clothing"
 date: 2013-04-15
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20160727225731/http://scoutmastercg.com:80/high-adventure-canoe-trip-part-2-gear-and-clothing/"
 ---
 

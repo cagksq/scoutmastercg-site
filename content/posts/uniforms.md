@@ -2,7 +2,9 @@
 title: "Uniforms"
 date: 2011-10-21
 draft: false
-categories: ["outdoors", "scouting-history-ideas"]
+topics:
+  - "BSA Rules & Policy"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20111021014314/http://www.scoutmastercg.com:80/2006/03/uniforms/"
 ---
 

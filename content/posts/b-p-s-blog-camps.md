@@ -3,8 +3,9 @@ title: "B.P.'s Blog - Camps"
 date: 2014-04-20
 draft: false
 image: "/images/bp3.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20150409054231/http://scoutmastercg.com:80/b-p-s-blog-camps/"
 ---
 

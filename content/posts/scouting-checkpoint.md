@@ -2,7 +2,9 @@
 title: "Scouting Checkpoint"
 date: 2015-09-16
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20150916135250/http://scoutmastercg.com/checkpoint/"
 ---
 

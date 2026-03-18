@@ -2,7 +2,9 @@
 title: "Are you Serving Scouts or Expecting to be Served?"
 date: 2014-10-09
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Adult Leadership Roles"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20141009015015/http://scoutmastercg.com:80/serving-scouts-expecting-served/"
 ---
 

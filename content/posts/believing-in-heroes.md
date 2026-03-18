@@ -2,7 +2,8 @@
 title: "Believing in Heroes"
 date: 2015-09-26
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20150926205030/http://scoutmastercg.com:80/believing-in-heroes/"
 ---
 

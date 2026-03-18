@@ -1,34 +1,32 @@
 ---
-title: "Scoutmaster Podcast 322 - Youth Engagement"
+title: "Scoutmaster Podcast 322"
 date: 2016-03-14
 draft: false
 image: "/images/podcasts/episode-322.png"
 episode: 322
+subtitle: "How to progressively engage youth in leadership through trust, training, and real responsibility"
+transcript: true
 categories: ["Podcast"]
+tags:
+  - "youth leadership"
+  - "youth engagement"
+  - "patrol method"
+  - "youth protection"
+  - "Scoutmaster"
+  - "listener email"
+  - "Baden-Powell"
+summary: "Clarke Green discusses youth engagement in Scouting, distinguishing it from the binary 'boy-led' concept and laying out a progressive model of adult-youth partnership. He answers listener emails about where the SPL and ASPL should camp relative to adults and patrols, and clarifies Youth Protection guidelines for one-on-one phone calls with Scouts. The episode also includes Clarke's welcome remarks"
+description: "Clarke Green discusses youth engagement in Scouting, distinguishing it from the binary 'boy-led' concept and laying out a progressive model of adult-youth partnership. He answers listener emails about where the SPL and ASPL should camp relative to adults and patrols, and clarifies Youth Protection guidelines for one-on-one phone calls with Scouts. The episode also includes Clarke's welcome remarks"
 ---
 
 {{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-322.mp3" >}}
 
-Scouting is something Scouts do for themselves …
-… rather than a program of activities presented for them.
-This week I'll discuss the way Scouts should be engaged in leading one another, in making decisions affecting what they do and how it is done.
-Our ideal responsive leadership role as a barely perceptible influence empowering young people to do things for themselves. We accomplish this in a progressive partnership: adult and youth roles are collaborative, not hierarchical.
-This partnership is one of the unique facets of Scouting that adults often misunderstand. We may be reluctant to cede authority to young people, or doubt their ability to exercise authority responsibly; but youth engagement does not mean purposeless anarchy. Scouting has boundaries in the same way lines chalked on a playing field describe the boundaries of a game. Both Scouts and Scouters observe these boundaries in a reciprocal commitment based on mutual trust and patience.
-I also answer a couple fo brief email questions.
-In This Podcast
-Historian, Bugler, Librarian?
-[0:19]
-Mailbag
-[1:22]
-Scoutmastership in Seven Minutes or Less
-Youth Engagement in Scouting
-[4:43]
-Email answers
-Where do Youth leaders Camp?
-[17:30]
-Youth protection on the phone
-[19:07]
-This podcast is brought to you by
-Patrons
-&
-Backers
+<div class="smcg-acts">
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(0)" title="Jump to 0:00"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">INTRO</div><div class="smcg-act-note">Three-part pun joke about a Scout declining troop historian and bugler roles before becoming troop librarian — 'hardcover warning at camp.'</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(51)" title="Jump to 0:51"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">WELCOME</div><div class="smcg-act-note">Clarke reviews listener feedback on the 'Stuff Scouters Say' t-shirt; answers Mark Lee (Conocohe District) about the ScoutmasterCG app being discontinued; thanks new patron Robert Williams; highlights live chat regulars including Jeffrey Heck, Rob (Troop 235), Darryl Oakley (Troop 132), and Don C.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(281)" title="Jump to 4:41"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">SCOUTMASTERSHIP IN 7 MINUTES</div><div class="smcg-act-note">Youth engagement in Scouting — distinguishing it from the binary 'boy-led' concept, and building a progressive partnership of adult and youth roles using Greenbar Bill's formula: train them, trust them, let them lead.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(1015)" title="Jump to 16:55"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">LISTENERS EMAIL</div><div class="smcg-act-note">Sean Earp (Scoutmaster, Troop 330, Auburn WA) asks where the SPL and ASPL should camp and eat relative to patrols and adults; Darryl Oakley (Scoutmaster, Troop 132, Upton MA) asks about Youth Protection guidelines for one-on-one phone calls with Scouts.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(1296)" title="Jump to 21:36"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">OUTRO</div></div></div>
+</div>
+
+<p style="margin:0.75rem 0 0;"><a href="/podcasts/episode-322/transcript/" class="smcg-transcript-link">Transcript</a></p>

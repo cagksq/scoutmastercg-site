@@ -2,7 +2,9 @@
 title: "Thinking Patriotism"
 date: 2005-12-01
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Citizenship & Patriotism"
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20141018003033/http://scoutmastercg.com:80/thoughtful_patr/"
 ---
 

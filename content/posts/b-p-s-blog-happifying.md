@@ -3,8 +3,9 @@ title: "B-P's Blog - Happifying"
 date: 2015-07-05
 draft: false
 image: "/images/bp4.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20151220131128/http://scoutmastercg.com/b-ps-blog-happifying/?replytocom=79737"
 ---
 

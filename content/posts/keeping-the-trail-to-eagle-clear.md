@@ -2,7 +2,9 @@
 title: "Keeping the Trail to Eagle Clear."
 date: 2014-10-17
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Eagle Scout"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150916201710/http://scoutmastercg.com/keeping-the-trail-to-eagle-clear/"
 ---
 

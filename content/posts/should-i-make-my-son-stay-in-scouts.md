@@ -2,7 +2,9 @@
 title: "Should I Make My Son Stay in Scouts?"
 date: 2011-06-28
 draft: false
-categories: ["advancement"]
+topics:
+  - "Parent Relations"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20130115072835/http://www.scoutmastercg.com:80/should-i-make-my-son-stay-in-scouts/"
 ---
 

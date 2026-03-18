@@ -2,7 +2,8 @@
 title: "How Long is the Hike?"
 date: 2015-09-21
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20150921145549/http://scoutmastercg.com/naismiths_rule_/"
 ---
 

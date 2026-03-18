@@ -3,8 +3,8 @@ title: "B-P's Blog - Health"
 date: 2015-07-26
 draft: false
 image: "/images/bp3.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
 wayback_url: "https://web.archive.org/web/20150906071155/http://scoutmastercg.com/b-ps-blog-health/"
 ---
 

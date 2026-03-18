@@ -1,0 +1,920 @@
+1
+00:00:00,000 --> 00:00:05,440
+I am Daniel Desjardins, I'm Brian Bluin And I am a scout master. We threw four, two, six in london,
+
+2
+00:00:05,440 --> 00:00:11,120
+there in new hamshire, And I am a cub master with pack three, two, eight, five out of rockford,
+
+3
+00:00:11,120 --> 00:00:17,840
+michigan. This edition of the scout master podcast is sponsored by backers like us. And now for you,
+
+4
+00:00:17,840 --> 00:00:31,520
+scout master, Here's a little known bit of scouting history And it turns out it's also
+
+5
+00:00:31,520 --> 00:00:37,040
+a little known piece of baseball history that I recently discovered, just after I made it up.
+
+6
+00:00:37,680 --> 00:00:46,080
+The Bambino- Yes, Babe Ruth- was a scout master And he often took his scouts camping in the
+
+7
+00:00:46,080 --> 00:00:53,280
+Great Smoky Mountains And he did this so they could pitch their tents high and outside. Oh yeah,
+
+8
+00:00:53,280 --> 00:01:05,759
+come on now I put that one right over the plate. Hey, this is podcast number 259.. Hey,
+
+9
+00:01:16,080 --> 00:01:33,920
+Welcome back to the scout master podcast. This is Clark Green. Wow, let's see here. Let's take a
+
+10
+00:01:33,920 --> 00:01:39,600
+look in the mail bag. We got some messages here. Liberty Bill left a five star review of the
+
+11
+00:01:39,600 --> 00:01:45,039
+scout master podcast on iTunes. Thank you so much, Bill. He's a new scout master,
+
+12
+00:01:45,040 --> 00:01:49,600
+relatively new scout master, working towards a scout led troop, as are many of you,
+
+13
+00:01:50,160 --> 00:01:57,040
+And we always appreciate reviews. So you can review the podcast on iTunes or on Google Play
+
+14
+00:01:57,040 --> 00:02:02,880
+And you know you can review the books on Amazon. Certainly do appreciate it when folks go to
+
+15
+00:02:02,880 --> 00:02:08,560
+the trouble of doing that. Richard Withkowski is with troop 117 in Coatesville, Pennsylvania,
+
+16
+00:02:09,120 --> 00:02:14,320
+And Richard was on one of our recent chats. We'll talk a little bit more about that in a
+
+17
+00:02:14,400 --> 00:02:18,320
+moment. He said thanks for all you do. We love the podcast and all the support you give
+
+18
+00:02:18,320 --> 00:02:23,760
+scouts like us And you know Richard's right up the road for me in a troop that I have known
+
+19
+00:02:23,760 --> 00:02:30,640
+for many, many years- Troop 117 up there in Coatesville- So it's great to make a connection
+
+20
+00:02:30,640 --> 00:02:36,880
+there. Tyson got in touch and said: I'm on our district training committee And I was wondering
+
+21
+00:02:36,880 --> 00:02:44,079
+if I could use your merit badge blue card infographic to print out and distribute during
+
+22
+00:02:44,079 --> 00:02:49,120
+training. And, Tyson, you can certainly do that. This is a question I get very often
+
+23
+00:02:49,120 --> 00:02:54,000
+And I like to mention on the podcast. please use anything that we've created to further
+
+24
+00:02:54,000 --> 00:02:59,040
+the cause of scouting. where you are, Go right ahead and do it. All's we ask is that you'll
+
+25
+00:02:59,040 --> 00:03:04,079
+let people know where you found the resource. I mentioned our live chat. We had a two or
+
+26
+00:03:04,080 --> 00:03:09,040
+three live chat sessions this past week. These usually happened during weekday mornings.
+
+27
+00:03:09,040 --> 00:03:14,800
+You'll see an announcement in our Twitter feed and our Facebook feed that the live chat
+
+28
+00:03:14,800 --> 00:03:22,160
+feature is is up on scoutmastercgcom. Come along and join us amongst all of our frequent
+
+29
+00:03:22,160 --> 00:03:27,760
+flyers that check in. We had some new folks check in this week. Zach Guerra is in Los
+
+30
+00:03:27,760 --> 00:03:33,280
+Angeles where he's an assistant scout master for Troop 716.. Valerie Gibson in
+
+31
+00:03:33,280 --> 00:03:40,799
+Ingenberg is a chartered org representation Representation is a chartered org representative
+
+32
+00:03:40,799 --> 00:03:46,320
+in the Sagamore Council of Indiana. Scott Schaefer is in Des Moines, Iowa, where he's a scout
+
+33
+00:03:46,320 --> 00:03:54,399
+master and a cub master. Matt Bearman is with Troop 971 and PAC 3971 in West Branch,
+
+34
+00:03:54,400 --> 00:03:59,520
+Mississippi. Vince Hurley is a scout master with Troop 73 in Indianapolis, Indiana,
+
+35
+00:03:59,520 --> 00:04:06,800
+And David Varyspey is an assistant scout master with Troop 1776 in San Ramon, California. All
+
+36
+00:04:06,800 --> 00:04:12,800
+those folks checked in on the live chat Once again weekday mornings. Watch the Facebook and
+
+37
+00:04:12,800 --> 00:04:17,440
+Twitter feeds for an announcement that there's a live chat and the times and come on in and
+
+38
+00:04:17,440 --> 00:04:22,640
+join us. It's great fun. If you are a regular reader and listener and if the resources that
+
+39
+00:04:22,640 --> 00:04:27,840
+we've created at ScoutMasterCGcom have helped you, you can return the favor by becoming a
+
+40
+00:04:27,840 --> 00:04:34,320
+scoutmastercgcom backer. The funds we get from backers go towards the expenses of producing
+
+41
+00:04:34,320 --> 00:04:39,840
+and publishing the blog posts and the podcasts and the videos and keeping all those resources
+
+42
+00:04:39,840 --> 00:04:44,800
+accessible to scouts all over the world- and for freely accessible, I may add. It's an easy
+
+43
+00:04:44,800 --> 00:04:50,240
+thing to do: Go to scoutmastercgcom and click the support link at the top of the page, right
+
+44
+00:04:50,240 --> 00:04:55,680
+there in the top menu, and you can choose any level of support, and some of those entitle you to
+
+45
+00:04:55,680 --> 00:05:01,360
+premiums, like autograph copies of my books. So I want to take a moment to personally thank
+
+46
+00:05:01,360 --> 00:05:08,560
+Raul Aracida, Buddy Broils and Rob Painter, who became backer since our last podcast.
+
+47
+00:05:08,560 --> 00:05:13,440
+One more time: go to scoutmastercgcom, become a backer this week, and I'll be sure to thank
+
+48
+00:05:13,440 --> 00:05:17,600
+you personally during our next podcast. Let's see a couple other bits of business to take
+
+49
+00:05:17,600 --> 00:05:24,560
+care of here In 2016. we've got a great trip to Condersteg International Scout Center scheduled
+
+50
+00:05:24,560 --> 00:05:32,000
+in July of 2016 and we'd love to have you come along. Go to scoutmastercgcom to check that out
+
+51
+00:05:32,000 --> 00:05:36,960
+and I'll have a link to the trip details in the post that contains this podcast. and I want to
+
+52
+00:05:36,960 --> 00:05:43,040
+tell you that this past Thursday night, I was invited by a listener and reader, Bill Chapman,
+
+53
+00:05:43,040 --> 00:05:48,560
+to lead a Boy Scout leader breakout session at the Saddleback District Roundtable in Lake
+
+54
+00:05:48,560 --> 00:05:56,000
+Forest, California. It all turned out well. I did not travel to Lake Forest. I was speaking to them
+
+55
+00:05:56,000 --> 00:06:02,400
+over Skype and we had a great time. I started out by introducing the idea of the patrol method.
+
+56
+00:06:02,400 --> 00:06:08,240
+We were basically looking at a self-assessment tool I created a few years ago. that's really
+
+57
+00:06:08,240 --> 00:06:12,000
+just a way to start sparking discussions about the patrol method. If you haven't seen it and
+
+58
+00:06:12,000 --> 00:06:17,600
+you're interested in it, I'll link to it in the post that contains this podcast. But we introduced that
+
+59
+00:06:17,600 --> 00:06:21,520
+and we talked about it a little bit and then we opened the floor for questions and thank goodness
+
+60
+00:06:21,520 --> 00:06:27,200
+people had questions and I just didn't have to drone on and on and do a lecture, you know,
+
+61
+00:06:27,200 --> 00:06:31,440
+and I want to thank Gary and Nancy and Lori and Carolyn and the others who asked questions
+
+62
+00:06:31,440 --> 00:06:35,040
+during that session. I mentioned this for a couple of reasons. First of all, I wanted to
+
+63
+00:06:35,040 --> 00:06:40,880
+thank Bill Chapman, who set up the session and made it happen, and you know we had a pretty good
+
+64
+00:06:40,880 --> 00:06:45,360
+time doing it. It seemed to be pretty useful and if it's helpful to you to have me come to your
+
+65
+00:06:45,360 --> 00:06:50,560
+round table that way, I'd certainly welcome the opportunity. so get in touch and let me know
+
+66
+00:06:50,560 --> 00:06:55,920
+and we'll sort out how to make it happen. One of the other reasons I wanted to mention this was
+
+67
+00:06:55,920 --> 00:07:01,360
+many. the answers that I had to the questions that were asked during that session were aimed
+
+68
+00:07:01,360 --> 00:07:07,680
+at listening to Scouts, and I want to expand a little bit on that in this podcast. In Scout
+
+69
+00:07:07,680 --> 00:07:12,400
+Mastership in seven minutes or less, which is probably going to go a little bit more than seven
+
+70
+00:07:12,400 --> 00:07:18,800
+minutes because you know that's the way it works- I want to talk about listening to Scouts and then
+
+71
+00:07:18,800 --> 00:07:23,680
+we've also got just a couple of quick email questions to answer, so that's going to take up
+
+72
+00:07:23,680 --> 00:07:32,400
+the remainder of the podcast. Let's get started then, shall we Scout Mastership in seven minutes or less?
+
+73
+00:07:40,080 --> 00:07:47,360
+So, as I said earlier, I was leading a roundtable discussion and, as I shared, many of my answers to
+
+74
+00:07:47,440 --> 00:07:54,160
+the questions in that discussion were, in short, listen to your Scouts. And, serendipitously, this week's
+
+75
+00:07:54,160 --> 00:08:01,680
+installment of BP's blog, Baden Powell's blog, features some thoughts from our founder, Sir
+
+76
+00:08:01,680 --> 00:08:09,040
+Robert Baden Powell, on the subject of listening, and it's from an article in BP's Outlook, which is
+
+77
+00:08:09,040 --> 00:08:14,560
+a collection of pieces that he wrote for the Scouter magazine, and this particular piece
+
+78
+00:08:14,560 --> 00:08:22,800
+that I shared this week on BP's blog was written in 1922 and it's titled appropriately:
+
+79
+00:08:22,800 --> 00:08:29,440
+Listen- Just a very good one word title. And in this article BP encouraged Scoutsers
+
+80
+00:08:29,440 --> 00:08:36,159
+to consider listening rather than talking as the most effective tool to work with Scouts.
+
+81
+00:08:36,159 --> 00:08:42,000
+In this article he said several things. He said that a Scout Master can save his brains
+
+82
+00:08:42,000 --> 00:08:49,200
+by using his ears and to listen to what his boys are talking about and keep his own mouth shut.
+
+83
+00:08:49,200 --> 00:08:54,640
+Here's a great allegory he used in the article. He said: when in wartime a soldier scout is out
+
+84
+00:08:54,640 --> 00:09:00,240
+at night and wants to gain information of the enemy's moves, he does so to a large extent
+
+85
+00:09:00,240 --> 00:09:07,600
+by listening. Similarly, when a Scout Master is in the dark as to the inclination or the
+
+86
+00:09:07,600 --> 00:09:15,120
+character of his boys, he can to a great extent get it by listening. In listening, he will gain
+
+87
+00:09:15,120 --> 00:09:20,800
+a close insight into the character of each boy and a realization of the way in which he can best
+
+88
+00:09:20,800 --> 00:09:27,520
+be interested. If Baden Powell went on to say: you make listening an observation your particular
+
+89
+00:09:27,520 --> 00:09:34,000
+occupation, you will gain much more information from your Scouts than you can put into them
+
+90
+00:09:34,000 --> 00:09:40,880
+by your own talk. Find out from them, by listening or questioning, which activities appeal most to them
+
+91
+00:09:40,880 --> 00:09:48,240
+and see how far you can get these going. So too, in giving instruction, it is better by far
+
+92
+00:09:48,240 --> 00:09:54,400
+to get your boys to debate a point or to ask you questions than to preach information to them.
+
+93
+00:09:54,400 --> 00:10:00,480
+There's a lot to be got by listening and observing. So, with Bin Powell's advice in mind,
+
+94
+00:10:00,480 --> 00:10:07,360
+let's talk about the idea of Socratic Scouting. Now, if you're not familiar with this Socratic
+
+95
+00:10:07,360 --> 00:10:14,480
+Method, here's a great introduction that comes from the 1973 movie The Paper Chase, directed by
+
+96
+00:10:14,480 --> 00:10:21,760
+James Bridges. In this little excerpt here, Professor Kingsfield is being played by actor John
+
+97
+00:10:21,760 --> 00:10:28,560
+Hausman, and he is making his introduction to his course at Harvard Law School in the movie.
+
+98
+00:10:29,120 --> 00:10:37,600
+So listen to this. We use the Socratic Method here. I call on you: I'll ask you a question
+
+99
+00:10:37,600 --> 00:10:44,320
+and you answer it. Why don't I just give you a lecture? because through my questions you learn
+
+100
+00:10:44,320 --> 00:10:51,840
+to teach yourselves. Through this method of questioning, answering, questioning, answering.
+
+101
+00:10:52,480 --> 00:10:58,480
+we seek to develop in you the ability to analyze that vast complex of facts
+
+102
+00:10:59,200 --> 00:11:03,280
+that constitute the relationships of members within a given society.
+
+103
+00:11:04,560 --> 00:11:11,680
+Questioning and answering: At times you may feel that you have found the correct answer.
+
+104
+00:11:12,400 --> 00:11:18,720
+I assure you that this is a total delusion on your part. You will never find the correct,
+
+105
+00:11:18,720 --> 00:11:25,360
+absolute and final answer. In my classroom there is always another question, Another
+
+106
+00:11:25,360 --> 00:11:32,160
+question to follow your answer. As you're on a treadmill, my little questions spin the
+
+107
+00:11:32,160 --> 00:11:39,120
+tumblers of your mind. You're on an operating table. My little questions are the fingers
+
+108
+00:11:39,120 --> 00:11:45,600
+probing your brain? You do brain surgery here. You teach yourselves the law,
+
+109
+00:11:46,400 --> 00:11:52,640
+but I train your mind. You come in here with a skull full of mush
+
+110
+00:11:53,760 --> 00:11:59,840
+and you leave thinking like a lawyer. I remember hearing this years and years and years ago
+
+111
+00:11:59,840 --> 00:12:06,000
+and it really made a big impression on me. That's Socratic Method: Listening, asking
+
+112
+00:12:06,000 --> 00:12:12,560
+questions, hearing the answers and asking more questions is really just this wonderful,
+
+113
+00:12:12,560 --> 00:12:19,200
+practical and versatile tool for Scouters. It's a tool we can apply to developing youth leaders,
+
+114
+00:12:19,200 --> 00:12:25,760
+to instruction, to training, to counseling, to mentoring, and it's an incredibly powerful way
+
+115
+00:12:26,320 --> 00:12:32,160
+for us to achieve the aims of Scouting. Using Socratic Scouting, We're really teaching Scouts
+
+116
+00:12:32,160 --> 00:12:38,000
+the crucial skill of learning how to learn, by appealing to their national inquisitiveness
+
+117
+00:12:38,000 --> 00:12:42,880
+and inspiring them to work things out for themselves. I've also seen this method called
+
+118
+00:12:42,880 --> 00:12:49,440
+Guided Discovery, and Guided Discovery is not making statements or lecturing, but asking questions
+
+119
+00:12:49,440 --> 00:12:55,600
+that encourage Scouts to figure things out. In the roundtable discussion that I mentioned
+
+120
+00:12:55,600 --> 00:12:59,920
+earlier, there was a lot of talk about how patrols are arranged or how you make
+
+121
+00:12:59,920 --> 00:13:04,320
+certain decisions about the way Scouts are going to do things, and my continuous
+
+122
+00:13:04,320 --> 00:13:09,040
+encouragement to everybody was: well you know, sit down and talk to the patrol leaders.
+
+123
+00:13:09,040 --> 00:13:13,520
+sit down and talk to your senior patrol leaders. sit down and talk to the patrol leaders council.
+
+124
+00:13:13,520 --> 00:13:17,680
+ask them how they think they're going to solve this. You already have a solution,
+
+125
+00:13:17,680 --> 00:13:23,040
+you already have a strategy and you could just tell them what to do. but the real magic
+
+126
+00:13:23,040 --> 00:13:28,960
+moment in Scouting is when we get into this Socratic Method and we start asking them questions
+
+127
+00:13:28,960 --> 00:13:34,560
+and they can come up with some amazing things. They can come up with some amazing strategies
+
+128
+00:13:34,560 --> 00:13:41,520
+and plans and answers on their own if we're listening to their answers. Now, if we lecture Scouts,
+
+129
+00:13:41,520 --> 00:13:47,760
+we echo what they have done in school a thousand times and I think a lot of times they react
+
+130
+00:13:47,760 --> 00:13:53,040
+accordingly. Their attentiveness is going to be brief. they'll show little appreciation or
+
+131
+00:13:53,040 --> 00:13:57,920
+understanding for what's being said and they'll retain very little of what we're offering
+
+132
+00:13:57,920 --> 00:14:02,880
+because they just kind of switch goes off and they say: an adult is speaking now
+
+133
+00:14:03,520 --> 00:14:12,320
+and well, you know, I'll listen. I guess. yep, this is what adults say all the time. I've heard it a
+
+134
+00:14:12,320 --> 00:14:18,560
+hundred times. I wonder if anybody's texted me recently, you know what I mean. so let's remember:
+
+135
+00:14:19,120 --> 00:14:25,120
+Scouting promises engaging, active things, not sitting and listening. who can blame Scouts,
+
+136
+00:14:25,120 --> 00:14:29,040
+who come to Scouting with this promise of engagement and activity and they find themselves
+
+137
+00:14:29,680 --> 00:14:34,240
+in another classroom situation and they feel a little bit like they've been cheated out of
+
+138
+00:14:34,240 --> 00:14:40,080
+something. This Socratic Scouting, or Guided Discovery, transforms the role of the Scout
+
+139
+00:14:40,080 --> 00:14:47,440
+from a passive learner to an active participant in what's going on. One question follows another,
+
+140
+00:14:47,440 --> 00:14:52,400
+like a path of breadcrumbs, just like we heard Professor Kingsfield saying-
+
+141
+00:14:52,400 --> 00:14:58,160
+and then the Scouts discover what they need to know, and when they discover things this way, the
+
+142
+00:14:58,160 --> 00:15:03,600
+light comes on, so it's almost a physical phenomena. they brighten up. more than just learning the
+
+143
+00:15:03,600 --> 00:15:11,040
+right answers to things or learning how to do something they have learned for themselves.
+
+144
+00:15:11,040 --> 00:15:17,760
+they've learned to seek these things out and teach themselves. so suppose we want our Scouts to
+
+145
+00:15:17,760 --> 00:15:21,760
+learn how to safely handle and maintain a pocket knife. it's a pretty common thing, right?
+
+146
+00:15:21,760 --> 00:15:25,920
+well, we could sit them down and talk to them and we could explain everything to them.
+
+147
+00:15:25,920 --> 00:15:30,880
+or we could lay out some pocket knives and things on the table and we could, and we could engage them
+
+148
+00:15:30,880 --> 00:15:36,080
+in this Socratic Scouting method, right? what are the things on this table? well, some pocket knives
+
+149
+00:15:36,080 --> 00:15:40,560
+and stuff. well, how do you use them? how can you find out how they're used. why isn't important?
+
+150
+00:15:40,560 --> 00:15:45,920
+we learn to use them correctly. and one question leads to the next. Scouts are actively involved
+
+151
+00:15:45,920 --> 00:15:50,960
+in supplying the answers, rather than simply recording information. they're going to pick up
+
+152
+00:15:50,960 --> 00:15:56,480
+the knives, they're going to use them and they learn more with their hands than with their ears.
+
+153
+00:15:56,480 --> 00:16:01,040
+so we make sure they start working with their hands right away. we move away from the table
+
+154
+00:16:01,040 --> 00:16:05,520
+in a very few minutes and the Scouts start practicing and trying out things they've
+
+155
+00:16:05,520 --> 00:16:10,720
+discovered. they can coach each other in these skills and ask us questions. they're active and
+
+156
+00:16:10,720 --> 00:16:19,600
+engaged and happy and, as I said before, Socratic Scouting right. the, the guided discovery methods
+
+157
+00:16:19,600 --> 00:16:25,840
+are not limited to instruction. we can employ it to counsel and to train and to mentor our Scouts.
+
+158
+00:16:25,840 --> 00:16:29,840
+so when we're talking with the Patrol Leaders Council, what do you think? what's your plan
+
+159
+00:16:29,840 --> 00:16:34,880
+for handling this particular thing? what should we do next? how are you going to go about doing that?
+
+160
+00:16:35,680 --> 00:16:41,920
+can you explain it to me in very simple, step-by-step method, how exactly you're going to do that? when
+
+161
+00:16:41,920 --> 00:16:46,000
+we're sitting down and having a scout master's conference and we're looking at things like
+
+162
+00:16:46,000 --> 00:16:51,920
+scout spirit and participation and things like that, how about we ask the scout about it instead of
+
+163
+00:16:51,920 --> 00:16:57,600
+substituting our own judgment for theirs? how about we call upon that developing standard
+
+164
+00:16:57,600 --> 00:17:03,040
+of the scout oath and law inside them and say: well, you know what, I have my own opinions
+
+165
+00:17:03,040 --> 00:17:07,120
+about scout spirit, but I'm much more interested in hearing yours. why don't you tell me what you
+
+166
+00:17:07,120 --> 00:17:12,880
+think it means? why don't you tell me if you think you fulfilled this requirement? and once we start
+
+167
+00:17:12,880 --> 00:17:18,480
+doing that, we're just unlocking all these many doors and we're really working at achieving
+
+168
+00:17:18,480 --> 00:17:24,160
+the aims of scouting, which is the development of character right. so once we get the hang of guiding
+
+169
+00:17:24,160 --> 00:17:30,640
+and discovery and we use this Socratic Scouting method rather than preaching or teaching or
+
+170
+00:17:30,720 --> 00:17:36,320
+lecturing, we'll find that it's one of the most useful tools in your kit. it'll make your scouts
+
+171
+00:17:36,320 --> 00:17:52,240
+engaged and active and it will advance the aims of scouting.
+
+172
+00:18:06,320 --> 00:18:22,240
+so-
+
+173
+00:18:23,280 --> 00:18:26,240
+and here's an answer to one of your emails-
+
+174
+00:18:26,800 --> 00:18:37,040
+Hey, just a couple of quick email questions. this week
+
+175
+00:18:37,040 --> 00:18:43,840
+Rick Williamson uh got in touch. he says I'm a new scout master for troop 131 in Scottsdale, Arizona.
+
+176
+00:18:43,840 --> 00:18:49,120
+I listened to your podcast. the information you provide has helped me. uh. recently a scout
+
+177
+00:18:49,120 --> 00:18:54,560
+brought me three completed blue cards from a merit badge clinic. the guide to advancement
+
+178
+00:18:54,560 --> 00:18:59,919
+requires that a scout talk to the unit leader for approval before the scout starts working
+
+179
+00:18:59,919 --> 00:19:04,240
+with a merit badge counselor. the blue cards that I received from the merit badge clinic
+
+180
+00:19:04,240 --> 00:19:09,600
+from three different merit badge counselors were issued without having my signature on them first,
+
+181
+00:19:10,159 --> 00:19:14,639
+indicating that I'd spoke them with the scout. now I don't think we should penalize the scout
+
+182
+00:19:14,639 --> 00:19:19,679
+for the error that these merit badge counselors made, but I don't exactly know what to do next.
+
+183
+00:19:19,680 --> 00:19:24,720
+well, Rick, thanks for listening and thanks for getting in touch. this is an easy question
+
+184
+00:19:24,720 --> 00:19:28,400
+because it's not my opinion. it's all spelled out very clearly in the guide to advancement.
+
+185
+00:19:28,400 --> 00:19:34,320
+you're correct in that we wouldn't ever want to ding a scout for something they can't control,
+
+186
+00:19:34,320 --> 00:19:38,640
+and the way that the counselors handle this is not strictly as they should have. we're not
+
+187
+00:19:38,640 --> 00:19:43,520
+going to make the scouts suffer because the counselor didn't understand something. what we want
+
+188
+00:19:43,520 --> 00:19:48,000
+to do in a situation like this is to get in touch with the counselor district advancement
+
+189
+00:19:48,000 --> 00:19:52,960
+committee, because these are the folks who approve merit badge counselors and we want to let them know
+
+190
+00:19:52,960 --> 00:19:56,880
+what happened, and it's up to them to tell the counselors in question that they may have
+
+191
+00:19:56,880 --> 00:20:02,880
+made a mistake by accepting a blue card without a unit leader's signature, or to explain to you
+
+192
+00:20:03,520 --> 00:20:08,640
+why that wasn't required in this particular situation. they may have set something up for
+
+193
+00:20:08,640 --> 00:20:13,600
+a merit badge clinic or something. I really don't know now. this is a pretty common thing
+
+194
+00:20:13,680 --> 00:20:17,840
+where people have concerns about the way merit badges are being cancelled.
+
+195
+00:20:17,840 --> 00:20:24,400
+so there's a form in the guide to advancement 2013. I'll have a link to the guide. uh, you'll
+
+196
+00:20:24,400 --> 00:20:30,800
+find the form. it's called reporting merit badge counseling concerns on page 81 of the guide,
+
+197
+00:20:30,800 --> 00:20:34,880
+and that's a way to keep the people who are registering merit badge counselors aware. if
+
+198
+00:20:34,880 --> 00:20:38,720
+there are any concerns or problems, and they'll they'll, they'll make sure to correct them.
+
+199
+00:20:38,720 --> 00:20:45,600
+I had this email from Kathy, who asked who else other than the scout master can conduct scout
+
+200
+00:20:45,600 --> 00:20:51,600
+master conferences. well, Kathy, that's a really good question and all of the resources I've checked.
+
+201
+00:20:51,600 --> 00:20:56,400
+so that's the scout master's handbook and and things like that describe the conferences
+
+202
+00:20:56,400 --> 00:21:01,920
+between the scout master or the unit leader and the scout. there is no specific prohibition
+
+203
+00:21:02,480 --> 00:21:08,800
+about others conducting the conference, but it is called a scout master conference and I wouldn't
+
+204
+00:21:08,800 --> 00:21:14,160
+advise anyone but the scout master conduct that conference. in the guide to advancement, it will
+
+205
+00:21:14,160 --> 00:21:20,480
+talk about the unit leader because- and that includes scout masters and and varsity scouting
+
+206
+00:21:20,480 --> 00:21:27,120
+leaders and and for venturers too, but it's very specific that it is the unit leader and while
+
+207
+00:21:27,200 --> 00:21:33,600
+there is no, like I said, express prohibition against it, it is pretty clear exactly what's intended there.
+
+208
+00:21:33,600 --> 00:21:37,680
+so, Kathy, I hope that helps. hey, if you have a question, you'd like to get in touch with me?
+
+209
+00:21:37,680 --> 00:21:42,400
+it's pretty easy to do and I'd love to hear from you. so you're going to find out how to get in
+
+210
+00:21:42,400 --> 00:21:55,440
+touch in just a moment. well, thank you for listening to this 259th edition of the scout master
+
+211
+00:21:55,440 --> 00:22:01,200
+podcast. here's how to keep in touch. read the blog at scoutmastercgcom and, while you're there, you can
+
+212
+00:22:01,200 --> 00:22:07,680
+subscribe to updates to the blog by email. you can join about 4 000 other mobile scouts who have the
+
+213
+00:22:07,680 --> 00:22:12,640
+scout master app on their mobile devices, and if you're in the android tribe, you can go to google
+
+214
+00:22:12,640 --> 00:22:16,960
+play and get the app, and if you're in the apple tribe, you can go to iTunes and get the app.
+
+215
+00:22:16,960 --> 00:22:24,480
+you can also experience the wonders of scoutmastercgcom in the vast panorama of social media.
+
+216
+00:22:24,480 --> 00:22:30,240
+join the 8100 folks who like scoutmaster blog on Facebook. tweet along with the chorus of 1200
+
+217
+00:22:30,240 --> 00:22:37,360
+tweeters on twitter. pin the poultry to his pictures proffered publicly, with 1900 other prolific
+
+218
+00:22:37,360 --> 00:22:44,000
+pinners on Pinterest. watch us at scoutmastercg on youtube or join the 400 odd folks who form
+
+219
+00:22:44,000 --> 00:22:51,120
+the exclusive scoutmastercg circle on google plus. now, if you can't face facebook, if twitter
+
+220
+00:22:51,120 --> 00:22:57,680
+makes you bitter, if you've no interest in pinterest, if you don't put the? u in youtube, if you're a minus
+
+221
+00:22:57,680 --> 00:23:03,440
+when it comes to google plus, that's all right. bunkie, just zoom into the late 90s and send me an
+
+222
+00:23:03,440 --> 00:23:09,440
+email. you can get in touch with me. clark green, with your comments and questions and wild ideas
+
+223
+00:23:09,440 --> 00:23:22,960
+at clark at scoutmastercgcom. c, l, a, r, k, e at scoutmastercgcom. all that remains is for me to
+
+224
+00:23:22,960 --> 00:23:28,000
+remind you that the scoutmaster blog and the scoutmaster podcast are not official publications of
+
+225
+00:23:28,000 --> 00:23:32,160
+the Boy Scouts of America, or nor are they endorsed or sponsored by the Boy Scouts of America or any
+
+226
+00:23:32,160 --> 00:23:38,960
+other scouting organization in existence for that matter, because i am sure they have much
+
+227
+00:23:38,960 --> 00:23:43,680
+better things to do with their time. it's just me talking into a microphone, trying to lend a hand
+
+228
+00:23:43,680 --> 00:23:49,760
+to scout leaders and have a little bit of fun along the way. and speaking of fun, here he is our
+
+229
+00:23:49,760 --> 00:23:57,200
+august founder, sir robert bedan. pal, sir robert, good luck to you and good camping. oh why? thank you, sir,
+
+230
+00:23:57,200 --> 00:24:06,240
+until next time, everyone.
+

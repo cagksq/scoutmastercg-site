@@ -2,7 +2,9 @@
 title: "Freedom of and from Religion"
 date: 2014-08-22
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Spirituality & Religion"
+  - "BSA Membership & Inclusion"
 wayback_url: "https://web.archive.org/web/20140822151221/http://scoutmastercg.com/freedom_of_and_/"
 ---
 

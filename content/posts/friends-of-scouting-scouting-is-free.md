@@ -2,7 +2,8 @@
 title: "Friends of Scouting - Scouting is Free"
 date: 2009-10-09
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Fundraising & Finances"
 wayback_url: "https://web.archive.org/web/20160814015547/http://scoutmastercg.com:80/friends-of-scouting/"
 ---
 

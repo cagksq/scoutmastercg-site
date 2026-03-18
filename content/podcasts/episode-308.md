@@ -1,24 +1,30 @@
 ---
-title: "Scoutmaster Podcast 308 - Scout Parents 1"
+title: "Scoutmaster Podcast 308"
 date: 2015-12-07
 draft: false
 image: "/images/podcasts/episode-308.png"
 episode: 308
+subtitle: "When and how to require a reluctant adolescent Scout to keep participating in Scouting"
+transcript: true
 categories: ["Podcast"]
+tags:
+  - "scout parents"
+  - "adolescence"
+  - "reluctant scouts"
+  - "parenting"
+  - "retention"
+  - "consistency"
+summary: "Clarke Green kicks off a three-part series on the most challenging parent situations in Scouting, focusing on whether parents should compel a reluctant child to continue. He walks through how to listen carefully, triage serious problems, give the decision time to develop, and why consistency and expectations help adolescents thrive. The episode includes a welcome with listener mail from Alex Fayah"
+description: "Clarke Green kicks off a three-part series on the most challenging parent situations in Scouting, focusing on whether parents should compel a reluctant child to continue. He walks through how to listen carefully, triage serious problems, give the decision time to develop, and why consistency and expectations help adolescents thrive. The episode includes a welcome with listener mail from Alex Fayah"
 ---
 
 {{< audio src="https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/scoutmaster-podcast-308.mp3" >}}
 
-What should Scout parents do if a child want's to quit Scouts?…
-This is the first of three podcasts about Scout parents.
-Just about every child will reach some impasse along the way that will make them reluctant or downright adamant about participating. What Scout parents do next is important. It's more  than likely that this is going to happen to you; don't be surprised. Your child is probably not much different than the millions of other Scouts all over the world.
-Nearly every Eagle Scout I have known wanted to quit at one time or another and their parents pushed them to stay in Scouts. At their court of honor each new Eagle Scout is given the opportunity to make a few remarks. Almost without exception they thank their parents for the push that helped them decide to stay in Scouting.
-In This Podcast
-Intro
-[1:52]
-What should Scout parents do if a child want's to quit Scouts?
-[4:06]
-This podcast is brought to you by
-Patrons
-&
-Backers
+<div class="smcg-acts">
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(0)" title="Jump to 0:00"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">INTRO</div><div class="smcg-act-note">Opening joke from Don Fowler, Scoutmaster of Troop 95 in Sparta, NJ: a Scout walking around in freezing temperatures wearing shorts claims he's fine because he has 'three layers of shorts on.'</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(78)" title="Jump to 1:18"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">WELCOME</div><div class="smcg-act-note">Listener mail from Alex Fayah of Brazil praising the podcast and noting similarities between Brazilian and American Scouts; shoutouts to live-chat visitors Kyle Burkholder and Mr. D Andrews; backer thanks to Jim Yencer; preview of a three-part series on scout parents.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(249)" title="Jump to 4:09"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">SCOUT PARENTS SERIES: RELUCTANT SCOUTS</div><div class="smcg-act-note">Part one of a three-part series on challenging parent situations: whether to compel a reluctant adolescent child to remain in Scouting, with practical advice on listening, triaging negative experiences, giving decisions time, and when to require continued participation.</div></div></div>
+<div class="smcg-act"><button class="smcg-act-play" onclick="seekTo(957)" title="Jump to 15:57"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button><div class="smcg-act-body"><div class="smcg-act-label">OUTRO</div></div></div>
+</div>
+
+<p style="margin:0.75rem 0 0;"><a href="/podcasts/episode-308/transcript/" class="smcg-transcript-link">Transcript</a></p>

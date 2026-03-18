@@ -2,7 +2,9 @@
 title: "Trusting Youth Leadership"
 date: 2014-08-25
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20140825021539/http://scoutmastercg.com/trusting-youth-leadership/"
 ---
 

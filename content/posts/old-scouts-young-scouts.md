@@ -2,7 +2,8 @@
 title: "Old Scouts - Young Scouts"
 date: 2009-06-25
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20140826015911/http://scoutmastercg.com/old-scouts-young-scouts/"
 ---
 

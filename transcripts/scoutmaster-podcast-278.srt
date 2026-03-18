@@ -1,0 +1,4324 @@
+1
+00:00:00,000 --> 00:00:05,000
+I'm Brian Bluyn and I am a cup master with PAC 3285 out of Rockford, Michigan.
+
+2
+00:00:05,000 --> 00:00:10,000
+This edition of the Scoutmaster podcast is sponsored by backers like me
+
+3
+00:00:10,000 --> 00:00:12,000
+And now the old Scoutmaster.
+
+4
+00:00:31,000 --> 00:00:34,000
+Hey, everybody, this is Clark Green.
+
+5
+00:00:34,000 --> 00:00:40,000
+It's summertime and so our next few podcasts feature on-core presentations from our archives,
+
+6
+00:00:40,000 --> 00:00:44,000
+And this time around I want to play an interview that I conducted with Mike Malone,
+
+7
+00:00:44,000 --> 00:00:48,000
+who's the author of a really fantastic book called 4%.
+
+8
+00:00:48,000 --> 00:00:51,000
+It's a history of the Eagle Award
+
+9
+00:00:51,000 --> 00:00:55,000
+And, as you may imagine, Mike's an eagle scout, so he knows what he's talking about.
+
+10
+00:00:55,000 --> 00:00:59,000
+It has a long tenure in scouting and produced a incredibly well researched
+
+11
+00:00:59,000 --> 00:01:03,000
+and very compelling book about eagle scouts.
+
+12
+00:01:03,000 --> 00:01:08,000
+As always, this podcast is only possible because of the generosity of the folks
+
+13
+00:01:08,000 --> 00:01:11,000
+who become ScoutmasterCGcom backers.
+
+14
+00:01:11,000 --> 00:01:15,000
+Go to ScoutmasterCGcom, click the support link at the top of the page.
+
+15
+00:01:15,000 --> 00:01:19,000
+You'll find out how you can become a ScoutmasterCGcom backer.
+
+16
+00:01:19,000 --> 00:01:22,000
+We'll be back with our regular schedule of podcasts in a few weeks.
+
+17
+00:01:22,000 --> 00:01:25,000
+Until then, let's get started, shall we?
+
+18
+00:01:25,000 --> 00:01:30,000
+Michael S Malone is one of the world's best-known technology writers.
+
+19
+00:01:30,000 --> 00:01:34,000
+He was twice nominated for the Pulitzer Prize for investigative reporting
+
+20
+00:01:34,000 --> 00:01:39,000
+And you've read his articles and editorials and publications like The Wall Street Journal,
+
+21
+00:01:39,000 --> 00:01:41,000
+The Economist, Fortune and The New York Times.
+
+22
+00:01:41,000 --> 00:01:46,000
+He's the author and co-author of nearly 20 award-winning books.
+
+23
+00:01:46,000 --> 00:01:52,000
+Mike is, all importantly, an Eagle Scout and currently an assistant scoutmaster
+
+24
+00:01:52,000 --> 00:01:56,000
+of Troop 466 in Sunnyvale, California.
+
+25
+00:01:56,000 --> 00:02:00,000
+Now, in this centennial year of 2012,- the centennial year of the Eagle Scout-
+
+26
+00:02:00,000 --> 00:02:04,000
+Mike turned his considerable talent as an investigative reporter and writer,
+
+27
+00:02:04,000 --> 00:02:09,000
+as well as his extensive experience as a scout and adult volunteer,
+
+28
+00:02:09,000 --> 00:02:14,000
+towards a book that no doubt will stand, at least in my humble opinion,
+
+29
+00:02:14,000 --> 00:02:17,000
+as the definitive history of the Eagle Scout Award.
+
+30
+00:02:17,000 --> 00:02:24,000
+It's called 4% and subtitled the Story of Uncommon Youth in a Century of American Life.
+
+31
+00:02:24,000 --> 00:02:27,000
+I think it's not only an authoritative history of the award,
+
+32
+00:02:27,000 --> 00:02:31,000
+but it's kind of a meditation on the meaning and the spirit and importance of it,
+
+33
+00:02:31,000 --> 00:02:34,000
+And I'm certainly honored to welcome to the podcast.
+
+34
+00:02:34,000 --> 00:02:36,000
+Thanks for joining us, Mike.
+
+35
+00:02:36,000 --> 00:02:37,000
+Well, thank you, Clair.
+
+36
+00:02:37,000 --> 00:02:43,000
+So in the first chapter of the book, you call the Eagle the PhD of boyhood.
+
+37
+00:02:43,000 --> 00:02:46,000
+Yeah, I heard that along the way somewhere a few years ago
+
+38
+00:02:46,000 --> 00:02:53,000
+and I thought it was a brilliant metaphor for what Eagle Scouting is,
+
+39
+00:02:53,000 --> 00:03:03,000
+that it's a combination of learned skills combined with a final culminating event,
+
+40
+00:03:03,000 --> 00:03:07,000
+which is the Eagle Service Project that has to contribute to the larger world.
+
+41
+00:03:07,000 --> 00:03:10,000
+And if you look at it that way. it really is like a doctorate
+
+42
+00:03:10,000 --> 00:03:14,000
+and there's nothing comparable to it in American boyhood
+
+43
+00:03:14,000 --> 00:03:23,000
+There never has been. and it's really the apogee of being a teenage boy in the United States
+
+44
+00:03:23,000 --> 00:03:25,000
+And it's been that way for 100 years now.
+
+45
+00:03:25,000 --> 00:03:28,000
+What I really enjoy about the book- because it's a great read,
+
+46
+00:03:28,000 --> 00:03:35,000
+because it's a fantastic story. just the story of how this award came to be
+
+47
+00:03:35,000 --> 00:03:41,000
+and who has received it and what they went on to do is just a fascinating story.
+
+48
+00:03:41,000 --> 00:03:48,000
+And I think in one wise the history of the award itself is a history of the Boy Scouts of America.
+
+49
+00:03:48,000 --> 00:03:51,000
+We were talking just a little bit before we started the interview here
+
+50
+00:03:51,000 --> 00:03:55,000
+that that history has its ups and downs and its bumps and its troubles.
+
+51
+00:03:55,000 --> 00:03:58,000
+That's one of the things I really appreciate about your work.
+
+52
+00:03:58,000 --> 00:04:00,000
+It doesn't dodge any of those issues.
+
+53
+00:04:00,000 --> 00:04:01,000
+It's very honest.
+
+54
+00:04:01,000 --> 00:04:03,000
+Did you struggle with any of that?
+
+55
+00:04:03,000 --> 00:04:09,000
+Yeah, when I set out to write this book, I'm a lifelong newspaper man
+
+56
+00:04:09,000 --> 00:04:13,000
+Journalist. I'm a fourth generation newspaper man.
+
+57
+00:04:13,000 --> 00:04:17,000
+In fact I'm sitting here editing some copy from my 21-year-old son
+
+58
+00:04:17,000 --> 00:04:20,000
+who is now a fifth generation family newspaper man.
+
+59
+00:04:20,000 --> 00:04:21,000
+So it's in the blood
+
+60
+00:04:21,000 --> 00:04:27,000
+And it was very hard for me to even contemplate the idea of whitewashing this story
+
+61
+00:04:27,000 --> 00:04:32,000
+or turning into a hagiography of the March of Great Men.
+
+62
+00:04:32,000 --> 00:04:34,000
+That's just not my style.
+
+63
+00:04:34,000 --> 00:04:38,000
+I think the story is much more interesting when you capture awards and all,
+
+64
+00:04:38,000 --> 00:04:40,000
+And it's not like Scouting has a lot of awards.
+
+65
+00:04:40,000 --> 00:04:44,000
+I mean, it's an inspiring story all the way through
+
+66
+00:04:44,000 --> 00:04:51,000
+And, yeah, there have been some missteps and trips down the wrong path a few times,
+
+67
+00:04:51,000 --> 00:04:56,000
+But all in all I think those other things, those darker things,
+
+68
+00:04:56,000 --> 00:05:01,000
+actually make the entire story much more spectacular, much more amazing.
+
+69
+00:05:01,000 --> 00:05:03,000
+It's an awe-inspiring story?
+
+70
+00:05:03,000 --> 00:05:05,000
+Yeah, it really is,
+
+71
+00:05:05,000 --> 00:05:10,000
+And those bright moments are offset by the not-so-bright ones.
+
+72
+00:05:10,000 --> 00:05:14,000
+Let me tell you the genesis of this book, because it's kind of unusual.
+
+73
+00:05:14,000 --> 00:05:20,000
+I had taken a group of scouts from my troop back to Northern Virginia.
+
+74
+00:05:20,000 --> 00:05:27,000
+Two of the boys were restoring a Civil War battlefield and cemetery,
+
+75
+00:05:27,000 --> 00:05:29,000
+which sounds hugely ambitious
+
+76
+00:05:29,000 --> 00:05:33,000
+And it was, even though these are the two smallest battlefields
+
+77
+00:05:33,000 --> 00:05:37,000
+and federal cemeteries in the United States- Balls Bluff.
+
+78
+00:05:37,000 --> 00:05:40,000
+But it was quite an experience doing this
+
+79
+00:05:40,000 --> 00:05:44,000
+And as part of it we were going to be in the flag ceremony
+
+80
+00:05:44,000 --> 00:05:49,000
+in our Civil War uniforms at the National Jamboree
+
+81
+00:05:49,000 --> 00:05:53,000
+And we also marched in the Centennial Parade of Boy Scouting
+
+82
+00:05:53,000 --> 00:05:56,000
+down Pennsylvania Avenue in Washington DC
+
+83
+00:05:56,000 --> 00:06:00,000
+And I think there was 20,000 scouts in that parade.
+
+84
+00:06:00,000 --> 00:06:01,000
+It was quite a parade.
+
+85
+00:06:01,000 --> 00:06:06,000
+It was the first one of this kind since the first jamboree before FDR.
+
+86
+00:06:06,000 --> 00:06:11,000
+I was in the contingent at the very end, which was Eagle Scouts,
+
+87
+00:06:11,000 --> 00:06:15,000
+And each of us was asked to carry or wear something
+
+88
+00:06:15,000 --> 00:06:17,000
+that represented our career.
+
+89
+00:06:17,000 --> 00:06:20,000
+So I had the notebook, you know. I had the satchel over my shoulder
+
+90
+00:06:20,000 --> 00:06:23,000
+with the press card. but I looked around me
+
+91
+00:06:23,000 --> 00:06:27,000
+and there were guys dressed as department stores, Santa Claus.
+
+92
+00:06:27,000 --> 00:06:31,000
+There was a guy from Bermuda who was a diplomat.
+
+93
+00:06:31,000 --> 00:06:34,000
+There was a military officer and he was wearing
+
+94
+00:06:34,000 --> 00:06:37,000
+the full Hurt Locker bomb demolition outfit-
+
+95
+00:06:37,000 --> 00:06:41,000
+which was pretty tough because it was 100 degrees that day-
+
+96
+00:06:41,000 --> 00:06:47,000
+Just a panoply of distinguished middle-aged and older men
+
+97
+00:06:47,000 --> 00:06:51,000
+showing the wares of these remarkable careers
+
+98
+00:06:51,000 --> 00:06:54,000
+that had followed becoming Eagle Scouts.
+
+99
+00:06:54,000 --> 00:06:56,000
+And we started down that parade.
+
+100
+00:06:56,000 --> 00:06:58,000
+I was afraid a few of us weren't going to make it in that heat.
+
+101
+00:06:58,000 --> 00:07:01,000
+There were 80-year-olds with us marching at the tail end
+
+102
+00:07:01,000 --> 00:07:04,000
+of this massive parade of Boy Scouts.
+
+103
+00:07:04,000 --> 00:07:07,000
+We turned the corner and started heading down
+
+104
+00:07:07,000 --> 00:07:09,000
+towards the Washington Monument
+
+105
+00:07:09,000 --> 00:07:11,000
+And as we did, the loudspeaker shouted out
+
+106
+00:07:11,000 --> 00:07:16,000
+ladies and gentlemen, America's Eagle Scouts.
+
+107
+00:07:16,000 --> 00:07:19,000
+And the roar that came up from the crowd.
+
+108
+00:07:19,000 --> 00:07:21,000
+There was probably 50 or 60,000 people
+
+109
+00:07:21,000 --> 00:07:24,000
+lining that mile of avenue there,
+
+110
+00:07:24,000 --> 00:07:27,000
+The roar that came up for these Eagles,
+
+111
+00:07:27,000 --> 00:07:30,000
+And looking at these old guys with bad hips
+
+112
+00:07:30,000 --> 00:07:32,000
+and blimping and all that, and we all stood
+
+113
+00:07:32,000 --> 00:07:37,000
+a whole lot straighter and marched in formation
+
+114
+00:07:37,000 --> 00:07:40,000
+And I suddenly was struck by the relationship
+
+115
+00:07:40,000 --> 00:07:44,000
+between Eagle Scouts and American culture
+
+116
+00:07:44,000 --> 00:07:48,000
+And that story had never really been explored
+
+117
+00:07:49,000 --> 00:07:52,000
+And I just had to write the book at that point
+
+118
+00:07:52,000 --> 00:07:55,000
+It was an insane idea because I was buried
+
+119
+00:07:55,000 --> 00:07:58,000
+in a new startup technology company
+
+120
+00:07:58,000 --> 00:08:01,000
+and writing other books and teaching college.
+
+121
+00:08:01,000 --> 00:08:03,000
+But I just had to write the book
+
+122
+00:08:03,000 --> 00:08:06,000
+because I realized nobody else was going to do it.
+
+123
+00:08:06,000 --> 00:08:08,000
+There were no real plans for the 100th anniversary
+
+124
+00:08:08,000 --> 00:08:12,000
+of Eagle Scouting, so I decided to do the celebration myself
+
+125
+00:08:12,000 --> 00:08:16,000
+And the result shows the passion that you had for it.
+
+126
+00:08:16,000 --> 00:08:18,000
+Yeah, it's kind of a book that wrote itself.
+
+127
+00:08:18,000 --> 00:08:20,000
+I tore through this one.
+
+128
+00:08:20,000 --> 00:08:22,000
+Some books are very painful to write.
+
+129
+00:08:22,000 --> 00:08:26,000
+Spending three years writing about Steve Jobs once
+
+130
+00:08:26,000 --> 00:08:28,000
+was not the happiest time of my life,
+
+131
+00:08:28,000 --> 00:08:32,000
+But writing this book my fingers worked by themselves.
+
+132
+00:08:32,000 --> 00:08:35,000
+If we asked everybody who the first Eagle Scout was,
+
+133
+00:08:35,000 --> 00:08:38,000
+they'd probably come up with Arthur Eldred.
+
+134
+00:08:38,000 --> 00:08:40,000
+But there's a lot more to that story
+
+135
+00:08:40,000 --> 00:08:43,000
+and there's a lot more nuance and depth to it.
+
+136
+00:08:43,000 --> 00:08:48,000
+First tell me about the time that Arthur was a scout
+
+137
+00:08:48,000 --> 00:08:53,000
+and what was going on at that point in the history of the BSA.
+
+138
+00:08:53,000 --> 00:08:55,000
+Yeah, let me preface that by saying
+
+139
+00:08:55,000 --> 00:09:00,000
+we all know it's Arthur Eldred. but 15,, 20 years ago
+
+140
+00:09:00,000 --> 00:09:03,000
+I think, if you asked people who the first Eagle Scout was,
+
+141
+00:09:03,000 --> 00:09:04,000
+nobody would know.
+
+142
+00:09:04,000 --> 00:09:06,000
+I don't think the BSA was quite certain
+
+143
+00:09:06,000 --> 00:09:11,000
+And that was a fact from basically the 20s until the 90s
+
+144
+00:09:11,000 --> 00:09:14,000
+that people didn't really know about Arthur Eldred
+
+145
+00:09:14,000 --> 00:09:16,000
+until I think it was Boy's Life
+
+146
+00:09:16,000 --> 00:09:19,000
+or Scouting Magazine went out to find who it was
+
+147
+00:09:19,000 --> 00:09:22,000
+And even then they got the wrong photo.
+
+148
+00:09:22,000 --> 00:09:25,000
+For a number of years there was this square-jawed kid
+
+149
+00:09:25,000 --> 00:09:30,000
+out of a poster who everyone thought was Arthur Eldred.
+
+150
+00:09:30,000 --> 00:09:33,000
+And finally they found real photos of the guy
+
+151
+00:09:33,000 --> 00:09:35,000
+and he looks just like every other Eagle Scout
+
+152
+00:09:35,000 --> 00:09:37,000
+you've ever known in your life,
+
+153
+00:09:37,000 --> 00:09:40,000
+Kind of skinny, smart-looking as eyes
+
+154
+00:09:40,000 --> 00:09:44,000
+and a bit amused having to pose for the photograph.
+
+155
+00:09:44,000 --> 00:09:46,000
+You can really empathize.
+
+156
+00:09:46,000 --> 00:09:48,000
+I mean, Arthur Eldred is us,
+
+157
+00:09:48,000 --> 00:09:51,000
+except he's kind of more than the rest of us
+
+158
+00:09:51,000 --> 00:09:52,000
+given his career.
+
+159
+00:09:52,000 --> 00:09:54,000
+He got his Eagle in 1912,
+
+160
+00:09:54,000 --> 00:09:57,000
+and you have to understand that Scouting
+
+161
+00:09:57,000 --> 00:10:00,000
+didn't begin as a monolithic organization.
+
+162
+00:10:00,000 --> 00:10:03,000
+It flows out of multiple organizations,
+
+163
+00:10:03,000 --> 00:10:07,000
+the Daniel Boone Society, various other groups.
+
+164
+00:10:07,000 --> 00:10:13,000
+It starts out as basically a fad among teenage boys.
+
+165
+00:10:13,000 --> 00:10:15,000
+They hear about Boy Scouts in England
+
+166
+00:10:15,000 --> 00:10:18,000
+and they start their own groups and they turn into troops
+
+167
+00:10:18,000 --> 00:10:22,000
+and they turn into these sort of ad hoc organizations.
+
+168
+00:10:22,000 --> 00:10:26,000
+There were about four or five different Boy Scouts organizations
+
+169
+00:10:26,000 --> 00:10:30,000
+in the first decade of the 20th century.
+
+170
+00:10:30,000 --> 00:10:32,000
+They were all over the place.
+
+171
+00:10:32,000 --> 00:10:35,000
+And if you ever want to read the whole history of it
+
+172
+00:10:35,000 --> 00:10:37,000
+or read the Scouting Party,
+
+173
+00:10:37,000 --> 00:10:39,000
+which is the story of these early days
+
+174
+00:10:39,000 --> 00:10:42,000
+and the clashes of egos of the different founders
+
+175
+00:10:42,000 --> 00:10:43,000
+and all of that.
+
+176
+00:10:43,000 --> 00:10:46,000
+So Arthur Eldred was a boy living on Long Island.
+
+177
+00:10:46,000 --> 00:10:48,000
+His father had died.
+
+178
+00:10:48,000 --> 00:10:51,000
+His mother was concerned, like mothers today,
+
+179
+00:10:51,000 --> 00:10:54,000
+that without a dad he would get in trouble.
+
+180
+00:10:54,000 --> 00:10:57,000
+He had an older brother who was quite a bit older
+
+181
+00:10:57,000 --> 00:11:00,000
+who sort of stepped in as his surrogate dad
+
+182
+00:11:00,000 --> 00:11:03,000
+and helped rape him.
+
+183
+00:11:03,000 --> 00:11:06,000
+And this older brother looked around
+
+184
+00:11:06,000 --> 00:11:09,000
+and saw these emerging scouting groups
+
+185
+00:11:09,000 --> 00:11:13,000
+and thought, well, why don't I build one of these groups
+
+186
+00:11:13,000 --> 00:11:15,000
+and with Arthur in it,
+
+187
+00:11:15,000 --> 00:11:17,000
+and that'll give structure to his life?
+
+188
+00:11:17,000 --> 00:11:19,000
+So he went out and actually set out
+
+189
+00:11:19,000 --> 00:11:22,000
+to join another Scouting organization,
+
+190
+00:11:22,000 --> 00:11:24,000
+one that's long gone now,
+
+191
+00:11:24,000 --> 00:11:27,000
+but it was much more of a militaristic organization.
+
+192
+00:11:27,000 --> 00:11:29,000
+They carried guns around, they marched
+
+193
+00:11:29,000 --> 00:11:32,000
+and they were sort of like preparing boys to join the army.
+
+194
+00:11:32,000 --> 00:11:36,000
+It's not a bad thing to do in 1910
+
+195
+00:11:36,000 --> 00:11:39,000
+given the clouds forming over Europe.
+
+196
+00:11:39,000 --> 00:11:42,000
+But he had trouble getting permission to start
+
+197
+00:11:42,000 --> 00:11:44,000
+the organization or something
+
+198
+00:11:44,000 --> 00:11:46,000
+and instead he said, okay, well,
+
+199
+00:11:46,000 --> 00:11:50,000
+there's this other outfit at the headquarter down in Manhattan,
+
+200
+00:11:50,000 --> 00:11:52,000
+Why don't we join up with them?
+
+201
+00:11:52,000 --> 00:11:55,000
+and that was the Boy Scouts of America.
+
+202
+00:11:55,000 --> 00:11:57,000
+So they started this troop out on Long Island
+
+203
+00:11:57,000 --> 00:11:59,000
+and the boys did the usual stuff.
+
+204
+00:11:59,000 --> 00:12:01,000
+They didn't have a lot of money.
+
+205
+00:12:01,000 --> 00:12:05,000
+They sort of pooled their dough to buy uniforms.
+
+206
+00:12:05,000 --> 00:12:07,000
+Some of them didn't have uniforms.
+
+207
+00:12:07,000 --> 00:12:09,000
+It was very, very casual.
+
+208
+00:12:09,000 --> 00:12:11,000
+It was sort of closer to Baden Powell's dream
+
+209
+00:12:11,000 --> 00:12:12,000
+of what scouting was
+
+210
+00:12:12,000 --> 00:12:14,000
+than what we think of today
+
+211
+00:12:14,000 --> 00:12:16,000
+of 60-member scout troops
+
+212
+00:12:16,000 --> 00:12:18,000
+meeting in a church gymnasium
+
+213
+00:12:18,000 --> 00:12:21,000
+with a trailer full of stuff, going camping
+
+214
+00:12:21,000 --> 00:12:22,000
+and all that.
+
+215
+00:12:22,000 --> 00:12:25,000
+And this was boys meeting in the evening
+
+216
+00:12:25,000 --> 00:12:27,000
+like in a barn or something.
+
+217
+00:12:27,000 --> 00:12:29,000
+And Arthur, at the time
+
+218
+00:12:29,000 --> 00:12:33,000
+there was very few documentation
+
+219
+00:12:33,000 --> 00:12:35,000
+on how to be a Boy Scout.
+
+220
+00:12:35,000 --> 00:12:37,000
+There weren't really any ranks at the time.
+
+221
+00:12:37,000 --> 00:12:39,000
+It was all in development.
+
+222
+00:12:39,000 --> 00:12:46,000
+And so when the first Boy Scout handbook appeared,
+
+223
+00:12:46,000 --> 00:12:48,000
+boys across America-
+
+224
+00:12:48,000 --> 00:12:51,000
+there was probably 100,000 boys across the United States
+
+225
+00:12:51,000 --> 00:12:53,000
+who were involved in the organization at that time.
+
+226
+00:12:53,000 --> 00:12:55,000
+they gobbled up that book
+
+227
+00:12:55,000 --> 00:12:58,000
+because it not only showed them all the scouting skills,
+
+228
+00:12:58,000 --> 00:13:01,000
+I mean, they had been dealing, working with Baden Powell's old book
+
+229
+00:13:01,000 --> 00:13:04,000
+and various other books about the outdoors.
+
+230
+00:13:04,000 --> 00:13:06,000
+Now they had an official book
+
+231
+00:13:06,000 --> 00:13:08,000
+and they went at it,
+
+232
+00:13:08,000 --> 00:13:12,000
+They consumed it and began earning the various ranks.
+
+233
+00:13:12,000 --> 00:13:15,000
+And the ranks were kind of what they are today,
+
+234
+00:13:15,000 --> 00:13:16,000
+up until first class.
+
+235
+00:13:16,000 --> 00:13:18,000
+So you had 10% class first class
+
+236
+00:13:18,000 --> 00:13:20,000
+And then it all kind of went crazy
+
+237
+00:13:20,000 --> 00:13:22,000
+because there were merit badges,
+
+238
+00:13:22,000 --> 00:13:24,000
+but there was only about 15 merit badges
+
+239
+00:13:24,000 --> 00:13:27,000
+and they were divided in two different categories.
+
+240
+00:13:27,000 --> 00:13:29,000
+There was sort of like an outdoor category
+
+241
+00:13:29,000 --> 00:13:33,000
+and then there was the home and citizenship category
+
+242
+00:13:33,000 --> 00:13:37,000
+And you either earned the star or the life.
+
+243
+00:13:37,000 --> 00:13:38,000
+They weren't sequential,
+
+244
+00:13:38,000 --> 00:13:40,000
+They were kind of in opposition.
+
+245
+00:13:40,000 --> 00:13:43,000
+And then there was this thing called the Eagle Scout Award
+
+246
+00:13:43,000 --> 00:13:46,000
+And this was the first time these boys had ever seen it
+
+247
+00:13:46,000 --> 00:13:47,000
+And they didn't.
+
+248
+00:13:47,000 --> 00:13:50,000
+Boy Scouts didn't give a lot of information,
+
+249
+00:13:50,000 --> 00:13:53,000
+They just sort of said you had to have a certain number of merit badges.
+
+250
+00:13:53,000 --> 00:13:58,000
+and they had a drawing of the Eagle Medal
+
+251
+00:13:58,000 --> 00:14:02,000
+And it was very different from what we think of as the Eagle Medal.
+
+252
+00:14:02,000 --> 00:14:05,000
+It was a straight ribbon with one color, monochromatic.
+
+253
+00:14:05,000 --> 00:14:06,000
+They didn't know what color it was.
+
+254
+00:14:06,000 --> 00:14:07,000
+It was a black and white book
+
+255
+00:14:07,000 --> 00:14:09,000
+And an eagle in flight flying sideways
+
+256
+00:14:09,000 --> 00:14:11,000
+And that's all they knew.
+
+257
+00:14:11,000 --> 00:14:13,000
+And there weren't really enough merit badges
+
+258
+00:14:13,000 --> 00:14:15,000
+to get to the Eagle yet
+
+259
+00:14:15,000 --> 00:14:18,000
+Available, but Boy Scouts promised they'd have more.
+
+260
+00:14:18,000 --> 00:14:20,000
+So that's kind of where things stood.
+
+261
+00:14:20,000 --> 00:14:23,000
+So all across America boys were earning these ranks.
+
+262
+00:14:23,000 --> 00:14:26,000
+Well, Arthur Elder was one of these singular characters
+
+263
+00:14:26,000 --> 00:14:31,000
+And he sort of is the embodiment of what we think of
+
+264
+00:14:31,000 --> 00:14:33,000
+as that overachieving Eagle Scout.
+
+265
+00:14:33,000 --> 00:14:35,000
+Eagle Scouts are inevitably-
+
+266
+00:14:35,000 --> 00:14:37,000
+I've mentored about 50 of them.
+
+267
+00:14:37,000 --> 00:14:40,000
+I know you have mentored probably at least that many.
+
+268
+00:14:40,000 --> 00:14:45,000
+These kids are focused and they go for it.
+
+269
+00:14:45,000 --> 00:14:48,000
+And if scouting is said you have to have 150 merit badges,
+
+270
+00:14:48,000 --> 00:14:50,000
+we still have Eagle Scouts
+
+271
+00:14:50,000 --> 00:14:52,000
+because these are the kinds of young men
+
+272
+00:14:52,000 --> 00:14:56,000
+who are goal-oriented and they'll do it. whatever it takes,
+
+273
+00:14:56,000 --> 00:15:00,000
+However many hours and how much blood, sweat and tears,
+
+274
+00:15:00,000 --> 00:15:02,000
+they'll get there.
+
+275
+00:15:02,000 --> 00:15:05,000
+Well, Arthur saw the number, the 21 merit badges,
+
+276
+00:15:05,000 --> 00:15:07,000
+which was even true then-
+
+277
+00:15:07,000 --> 00:15:11,000
+and went out and got as many merit badges he could possibly get.
+
+278
+00:15:11,000 --> 00:15:13,000
+And then, when scouting finally announced
+
+279
+00:15:13,000 --> 00:15:15,000
+the next set of merit badges,
+
+280
+00:15:15,000 --> 00:15:17,000
+he went out and got those.
+
+281
+00:15:17,000 --> 00:15:21,000
+And he got them at a pace that is unprecedented
+
+282
+00:15:21,000 --> 00:15:23,000
+and will never again be equal
+
+283
+00:15:23,000 --> 00:15:26,000
+At one point, as near as I can figure,
+
+284
+00:15:26,000 --> 00:15:30,000
+when he had about 17 or 18 merit badges.
+
+285
+00:15:30,000 --> 00:15:32,000
+he had more merit badges, I believe,
+
+286
+00:15:32,000 --> 00:15:36,000
+than all the other Scouts in the United States.
+
+287
+00:15:36,000 --> 00:15:38,000
+So it's sort of like Babe Ruth.
+
+288
+00:15:38,000 --> 00:15:40,000
+You know, Babe Ruth in the early 1920s
+
+289
+00:15:40,000 --> 00:15:42,000
+one year had more home runs
+
+290
+00:15:42,000 --> 00:15:44,000
+than the entire rest of the American League.
+
+291
+00:15:44,000 --> 00:15:48,000
+Well, that's kind of what Arthur Elder was like 15 years before that.
+
+292
+00:15:48,000 --> 00:15:53,000
+He just simply fell in love with getting merit badges
+
+293
+00:15:53,000 --> 00:15:55,000
+and he got them all.
+
+294
+00:15:55,000 --> 00:15:57,000
+Well, now he had a problem
+
+295
+00:15:57,000 --> 00:16:00,000
+because no one knew what he was supposed to do next,
+
+296
+00:16:00,000 --> 00:16:02,000
+including the voiceouts from America.
+
+297
+00:16:02,000 --> 00:16:04,000
+So it said, you know, they said:
+
+298
+00:16:04,000 --> 00:16:07,000
+well, you have to have approval for all of this
+
+299
+00:16:07,000 --> 00:16:09,000
+from your local leaders.
+
+300
+00:16:09,000 --> 00:16:12,000
+So he ran around and got
+
+301
+00:16:12,000 --> 00:16:16,000
+letters of recommendation from all the local civic figures
+
+302
+00:16:16,000 --> 00:16:18,000
+in his town in Long Island
+
+303
+00:16:18,000 --> 00:16:20,000
+and he sent those in.
+
+304
+00:16:20,000 --> 00:16:23,000
+Well, at this point Scouting was rocked on its heels
+
+305
+00:16:23,000 --> 00:16:26,000
+because it had not expected this to happen.
+
+306
+00:16:26,000 --> 00:16:30,000
+Scouting has a tendency to announce these major new initiatives
+
+307
+00:16:30,000 --> 00:16:34,000
+and then is surprised when these over-achieving voiceouts
+
+308
+00:16:34,000 --> 00:16:38,000
+earn these things long before the institution's prepared for them.
+
+309
+00:16:38,000 --> 00:16:43,000
+He finishes the Eagle, he notifies Scout headquarters in Manhattan
+
+310
+00:16:43,000 --> 00:16:45,000
+and all hell breaks with him
+
+311
+00:16:45,000 --> 00:16:50,000
+and he goes. oh no, we weren't even expecting an Eagle for five more years
+
+312
+00:16:50,000 --> 00:16:53,000
+and this kid comes along and he's got it.
+
+313
+00:16:53,000 --> 00:16:55,000
+What are we going to do now?
+
+314
+00:16:55,000 --> 00:17:00,000
+They invite him down to New York City
+
+315
+00:17:00,000 --> 00:17:03,000
+and they give him a border review.
+
+316
+00:17:03,000 --> 00:17:06,000
+And obviously this is the institution saying
+
+317
+00:17:06,000 --> 00:17:09,000
+we better make sure this kid is actually for real
+
+318
+00:17:09,000 --> 00:17:11,000
+because we're going to have to announce him
+
+319
+00:17:11,000 --> 00:17:13,000
+as the first Eagle Scout in history
+
+320
+00:17:13,000 --> 00:17:16,000
+and we hope he's presentable.
+
+321
+00:17:16,000 --> 00:17:18,000
+So they bring him down
+
+322
+00:17:18,000 --> 00:17:20,000
+and they put him into a border review
+
+323
+00:17:20,000 --> 00:17:24,000
+with the founders of Scouting- all of them.
+
+324
+00:17:24,000 --> 00:17:27,000
+We wear medals named after him,
+
+325
+00:17:27,000 --> 00:17:33,000
+like the Voice Award, and all the rest of these guys,
+
+326
+00:17:33,000 --> 00:17:39,000
+these legends, and somehow he went into this border review
+
+327
+00:17:39,000 --> 00:17:41,000
+and came out alive.
+
+328
+00:17:41,000 --> 00:17:43,000
+It must have been very much like a Star Chamber.
+
+329
+00:17:43,000 --> 00:17:45,000
+I don't think any Eagle Scout- I'm sure
+
+330
+00:17:45,000 --> 00:17:47,000
+no other Eagle Scout in history-
+
+331
+00:17:47,000 --> 00:17:50,000
+had to face a border review like this one.
+
+332
+00:17:50,000 --> 00:17:52,000
+Well, is this? am I right?
+
+333
+00:17:52,000 --> 00:17:55,000
+Do I remember reading that Ernest Thompson Seaton
+
+334
+00:17:55,000 --> 00:17:57,000
+is on this board and Dan Beard?
+
+335
+00:17:57,000 --> 00:18:00,000
+Yeah, I remember Ernest Thompson Seaton and Dan Beard
+
+336
+00:18:00,000 --> 00:18:02,000
+hated each other
+
+337
+00:18:02,000 --> 00:18:05,000
+because they had invented the two founding organizations
+
+338
+00:18:05,000 --> 00:18:08,000
+that became Boy Scouts that, in fact,
+
+339
+00:18:08,000 --> 00:18:12,000
+the Brits had copied.
+
+340
+00:18:12,000 --> 00:18:14,000
+The original book on the outdoors
+
+341
+00:18:14,000 --> 00:18:17,000
+was the one that Baden Powell lifted from
+
+342
+00:18:17,000 --> 00:18:20,000
+to create the original Boy Scout handbook.
+
+343
+00:18:20,000 --> 00:18:22,000
+So these middle-aged men sitting there
+
+344
+00:18:22,000 --> 00:18:25,000
+facing Arthur Eldred had all sorts of
+
+345
+00:18:25,000 --> 00:18:28,000
+access to grind and feuds against each other
+
+346
+00:18:28,000 --> 00:18:30,000
+and everything else.
+
+347
+00:18:30,000 --> 00:18:34,000
+To my mind, as impressive as Arthur Eldred's achievement-
+
+348
+00:18:34,000 --> 00:18:36,000
+earning all those merit patches- was
+
+349
+00:18:36,000 --> 00:18:40,000
+surviving that group may have been his.
+
+350
+00:18:40,000 --> 00:18:43,000
+that may have qualified him more than anything else.
+
+351
+00:18:43,000 --> 00:18:46,000
+He must have been an amazing negotiator.
+
+352
+00:18:46,000 --> 00:18:50,000
+So he walks out, the very first Eagle Scout.
+
+353
+00:18:50,000 --> 00:18:53,000
+Well, now Scouting's got another problem.
+
+354
+00:18:53,000 --> 00:18:55,000
+Nobody ever made the medal.
+
+355
+00:18:55,000 --> 00:18:57,000
+They've got a drawing.
+
+356
+00:18:57,000 --> 00:18:59,000
+That's literally all they have.
+
+357
+00:18:59,000 --> 00:19:02,000
+All they have is the drawing and the Boy Scout handbook.
+
+358
+00:19:02,000 --> 00:19:04,000
+And so
+
+359
+00:19:04,000 --> 00:19:08,000
+And so Boyz has to send a note to Arthur Eldred saying
+
+360
+00:19:08,000 --> 00:19:10,000
+the medal isn't ready yet.
+
+361
+00:19:10,000 --> 00:19:13,000
+Can you wait until fall?
+
+362
+00:19:13,000 --> 00:19:16,000
+So what's Eldred going to do?
+
+363
+00:19:16,000 --> 00:19:19,000
+Fine, Yes, I'll wait until fall.
+
+364
+00:19:19,000 --> 00:19:21,000
+Well, while he's waiting,
+
+365
+00:19:21,000 --> 00:19:25,000
+he goes off to Boy Scout camp with his troop
+
+366
+00:19:25,000 --> 00:19:27,000
+And in the middle of his camp,
+
+367
+00:19:27,000 --> 00:19:29,000
+swimming in a lake,
+
+368
+00:19:29,000 --> 00:19:31,000
+one of the boys starts to drown.
+
+369
+00:19:31,000 --> 00:19:33,000
+Eldred goes in after him,
+
+370
+00:19:33,000 --> 00:19:35,000
+along with another scout,
+
+371
+00:19:35,000 --> 00:19:37,000
+to save the kid.
+
+372
+00:19:37,000 --> 00:19:39,000
+Well, as often happens,
+
+373
+00:19:39,000 --> 00:19:42,000
+as they teach you in life-saving, as you remember,
+
+374
+00:19:42,000 --> 00:19:44,000
+people that go in to save people
+
+375
+00:19:44,000 --> 00:19:46,000
+sometimes get into the stress themselves.
+
+376
+00:19:46,000 --> 00:19:50,000
+So Arthur goes in, he saves the kid that's drowning.
+
+377
+00:19:50,000 --> 00:19:53,000
+but now he's got the other kid who's starting to drown
+
+378
+00:19:53,000 --> 00:19:56,000
+and so he saves him too.
+
+379
+00:19:56,000 --> 00:19:59,000
+So we have this amazing character
+
+380
+00:19:59,000 --> 00:20:01,000
+who earns more merit badges
+
+381
+00:20:01,000 --> 00:20:04,000
+than anybody in all of Boy Scouts combined.
+
+382
+00:20:04,000 --> 00:20:07,000
+He then survives this star chamber
+
+383
+00:20:07,000 --> 00:20:10,000
+with the founders of scouting for his border review.
+
+384
+00:20:10,000 --> 00:20:13,000
+Then, while he's waiting to get his award,
+
+385
+00:20:13,000 --> 00:20:17,000
+he earns the honor medal for life-saving twice.
+
+386
+00:20:17,000 --> 00:20:21,000
+And this is all in the course of, you know, a summer.
+
+387
+00:20:21,000 --> 00:20:23,000
+So Arthur had a pretty good year.
+
+388
+00:20:24,000 --> 00:20:28,000
+Come fall they finally give him the Eagle Medal
+
+389
+00:20:28,000 --> 00:20:30,000
+and it's completely different
+
+390
+00:20:30,000 --> 00:20:32,000
+than the one in the book. thank goodness,
+
+391
+00:20:32,000 --> 00:20:34,000
+because we end up with.
+
+392
+00:20:34,000 --> 00:20:36,000
+you can see the medal even now
+
+393
+00:20:36,000 --> 00:20:40,000
+it's in the museum, in the Boy Scout Museum in Texas.
+
+394
+00:20:40,000 --> 00:20:42,000
+They give him the medal that looks
+
+395
+00:20:42,000 --> 00:20:45,000
+almost exactly like the one we all wear now.
+
+396
+00:20:45,000 --> 00:20:49,000
+So that's Arthur Eldred, a remarkable man,
+
+397
+00:20:49,000 --> 00:20:53,000
+And goes on and stays involved
+
+398
+00:20:53,000 --> 00:20:55,000
+all the way up through the 30s
+
+399
+00:20:55,000 --> 00:20:57,000
+and sits on boards of reviews.
+
+400
+00:20:57,000 --> 00:20:59,000
+Yeah, he becomes a very
+
+401
+00:20:59,000 --> 00:21:02,000
+you think. well, he's going to be like Neil Armstrong.
+
+402
+00:21:02,000 --> 00:21:04,000
+you know he's going to do a few things,
+
+403
+00:21:04,000 --> 00:21:06,000
+but in a sense, once again
+
+404
+00:21:06,000 --> 00:21:09,000
+he embodies what being an Eagle Scout is.
+
+405
+00:21:09,000 --> 00:21:13,000
+He becomes this responsible, trusted citizen
+
+406
+00:21:13,000 --> 00:21:16,000
+who sits on various civic committees.
+
+407
+00:21:16,000 --> 00:21:20,000
+His job is on these various industrial boards,
+
+408
+00:21:20,000 --> 00:21:22,000
+you know, for quality and that sort of thing,
+
+409
+00:21:22,000 --> 00:21:27,000
+just live a solid, honest life of a good citizen
+
+410
+00:21:27,000 --> 00:21:29,000
+and gets back involved in scouting
+
+411
+00:21:29,000 --> 00:21:32,000
+and his son becomes an Eagle Scout
+
+412
+00:21:32,000 --> 00:21:36,000
+And there's a picture of Arthur in his 50s,
+
+413
+00:21:36,000 --> 00:21:38,000
+you know, with gray hair
+
+414
+00:21:38,000 --> 00:21:41,000
+and giving the award to his son
+
+415
+00:21:41,000 --> 00:21:43,000
+And the line of Eldred's ever since
+
+416
+00:21:43,000 --> 00:21:45,000
+has earned Eagle Scouts.
+
+417
+00:21:45,000 --> 00:21:48,000
+I think we're fourth or fifth-generation Eldred's now
+
+418
+00:21:48,000 --> 00:21:50,000
+with Eagle Metal.
+
+419
+00:21:50,000 --> 00:21:54,000
+But after he earns the medal in 1912,
+
+420
+00:21:54,000 --> 00:21:57,000
+he just sort of fades from scouting history
+
+421
+00:21:57,000 --> 00:22:00,000
+until 50, 60 years later
+
+422
+00:22:00,000 --> 00:22:02,000
+they begin to. you know,
+
+423
+00:22:02,000 --> 00:22:03,000
+like a lot of institutions,
+
+424
+00:22:03,000 --> 00:22:05,000
+they don't start thinking about their history
+
+425
+00:22:05,000 --> 00:22:07,000
+until they have some major milestone
+
+426
+00:22:07,000 --> 00:22:10,000
+And scouting and it's 50th anniversary,
+
+427
+00:22:10,000 --> 00:22:12,000
+really begin to think about its past
+
+428
+00:22:12,000 --> 00:22:14,000
+and start to try to document it
+
+429
+00:22:14,000 --> 00:22:16,000
+and discovered it had lost a lot of its records
+
+430
+00:22:16,000 --> 00:22:19,000
+And it took a while to find it was Arthur
+
+431
+00:22:19,000 --> 00:22:20,000
+and then it took even longer
+
+432
+00:22:20,000 --> 00:22:22,000
+to actually find a photo of him.
+
+433
+00:22:22,000 --> 00:22:23,000
+Every honor he gets he deserves.
+
+434
+00:22:23,000 --> 00:22:24,000
+He's an amazing person.
+
+435
+00:22:24,000 --> 00:22:26,000
+Well, he kind of invented the Eagle,
+
+436
+00:22:26,000 --> 00:22:28,000
+you know. in some ways,
+
+437
+00:22:28,000 --> 00:22:29,000
+I mean, and what he did
+
+438
+00:22:29,000 --> 00:22:32,000
+he was just as much an inventor of it
+
+439
+00:22:32,000 --> 00:22:34,000
+as anybody else, it seems.
+
+440
+00:22:34,000 --> 00:22:35,000
+Oh, absolutely
+
+441
+00:22:35,000 --> 00:22:36,000
+Yeah.
+
+442
+00:22:36,000 --> 00:22:37,000
+Oftentimes these individuals.
+
+443
+00:22:37,000 --> 00:22:41,000
+they force institutions to respond to them
+
+444
+00:22:41,000 --> 00:22:43,000
+and in doing so
+
+445
+00:22:43,000 --> 00:22:48,000
+they drive the definition of what something is.
+
+446
+00:22:48,000 --> 00:22:49,000
+I'm going to break in
+
+447
+00:22:49,000 --> 00:22:50,000
+from just when I was giving an update
+
+448
+00:22:50,000 --> 00:22:54,000
+on the stuff adult leaders say T-shirt.
+
+449
+00:22:54,000 --> 00:22:55,000
+If you haven't heard about this,
+
+450
+00:22:55,000 --> 00:22:57,000
+go over to scoutmastercgcom
+
+451
+00:22:57,000 --> 00:23:00,000
+and follow the link that says a T-shirt just for us.
+
+452
+00:23:00,000 --> 00:23:01,000
+It's a Kickstarter project
+
+453
+00:23:01,000 --> 00:23:03,000
+and we're doing really great.
+
+454
+00:23:03,000 --> 00:23:05,000
+We have 13 days left to go.
+
+455
+00:23:05,000 --> 00:23:06,000
+We're 40% funded,
+
+456
+00:23:06,000 --> 00:23:08,000
+We have 35 backers
+
+457
+00:23:08,000 --> 00:23:09,000
+and I wanted to say thank you
+
+458
+00:23:09,000 --> 00:23:12,000
+to all those who've backed the project
+
+459
+00:23:12,000 --> 00:23:13,000
+on Kickstarter
+
+460
+00:23:13,000 --> 00:23:15,000
+and all of you who have sent in ideas
+
+461
+00:23:15,000 --> 00:23:18,000
+about exactly what should go on the T-shirt.
+
+462
+00:23:18,000 --> 00:23:19,000
+It's been a lot of fun
+
+463
+00:23:19,000 --> 00:23:20,000
+and let's keep it going.
+
+464
+00:23:20,000 --> 00:23:23,000
+The project closes in a little less than two weeks
+
+465
+00:23:23,000 --> 00:23:26,000
+and I can't offer any more T-shirts after that.
+
+466
+00:23:26,000 --> 00:23:27,000
+The only way to get one
+
+467
+00:23:27,000 --> 00:23:30,000
+is to make sure you get over and make a pledge,
+
+468
+00:23:30,000 --> 00:23:31,000
+and there's a link to get you there
+
+469
+00:23:31,000 --> 00:23:33,000
+at scoutmastercgcom.
+
+470
+00:23:33,000 --> 00:23:36,000
+So thanks very much once again, folks,
+
+471
+00:23:36,000 --> 00:23:37,000
+for participating,
+
+472
+00:23:37,000 --> 00:23:40,000
+and let's get back to the interface.
+
+473
+00:23:41,000 --> 00:23:43,000
+Arthur's story of going on
+
+474
+00:23:43,000 --> 00:23:46,000
+kind of leads into the idea that
+
+475
+00:23:46,000 --> 00:23:48,000
+by the 1920s
+
+476
+00:23:48,000 --> 00:23:50,000
+these boys who were earning Eagle Scout,
+
+477
+00:23:50,000 --> 00:23:51,000
+they would become 18,
+
+478
+00:23:51,000 --> 00:23:54,000
+they would age out of the organization.
+
+479
+00:23:54,000 --> 00:23:56,000
+But there was some response to that
+
+480
+00:23:56,000 --> 00:24:01,000
+and it resulted in an organization
+
+481
+00:24:01,000 --> 00:24:03,000
+that used to be very well known,
+
+482
+00:24:03,000 --> 00:24:04,000
+but I don't know that anybody
+
+483
+00:24:04,000 --> 00:24:05,000
+really knows about it anymore-
+
+484
+00:24:05,000 --> 00:24:07,000
+the Knights of Dunamis.
+
+485
+00:24:07,000 --> 00:24:08,000
+How did that all come about?
+
+486
+00:24:08,000 --> 00:24:10,000
+And you're talking to one
+
+487
+00:24:10,000 --> 00:24:12,000
+of the last surviving Knights-
+
+488
+00:24:12,000 --> 00:24:13,000
+Really
+
+489
+00:24:13,000 --> 00:24:16,000
+There aren't many of us left.
+
+490
+00:24:16,000 --> 00:24:18,000
+I got my Eagle very young
+
+491
+00:24:18,000 --> 00:24:20,000
+and I became a Knight of Dunamis,
+
+492
+00:24:20,000 --> 00:24:24,000
+I think when I was 16 or 17,.
+
+493
+00:24:24,000 --> 00:24:26,000
+stayed until I was 21,,
+
+494
+00:24:26,000 --> 00:24:29,000
+and that was the early 1970s,
+
+495
+00:24:29,000 --> 00:24:32,000
+And it was basically an organization
+
+496
+00:24:32,000 --> 00:24:33,000
+to take Eagle Scouts
+
+497
+00:24:33,000 --> 00:24:35,000
+and to organize them and use them
+
+498
+00:24:35,000 --> 00:24:37,000
+to perform service to Scouting
+
+499
+00:24:37,000 --> 00:24:38,000
+and to the community,
+
+500
+00:24:38,000 --> 00:24:40,000
+Not really from the time you became an Eagle,
+
+501
+00:24:40,000 --> 00:24:42,000
+but usually from the time you left your troop
+
+502
+00:24:42,000 --> 00:24:44,000
+and you joined a chapter
+
+503
+00:24:44,000 --> 00:24:46,000
+and ultimately there was about 50 chapters
+
+504
+00:24:46,000 --> 00:24:48,000
+or 100 chapters around the United States,
+
+505
+00:24:48,000 --> 00:24:50,000
+several thousand members.
+
+506
+00:24:50,000 --> 00:24:52,000
+I was a chapter president in San Jose
+
+507
+00:24:52,000 --> 00:24:55,000
+in the late 60s, early 70s
+
+508
+00:24:55,000 --> 00:24:57,000
+and we did everything from
+
+509
+00:24:57,000 --> 00:24:59,000
+honor guard in the Cinco de Mayo
+
+510
+00:24:59,000 --> 00:25:02,000
+parade to putting on children's
+
+511
+00:25:02,000 --> 00:25:05,000
+Christmas shows in hospitals,
+
+512
+00:25:05,000 --> 00:25:08,000
+to holding probably 100
+
+513
+00:25:08,000 --> 00:25:09,000
+Eagle Court of Honors.
+
+514
+00:25:09,000 --> 00:25:10,000
+we would preside over them
+
+515
+00:25:10,000 --> 00:25:12,000
+with our robes on and all that.
+
+516
+00:25:12,000 --> 00:25:14,000
+So it was really a remarkable organization
+
+517
+00:25:14,000 --> 00:25:17,000
+that did a tremendous amount of things.
+
+518
+00:25:17,000 --> 00:25:20,000
+Amazing organization.
+
+519
+00:25:20,000 --> 00:25:22,000
+It's what really made me think of myself
+
+520
+00:25:22,000 --> 00:25:24,000
+as an Eagle Scout.
+
+521
+00:25:24,000 --> 00:25:26,000
+But by the 1970s and 80s
+
+522
+00:25:26,000 --> 00:25:28,000
+it was fading.
+
+523
+00:25:28,000 --> 00:25:30,000
+Scouting gave it one last chance
+
+524
+00:25:30,000 --> 00:25:32,000
+and by then it was too late.
+
+525
+00:25:32,000 --> 00:25:33,000
+And so I found myself
+
+526
+00:25:33,000 --> 00:25:36,000
+at the 1973 National Jamboree
+
+527
+00:25:36,000 --> 00:25:38,000
+In Pennsylvania standing in front of about
+
+528
+00:25:38,000 --> 00:25:41,000
+10,000 Eagle Scouts
+
+529
+00:25:41,000 --> 00:25:43,000
+announcing the death. I was a part of the program.
+
+530
+00:25:43,000 --> 00:25:45,000
+I announced the death of the Knights of Dunamis
+
+531
+00:25:45,000 --> 00:25:48,000
+and the founding of the National Eagle Scout Association.
+
+532
+00:25:48,000 --> 00:25:51,000
+And you're still involved in that.
+
+533
+00:25:51,000 --> 00:25:54,000
+Yeah, I'm the president of the local NISA chapter,
+
+534
+00:25:54,000 --> 00:25:57,000
+Much more structured than the Knights of Dunamis was.
+
+535
+00:25:57,000 --> 00:25:59,000
+I missed the old Knights of Dunamis
+
+536
+00:25:59,000 --> 00:26:01,000
+and my hope is that NISA,
+
+537
+00:26:01,000 --> 00:26:03,000
+as it develops, will become more
+
+538
+00:26:03,000 --> 00:26:05,000
+like that, more service-oriented,
+
+539
+00:26:05,000 --> 00:26:07,000
+become an institution itself.
+
+540
+00:26:07,000 --> 00:26:09,000
+And I think the first really good step
+
+541
+00:26:09,000 --> 00:26:11,000
+was the creation of the Adams Award,
+
+542
+00:26:11,000 --> 00:26:13,000
+which is that award for the best
+
+543
+00:26:13,000 --> 00:26:15,000
+Eagle project in the United States.
+
+544
+00:26:15,000 --> 00:26:17,000
+That's a pretty recent thing, yeah,
+
+545
+00:26:17,000 --> 00:26:19,000
+Yeah, it's just three years old
+
+546
+00:26:19,000 --> 00:26:21,000
+And, remarkably enough,
+
+547
+00:26:21,000 --> 00:26:23,000
+my oldest son
+
+548
+00:26:23,000 --> 00:26:25,000
+earned the first
+
+549
+00:26:25,000 --> 00:26:27,000
+Adams Award.
+
+550
+00:26:27,000 --> 00:26:29,000
+He won the award for the Western Region.
+
+551
+00:26:29,000 --> 00:26:31,000
+He actually got a bunch of Silicon Valley
+
+552
+00:26:31,000 --> 00:26:33,000
+CEOs and VCs to buy
+
+553
+00:26:33,000 --> 00:26:35,000
+a 50-foot shipping container.
+
+554
+00:26:35,000 --> 00:26:37,000
+He filled it full of about three schools worth of supplies
+
+555
+00:26:37,000 --> 00:26:39,000
+and sent it off to
+
+556
+00:26:39,000 --> 00:26:41,000
+Children's Town, AIDS Orphanage
+
+557
+00:26:41,000 --> 00:26:43,000
+and School in Zambia
+
+558
+00:26:43,000 --> 00:26:45,000
+where we had visited,
+
+559
+00:26:45,000 --> 00:26:47,000
+And the container itself
+
+560
+00:26:47,000 --> 00:26:49,000
+was turned into a library.
+
+561
+00:26:49,000 --> 00:26:51,000
+This is a glimpse of what
+
+562
+00:26:51,000 --> 00:26:53,000
+21st Century Eagle projects look like.
+
+563
+00:26:53,000 --> 00:26:55,000
+There's a good section of the book
+
+564
+00:26:55,000 --> 00:26:57,000
+about these awards and things
+
+565
+00:26:57,000 --> 00:26:59,000
+which are really new and not a whole lot of people
+
+566
+00:26:59,000 --> 00:27:01,000
+really know about.
+
+567
+00:27:01,000 --> 00:27:03,000
+But what was the genesis of the Eagle project?
+
+568
+00:27:03,000 --> 00:27:05,000
+You didn't always do a project
+
+569
+00:27:05,000 --> 00:27:07,000
+to become an Eagle Scout.
+
+570
+00:27:07,000 --> 00:27:09,000
+No, and in fact you know
+
+571
+00:27:09,000 --> 00:27:11,000
+you always ran into these old Eagle Scouts.
+
+572
+00:27:11,000 --> 00:27:13,000
+I was much tougher back in the old days.
+
+573
+00:27:13,000 --> 00:27:15,000
+Nobody had as hard as we did getting our Eagle.
+
+574
+00:27:15,000 --> 00:27:17,000
+There's a little bit of truth to that.
+
+575
+00:27:17,000 --> 00:27:19,000
+Earning an Eagle in the 1920s
+
+576
+00:27:19,000 --> 00:27:21,000
+or 30s or 40s
+
+577
+00:27:21,000 --> 00:27:23,000
+was actually not that difficult,
+
+578
+00:27:23,000 --> 00:27:25,000
+except for one merit batch-
+
+579
+00:27:25,000 --> 00:27:27,000
+Bird study. Nobody got that merit batch.
+
+580
+00:27:27,000 --> 00:27:29,000
+There are thousands
+
+581
+00:27:29,000 --> 00:27:31,000
+of elderly men
+
+582
+00:27:31,000 --> 00:27:33,000
+who will tell you that they never got the Eagle
+
+583
+00:27:33,000 --> 00:27:35,000
+because they couldn't pass bird study.
+
+584
+00:27:35,000 --> 00:27:37,000
+But in terms of the overall requirements,
+
+585
+00:27:37,000 --> 00:27:39,000
+modern scouting is much more difficult
+
+586
+00:27:39,000 --> 00:27:41,000
+and that has to do with the Eagle project.
+
+587
+00:27:41,000 --> 00:27:43,000
+There was a feeling that because scouting
+
+588
+00:27:43,000 --> 00:27:45,000
+was growing so fast during the baby boomer era
+
+589
+00:27:45,000 --> 00:27:47,000
+that a lot of kids were getting their Eagles
+
+590
+00:27:47,000 --> 00:27:49,000
+but not really getting deep into scouting,
+
+591
+00:27:49,000 --> 00:27:51,000
+so there was a requirement for
+
+592
+00:27:51,000 --> 00:27:53,000
+participation
+
+593
+00:27:53,000 --> 00:27:55,000
+in community service,
+
+594
+00:27:55,000 --> 00:27:57,000
+and they still exist.
+
+595
+00:27:57,000 --> 00:27:59,000
+Then, in the early 60s, it was decided that
+
+596
+00:27:59,000 --> 00:28:01,000
+no, that wasn't enough.
+
+597
+00:28:01,000 --> 00:28:03,000
+What we wanted the Eagles to do
+
+598
+00:28:03,000 --> 00:28:05,000
+was to take all the skills that they had learned
+
+599
+00:28:05,000 --> 00:28:07,000
+and to apply them
+
+600
+00:28:07,000 --> 00:28:09,000
+in some organized way
+
+601
+00:28:09,000 --> 00:28:11,000
+that required them to have a plan,
+
+602
+00:28:11,000 --> 00:28:13,000
+a project
+
+603
+00:28:13,000 --> 00:28:15,000
+and exhibit the skills of being a leader,
+
+604
+00:28:15,000 --> 00:28:17,000
+especially dealing with adults.
+
+605
+00:28:17,000 --> 00:28:19,000
+And that was the beginning
+
+606
+00:28:19,000 --> 00:28:21,000
+of the Eagle service project.
+
+607
+00:28:21,000 --> 00:28:23,000
+We got their Eagle in the late 60s
+
+608
+00:28:23,000 --> 00:28:25,000
+and they said-
+
+609
+00:28:25,000 --> 00:28:27,000
+I don't really remember,
+
+610
+00:28:27,000 --> 00:28:29,000
+I think we painted some benches at the park
+
+611
+00:28:29,000 --> 00:28:31,000
+and that was a very successful Eagle project
+
+612
+00:28:31,000 --> 00:28:33,000
+back in the late 60s.
+
+613
+00:28:33,000 --> 00:28:35,000
+But we have 300,000
+
+614
+00:28:35,000 --> 00:28:37,000
+teenage boys each year
+
+615
+00:28:37,000 --> 00:28:39,000
+performing
+
+616
+00:28:39,000 --> 00:28:41,000
+or creating
+
+617
+00:28:41,000 --> 00:28:43,000
+real, honest-to-goodness social enterprises,
+
+618
+00:28:43,000 --> 00:28:45,000
+doing social entrepreneurship
+
+619
+00:28:45,000 --> 00:28:47,000
+and changing the face of this country.
+
+620
+00:28:47,000 --> 00:28:49,000
+And because these tend to be
+
+621
+00:28:49,000 --> 00:28:51,000
+discreet, comparatively small
+
+622
+00:28:51,000 --> 00:28:53,000
+events
+
+623
+00:28:53,000 --> 00:28:55,000
+that get coverage in the local paper
+
+624
+00:28:55,000 --> 00:28:57,000
+but no one puts it all together
+
+625
+00:28:57,000 --> 00:28:59,000
+and says good lord,
+
+626
+00:28:59,000 --> 00:29:01,000
+these Eagle scouts
+
+627
+00:29:01,000 --> 00:29:03,000
+are the single most
+
+628
+00:29:03,000 --> 00:29:05,000
+important force of-
+
+629
+00:29:05,000 --> 00:29:07,000
+I don't know what you call it-
+
+630
+00:29:07,000 --> 00:29:09,000
+social improvement in the United States
+
+631
+00:29:09,000 --> 00:29:11,000
+at any given time.
+
+632
+00:29:11,000 --> 00:29:13,000
+You quoted in the book
+
+633
+00:29:13,000 --> 00:29:15,000
+the figure 10.5 million hours.
+
+634
+00:29:15,000 --> 00:29:17,000
+Is that right?
+
+635
+00:29:17,000 --> 00:29:19,000
+Yeah, 10.5 million hours a year
+
+636
+00:29:19,000 --> 00:29:21,000
+on Eagle projects.
+
+637
+00:29:21,000 --> 00:29:23,000
+And if you add it up over the history
+
+638
+00:29:23,000 --> 00:29:25,000
+of Eagle scouting,
+
+639
+00:29:25,000 --> 00:29:27,000
+we're looking at about 100 to 150 million hours
+
+640
+00:29:27,000 --> 00:29:29,000
+of
+
+641
+00:29:29,000 --> 00:29:31,000
+civic contribution
+
+642
+00:29:31,000 --> 00:29:33,000
+by Eagle projects,
+
+643
+00:29:33,000 --> 00:29:35,000
+which makes it the largest service project
+
+644
+00:29:35,000 --> 00:29:37,000
+by youth in history.
+
+645
+00:29:37,000 --> 00:29:39,000
+There's simply nothing like it.
+
+646
+00:29:39,000 --> 00:29:41,000
+Just amazing what these kids are doing nowadays.
+
+647
+00:29:41,000 --> 00:29:43,000
+Yeah, from the small to the big,
+
+648
+00:29:43,000 --> 00:29:45,000
+they all add up into this incredible force.
+
+649
+00:29:45,000 --> 00:29:47,000
+Yes, they absolutely do.
+
+650
+00:29:47,000 --> 00:29:49,000
+Yeah, it's just amazing.
+
+651
+00:29:49,000 --> 00:29:51,000
+Now we recently
+
+652
+00:29:51,000 --> 00:29:53,000
+marked the passing of Neil Armstrong,
+
+653
+00:29:53,000 --> 00:29:55,000
+who's got to be probably
+
+654
+00:29:55,000 --> 00:29:57,000
+arguably the most famous
+
+655
+00:29:57,000 --> 00:29:59,000
+Eagle scouts.
+
+656
+00:29:59,000 --> 00:30:01,000
+Yeah, it's Neil Armstrong,
+
+657
+00:30:01,000 --> 00:30:03,000
+And I'm in a weird position
+
+658
+00:30:03,000 --> 00:30:05,000
+of I think I'm the last
+
+659
+00:30:05,000 --> 00:30:07,000
+person to have worked with Neil Armstrong,
+
+660
+00:30:07,000 --> 00:30:09,000
+Really.
+
+661
+00:30:09,000 --> 00:30:11,000
+Yeah, because
+
+662
+00:30:11,000 --> 00:30:13,000
+when we had the book in draft,
+
+663
+00:30:13,000 --> 00:30:15,000
+we had access to
+
+664
+00:30:15,000 --> 00:30:17,000
+Dr Armstrong
+
+665
+00:30:17,000 --> 00:30:19,000
+And I asked him. I said:
+
+666
+00:30:19,000 --> 00:30:21,000
+I've written this chapter about you,
+
+667
+00:30:21,000 --> 00:30:23,000
+but I'm not sure it's accurate.
+
+668
+00:30:23,000 --> 00:30:25,000
+Would you check it out?
+
+669
+00:30:25,000 --> 00:30:27,000
+He was famously prickly about not dealing
+
+670
+00:30:27,000 --> 00:30:29,000
+with the media,
+
+671
+00:30:29,000 --> 00:30:31,000
+not doing any publicity.
+
+672
+00:30:31,000 --> 00:30:33,000
+At one point I made the mistake
+
+673
+00:30:33,000 --> 00:30:35,000
+of asking if he'd give me a jacket quote
+
+674
+00:30:35,000 --> 00:30:37,000
+and I got it immediate.
+
+675
+00:30:37,000 --> 00:30:39,000
+No, I don't do that,
+
+676
+00:30:39,000 --> 00:30:41,000
+But
+
+677
+00:30:41,000 --> 00:30:43,000
+a few weeks. you know we're coming up on
+
+678
+00:30:43,000 --> 00:30:45,000
+deadline. it's going to be close.
+
+679
+00:30:45,000 --> 00:30:47,000
+24 hours later he sent me back
+
+680
+00:30:47,000 --> 00:30:49,000
+three pages of email
+
+681
+00:30:49,000 --> 00:30:51,000
+correcting every little detail.
+
+682
+00:30:51,000 --> 00:30:53,000
+So I'm sitting in my house
+
+683
+00:30:53,000 --> 00:30:55,000
+emailing back and forth with Neil Armstrong-
+
+684
+00:30:55,000 --> 00:30:57,000
+which was pretty mind-boggling-
+
+685
+00:30:57,000 --> 00:30:59,000
+And then
+
+686
+00:30:59,000 --> 00:31:01,000
+I realized a week later,
+
+687
+00:31:01,000 --> 00:31:03,000
+when it was announced that he'd gone in for heart surgery,
+
+688
+00:31:03,000 --> 00:31:05,000
+that he had literally finished editing
+
+689
+00:31:05,000 --> 00:31:07,000
+his chapter for me like 48 hours
+
+690
+00:31:07,000 --> 00:31:09,000
+before he went to the hospital.
+
+691
+00:31:09,000 --> 00:31:11,000
+I assumed he was coming out.
+
+692
+00:31:11,000 --> 00:31:13,000
+Oh my gosh,
+
+693
+00:31:13,000 --> 00:31:15,000
+Or I can't believe that he would have devoted the time to this
+
+694
+00:31:15,000 --> 00:31:17,000
+If he thought it was that serious.
+
+695
+00:31:17,000 --> 00:31:19,000
+So
+
+696
+00:31:19,000 --> 00:31:21,000
+I put a little note on the bottom of that
+
+697
+00:31:21,000 --> 00:31:23,000
+chapter.
+
+698
+00:31:23,000 --> 00:31:25,000
+It's quite an amazing thing
+
+699
+00:31:25,000 --> 00:31:27,000
+And once again,
+
+700
+00:31:27,000 --> 00:31:29,000
+sort of an eagle scout
+
+701
+00:31:29,000 --> 00:31:31,000
+being helpful.
+
+702
+00:31:31,000 --> 00:31:33,000
+The book has just dozens of different stories
+
+703
+00:31:33,000 --> 00:31:35,000
+about
+
+704
+00:31:35,000 --> 00:31:37,000
+eagles who went on to distinguish themselves
+
+705
+00:31:37,000 --> 00:31:39,000
+in various ways,
+
+706
+00:31:39,000 --> 00:31:41,000
+And some of them used to be pretty much
+
+707
+00:31:41,000 --> 00:31:43,000
+household names
+
+708
+00:31:43,000 --> 00:31:45,000
+And you bring them back to memory,
+
+709
+00:31:45,000 --> 00:31:47,000
+and one that I wanted to ask you to talk about a little bit
+
+710
+00:31:47,000 --> 00:31:49,000
+is Paul Cyple.
+
+711
+00:31:49,000 --> 00:31:51,000
+He's a very interesting guy
+
+712
+00:31:51,000 --> 00:31:53,000
+And you could argue until Neil Armstrong
+
+713
+00:31:53,000 --> 00:31:55,000
+comes on the scene.
+
+714
+00:31:55,000 --> 00:31:57,000
+The shiny example of what an eagle scout is
+
+715
+00:31:57,000 --> 00:31:59,000
+was Paul Cyple for
+
+716
+00:31:59,000 --> 00:32:01,000
+40 years,
+
+717
+00:32:01,000 --> 00:32:03,000
+The middle era of scouting.
+
+718
+00:32:03,000 --> 00:32:05,000
+He's the man,
+
+719
+00:32:05,000 --> 00:32:07,000
+He's the guy.
+
+720
+00:32:07,000 --> 00:32:09,000
+You read this and you look at your own
+
+721
+00:32:09,000 --> 00:32:11,000
+When you put on your eagle medal, you think,
+
+722
+00:32:11,000 --> 00:32:13,000
+wow, am I worthy to wear the medal
+
+723
+00:32:13,000 --> 00:32:15,000
+to that, Neil Armstrong
+
+724
+00:32:15,000 --> 00:32:17,000
+and Arthur Eldridge and Paul Cyple.
+
+725
+00:32:17,000 --> 00:32:19,000
+Cyple is
+
+726
+00:32:19,000 --> 00:32:21,000
+sort of the ultimate eagle scout.
+
+727
+00:32:21,000 --> 00:32:23,000
+When you think of an eagle scout he's a great big guy:
+
+728
+00:32:23,000 --> 00:32:25,000
+big, toothy grin,
+
+729
+00:32:25,000 --> 00:32:27,000
+affable and friendly with everyone.
+
+730
+00:32:27,000 --> 00:32:29,000
+A natural leader
+
+731
+00:32:29,000 --> 00:32:31,000
+earned his eagle, I think when he was
+
+732
+00:32:31,000 --> 00:32:33,000
+18 or 18 and a half.
+
+733
+00:32:33,000 --> 00:32:35,000
+You were on your way to eagle.
+
+734
+00:32:35,000 --> 00:32:37,000
+You were allowed to go on and finish it
+
+735
+00:32:37,000 --> 00:32:39,000
+after your 18th birthday.
+
+736
+00:32:39,000 --> 00:32:41,000
+It was already accepted into college.
+
+737
+00:32:41,000 --> 00:32:43,000
+I think he had 30 merit badges.
+
+738
+00:32:43,000 --> 00:32:45,000
+He had done a lot of 50 milers.
+
+739
+00:32:45,000 --> 00:32:47,000
+He was the real deal.
+
+740
+00:32:47,000 --> 00:32:49,000
+Commodore Perry is going to
+
+741
+00:32:49,000 --> 00:32:51,000
+go to the South Pole.
+
+742
+00:32:51,000 --> 00:32:53,000
+He publicly announced that he was going to take
+
+743
+00:32:53,000 --> 00:32:55,000
+one eagle scout
+
+744
+00:32:55,000 --> 00:32:57,000
+with him
+
+745
+00:32:57,000 --> 00:32:59,000
+to Antarctica.
+
+746
+00:32:59,000 --> 00:33:01,000
+He was going to have a national competition.
+
+747
+00:33:01,000 --> 00:33:03,000
+Cyple hears about it and applies.
+
+748
+00:33:05,000 --> 00:33:07,000
+The list is swiddled down to
+
+749
+00:33:07,000 --> 00:33:09,000
+10 or 12 boys,
+
+750
+00:33:09,000 --> 00:33:11,000
+All of them
+
+751
+00:33:11,000 --> 00:33:13,000
+super overachievers from around the country.
+
+752
+00:33:13,000 --> 00:33:15,000
+The story is covered in every paper in America.
+
+753
+00:33:15,000 --> 00:33:17,000
+It's a very big deal.
+
+754
+00:33:17,000 --> 00:33:19,000
+Cyple shines above all of these
+
+755
+00:33:19,000 --> 00:33:21,000
+other overachievers and Perry agrees to take him.
+
+756
+00:33:21,000 --> 00:33:23,000
+The plan is
+
+757
+00:33:23,000 --> 00:33:25,000
+he's going to go along and he's going to
+
+758
+00:33:25,000 --> 00:33:27,000
+go on the ship, sailing down there
+
+759
+00:33:27,000 --> 00:33:29,000
+and working the galley.
+
+760
+00:33:29,000 --> 00:33:31,000
+By the time they get to Antarctica
+
+761
+00:33:31,000 --> 00:33:33,000
+he's already moved out of the galley,
+
+762
+00:33:33,000 --> 00:33:35,000
+He's up on deck and he's starting
+
+763
+00:33:35,000 --> 00:33:37,000
+to take care of the animals.
+
+764
+00:33:37,000 --> 00:33:39,000
+He turns out to be
+
+765
+00:33:39,000 --> 00:33:41,000
+incredibly strong
+
+766
+00:33:41,000 --> 00:33:43,000
+and more capable than
+
+767
+00:33:43,000 --> 00:33:45,000
+the professionals that Perry's brought with him.
+
+768
+00:33:45,000 --> 00:33:47,000
+As a result, he ends up
+
+769
+00:33:47,000 --> 00:33:49,000
+being Perry's number two guy
+
+770
+00:33:49,000 --> 00:33:51,000
+within about two months.
+
+771
+00:33:51,000 --> 00:33:53,000
+He's just this amazing guy
+
+772
+00:33:53,000 --> 00:33:55,000
+and everybody loves him
+
+773
+00:33:55,000 --> 00:33:57,000
+because he's such a nice guy
+
+774
+00:33:57,000 --> 00:33:59,000
+Over. he's Perry's protege
+
+775
+00:33:59,000 --> 00:34:01,000
+and when he comes back he goes to college
+
+776
+00:34:01,000 --> 00:34:03,000
+and he's celebrated
+
+777
+00:34:03,000 --> 00:34:05,000
+and fetid and all that.
+
+778
+00:34:05,000 --> 00:34:07,000
+Perry goes down again and is going to fly
+
+779
+00:34:07,000 --> 00:34:09,000
+over to South Pole.
+
+780
+00:34:09,000 --> 00:34:11,000
+He invites Cyple to be his guy,
+
+781
+00:34:11,000 --> 00:34:13,000
+to go with him down there to do it,
+
+782
+00:34:13,000 --> 00:34:15,000
+And so Cyple slowly becomes.
+
+783
+00:34:15,000 --> 00:34:17,000
+especially as Perry gets older,
+
+784
+00:34:17,000 --> 00:34:19,000
+Cyple becomes the world's
+
+785
+00:34:19,000 --> 00:34:21,000
+leading art explorer
+
+786
+00:34:21,000 --> 00:34:23,000
+And he not only begins
+
+787
+00:34:23,000 --> 00:34:25,000
+to explore Antarctica
+
+788
+00:34:25,000 --> 00:34:27,000
+but also the Arctic.
+
+789
+00:34:27,000 --> 00:34:29,000
+And when World War II
+
+790
+00:34:29,000 --> 00:34:31,000
+breaks out, he's doing
+
+791
+00:34:31,000 --> 00:34:33,000
+scientific research and they ask him
+
+792
+00:34:33,000 --> 00:34:35,000
+to investigate
+
+793
+00:34:35,000 --> 00:34:37,000
+different kinds of weather
+
+794
+00:34:37,000 --> 00:34:39,000
+systems and environments
+
+795
+00:34:39,000 --> 00:34:41,000
+for soldiers to fight in,
+
+796
+00:34:41,000 --> 00:34:43,000
+What kind of uniforms they need, and all that.
+
+797
+00:34:43,000 --> 00:34:45,000
+And while he's at it, he invents
+
+798
+00:34:45,000 --> 00:34:47,000
+the notion of windshield factor.
+
+799
+00:34:47,000 --> 00:34:49,000
+So whenever you hear
+
+800
+00:34:49,000 --> 00:34:51,000
+windshield factor, he's in front of
+
+801
+00:34:51,000 --> 00:34:53,000
+an NFL football game or something
+
+802
+00:34:53,000 --> 00:34:55,000
+and he just becomes
+
+803
+00:34:55,000 --> 00:34:57,000
+one of the greatest applied
+
+804
+00:34:57,000 --> 00:34:59,000
+scientists America has ever produced.
+
+805
+00:34:59,000 --> 00:35:01,000
+For long as I've been involved in this guy-
+
+806
+00:35:01,000 --> 00:35:03,000
+no doubt as long as you've been involved-
+
+807
+00:35:03,000 --> 00:35:05,000
+there's always been a lot of
+
+808
+00:35:05,000 --> 00:35:07,000
+discussions that
+
+809
+00:35:07,000 --> 00:35:09,000
+tend to turn into arguments
+
+810
+00:35:09,000 --> 00:35:11,000
+about what constitutes an eagle scout.
+
+811
+00:35:11,000 --> 00:35:13,000
+Yeah,
+
+812
+00:35:13,000 --> 00:35:15,000
+People can get pretty exercised about it.
+
+813
+00:35:15,000 --> 00:35:17,000
+You've
+
+814
+00:35:17,000 --> 00:35:19,000
+had an interesting
+
+815
+00:35:19,000 --> 00:35:21,000
+perspective of that question.
+
+816
+00:35:21,000 --> 00:35:23,000
+Is there an answer?
+
+817
+00:35:23,000 --> 00:35:25,000
+There's simple answers and there's complicated answers.
+
+818
+00:35:25,000 --> 00:35:27,000
+The simple answer is:
+
+819
+00:35:27,000 --> 00:35:29,000
+being an eagle scout is a state of mind.
+
+820
+00:35:29,000 --> 00:35:31,000
+One of the amazing things about the eagle award is
+
+821
+00:35:31,000 --> 00:35:33,000
+it's the only award of childhood that stays with you
+
+822
+00:35:33,000 --> 00:35:35,000
+your entire life.
+
+823
+00:35:35,000 --> 00:35:37,000
+You go in the military. you can wear your eagle medal,
+
+824
+00:35:37,000 --> 00:35:39,000
+a special version of it.
+
+825
+00:35:39,000 --> 00:35:41,000
+When you're 90 years old and you die,
+
+826
+00:35:41,000 --> 00:35:43,000
+your paper in your obituary is likely
+
+827
+00:35:43,000 --> 00:35:45,000
+to mention the fact that you were an eagle scout.
+
+828
+00:35:45,000 --> 00:35:47,000
+It's not going to mention you were varsity football
+
+829
+00:35:47,000 --> 00:35:49,000
+or anything else you did as a kid.
+
+830
+00:35:49,000 --> 00:35:51,000
+It's going to attach to you your entire life
+
+831
+00:35:51,000 --> 00:35:53,000
+and to be cognizant of that fact
+
+832
+00:35:53,000 --> 00:35:55,000
+and to live up to it
+
+833
+00:35:55,000 --> 00:35:57,000
+is to be a true eagle scout.
+
+834
+00:35:57,000 --> 00:35:59,000
+That's the simple answer.
+
+835
+00:35:59,000 --> 00:36:01,000
+There's a more complicated answer
+
+836
+00:36:01,000 --> 00:36:03,000
+and
+
+837
+00:36:03,000 --> 00:36:05,000
+you've dealt with it a lot in your blog.
+
+838
+00:36:05,000 --> 00:36:07,000
+A lot of the people writing in commenting-
+
+839
+00:36:07,000 --> 00:36:09,000
+especially people asking for advice-
+
+840
+00:36:09,000 --> 00:36:11,000
+a lot of people write in and say
+
+841
+00:36:11,000 --> 00:36:13,000
+we've decided not to let this boy
+
+842
+00:36:13,000 --> 00:36:15,000
+become an eagle because we don't think he's worthy.
+
+843
+00:36:15,000 --> 00:36:17,000
+That's that whole messy business
+
+844
+00:36:17,000 --> 00:36:19,000
+of do you fit
+
+845
+00:36:19,000 --> 00:36:21,000
+the stereotype of an eagle scout,
+
+846
+00:36:21,000 --> 00:36:23,000
+And that one
+
+847
+00:36:23,000 --> 00:36:25,000
+always bugs me
+
+848
+00:36:25,000 --> 00:36:27,000
+and I think it bugs most eagles.
+
+849
+00:36:27,000 --> 00:36:29,000
+I've found that people
+
+850
+00:36:29,000 --> 00:36:31,000
+who are adults, who are eagle scouts,
+
+851
+00:36:31,000 --> 00:36:33,000
+are usually a lot more flexible
+
+852
+00:36:33,000 --> 00:36:35,000
+about scouts becoming eagles.
+
+853
+00:36:35,000 --> 00:36:37,000
+I think you don't
+
+854
+00:36:37,000 --> 00:36:39,000
+really become an eagle scout
+
+855
+00:36:39,000 --> 00:36:41,000
+when they put that medal on you.
+
+856
+00:36:41,000 --> 00:36:43,000
+I think it's something that
+
+857
+00:36:43,000 --> 00:36:45,000
+you grow into over time.
+
+858
+00:36:45,000 --> 00:36:47,000
+as I think I've written to you
+
+859
+00:36:47,000 --> 00:36:49,000
+in the past,
+
+860
+00:36:49,000 --> 00:36:51,000
+Nobody gets to eagle easy.
+
+861
+00:36:51,000 --> 00:36:53,000
+You become an eagle. if you
+
+862
+00:36:53,000 --> 00:36:55,000
+earn the eagle
+
+863
+00:36:55,000 --> 00:36:57,000
+and you're serious about it, you become an eagle.
+
+864
+00:36:57,000 --> 00:36:59,000
+You may finally become an eagle
+
+865
+00:36:59,000 --> 00:37:01,000
+when you're 30.
+
+866
+00:37:01,000 --> 00:37:03,000
+You may do it when you're 15..
+
+867
+00:37:03,000 --> 00:37:05,000
+But if you live the eagle life,
+
+868
+00:37:05,000 --> 00:37:07,000
+you become an eagle.
+
+869
+00:37:07,000 --> 00:37:09,000
+That's a really good way of looking at it
+
+870
+00:37:09,000 --> 00:37:11,000
+and maybe it'll help inform people
+
+871
+00:37:11,000 --> 00:37:13,000
+who get a little exercised about this
+
+872
+00:37:13,000 --> 00:37:15,000
+in a while.
+
+873
+00:37:15,000 --> 00:37:17,000
+I'm weary of that.
+
+874
+00:37:17,000 --> 00:37:19,000
+We've put enormous stress
+
+875
+00:37:19,000 --> 00:37:21,000
+upon these kids,
+
+876
+00:37:21,000 --> 00:37:23,000
+That sort of unwritten rule
+
+877
+00:37:23,000 --> 00:37:25,000
+that your eagle project
+
+878
+00:37:25,000 --> 00:37:27,000
+now has to change mankind forever.
+
+879
+00:37:27,000 --> 00:37:29,000
+That's an awful lot
+
+880
+00:37:29,000 --> 00:37:31,000
+to put on a teenage boy.
+
+881
+00:37:31,000 --> 00:37:33,000
+Boys are ready to do their eagle project
+
+882
+00:37:33,000 --> 00:37:35,000
+when they're ready to do their eagle project,
+
+883
+00:37:35,000 --> 00:37:37,000
+and not a day before,
+
+884
+00:37:37,000 --> 00:37:39,000
+Not a minute before.
+
+885
+00:37:39,000 --> 00:37:41,000
+They're terrified.
+
+886
+00:37:41,000 --> 00:37:43,000
+They don't want to deal with adults,
+
+887
+00:37:43,000 --> 00:37:45,000
+They don't want to organize anything,
+
+888
+00:37:45,000 --> 00:37:47,000
+And then one morning they get up and decide
+
+889
+00:37:47,000 --> 00:37:49,000
+I'm going to do it,
+
+890
+00:37:49,000 --> 00:37:51,000
+And then they're focused and they pull it off.
+
+891
+00:37:51,000 --> 00:37:53,000
+Was there anything in writing the book
+
+892
+00:37:53,000 --> 00:37:55,000
+that you discovered that
+
+893
+00:37:55,000 --> 00:37:57,000
+changed the way that you look at this at all,
+
+894
+00:37:57,000 --> 00:37:59,000
+or that you just were unaware of
+
+895
+00:37:59,000 --> 00:38:01,000
+and you thought was
+
+896
+00:38:01,000 --> 00:38:03,000
+something pretty incredible?
+
+897
+00:38:03,000 --> 00:38:05,000
+I think the thing that struck me the most
+
+898
+00:38:05,000 --> 00:38:07,000
+was that eagle scouting
+
+899
+00:38:07,000 --> 00:38:09,000
+stands apart from Boy Scouting.
+
+900
+00:38:09,000 --> 00:38:11,000
+It's a classic example
+
+901
+00:38:11,000 --> 00:38:13,000
+of being of scouting,
+
+902
+00:38:13,000 --> 00:38:15,000
+but not necessarily part of scouting.
+
+903
+00:38:15,000 --> 00:38:17,000
+Once you start on the trail
+
+904
+00:38:17,000 --> 00:38:19,000
+of the eagle beginning
+
+905
+00:38:19,000 --> 00:38:21,000
+when you become a life,
+
+906
+00:38:21,000 --> 00:38:23,000
+you enter into a different reality
+
+907
+00:38:23,000 --> 00:38:25,000
+and you move down that path,
+
+908
+00:38:25,000 --> 00:38:27,000
+and that path has been taken for 100 years
+
+909
+00:38:27,000 --> 00:38:29,000
+by
+
+910
+00:38:29,000 --> 00:38:31,000
+what?
+
+911
+00:38:31,000 --> 00:38:33,000
+five to six million boys ahead of you,
+
+912
+00:38:33,000 --> 00:38:35,000
+And it's a fraternity
+
+913
+00:38:35,000 --> 00:38:37,000
+And
+
+914
+00:38:37,000 --> 00:38:39,000
+it's filled with like-minded people,
+
+915
+00:38:39,000 --> 00:38:41,000
+all of whom have
+
+916
+00:38:41,000 --> 00:38:43,000
+decided that they're going to go for something
+
+917
+00:38:43,000 --> 00:38:45,000
+that's bigger than anything they've ever done in their lives
+
+918
+00:38:45,000 --> 00:38:47,000
+and that's going to challenge them
+
+919
+00:38:47,000 --> 00:38:49,000
+in ways they can't imagine.
+
+920
+00:38:49,000 --> 00:38:51,000
+And
+
+921
+00:38:51,000 --> 00:38:53,000
+I was struck by that continuity,
+
+922
+00:38:53,000 --> 00:38:55,000
+that eagle scouting really is a thing
+
+923
+00:38:55,000 --> 00:38:57,000
+unto itself
+
+924
+00:38:57,000 --> 00:38:59,000
+When you have this group of people
+
+925
+00:38:59,000 --> 00:39:01,000
+that are these kind of overachievers
+
+926
+00:39:01,000 --> 00:39:03,000
+and who did something this big
+
+927
+00:39:03,000 --> 00:39:05,000
+at such a young age.
+
+928
+00:39:05,000 --> 00:39:07,000
+they're going to cut their own path
+
+929
+00:39:07,000 --> 00:39:09,000
+for the rest of their lives,
+
+930
+00:39:09,000 --> 00:39:11,000
+So you can't control them:
+
+931
+00:39:11,000 --> 00:39:13,000
+Former members who are still officially members,
+
+932
+00:39:13,000 --> 00:39:15,000
+who are presidents of universities
+
+933
+00:39:15,000 --> 00:39:17,000
+and Nobel Prize winners
+
+934
+00:39:17,000 --> 00:39:19,000
+and Medal of Honor awardees
+
+935
+00:39:19,000 --> 00:39:21,000
+and members of Congress.
+
+936
+00:39:21,000 --> 00:39:23,000
+they're a heck of a lot more powerful
+
+937
+00:39:23,000 --> 00:39:25,000
+than scouting itself
+
+938
+00:39:25,000 --> 00:39:27,000
+And I love that about it.
+
+939
+00:39:27,000 --> 00:39:29,000
+And when you go to an eagle court of honor
+
+940
+00:39:29,000 --> 00:39:31,000
+and they form the eagle court,
+
+941
+00:39:31,000 --> 00:39:33,000
+inviting everybody from the audience to come up,
+
+942
+00:39:33,000 --> 00:39:35,000
+they're going to rise of all ages,
+
+943
+00:39:35,000 --> 00:39:37,000
+from their 20s to their 80s
+
+944
+00:39:37,000 --> 00:39:39,000
+and you know, it's colored their entire life.
+
+945
+00:39:39,000 --> 00:39:41,000
+Everywhere you go,
+
+946
+00:39:41,000 --> 00:39:43,000
+you're going to run into an eagle scout
+
+947
+00:39:43,000 --> 00:39:45,000
+and he's going to be the guy
+
+948
+00:39:45,000 --> 00:39:47,000
+who's in the position of greatest responsibility.
+
+949
+00:39:47,000 --> 00:39:49,000
+And that's an amazing thing,
+
+950
+00:39:49,000 --> 00:39:51,000
+It's a powerful thing,
+
+951
+00:39:51,000 --> 00:39:53,000
+and writing the book,
+
+952
+00:39:53,000 --> 00:39:55,000
+I felt enormous pride
+
+953
+00:39:55,000 --> 00:39:57,000
+in this fraternity that I was part of
+
+954
+00:39:57,000 --> 00:39:59,000
+and felt compelled even more
+
+955
+00:39:59,000 --> 00:40:01,000
+to be an eagle scout.
+
+956
+00:40:01,000 --> 00:40:03,000
+like an eagle scout.
+
+957
+00:40:03,000 --> 00:40:05,000
+My prediction is it's going to become
+
+958
+00:40:05,000 --> 00:40:07,000
+the default thing
+
+959
+00:40:07,000 --> 00:40:09,000
+that you get for a new eagle scout.
+
+960
+00:40:09,000 --> 00:40:11,000
+Well, thank you very much.
+
+961
+00:40:11,000 --> 00:40:13,000
+Let me ask you this question, since I get asked it regularly.
+
+962
+00:40:13,000 --> 00:40:15,000
+Right now the book's available
+
+963
+00:40:15,000 --> 00:40:17,000
+in a Kindle edition
+
+964
+00:40:17,000 --> 00:40:19,000
+and I know it's doing very well.
+
+965
+00:40:19,000 --> 00:40:21,000
+When are we going to get the regular good old fashion
+
+966
+00:40:21,000 --> 00:40:23,000
+hardcover edition of it?
+
+967
+00:40:23,000 --> 00:40:25,000
+Well, I can't commit to a precise state,
+
+968
+00:40:25,000 --> 00:40:27,000
+but I know that the publisher
+
+969
+00:40:27,000 --> 00:40:29,000
+is creating an index for it right now
+
+970
+00:40:29,000 --> 00:40:31,000
+and we're working with
+
+971
+00:40:31,000 --> 00:40:33,000
+Nisa, with Bill Steele,
+
+972
+00:40:33,000 --> 00:40:35,000
+in hopes that we can get
+
+973
+00:40:35,000 --> 00:40:37,000
+the photos that we want to put in the book.
+
+974
+00:40:39,000 --> 00:40:41,000
+So I can't make a precise commitment
+
+975
+00:40:41,000 --> 00:40:43,000
+or even a precise date,
+
+976
+00:40:43,000 --> 00:40:45,000
+but I think pretty soon.
+
+977
+00:40:45,000 --> 00:40:47,000
+I would love to see the book available for Christmas,
+
+978
+00:40:47,000 --> 00:40:49,000
+But it is going to happen
+
+979
+00:40:49,000 --> 00:40:51,000
+one way or the other.
+
+980
+00:40:51,000 --> 00:40:53,000
+If I can help it, it will.
+
+981
+00:40:53,000 --> 00:40:55,000
+If I can help it, it would too.
+
+982
+00:40:55,000 --> 00:40:57,000
+I've got a shelf of books
+
+983
+00:40:57,000 --> 00:40:59,000
+and I don't know how to file on the shelf
+
+984
+00:40:59,000 --> 00:41:01,000
+an electronic version of a book.
+
+985
+00:41:01,000 --> 00:41:03,000
+Well, I still think.
+
+986
+00:41:03,000 --> 00:41:05,000
+when people have asked me
+
+987
+00:41:05,000 --> 00:41:07,000
+whether or not they can get it in a hard copy,
+
+988
+00:41:07,000 --> 00:41:09,000
+I tell them that
+
+989
+00:41:09,000 --> 00:41:11,000
+it's still a great gift
+
+990
+00:41:11,000 --> 00:41:13,000
+for a new Eagle Scout,
+
+991
+00:41:13,000 --> 00:41:15,000
+because that's usually what they're asking.
+
+992
+00:41:15,000 --> 00:41:17,000
+They want to get it for somebody who's just becoming an Eagle.
+
+993
+00:41:17,000 --> 00:41:19,000
+Yeah, they all have Kindle's and iPads. anyway,
+
+994
+00:41:19,000 --> 00:41:21,000
+They'll figure out how to read it,
+
+995
+00:41:21,000 --> 00:41:23,000
+even if we can't.
+
+996
+00:41:23,000 --> 00:41:25,000
+Well, I'm watching the time here.
+
+997
+00:41:25,000 --> 00:41:27,000
+I've kept you a bit longer
+
+998
+00:41:27,000 --> 00:41:29,000
+than I said at first.
+
+999
+00:41:29,000 --> 00:41:31,000
+It's so much fun to read your blog.
+
+1000
+00:41:31,000 --> 00:41:33,000
+I turned to it before
+
+1001
+00:41:33,000 --> 00:41:35,000
+anything else in scouting.
+
+1002
+00:41:35,000 --> 00:41:37,000
+Oh well, thank you,
+
+1003
+00:41:37,000 --> 00:41:39,000
+And I think your comment section is brilliant.
+
+1004
+00:41:39,000 --> 00:41:41,000
+You get a lot of interesting people
+
+1005
+00:41:41,000 --> 00:41:43,000
+that are very committed to scouting.
+
+1006
+00:41:43,000 --> 00:41:45,000
+Yeah, that's probably the best part of doing it,
+
+1007
+00:41:45,000 --> 00:41:47,000
+And I constantly take
+
+1008
+00:41:47,000 --> 00:41:49,000
+your outdoor lists,
+
+1009
+00:41:49,000 --> 00:41:51,000
+like the survival kit you did the other day,
+
+1010
+00:41:51,000 --> 00:41:53,000
+and I email it out
+
+1011
+00:41:53,000 --> 00:41:55,000
+through our troop
+
+1012
+00:41:55,000 --> 00:41:57,000
+Yahoo Group email.
+
+1013
+00:41:57,000 --> 00:41:59,000
+I'm glad to hear people find stuff useful.
+
+1014
+00:41:59,000 --> 00:42:01,000
+Oh, there you go.
+
+1015
+00:42:01,000 --> 00:42:03,000
+That's good.
+
+1016
+00:42:03,000 --> 00:42:05,000
+Once again, the book's 4%-
+
+1017
+00:42:05,000 --> 00:42:07,000
+The Story of Uncommon Youth in a Century of American Life,
+
+1018
+00:42:07,000 --> 00:42:09,000
+And we've been talking
+
+1019
+00:42:09,000 --> 00:42:11,000
+with Mike Malone, the author.
+
+1020
+00:42:11,000 --> 00:42:13,000
+Thanks very much for joining us, Mike.
+
+1021
+00:42:13,000 --> 00:42:15,000
+Thank you, Clark, and best to all of your loyal readers.
+
+1022
+00:42:23,000 --> 00:42:25,000
+Thank you for listening to this
+
+1023
+00:42:25,000 --> 00:42:27,000
+278th edition
+
+1024
+00:42:27,000 --> 00:42:29,000
+of the Scoutmaster podcast.
+
+1025
+00:42:29,000 --> 00:42:31,000
+Here's how to keep in touch:
+
+1026
+00:42:31,000 --> 00:42:33,000
+Go to ScoutmasterCGcom
+
+1027
+00:42:33,000 --> 00:42:35,000
+and there you can read our blog
+
+1028
+00:42:35,000 --> 00:42:37,000
+and you can subscribe to receive updates
+
+1029
+00:42:37,000 --> 00:42:39,000
+to the blog by email.
+
+1030
+00:42:39,000 --> 00:42:41,000
+You can join the other mobile scouters
+
+1031
+00:42:41,000 --> 00:42:43,000
+who have the ScoutmasterCG app
+
+1032
+00:42:43,000 --> 00:42:45,000
+on their mobile devices
+
+1033
+00:42:45,000 --> 00:42:47,000
+and you can get the app in the Google Play
+
+1034
+00:42:47,000 --> 00:42:49,000
+or iCloud.
+
+1035
+00:42:49,000 --> 00:42:51,000
+You can get the app
+
+1036
+00:42:51,000 --> 00:42:53,000
+in the Google Play or iTunes app store.
+
+1037
+00:42:53,000 --> 00:42:55,000
+You can experience all the wonders
+
+1038
+00:42:55,000 --> 00:42:57,000
+that are ScoutmasterCGcom
+
+1039
+00:42:57,000 --> 00:42:59,000
+through the vast panorama
+
+1040
+00:42:59,000 --> 00:43:01,000
+of social media outlets.
+
+1041
+00:43:01,000 --> 00:43:03,000
+Join the 9,500 folks
+
+1042
+00:43:03,000 --> 00:43:05,000
+who like ScoutmasterBlog on Facebook,
+
+1043
+00:43:05,000 --> 00:43:07,000
+Tweet along with the course of
+
+1044
+00:43:07,000 --> 00:43:09,000
+1,200 tweeters on Twitter
+
+1045
+00:43:09,000 --> 00:43:11,000
+and pin the poultry tuna's pictures
+
+1046
+00:43:11,000 --> 00:43:13,000
+that we profit publicly with
+
+1047
+00:43:13,000 --> 00:43:15,000
+1,900 other prolific pinners on Pinterest.
+
+1048
+00:43:15,000 --> 00:43:17,000
+Watch as it's ScoutmasterCG on YouTube.
+
+1049
+00:43:17,000 --> 00:43:19,000
+or join the 400 odd folks
+
+1050
+00:43:19,000 --> 00:43:21,000
+who form the exclusive
+
+1051
+00:43:21,000 --> 00:43:23,000
+and very quiet ScoutmasterCG circle
+
+1052
+00:43:23,000 --> 00:43:25,000
+on Google Plus.
+
+1053
+00:43:25,000 --> 00:43:27,000
+Now, if you can't face Facebook,
+
+1054
+00:43:27,000 --> 00:43:29,000
+if Twitter makes you better,
+
+1055
+00:43:29,000 --> 00:43:31,000
+if you have no interest in Pinterest,
+
+1056
+00:43:31,000 --> 00:43:33,000
+if you don't put the? U in YouTube,
+
+1057
+00:43:33,000 --> 00:43:35,000
+if you're a minus when it comes to Google Plus,
+
+1058
+00:43:35,000 --> 00:43:37,000
+don't worry about it, that's okay.
+
+1059
+00:43:37,000 --> 00:43:39,000
+Bunky, Zoom into the late 90s
+
+1060
+00:43:39,000 --> 00:43:41,000
+and send me an email.
+
+1061
+00:43:41,000 --> 00:43:43,000
+You can get in touch with me,
+
+1062
+00:43:43,000 --> 00:43:45,000
+ClarkGreen, at Clark
+
+1063
+00:43:45,000 --> 00:43:47,000
+at ScoutmasterCGcom.
+
+1064
+00:43:47,000 --> 00:43:49,000
+and
+
+1065
+00:43:49,000 --> 00:43:51,000
+let me remind you, please,
+
+1066
+00:43:51,000 --> 00:43:53,000
+that the Scoutmaster Blog
+
+1067
+00:43:53,000 --> 00:43:55,000
+and the Scoutmaster Podcast
+
+1068
+00:43:55,000 --> 00:43:57,000
+are not official publications of anybody
+
+1069
+00:43:57,000 --> 00:43:59,000
+except for myself. Nope,
+
+1070
+00:43:59,000 --> 00:44:01,000
+they're not official publications of any
+
+1071
+00:44:01,000 --> 00:44:03,000
+scouting organization like the Boy Scouts of America,
+
+1072
+00:44:03,000 --> 00:44:05,000
+nor are they endorsed or sponsored by anybody.
+
+1073
+00:44:05,000 --> 00:44:07,000
+No, it's just me talking into a microphone,
+
+1074
+00:44:07,000 --> 00:44:09,000
+trying to lend a hand to
+
+1075
+00:44:09,000 --> 00:44:11,000
+scouters and have a little bit of fun
+
+1076
+00:44:11,000 --> 00:44:13,000
+along the way. and speaking of fun,
+
+1077
+00:44:13,000 --> 00:44:15,000
+here's our founder, Sir Robert
+
+1078
+00:44:15,000 --> 00:44:17,000
+Baden Powell. Sir Robert,
+
+1079
+00:44:17,000 --> 00:44:19,000
+Good luck to you and good camping.
+
+1080
+00:44:19,000 --> 00:44:21,000
+Why? thank you, sir,
+
+1081
+00:44:21,000 --> 00:44:23,000
+until next time, everyone.
+

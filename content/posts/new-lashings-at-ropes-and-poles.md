@@ -2,7 +2,9 @@
 title: "New\" lashings at Ropes and Poles"
 date: 2006-12-20
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20140824195752/http://scoutmastercg.com/new_lashings_at/"
 ---
 

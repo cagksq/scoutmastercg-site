@@ -2,7 +2,9 @@
 title: "Retirement"
 date: 2017-07-06
 draft: false
-categories: ["scoutmasters-job", "scoutmasters-life"]
+topics:
+  - "Personal Reflection"
+  - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20170706131433/http://scoutmastercg.com/retirement/"
 ---
 

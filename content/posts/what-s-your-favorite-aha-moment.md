@@ -2,7 +2,9 @@
 title: "What's your favorite Aha! Moment?"
 date: 2017-09-26
 draft: false
-categories: ["scouts", "outdoors"]
+topics:
+  - "Character Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20170926224434/http://scoutmastercg.com/whats-your-favorite-aha-moment/"
 ---
 

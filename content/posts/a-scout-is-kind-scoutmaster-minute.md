@@ -2,7 +2,9 @@
 title: "A Scout is Kind - Scoutmaster Minute"
 date: 2009-02-10
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20151014175616/http://scoutmastercg.com/a-scout-is-kind-scoutmaster-minute/"
 ---
 

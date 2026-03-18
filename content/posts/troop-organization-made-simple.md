@@ -2,7 +2,9 @@
 title: "Troop Organization Made Simple"
 date: 2014-10-17
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Patrol Method"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20141017151430/http://scoutmastercg.com:80/troop_organizat/"
 ---
 

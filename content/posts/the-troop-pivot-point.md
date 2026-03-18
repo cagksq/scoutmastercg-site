@@ -2,7 +2,9 @@
 title: "The Troop Pivot Point"
 date: 2017-11-02
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20171102115907/http://scoutmastercg.com/the-troop-pivot-point/"
 ---
 

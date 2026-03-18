@@ -2,7 +2,9 @@
 title: "Connecting the Dots"
 date: 2012-01-10
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Personal Reflection"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20121220013151/http://www.scoutmastercg.com:80/connecting-the-dots/"
 ---
 

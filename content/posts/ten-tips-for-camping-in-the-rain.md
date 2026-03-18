@@ -2,7 +2,9 @@
 title: "Ten Tips for Camping in the Rain"
 date: 2012-08-25
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20150919225418/http://scoutmastercg.com/ten-tips-for-camping-in-the-rain/"
 ---
 

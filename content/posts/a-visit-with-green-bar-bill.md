@@ -2,7 +2,8 @@
 title: "A Visit with Green Bar Bill"
 date: 2013-07-10
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20170712044959/http://scoutmastercg.com/a-visit-with-green-bar-bill/"
 ---
 

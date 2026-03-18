@@ -2,7 +2,9 @@
 title: "Patrol Names"
 date: 2012-04-21
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20150227211901/http://scoutmastercg.com:80/patrol_names/"
 ---
 

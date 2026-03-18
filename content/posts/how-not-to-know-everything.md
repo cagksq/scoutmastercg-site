@@ -2,7 +2,9 @@
 title: "How Not To Know Everything"
 date: 2015-09-20
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Mentoring & Coaching"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20150920091702/http://scoutmastercg.com/how-not-to-know/"
 ---
 

@@ -1,0 +1,2036 @@
+1
+00:00:00,000 --> 00:00:07,000
+I'm Tim Jakes and I am Scoutmaster with Troop 93 in Westchester, Pennsylvania.
+
+2
+00:00:07,000 --> 00:00:11,000
+This edition of Scoutmaster Podcast is sponsored by backers like me
+
+3
+00:00:11,000 --> 00:00:13,000
+And now the old Scoutmaster.
+
+4
+00:00:13,000 --> 00:00:41,000
+Hey, everybody, this is Clark Green. It's summertime and so our next few podcasts feature on-core presentations
+
+5
+00:00:41,000 --> 00:00:47,000
+from our archives, and this week is an interview with somebody who kind of defies categorization.
+
+6
+00:00:47,000 --> 00:00:53,000
+His name is Andrew Skirka and I think it's safe to say that he is the most incredible
+
+7
+00:00:53,000 --> 00:00:56,000
+long-distance backpacker and hiker in living memory.
+
+8
+00:00:56,000 --> 00:01:02,000
+Andrew's book, The Ultimate Hikers Gear Guide, is a really amazing resource for anybody
+
+9
+00:01:02,000 --> 00:01:04,000
+who's going backpacking or hiking.
+
+10
+00:01:04,000 --> 00:01:09,000
+As always, this podcast is only possible because of the generosity of the folks who become
+
+11
+00:01:09,000 --> 00:01:12,000
+ScoutmasterCGcom backers.
+
+12
+00:01:12,000 --> 00:01:16,000
+Go to ScoutmasterCGcom, click the support link at the top of the page.
+
+13
+00:01:16,000 --> 00:01:20,000
+You'll find out how you can become a ScoutmasterCGcom backer.
+
+14
+00:01:20,000 --> 00:01:23,000
+We'll be back with our regular schedule of podcasts in a few weeks.
+
+15
+00:01:23,000 --> 00:01:26,000
+Until then, let's get started, shall we?
+
+16
+00:01:34,000 --> 00:01:49,000
+Andrew Skirka has won a lot of attention for his solo long-distance backpacking trips.
+
+17
+00:01:49,000 --> 00:01:55,000
+For instance, he hiked a 4,700-mile six-month expedition in Alaska and the Yukon,
+
+18
+00:01:55,000 --> 00:01:58,000
+which would be like a lifetime achievement for most of us,
+
+19
+00:01:58,000 --> 00:02:01,000
+but that was basically one of the shorter ones.
+
+20
+00:02:01,000 --> 00:02:07,000
+He covered 6,875 miles in seven months following the Great Western Loop
+
+21
+00:02:07,000 --> 00:02:11,000
+in the United States, but that's still not the longest one.
+
+22
+00:02:11,000 --> 00:02:17,000
+He walked 7,775 miles- just saying that makes my feet hurt-
+
+23
+00:02:17,000 --> 00:02:21,000
+in an 11-month sea-to-sea route across the US,
+
+24
+00:02:21,000 --> 00:02:27,000
+and he figures that in the last decade or so he's covered 30,000-plus miles
+
+25
+00:02:27,000 --> 00:02:31,000
+and that's the equivalent of traveling 1.2 times around the Earth's equator.
+
+26
+00:02:31,000 --> 00:02:36,000
+He's been named Adventurer of the Year by both Outside and the National Geographic
+
+27
+00:02:36,000 --> 00:02:40,000
+Adventure Magazines, as well as Person of the Year by Backpacker Magazine.
+
+28
+00:02:40,000 --> 00:02:44,000
+He's also the author of the recently published Ultimate Hiker's Gear Guide
+
+29
+00:02:44,000 --> 00:02:46,000
+from National Geographic,
+
+30
+00:02:46,000 --> 00:02:50,000
+And if you look at your March April edition of Scouting Magazine,
+
+31
+00:02:50,000 --> 00:02:52,000
+there he is right there on the cover.
+
+32
+00:02:52,000 --> 00:02:55,000
+I'm happy to welcome Andrew to the Scoutmaster Podcast.
+
+33
+00:02:55,000 --> 00:02:56,000
+Good morning, Andrew. How are you?
+
+34
+00:02:56,000 --> 00:02:58,000
+Hey, good morning. Thanks very much for having me.
+
+35
+00:02:58,000 --> 00:03:01,000
+Well, no, I really appreciate you spending the time.
+
+36
+00:03:01,000 --> 00:03:04,000
+How in the world did you end up doing this?
+
+37
+00:03:04,000 --> 00:03:07,000
+I think I sort of stumbled into it.
+
+38
+00:03:07,000 --> 00:03:13,000
+I never set out with the intention of making this into a lifestyle,
+
+39
+00:03:13,000 --> 00:03:16,000
+but I did my first long-distance trip
+
+40
+00:03:16,000 --> 00:03:18,000
+One. I was still in college. It was 2002..
+
+41
+00:03:18,000 --> 00:03:23,000
+I did the Appalachian Trail and then, after graduating, I did that sea-to-sea trip
+
+42
+00:03:23,000 --> 00:03:26,000
+and I think things just sort of escalated from there
+
+43
+00:03:26,000 --> 00:03:31,000
+And I was fortunate that I had never developed any extensive habits
+
+44
+00:03:31,000 --> 00:03:34,000
+or taken on any extensive responsibilities
+
+45
+00:03:34,000 --> 00:03:39,000
+and that kind of allowed me to be like a dirtbag hiker, if you will,
+
+46
+00:03:39,000 --> 00:03:42,000
+Kind of like a dirtbag climber, but I was hiking instead
+
+47
+00:03:42,000 --> 00:03:47,000
+and slowly over time I was able to build it into something
+
+48
+00:03:47,000 --> 00:03:49,000
+that was economically sustainable as well.
+
+49
+00:03:49,000 --> 00:03:53,000
+We're talking with volunteer scout leaders and we're all parents.
+
+50
+00:03:53,000 --> 00:03:57,000
+So you are getting ready to graduate from college-
+
+51
+00:03:57,000 --> 00:03:58,000
+You were at Duke right,
+
+52
+00:03:58,000 --> 00:03:59,000
+Correct?
+
+53
+00:03:59,000 --> 00:04:04,000
+And you decide that you're going to go and do a through-hike of the Appalachian Trail.
+
+54
+00:04:04,000 --> 00:04:06,000
+Is that, if I have the timeline right there,
+
+55
+00:04:06,000 --> 00:04:08,000
+Yeah, I get it before I graduate.
+
+56
+00:04:08,000 --> 00:04:10,000
+It's actually between semesters-
+
+57
+00:04:10,000 --> 00:04:13,000
+My son's name is Andrew, by the way,
+
+58
+00:04:13,000 --> 00:04:17,000
+And he came to us in the fall semester of his junior.
+
+59
+00:04:17,000 --> 00:04:18,000
+He says: you know what?
+
+60
+00:04:18,000 --> 00:04:23,000
+I think? I'd like to go and spend three or four months on the Appalachian Trail.
+
+61
+00:04:23,000 --> 00:04:27,000
+How did your parents react to that when you told them that you had this great idea?
+
+62
+00:04:27,000 --> 00:04:30,000
+The Appalachian Trail was part of our larger plan,
+
+63
+00:04:30,000 --> 00:04:33,000
+So the economy at the time was pretty bad.
+
+64
+00:04:33,000 --> 00:04:36,000
+It was just difficult to find anything worth doing for the summer,
+
+65
+00:04:36,000 --> 00:04:42,000
+So I kind of pitched it as something I could do this summer,
+
+66
+00:04:42,000 --> 00:04:45,000
+that I could sort of knock off my bucket list
+
+67
+00:04:45,000 --> 00:04:48,000
+and that way, when the economy is a little better
+
+68
+00:04:48,000 --> 00:04:53,000
+and my odds of finding something worth doing were better,
+
+69
+00:04:53,000 --> 00:04:55,000
+I would be available for it.
+
+70
+00:04:55,000 --> 00:04:57,000
+And they were thrilled about this.
+
+71
+00:04:57,000 --> 00:05:00,000
+They weren't thrilled but they were okay with it.
+
+72
+00:05:00,000 --> 00:05:04,000
+The plan made sense then
+
+73
+00:05:04,000 --> 00:05:08,000
+And they just didn't expect that when I did the Appalachian Trail,
+
+74
+00:05:08,000 --> 00:05:11,000
+that that wasn't going to be enough.
+
+75
+00:05:11,000 --> 00:05:15,000
+So the trip that they really, the trip that they really got upset about,
+
+76
+00:05:15,000 --> 00:05:19,000
+was that sea to sea trip, because that was, you know,
+
+77
+00:05:19,000 --> 00:05:26,000
+instead of doing something with my $150,000 education,
+
+78
+00:05:26,000 --> 00:05:31,000
+I was instead, you know, in their view,
+
+79
+00:05:31,000 --> 00:05:38,000
+sort of pissing it away by taking on this. you know,
+
+80
+00:05:38,000 --> 00:05:42,000
+I don't know how they were characters, useless, dangerous,
+
+81
+00:05:42,000 --> 00:05:45,000
+Useless, dangerous, crazy,
+
+82
+00:05:45,000 --> 00:05:47,000
+Yeah.
+
+83
+00:05:47,000 --> 00:05:53,000
+But I think my feeling on it was that I was at the one point in my life
+
+84
+00:05:53,000 --> 00:05:55,000
+where I really could do something like this.
+
+85
+00:05:55,000 --> 00:05:57,000
+I was young, I didn't have any responsibilities,
+
+86
+00:05:57,000 --> 00:06:01,000
+I hadn't committed to a career, to a woman, to a home,
+
+87
+00:06:01,000 --> 00:06:03,000
+I hadn't done any of that stuff.
+
+88
+00:06:03,000 --> 00:06:04,000
+So I was going to do anything like that.
+
+89
+00:06:04,000 --> 00:06:06,000
+That was the time
+
+90
+00:06:06,000 --> 00:06:10,000
+And I stuck with that decision because I had made the realization
+
+91
+00:06:10,000 --> 00:06:14,000
+that these lifestyle decisions are mine to make
+
+92
+00:06:14,000 --> 00:06:18,000
+And there's a lot of pressure from society, from parents,
+
+93
+00:06:18,000 --> 00:06:21,000
+from peers, to take that very conventional track
+
+94
+00:06:21,000 --> 00:06:25,000
+which is, you know, your college degree, job,
+
+95
+00:06:25,000 --> 00:06:28,000
+house or wife, house, kids,
+
+96
+00:06:28,000 --> 00:06:30,000
+Right,
+
+97
+00:06:30,000 --> 00:06:32,000
+And there's a lot of pressure to do that.
+
+98
+00:06:32,000 --> 00:06:35,000
+And I had made this realization that if I wanted to make
+
+99
+00:06:35,000 --> 00:06:37,000
+a different decision I could do that,
+
+100
+00:06:37,000 --> 00:06:42,000
+And you know. so the message I see in that for us folks is:
+
+101
+00:06:42,000 --> 00:06:45,000
+listen to your kids carefully,
+
+102
+00:06:45,000 --> 00:06:48,000
+Listen to what their plans are, what they're thinking about,
+
+103
+00:06:48,000 --> 00:06:53,000
+And hey, you know, down the road, look what can happen.
+
+104
+00:06:53,000 --> 00:06:57,000
+The traditional way out is not the only way out,
+
+105
+00:06:57,000 --> 00:07:00,000
+And Andrew's a real good example of that.
+
+106
+00:07:00,000 --> 00:07:04,000
+I'd also add, if I could, I think I'd also add that
+
+107
+00:07:04,000 --> 00:07:08,000
+I think any experience in which your child is putting themselves
+
+108
+00:07:08,000 --> 00:07:13,000
+out of their comfort zones and is having an opportunity to grow
+
+109
+00:07:13,000 --> 00:07:17,000
+will probably be a good thing in one way or another.
+
+110
+00:07:17,000 --> 00:07:19,000
+Absolutely, I absolutely agree with you
+
+111
+00:07:19,000 --> 00:07:22,000
+And I think scouting we try, we kind of major in that,
+
+112
+00:07:22,000 --> 00:07:25,000
+putting people outside their comfort zone in a lot of ways.
+
+113
+00:07:25,000 --> 00:07:30,000
+So you talk about the first real backpacking trip. you went on
+
+114
+00:07:30,000 --> 00:07:33,000
+as being that. you left. you set out from Springer Mountain
+
+115
+00:07:33,000 --> 00:07:35,000
+in Georgia on the Appalachian Trail.
+
+116
+00:07:35,000 --> 00:07:37,000
+How did that go?
+
+117
+00:07:37,000 --> 00:07:39,000
+Oh, it was bad.
+
+118
+00:07:39,000 --> 00:07:41,000
+It was bad.
+
+119
+00:07:41,000 --> 00:07:43,000
+So it was my first congressman's trip.
+
+120
+00:07:43,000 --> 00:07:45,000
+It was my first backpacking trip,
+
+121
+00:07:45,000 --> 00:07:52,000
+And now I describe myself as a camper by default,
+
+122
+00:07:52,000 --> 00:07:55,000
+which is a backpacker that takes too much,
+
+123
+00:07:55,000 --> 00:07:58,000
+because they're basically packing their fears.
+
+124
+00:07:58,000 --> 00:08:00,000
+They justify a lot of your decisions on the ground
+
+125
+00:08:00,000 --> 00:08:02,000
+of what if or just in case,
+
+126
+00:08:02,000 --> 00:08:04,000
+And they just don't know.
+
+127
+00:08:04,000 --> 00:08:07,000
+I also shared a lot of conventional gear,
+
+128
+00:08:07,000 --> 00:08:10,000
+which is because I just didn't know any better
+
+129
+00:08:10,000 --> 00:08:14,000
+And I thought that what the industry was telling me
+
+130
+00:08:14,000 --> 00:08:16,000
+and what an REI catalog was telling me,
+
+131
+00:08:16,000 --> 00:08:18,000
+that that was the right thing.
+
+132
+00:08:18,000 --> 00:08:23,000
+And then finally I had. no, I wasn't able to use any gear
+
+133
+00:08:23,000 --> 00:08:28,000
+that required any special thought or skill to use.
+
+134
+00:08:28,000 --> 00:08:30,000
+Like everything had to be foolproof.
+
+135
+00:08:30,000 --> 00:08:33,000
+So I wasn't capable of setting up the tarp,
+
+136
+00:08:33,000 --> 00:08:35,000
+So I had to use a dev wall pen.
+
+137
+00:08:35,000 --> 00:08:43,000
+I didn't know how to. I didn't know how to select a good campsite.
+
+138
+00:08:43,000 --> 00:08:46,000
+I didn't know how to pack a bag.
+
+139
+00:08:46,000 --> 00:08:48,000
+I didn't know how to pack a bag correctly.
+
+140
+00:08:48,000 --> 00:08:51,000
+So it was like it was necessary that I had like some big,
+
+141
+00:08:51,000 --> 00:08:54,000
+you know bombproof suspension pack where it didn't really matter
+
+142
+00:08:54,000 --> 00:08:55,000
+how I loaded it,
+
+143
+00:08:55,000 --> 00:08:57,000
+It was in there and it all sort of fit at the same.
+
+144
+00:08:57,000 --> 00:08:58,000
+I didn't know any skills.
+
+145
+00:08:58,000 --> 00:09:01,000
+So that was kind of like three main problems.
+
+146
+00:09:01,000 --> 00:09:05,000
+And unfortunately, a lot of beginner and, to that matter,
+
+147
+00:09:05,000 --> 00:09:08,000
+I think, still a lot of intermediate backpackers are like that
+
+148
+00:09:08,000 --> 00:09:11,000
+And their experience is just so miserable
+
+149
+00:09:11,000 --> 00:09:15,000
+that their hiking experience is so miserable
+
+150
+00:09:15,000 --> 00:09:17,000
+that they end up just wanting to camp
+
+151
+00:09:17,000 --> 00:09:19,000
+because they just they can't enjoy hiking.
+
+152
+00:09:19,000 --> 00:09:22,000
+I think that your experience that you had
+
+153
+00:09:22,000 --> 00:09:25,000
+is played out in a slightly smaller scale,
+
+154
+00:09:25,000 --> 00:09:29,000
+like hundreds and hundreds of times every year
+
+155
+00:09:29,000 --> 00:09:31,000
+They give this a shot and then they,
+
+156
+00:09:31,000 --> 00:09:33,000
+tens of thousands of times,
+
+157
+00:09:33,000 --> 00:09:34,000
+Tens of thousands of times-
+
+158
+00:09:34,000 --> 00:09:35,000
+Yeah,
+
+159
+00:09:35,000 --> 00:09:38,000
+They're 20,000 kids who go through film on every summer
+
+160
+00:09:38,000 --> 00:09:41,000
+and probably of those, probably 19,000 of them
+
+161
+00:09:41,000 --> 00:09:43,000
+probably are not doing it right.
+
+162
+00:09:43,000 --> 00:09:47,000
+You go into detail about that experience
+
+163
+00:09:47,000 --> 00:09:51,000
+and kind of the evolution that you went through
+
+164
+00:09:51,000 --> 00:09:54,000
+as far as the selection of gear and everything
+
+165
+00:09:54,000 --> 00:09:58,000
+and your philosophy and your approach to these trips
+
+166
+00:09:58,000 --> 00:10:01,000
+in the Ultimate Hikers Gear Guide-
+
+167
+00:10:01,000 --> 00:10:05,000
+And I have read the book,
+
+168
+00:10:05,000 --> 00:10:06,000
+I've looked at it.
+
+169
+00:10:06,000 --> 00:10:08,000
+Folks, you will have seen, yesterday
+
+170
+00:10:08,000 --> 00:10:11,000
+I posted a review of the book in advance
+
+171
+00:10:11,000 --> 00:10:14,000
+of being able to talk to Andrew here on the podcast.
+
+172
+00:10:14,000 --> 00:10:16,000
+It's really a game changer.
+
+173
+00:10:16,000 --> 00:10:18,000
+I think it's a great piece of work
+
+174
+00:10:18,000 --> 00:10:23,000
+And I think it's going to make things really
+
+175
+00:10:23,000 --> 00:10:25,000
+really work for people.
+
+176
+00:10:25,000 --> 00:10:29,000
+If they'll go and look at the book and follow your advice,
+
+177
+00:10:29,000 --> 00:10:32,000
+I think we're going to see a whole lot more successful
+
+178
+00:10:32,000 --> 00:10:34,000
+backpackers developed out of it.
+
+179
+00:10:34,000 --> 00:10:35,000
+I certainly hope so.
+
+180
+00:10:35,000 --> 00:10:38,000
+The way I've been presenting it is basically,
+
+181
+00:10:38,000 --> 00:10:42,000
+I think I look at it as a $20 investment.
+
+182
+00:10:42,000 --> 00:10:44,000
+I've traveled, as you said
+
+183
+00:10:44,000 --> 00:10:47,000
+in the introduction, I've gone like 30,000 miles.
+
+184
+00:10:47,000 --> 00:10:52,000
+I've made a lot of regrettable purchases of gear.
+
+185
+00:10:52,000 --> 00:10:55,000
+I've made a lot of mistakes and suffered as a result
+
+186
+00:10:55,000 --> 00:10:57,000
+because I chose the wrong stuff
+
+187
+00:10:57,000 --> 00:11:00,000
+or I didn't have the skills to use it properly,
+
+188
+00:11:00,000 --> 00:11:02,000
+And I've also made some really good decisions
+
+189
+00:11:02,000 --> 00:11:04,000
+that I've learned a lot along the way. in the book
+
+190
+00:11:04,000 --> 00:11:05,000
+I share that
+
+191
+00:11:05,000 --> 00:11:08,000
+The focus is on backpackers who want to enjoy hiking.
+
+192
+00:11:08,000 --> 00:11:11,000
+I think that there's plenty of information about there.
+
+193
+00:11:11,000 --> 00:11:14,000
+for backpackers who want to enjoy camping,
+
+194
+00:11:14,000 --> 00:11:17,000
+They can take it like read a book by Knowles.
+
+195
+00:11:17,000 --> 00:11:20,000
+Knowles specializes in camping.
+
+196
+00:11:20,000 --> 00:11:23,000
+They're basically car campers that are mobile.
+
+197
+00:11:23,000 --> 00:11:27,000
+There isn't that much information on a mass scale
+
+198
+00:11:27,000 --> 00:11:30,000
+about if you actually want to enjoy hiking,
+
+199
+00:11:30,000 --> 00:11:31,000
+which is different.
+
+200
+00:11:31,000 --> 00:11:32,000
+You're moving,
+
+201
+00:11:32,000 --> 00:11:35,000
+You have to carry all of your stuff,
+
+202
+00:11:35,000 --> 00:11:38,000
+And that's kind of been what I've specialized in
+
+203
+00:11:38,000 --> 00:11:40,000
+is trying to figure out how to enjoy
+
+204
+00:11:40,000 --> 00:11:43,000
+the walking aspect of all these trips I've gone on.
+
+205
+00:11:43,000 --> 00:11:46,000
+That's like this connection that people don't make.
+
+206
+00:11:46,000 --> 00:11:48,000
+That's why I think the book is a real game-changer.
+
+207
+00:11:48,000 --> 00:11:52,000
+that comes at it from the idea of trying to define,
+
+208
+00:11:52,000 --> 00:11:54,000
+like, where you are
+
+209
+00:11:54,000 --> 00:11:58,000
+And then if you want to get to the point of
+
+210
+00:11:58,000 --> 00:12:01,000
+being able to backpack comfortably, you know
+
+211
+00:12:01,000 --> 00:12:02,000
+here's what you do.
+
+212
+00:12:02,000 --> 00:12:05,000
+If you want to end up being an ultimate hiker,
+
+213
+00:12:05,000 --> 00:12:09,000
+if you want to really challenge some big experiences,
+
+214
+00:12:09,000 --> 00:12:11,000
+you know here's what you end up doing.
+
+215
+00:12:11,000 --> 00:12:17,000
+And you know I read the part in your introduction
+
+216
+00:12:17,000 --> 00:12:23,000
+that you were kind of aiming at trying to do
+
+217
+00:12:23,000 --> 00:12:25,000
+the complete walker- Colin Fletcher's-
+
+218
+00:12:25,000 --> 00:12:28,000
+the complete walker for this century-
+
+219
+00:12:28,000 --> 00:12:29,000
+And I think you made it
+
+220
+00:12:29,000 --> 00:12:33,000
+Well. I appreciate that reference.
+
+221
+00:12:33,000 --> 00:12:35,000
+Yeah, that's definitely my objective.
+
+222
+00:12:35,000 --> 00:12:38,000
+Colin's book is:
+
+223
+00:12:38,000 --> 00:12:40,000
+They're awesome books.
+
+224
+00:12:40,000 --> 00:12:43,000
+They changed the way that people backpack.
+
+225
+00:12:43,000 --> 00:12:49,000
+Unfortunately, we now have our disposal
+
+226
+00:12:49,000 --> 00:12:52,000
+New gear, new supplies, new techniques
+
+227
+00:12:52,000 --> 00:12:55,000
+that allow us to do it differently and to do it better,
+
+228
+00:12:55,000 --> 00:12:59,000
+And that was my idea in writing the book.
+
+229
+00:12:59,000 --> 00:13:01,000
+Yeah, well, I think you were successful
+
+230
+00:13:01,000 --> 00:13:04,000
+in kind of helping to redefine
+
+231
+00:13:04,000 --> 00:13:06,000
+exactly what we're doing out there
+
+232
+00:13:06,000 --> 00:13:08,000
+and how we make it happen. well,
+
+233
+00:13:08,000 --> 00:13:11,000
+One of the things that I first saw about you
+
+234
+00:13:11,000 --> 00:13:13,000
+was the YouTube video
+
+235
+00:13:13,000 --> 00:13:16,000
+And it really made me anxious to talk to you,
+
+236
+00:13:16,000 --> 00:13:20,000
+And this video is when you encounter
+
+237
+00:13:20,000 --> 00:13:22,000
+the porcupine caribou herd,
+
+238
+00:13:22,000 --> 00:13:23,000
+Right,
+
+239
+00:13:23,000 --> 00:13:25,000
+And where were you at the time?
+
+240
+00:13:25,000 --> 00:13:27,000
+I was up in the Yukon, Arctic,
+
+241
+00:13:27,000 --> 00:13:32,000
+So like basically far north,
+
+242
+00:13:32,000 --> 00:13:35,000
+Far northwestern Canada.
+
+243
+00:13:35,000 --> 00:13:38,000
+So you have, like, this moment-
+
+244
+00:13:38,000 --> 00:13:40,000
+I don't know exactly how to describe this moment-
+
+245
+00:13:40,000 --> 00:13:42,000
+a moment of enlightenment or clarity
+
+246
+00:13:42,000 --> 00:13:45,000
+or some kind of transcendent moment.
+
+247
+00:13:45,000 --> 00:13:47,000
+Can you share that with us?
+
+248
+00:13:47,000 --> 00:13:49,000
+Can you explain what happened?
+
+249
+00:13:49,000 --> 00:13:51,000
+Yeah, I still struggle to explain it, to be honest,
+
+250
+00:13:51,000 --> 00:13:54,000
+But basically I've been so worn down
+
+251
+00:13:54,000 --> 00:13:57,000
+by what I was going through
+
+252
+00:13:57,000 --> 00:14:01,000
+And at the time I was in the middle of a 657-mile
+
+253
+00:14:01,000 --> 00:14:04,000
+24-day stretch without crossing the road
+
+254
+00:14:04,000 --> 00:14:06,000
+and without seeing a human being,
+
+255
+00:14:06,000 --> 00:14:08,000
+And I was just getting beat up
+
+256
+00:14:08,000 --> 00:14:10,000
+on a regular basis by big floods
+
+257
+00:14:10,000 --> 00:14:13,000
+and bears and mosquitoes,
+
+258
+00:14:13,000 --> 00:14:17,000
+And I was just so worn down by those elements,
+
+259
+00:14:17,000 --> 00:14:21,000
+in addition to just this larger sense of exposure
+
+260
+00:14:21,000 --> 00:14:24,000
+and risk and self-dependence, that I,
+
+261
+00:14:24,000 --> 00:14:28,000
+when I came up on a porcupine migration trail corridor,
+
+262
+00:14:28,000 --> 00:14:31,000
+which is this very visible track across the tundra,
+
+263
+00:14:31,000 --> 00:14:35,000
+I just broke down and realized,
+
+264
+00:14:35,000 --> 00:14:40,000
+or not realized, but felt like I was tapping into their energy
+
+265
+00:14:40,000 --> 00:14:42,000
+And I knew that this was a species
+
+266
+00:14:42,000 --> 00:14:45,000
+that, for their survival, has this journey
+
+267
+00:14:45,000 --> 00:14:48,000
+plus a year where they migrate back and forth
+
+268
+00:14:48,000 --> 00:14:51,000
+from their wintering grounds to their migrating grounds,
+
+269
+00:14:51,000 --> 00:14:53,000
+And when they're on that journey,
+
+270
+00:14:53,000 --> 00:14:57,000
+they are just basically eating, sleeping and moving.
+
+271
+00:14:57,000 --> 00:14:59,000
+And for me it was the same thing,
+
+272
+00:14:59,000 --> 00:15:03,000
+And I had this sort of connection with the caribou,
+
+273
+00:15:04,000 --> 00:15:06,000
+where I was just one of them.
+
+274
+00:15:06,000 --> 00:15:09,000
+I stopped being some elevated species,
+
+275
+00:15:09,000 --> 00:15:12,000
+I was just another animal, first in this landscape,
+
+276
+00:15:12,000 --> 00:15:15,000
+that was having the same experience
+
+277
+00:15:15,000 --> 00:15:17,000
+that they was looking over my shoulder.
+
+278
+00:15:17,000 --> 00:15:20,000
+I was trying to send myself off from those variables
+
+279
+00:15:20,000 --> 00:15:22,000
+that I listed before.
+
+280
+00:15:22,000 --> 00:15:24,000
+It was a pretty amazing moment
+
+281
+00:15:24,000 --> 00:15:27,000
+And definitely not something that had happened before
+
+282
+00:15:27,000 --> 00:15:29,000
+and not something that would have been possible
+
+283
+00:15:29,000 --> 00:15:32,000
+if I hadn't really
+
+284
+00:15:32,000 --> 00:15:35,000
+almost only intentionally worn myself down
+
+285
+00:15:35,000 --> 00:15:40,000
+and just wasn't unable to keep my guard up
+
+286
+00:15:40,000 --> 00:15:41,000
+to have that experience.
+
+287
+00:15:41,000 --> 00:15:45,000
+Yeah, I think adventurers and campers-
+
+288
+00:15:45,000 --> 00:15:47,000
+I mean you can go car camping
+
+289
+00:15:47,000 --> 00:15:50,000
+and you can get a glimpse of this experience-
+
+290
+00:15:50,000 --> 00:15:53,000
+And I think, if you've been out in the woods
+
+291
+00:15:53,000 --> 00:15:56,000
+enough times, anybody who's listening
+
+292
+00:15:56,000 --> 00:15:59,000
+has had a little glimpse of this type of thing.
+
+293
+00:15:59,000 --> 00:16:02,000
+that's really, really hard to explain.
+
+294
+00:16:02,000 --> 00:16:04,000
+I mean, I imagine you're going to spend the rest of your life
+
+295
+00:16:04,000 --> 00:16:06,000
+trying to figure out exactly what happened to you there.
+
+296
+00:16:06,000 --> 00:16:07,000
+Yeah, probably.
+
+297
+00:16:07,000 --> 00:16:10,000
+Yeah, I'm actually not sure if there's just someone
+
+298
+00:16:10,000 --> 00:16:13,000
+who backs out in the lower 48.
+
+299
+00:16:13,000 --> 00:16:14,000
+Well, I don't know,
+
+300
+00:16:14,000 --> 00:16:15,000
+It's hard to say.
+
+301
+00:16:15,000 --> 00:16:18,000
+I mean, I think the key feeling is just feeling
+
+302
+00:16:18,000 --> 00:16:24,000
+like your life is on a string.
+
+303
+00:16:24,000 --> 00:16:27,000
+I think that's the best way to describe it.
+
+304
+00:16:27,000 --> 00:16:29,000
+So if you wander into your backyard
+
+305
+00:16:29,000 --> 00:16:31,000
+and it's such a security place
+
+306
+00:16:31,000 --> 00:16:33,000
+where you feel like your life is on a string
+
+307
+00:16:33,000 --> 00:16:35,000
+and, yeah, you kind of get a glimpse.
+
+308
+00:16:35,000 --> 00:16:38,000
+But I would say that a lot of
+
+309
+00:16:38,000 --> 00:16:41,000
+if you were to just drop yourself down in a helicopter,
+
+310
+00:16:41,000 --> 00:16:42,000
+exactly where this happened to me,
+
+311
+00:16:42,000 --> 00:16:43,000
+you probably wouldn't feel that,
+
+312
+00:16:43,000 --> 00:16:45,000
+You probably wouldn't get that sense,
+
+313
+00:16:45,000 --> 00:16:47,000
+because they're just like you hadn't.
+
+314
+00:16:47,000 --> 00:16:50,000
+I think part of maybe the only experience
+
+315
+00:16:50,000 --> 00:16:52,000
+that was having gotten there
+
+316
+00:16:52,000 --> 00:16:54,000
+under my own power
+
+317
+00:16:54,000 --> 00:17:00,000
+and having had all those prerequisite experiences.
+
+318
+00:17:00,000 --> 00:17:04,000
+Yeah, this is what I think is so important
+
+319
+00:17:04,000 --> 00:17:06,000
+about getting outdoors
+
+320
+00:17:06,000 --> 00:17:08,000
+and about camping
+
+321
+00:17:08,000 --> 00:17:10,000
+and pushing yourself and challenging yourself
+
+322
+00:17:10,000 --> 00:17:12,000
+in these situations
+
+323
+00:17:12,000 --> 00:17:14,000
+is you find things out about yourself
+
+324
+00:17:14,000 --> 00:17:17,000
+that you would not find out otherwise.
+
+325
+00:17:17,000 --> 00:17:18,000
+That's certainly one of them.
+
+326
+00:17:18,000 --> 00:17:22,000
+You confront yourself and nature
+
+327
+00:17:22,000 --> 00:17:27,000
+and whatever your set of the religious way
+
+328
+00:17:27,000 --> 00:17:28,000
+that you look at the world,
+
+329
+00:17:28,000 --> 00:17:31,000
+you confront that on a very basic level
+
+330
+00:17:31,000 --> 00:17:34,000
+And this was something that has been
+
+331
+00:17:34,000 --> 00:17:36,000
+one of the intentions of scouting
+
+332
+00:17:36,000 --> 00:17:37,000
+since it was founded
+
+333
+00:17:37,000 --> 00:17:40,000
+was to get in the outdoors
+
+334
+00:17:40,000 --> 00:17:43,000
+and to be able to learn these things
+
+335
+00:17:43,000 --> 00:17:46,000
+And whatever these things are.
+
+336
+00:17:46,000 --> 00:17:48,000
+they're really really hard to define,
+
+337
+00:17:48,000 --> 00:17:51,000
+But I think anybody who's had
+
+338
+00:17:51,000 --> 00:17:54,000
+even a glimpse of that experience.
+
+339
+00:17:54,000 --> 00:17:56,000
+So right now you've written the book,
+
+340
+00:17:56,000 --> 00:17:59,000
+You're on this like crazy long speaking tour.
+
+341
+00:17:59,000 --> 00:18:02,000
+What's the next big adventure?
+
+342
+00:18:02,000 --> 00:18:04,000
+Of course
+
+343
+00:18:04,000 --> 00:18:09,000
+It tends to be a three-year cycle.
+
+344
+00:18:09,000 --> 00:18:11,000
+After going on a big trip
+
+345
+00:18:11,000 --> 00:18:15,000
+the first year, I take off
+
+346
+00:18:15,000 --> 00:18:17,000
+and just try to get some semblance
+
+347
+00:18:17,000 --> 00:18:19,000
+of a normal life back,
+
+348
+00:18:19,000 --> 00:18:22,000
+Because it would be the Alaska trip
+
+349
+00:18:22,000 --> 00:18:23,000
+that was six months of doing,
+
+350
+00:18:23,000 --> 00:18:24,000
+six months of planning
+
+351
+00:18:24,000 --> 00:18:26,000
+And even before I left
+
+352
+00:18:26,000 --> 00:18:28,000
+my friends were saying:
+
+353
+00:18:28,000 --> 00:18:30,000
+hey, have you left for your trip yet?
+
+354
+00:18:30,000 --> 00:18:32,000
+Because I haven't seen you in two months.
+
+355
+00:18:32,000 --> 00:18:34,000
+So it's important for you to come back
+
+356
+00:18:34,000 --> 00:18:36,000
+and try to get a semblance of a life back
+
+357
+00:18:36,000 --> 00:18:39,000
+and just try to re-achieve some balance.
+
+358
+00:18:39,000 --> 00:18:41,000
+Year two: I usually go out
+
+359
+00:18:41,000 --> 00:18:43,000
+and do some smaller trips
+
+360
+00:18:43,000 --> 00:18:45,000
+and build up some different skills
+
+361
+00:18:45,000 --> 00:18:47,000
+and explore some new areas.
+
+362
+00:18:47,000 --> 00:18:49,000
+And then year three,
+
+363
+00:18:49,000 --> 00:18:51,000
+after having had that, hopefully
+
+364
+00:18:51,000 --> 00:18:53,000
+like a sort of a light bulb moment
+
+365
+00:18:53,000 --> 00:18:55,000
+and aha moment,
+
+366
+00:18:55,000 --> 00:18:58,000
+in year two I do a big trip into three
+
+367
+00:18:58,000 --> 00:19:00,000
+This year or this go around.
+
+368
+00:19:00,000 --> 00:19:03,000
+it looks like it's going to be a four-year plan.
+
+369
+00:19:03,000 --> 00:19:06,000
+I basically writing the book
+
+370
+00:19:06,000 --> 00:19:08,000
+was an adventure of its own.
+
+371
+00:19:08,000 --> 00:19:11,000
+It took thousands and thousands of hours of work
+
+372
+00:19:11,000 --> 00:19:14,000
+And I'm also, as you've mentioned,
+
+373
+00:19:14,000 --> 00:19:18,000
+I'm on this big 50 event speaking tour right now.
+
+374
+00:19:18,000 --> 00:19:21,000
+So it's.
+
+375
+00:19:21,000 --> 00:19:23,000
+it took me a little longer to go on a big trip,
+
+376
+00:19:23,000 --> 00:19:25,000
+but I'd expect to go on another one-
+
+377
+00:19:25,000 --> 00:19:26,000
+We'll see.
+
+378
+00:19:26,000 --> 00:19:27,000
+Yeah,
+
+379
+00:19:27,000 --> 00:19:29,000
+And I felt like I'm not getting out.
+
+380
+00:19:29,000 --> 00:19:31,000
+I mean, this year I'm guiding.
+
+381
+00:19:31,000 --> 00:19:36,000
+I'm guiding probably about 75 days worth of trips,
+
+382
+00:19:36,000 --> 00:19:38,000
+So I'm doing a bunch of three-day trips
+
+383
+00:19:38,000 --> 00:19:40,000
+that are all around the country
+
+384
+00:19:40,000 --> 00:19:42,000
+and that sort of helps
+
+385
+00:19:42,000 --> 00:19:45,000
+and ties me over to a different challenge of its own
+
+386
+00:19:45,000 --> 00:19:47,000
+in terms of really understanding people
+
+387
+00:19:47,000 --> 00:19:49,000
+and team dynamics.
+
+388
+00:19:49,000 --> 00:19:52,000
+And it's also a lot of responsibility
+
+389
+00:19:52,000 --> 00:19:54,000
+taking a group out in the wilderness
+
+390
+00:19:54,000 --> 00:19:58,000
+and being responsible for not only their safety
+
+391
+00:19:58,000 --> 00:20:00,000
+but, just as importantly, their happiness
+
+392
+00:20:00,000 --> 00:20:02,000
+with their experience.
+
+393
+00:20:02,000 --> 00:20:04,000
+And if people are interested
+
+394
+00:20:04,000 --> 00:20:05,000
+in looking into that
+
+395
+00:20:05,000 --> 00:20:07,000
+andruskerkacom is that where we go?
+
+396
+00:20:07,000 --> 00:20:08,000
+That would, yeah,
+
+397
+00:20:08,000 --> 00:20:10,000
+And there's a link to my guided trips
+
+398
+00:20:10,000 --> 00:20:12,000
+And it said you know
+
+399
+00:20:12,000 --> 00:20:13,000
+any.
+
+400
+00:20:13,000 --> 00:20:16,000
+there are some
+
+401
+00:20:16,000 --> 00:20:18,000
+three-day trips in particular would be helpful
+
+402
+00:20:18,000 --> 00:20:20,000
+for a lot of,
+
+403
+00:20:20,000 --> 00:20:23,000
+a lot of scout parents and scout masters.
+
+404
+00:20:23,000 --> 00:20:26,000
+They're learning intensive experiences where we
+
+405
+00:20:26,000 --> 00:20:29,000
+we don't hike that many miles- no more than five,
+
+406
+00:20:29,000 --> 00:20:31,000
+And it's all three days
+
+407
+00:20:31,000 --> 00:20:33,000
+probably do like a five and a 10 and a five
+
+408
+00:20:33,000 --> 00:20:34,000
+And that's about it.
+
+409
+00:20:34,000 --> 00:20:36,000
+But the whole emphasis is on
+
+410
+00:20:36,000 --> 00:20:38,000
+is on learning about different shelters,
+
+411
+00:20:38,000 --> 00:20:41,000
+different clothing systems, clothing systems
+
+412
+00:20:41,000 --> 00:20:43,000
+out there,
+
+413
+00:20:43,000 --> 00:20:45,000
+And then, once we're out there,
+
+414
+00:20:45,000 --> 00:20:47,000
+we'll do things.
+
+415
+00:20:47,000 --> 00:20:49,000
+do things like hiking, efficiency.
+
+416
+00:20:49,000 --> 00:20:51,000
+But we had us kind of spending a lot of time in camp
+
+417
+00:20:51,000 --> 00:20:53,000
+and learning this stuff,
+
+418
+00:20:53,000 --> 00:20:55,000
+With the idea being that you can,
+
+419
+00:20:55,000 --> 00:20:56,000
+you can hike on your own time.
+
+420
+00:20:56,000 --> 00:20:57,000
+Where are they?
+
+421
+00:20:57,000 --> 00:20:59,000
+And ballpark the cost for me,
+
+422
+00:20:59,000 --> 00:21:00,000
+Sure.
+
+423
+00:21:00,000 --> 00:21:01,000
+So there's seven different locations.
+
+424
+00:21:01,000 --> 00:21:03,000
+There's Northern California
+
+425
+00:21:03,000 --> 00:21:05,000
+physical national forest,
+
+426
+00:21:05,000 --> 00:21:08,000
+White Mountain National Park in Hampshire,
+
+427
+00:21:08,000 --> 00:21:11,000
+Olympic National Park in Washington,
+
+428
+00:21:11,000 --> 00:21:13,000
+Quartz Pine Mountain State Park in
+
+429
+00:21:13,000 --> 00:21:16,000
+in the UP of Michigan,
+
+430
+00:21:16,000 --> 00:21:19,000
+I think, and right around National Park in Colorado.
+
+431
+00:21:19,000 --> 00:21:21,000
+The cost is $600, which is
+
+432
+00:21:21,000 --> 00:21:23,000
+comes out $200 a day,
+
+433
+00:21:23,000 --> 00:21:26,000
+which is actually quite a bit less than a typical nose
+
+434
+00:21:26,000 --> 00:21:28,000
+nose course which I'll run yet
+
+435
+00:21:28,000 --> 00:21:30,000
+run at about $230 a day.
+
+436
+00:21:30,000 --> 00:21:33,000
+And my assistant guides
+
+437
+00:21:33,000 --> 00:21:35,000
+are equally,
+
+438
+00:21:35,000 --> 00:21:37,000
+equally qualified.
+
+439
+00:21:37,000 --> 00:21:40,000
+One co-founded backpackinglikecom.
+
+440
+00:21:40,000 --> 00:21:43,000
+Another was the first to hike
+
+441
+00:21:43,000 --> 00:21:45,000
+the triple crown in a single calendar year.
+
+442
+00:21:45,000 --> 00:21:48,000
+So he did the Pacific Cross, Death Placent Trail
+
+443
+00:21:48,000 --> 00:21:49,000
+and Pacific Cross
+
+444
+00:21:49,000 --> 00:21:52,000
+or Council of I-Challel on a year,
+
+445
+00:21:52,000 --> 00:21:54,000
+And then the other is actually
+
+446
+00:21:54,000 --> 00:21:56,000
+the Mills Instructure for 20 years.
+
+447
+00:21:56,000 --> 00:21:58,000
+So it's a really qualified group,
+
+448
+00:21:58,000 --> 00:22:01,000
+And there's also discounts available
+
+449
+00:22:01,000 --> 00:22:04,000
+if you sign up with more than one other person
+
+450
+00:22:04,000 --> 00:22:06,000
+or if you sign up for a three-day trip
+
+451
+00:22:06,000 --> 00:22:08,000
+and a seven-day trip.
+
+452
+00:22:08,000 --> 00:22:11,000
+So well, listen,
+
+453
+00:22:11,000 --> 00:22:14,000
+one of these days I'll get you back to talk again,
+
+454
+00:22:14,000 --> 00:22:18,000
+But I really do appreciate you spending the time today.
+
+455
+00:22:18,000 --> 00:22:20,000
+All right, sounds good. Thanks, Clark.
+
+456
+00:22:20,000 --> 00:22:22,000
+Thank you,
+
+457
+00:22:32,000 --> 00:22:35,000
+Thank you for listening to this
+
+458
+00:22:35,000 --> 00:22:38,000
+277th edition of the Scoutmaster Podcast.
+
+459
+00:22:38,000 --> 00:22:41,000
+Go to scoutmasterscgcom
+
+460
+00:22:41,000 --> 00:22:43,000
+and there you can read our blog
+
+461
+00:22:43,000 --> 00:22:45,000
+and you can subscribe to receive updates
+
+462
+00:22:45,000 --> 00:22:47,000
+to the blog by email.
+
+463
+00:22:47,000 --> 00:22:49,000
+You can join the other mobile scouts
+
+464
+00:22:49,000 --> 00:22:51,000
+who have the Scoutmaster CG app
+
+465
+00:22:51,000 --> 00:22:53,000
+on their mobile devices
+
+466
+00:22:53,000 --> 00:22:55,000
+and you can get the app in the Google Play
+
+467
+00:22:55,000 --> 00:22:57,000
+or iTunes App Store.
+
+468
+00:22:57,000 --> 00:22:59,000
+You can experience all the wonders
+
+469
+00:22:59,000 --> 00:23:02,000
+that are scoutmastercgcom
+
+470
+00:23:02,000 --> 00:23:05,000
+through the vast panorama of social media outlets.
+
+471
+00:23:05,000 --> 00:23:08,000
+Join the 9,500 folks who like Scoutmaster Blog on Facebook.
+
+472
+00:23:08,000 --> 00:23:11,000
+tweet along with the chorus of 1,200 tweeters on Twitter
+
+473
+00:23:11,000 --> 00:23:13,000
+and pin the poultry tuna's pictures
+
+474
+00:23:13,000 --> 00:23:15,000
+that we profit publicly,
+
+475
+00:23:15,000 --> 00:23:18,000
+with 1,900 other prolific pinners on Pinterest.
+
+476
+00:23:18,000 --> 00:23:20,000
+Watch as it's Scoutmaster CG on YouTube,
+
+477
+00:23:20,000 --> 00:23:22,000
+or join the 400 odd folks
+
+478
+00:23:22,000 --> 00:23:24,000
+who form the exclusive and very quiet
+
+479
+00:23:24,000 --> 00:23:27,000
+Scoutmaster CG Circle on Google Plus.
+
+480
+00:23:27,000 --> 00:23:29,000
+Now, if you can't face Facebook,
+
+481
+00:23:29,000 --> 00:23:30,000
+if Twitter makes you better,
+
+482
+00:23:30,000 --> 00:23:32,000
+if you've no interest in Pinterest
+
+483
+00:23:32,000 --> 00:23:34,000
+if you don't put the? U in YouTube.
+
+484
+00:23:34,000 --> 00:23:36,000
+if you're a minus when it comes to Google Plus,
+
+485
+00:23:36,000 --> 00:23:37,000
+don't worry about it.
+
+486
+00:23:37,000 --> 00:23:38,000
+That's okay,
+
+487
+00:23:38,000 --> 00:23:39,000
+Bunky, Zoom into the late 90s
+
+488
+00:23:39,000 --> 00:23:41,000
+and send me an email.
+
+489
+00:23:41,000 --> 00:23:43,000
+You can get in touch with me, Clark Green,
+
+490
+00:23:43,000 --> 00:23:46,000
+at Clark at scoutmastercgcom.
+
+491
+00:23:46,000 --> 00:23:49,000
+That's C-L-A-R-K-E
+
+492
+00:23:49,000 --> 00:23:54,000
+at scoutmastercgcom.
+
+493
+00:23:54,000 --> 00:23:56,000
+And let me remind you, please,
+
+494
+00:23:56,000 --> 00:23:59,000
+that the Scoutmaster blog and the Scoutmaster podcast
+
+495
+00:23:59,000 --> 00:24:01,000
+are not official publications of anybody
+
+496
+00:24:01,000 --> 00:24:02,000
+except for myself.
+
+497
+00:24:02,000 --> 00:24:04,000
+Nope, they're not official publications
+
+498
+00:24:04,000 --> 00:24:06,000
+of any scouting organization
+
+499
+00:24:06,000 --> 00:24:07,000
+like the Boy Scouts of America,
+
+500
+00:24:07,000 --> 00:24:09,000
+nor are they endorsed or sponsored by anybody.
+
+501
+00:24:09,000 --> 00:24:12,000
+No, it's just me talking into a microphone,
+
+502
+00:24:12,000 --> 00:24:14,000
+trying to lend a hand to scouters
+
+503
+00:24:14,000 --> 00:24:16,000
+and have a little bit of fun along the way.
+
+504
+00:24:16,000 --> 00:24:18,000
+and speaking of fun,
+
+505
+00:24:18,000 --> 00:24:20,000
+here's our founder, Sir Robert Baden Powell.
+
+506
+00:24:20,000 --> 00:24:21,000
+Sir Robert,
+
+507
+00:24:21,000 --> 00:24:23,000
+Good luck to you and good parenting,
+
+508
+00:24:23,000 --> 00:24:25,000
+Why? thank you, sir.
+
+509
+00:24:25,000 --> 00:24:27,000
+Until next time, everyone.
+

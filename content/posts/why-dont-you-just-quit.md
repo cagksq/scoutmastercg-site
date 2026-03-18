@@ -2,10 +2,10 @@
 title: "Why don't you just quit?"
 date: 2005-11-01
 draft: false
-categories:
-  - scouting-ideals
+topics:
+  - "BSA Membership & Inclusion"
+  - "BSA Rules & Policy"
 ---
-
 I have been accused of being unfaithful to the BSA because I disagree with its discriminatory practices. I have been told that I should leave the movement, that I don't belong, that I am a traitor.
 
 In totalitarian states like Iraq under Saddam Hussein the first and last dedication was to the party in power. To survive one subverted all personal opinions, all beliefs and adopted those of the government. Dissent was cruelly punished.

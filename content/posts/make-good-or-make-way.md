@@ -2,7 +2,9 @@
 title: "Make Good or Make Way"
 date: 2005-11-01
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Kindness Empathy & Inclusion"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20140822213332/http://scoutmastercg.com/make_good_or_ma/"
 ---
 

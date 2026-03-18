@@ -2,7 +2,8 @@
 title: "How to Wear the Scout Neckerchief"
 date: 2013-12-29
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20131229105549/http://www.scoutmastercg.com:80/how-to-wear-the-scout-neckerchief/"
 ---
 

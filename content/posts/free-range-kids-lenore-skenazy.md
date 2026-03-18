@@ -2,8 +2,8 @@
 title: "Free Range Kids - Lenore Skenazy"
 date: 2013-10-12
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20160619204455/http://scoutmastercg.com:80/free-range-kids-2/"
 ---
 

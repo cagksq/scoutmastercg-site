@@ -2,7 +2,9 @@
 title: "A Little Misdirection"
 date: 2015-03-13
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Mentoring & Coaching"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150313222935/http://scoutmastercg.com:80/droids/"
 ---
 

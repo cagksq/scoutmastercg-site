@@ -2,7 +2,8 @@
 title: "Active in Scouting is not a Zero-Sum Game"
 date: 2012-10-14
 draft: false
-categories: ["advancement", "scouting-ideals"]
+topics:
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20140901024456/http://scoutmastercg.com/active-in-scouting-is-not-a-zero-sum-game/?replytocom=20463"
 ---
 

@@ -2,8 +2,8 @@
 title: "Mountaineering: The Freedom of the Hills"
 date: 2014-08-23
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20170708025007/http://scoutmastercg.com/mountaineering-the-freedom-of-the-hills/"
 ---
 

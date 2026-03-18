@@ -2,7 +2,9 @@
 title: "Solitude and Leadership"
 date: 2012-03-23
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Leadership Theory"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20120323113353/http://www.scoutmastercg.com/2012/01/solitude-and-leadership/"
 ---
 

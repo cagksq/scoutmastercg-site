@@ -2,7 +2,9 @@
 title: "1928 Principles of Scoutmastership"
 date: 2011-09-22
 draft: false
-categories: ["scouting-ideals", "outdoors"]
+topics:
+  - "Adult Leadership Roles"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20141127160705/http://scoutmastercg.com:80/1928_principles/?"
 ---
 

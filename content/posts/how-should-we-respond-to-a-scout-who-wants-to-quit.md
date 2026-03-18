@@ -2,7 +2,9 @@
 title: "How Should We Respond to a Scout Who Wants to Quit?"
 date: 2013-12-19
 draft: false
-categories: ["scouts"]
+topics:
+  - "Mentoring & Coaching"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20131219093322/http://www.scoutmastercg.com:80/how-to-respond-to-a-scout-who-wants-to-quit/"
 ---
 

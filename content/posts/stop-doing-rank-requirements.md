@@ -2,7 +2,9 @@
 title: "Stop doing rank requirements."
 date: 2012-05-12
 draft: false
-categories: ["advancement", "patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20171012000234/http://scoutmastercg.com/stop-doing-rank-requirements/"
 ---
 

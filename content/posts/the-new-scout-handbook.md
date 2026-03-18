@@ -2,7 +2,8 @@
 title: "The New Scout Handbook"
 date: 2013-10-12
 draft: false
-categories: ["scouts", "advancement"]
+topics:
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20140831090752/http://scoutmastercg.com/the-new-scout-handbook/?replytocom=3744"
 ---
 

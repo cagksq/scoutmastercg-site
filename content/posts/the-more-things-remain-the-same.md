@@ -2,7 +2,9 @@
 title: "... the more things remain the same."
 date: 2013-09-26
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20141116090319/http://scoutmastercg.com/things-remain/?replytocom=49024"
 ---
 

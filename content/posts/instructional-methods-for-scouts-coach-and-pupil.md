@@ -2,7 +2,8 @@
 title: "Instructional Methods for Scouts - Coach and Pupil"
 date: 2006-08-10
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20140724083501/http://scoutmastercg.com/instrutional_me_2/"
 ---
 

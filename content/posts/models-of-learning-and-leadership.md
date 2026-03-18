@@ -2,7 +2,9 @@
 title: "Models of Learning and Leadership"
 date: 2011-05-25
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Instructional Methods"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20141011012008/http://scoutmastercg.com:80/models-of-learning-and-leadership/"
 ---
 

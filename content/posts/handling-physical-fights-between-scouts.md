@@ -2,7 +2,8 @@
 title: "Handling physical fights between Scouts"
 date: 2010-04-20
 draft: false
-categories: ["scouts"]
+topics:
+  - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20121220014627/http://www.scoutmastercg.com:80/handling-physical-fights-between-scouts/"
 ---
 

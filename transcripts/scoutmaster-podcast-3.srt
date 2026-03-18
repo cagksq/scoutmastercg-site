@@ -1,0 +1,4352 @@
+1
+00:00:00,000 --> 00:00:02,240
+And now, for you, Scoutmasters.
+
+2
+00:00:08,480 --> 00:00:12,320
+Hello, and welcome to the Scoutmasters podcast. This is Clark Green.
+
+3
+00:00:12,580 --> 00:00:14,060
+So, I was thinking about this.
+
+4
+00:00:15,380 --> 00:00:18,880
+Whoever first said, where there's smoke, there's fire.
+
+5
+00:00:20,020 --> 00:00:24,020
+There is very little chance that that person was a Scoutmaster.
+
+6
+00:00:24,900 --> 00:00:26,940
+Right? I mean, think about it for a moment.
+
+7
+00:00:26,940 --> 00:00:30,560
+Yeah. Yeah, very little chance.
+
+8
+00:00:31,160 --> 00:00:32,640
+Hey, this is podcast number three.
+
+9
+00:00:56,940 --> 00:01:06,640
+Hello, and welcome back. Good to have you.
+
+10
+00:01:07,060 --> 00:01:09,660
+Thanks for listening, and thanks for sending me comments.
+
+11
+00:01:09,780 --> 00:01:17,560
+I've gotten several since the first couple episodes of the podcast through Twitter and on the blog as comments.
+
+12
+00:01:17,560 --> 00:01:24,260
+And I sure do appreciate that, and we'll have more information on how you can join in at the end of the podcast.
+
+13
+00:01:24,700 --> 00:01:27,760
+This week, if you have a chance, I'd like you to go over and check out The Dump.
+
+14
+00:01:28,260 --> 00:01:29,580
+No, not that dump.
+
+15
+00:01:29,780 --> 00:01:35,240
+It's an online resource that some wonderful person up in Scouts Canada has set up.
+
+16
+00:01:35,740 --> 00:01:37,920
+Now, they call themselves the Grumpy Ogre.
+
+17
+00:01:37,920 --> 00:01:48,980
+What they've done is they've put together a site called The Dump, and it's thedump.scoutscan.com.
+
+18
+00:01:49,620 --> 00:01:57,120
+And if you'll go check it out, what you'll find is just decades' worth of scouting booklets that were published by Scouts Canada
+
+19
+00:01:57,120 --> 00:02:05,280
+and by the British Scouting Association, to name two, that have been laboriously scanned in and made into very readable PDF documents
+
+20
+00:02:05,280 --> 00:02:09,600
+and are gathered together in this wonderful virtual library.
+
+21
+00:02:10,000 --> 00:02:17,440
+And it's especially valuable to us in the States because, you know, these little booklets didn't get a lot of distribution in the United States.
+
+22
+00:02:17,540 --> 00:02:22,020
+So we have all that information now at our fingertips, and thank you, Grumpy Ogre.
+
+23
+00:02:22,300 --> 00:02:24,860
+There'll be a link to The Dump on the blog, by the way.
+
+24
+00:02:24,860 --> 00:02:31,020
+This episode, we are going to talk about, in Scout Mastership in seven minutes or less,
+
+25
+00:02:31,080 --> 00:02:33,500
+we're going to talk about an approach to national policy.
+
+26
+00:02:34,400 --> 00:02:41,480
+Then our third installment in our discussion of instructional methods for scouts.
+
+27
+00:02:42,160 --> 00:02:46,360
+Oh, in between there, I have a story about a fellow Scout Master I think you'll enjoy.
+
+28
+00:02:46,640 --> 00:02:49,780
+We'll wind up with a little moment of serendipity,
+
+29
+00:02:49,780 --> 00:02:55,260
+especially when we think that our troop or our pack or our crew is just a terrible mess.
+
+30
+00:02:56,000 --> 00:02:57,920
+Because we have all been there.
+
+31
+00:02:58,200 --> 00:03:03,800
+Today is February 8, 2010, and everybody knows what happens today.
+
+32
+00:03:03,920 --> 00:03:05,300
+Is that right? Does everybody know?
+
+33
+00:03:05,300 --> 00:03:13,060
+That looks great.
+
+34
+00:03:18,020 --> 00:03:21,560
+It's the centenary of the Boy Scouts of America.
+
+35
+00:03:21,560 --> 00:03:30,860
+Boy Scouts of America, 100 years old today.
+
+36
+00:03:31,480 --> 00:03:38,180
+It all began very simply with an old war horse of a British soldier named Sir Robert Baden-Powell,
+
+37
+00:03:38,720 --> 00:03:39,360
+who said,
+
+38
+00:03:39,360 --> 00:04:01,640
+I mean, this idea is so simple,
+
+39
+00:04:01,640 --> 00:04:05,579
+and just so direct and so adaptable
+
+40
+00:04:05,579 --> 00:04:09,380
+that it would soon spread around the world
+
+41
+00:04:09,380 --> 00:04:13,220
+and find its way into every corner of the world
+
+42
+00:04:13,220 --> 00:04:15,279
+and nearly every country in the world
+
+43
+00:04:15,279 --> 00:04:19,380
+because anybody could apply the principles of it.
+
+44
+00:04:20,979 --> 00:04:22,460
+Baden-Powell also said,
+
+45
+00:04:22,580 --> 00:04:23,180
+to an outsider,
+
+46
+00:04:23,340 --> 00:04:26,060
+scouting must at first appear to be a very complex matter,
+
+47
+00:04:26,260 --> 00:04:29,900
+and many a man is probably put off from becoming a Scout Master
+
+48
+00:04:29,900 --> 00:04:32,620
+because of the enormous number and variety of things
+
+49
+00:04:32,620 --> 00:04:34,260
+that he thinks he would have to know
+
+50
+00:04:34,260 --> 00:04:35,960
+in order to teach his boys.
+
+51
+00:04:36,239 --> 00:04:37,620
+But it need not be so
+
+52
+00:04:37,620 --> 00:04:40,039
+if the man will only realize the following points.
+
+53
+00:04:40,280 --> 00:04:41,460
+This is how simple it is.
+
+54
+00:04:41,479 --> 00:04:42,219
+There's three things.
+
+55
+00:04:42,760 --> 00:04:44,919
+The aim of scouting is quite a simple one.
+
+56
+00:04:46,159 --> 00:04:48,419
+The Scout Master gives to the boy
+
+57
+00:04:48,419 --> 00:04:51,080
+the ambition and desire to learn for himself
+
+58
+00:04:51,080 --> 00:04:53,960
+by suggesting to him activities which attract him
+
+59
+00:04:53,960 --> 00:04:56,080
+and which he pursues
+
+60
+00:04:56,080 --> 00:04:58,599
+till he, by experience, does them right.
+
+61
+00:04:58,600 --> 00:05:02,720
+Such activities are suggested in the book
+
+62
+00:05:02,720 --> 00:05:03,960
+Scouting for Boys.
+
+63
+00:05:04,400 --> 00:05:05,060
+And number three,
+
+64
+00:05:06,560 --> 00:05:08,780
+the Scout Master works through his patrol leaders.
+
+65
+00:05:09,500 --> 00:05:10,300
+Both of these things,
+
+66
+00:05:10,380 --> 00:05:11,260
+both of those little quotes
+
+67
+00:05:11,260 --> 00:05:14,140
+are from Baden-Powell's aides to Scout Mastership,
+
+68
+00:05:14,220 --> 00:05:14,680
+by the way.
+
+69
+00:05:16,220 --> 00:05:17,300
+W.D. Boyce,
+
+70
+00:05:18,060 --> 00:05:19,540
+a publisher and a businessman,
+
+71
+00:05:20,640 --> 00:05:22,460
+discovered scouting,
+
+72
+00:05:23,100 --> 00:05:24,520
+you know, quite by accident
+
+73
+00:05:24,520 --> 00:05:26,320
+when he visited London
+
+74
+00:05:26,320 --> 00:05:28,440
+and he brought it to the United States
+
+75
+00:05:28,440 --> 00:05:30,140
+in 1910.
+
+76
+00:05:30,920 --> 00:05:32,420
+And his newly minted
+
+77
+00:05:32,420 --> 00:05:33,800
+Boy Scouts of America
+
+78
+00:05:33,800 --> 00:05:36,420
+found a very eager following
+
+79
+00:05:36,420 --> 00:05:38,280
+and quickly spread throughout the country.
+
+80
+00:05:39,640 --> 00:05:41,180
+And a hundred years later,
+
+81
+00:05:41,320 --> 00:05:43,280
+our future depends on
+
+82
+00:05:43,280 --> 00:05:46,500
+an ever-renewed sense of relevance.
+
+83
+00:05:47,159 --> 00:05:48,280
+And this is going to be
+
+84
+00:05:48,280 --> 00:05:49,180
+one of those questions
+
+85
+00:05:49,180 --> 00:05:50,680
+that we're going to hear asked
+
+86
+00:05:50,680 --> 00:05:52,800
+many more than a hundred times
+
+87
+00:05:52,800 --> 00:05:53,600
+over the coming year.
+
+88
+00:05:53,600 --> 00:05:56,060
+Is the Boy Scouts of America still relevant?
+
+89
+00:05:56,520 --> 00:05:57,860
+Is scouting still relevant
+
+90
+00:05:57,860 --> 00:05:59,680
+in this day and age?
+
+91
+00:06:01,300 --> 00:06:03,260
+Well, our Chief Scout Executive,
+
+92
+00:06:03,460 --> 00:06:05,720
+Bob Mazzucca,
+
+93
+00:06:06,300 --> 00:06:06,920
+said this.
+
+94
+00:06:06,960 --> 00:06:07,220
+He said,
+
+95
+00:06:07,280 --> 00:06:08,120
+over a hundred years,
+
+96
+00:06:08,200 --> 00:06:09,240
+you've got a little arthritic
+
+97
+00:06:09,240 --> 00:06:10,080
+and bureaucratic.
+
+98
+00:06:10,920 --> 00:06:12,360
+We're steeped in tradition,
+
+99
+00:06:12,600 --> 00:06:13,740
+which is a good thing.
+
+100
+00:06:14,460 --> 00:06:15,940
+But we're not particularly good
+
+101
+00:06:15,940 --> 00:06:17,160
+at innovation and renewal.
+
+102
+00:06:17,380 --> 00:06:19,140
+We don't want to abandon tradition,
+
+103
+00:06:19,600 --> 00:06:20,940
+but we want to be nimble.
+
+104
+00:06:20,940 --> 00:06:23,320
+He then went on to say,
+
+105
+00:06:23,620 --> 00:06:25,140
+we run the risk of becoming irrelevant
+
+106
+00:06:25,140 --> 00:06:26,820
+if we don't adapt to things
+
+107
+00:06:26,820 --> 00:06:28,480
+that attract kids today.
+
+108
+00:06:28,719 --> 00:06:31,040
+But we run the risk of losing our way
+
+109
+00:06:31,040 --> 00:06:32,520
+if we abandon the principles,
+
+110
+00:06:32,920 --> 00:06:34,200
+which is the Scout law.
+
+111
+00:06:35,500 --> 00:06:36,800
+So this week,
+
+112
+00:06:38,680 --> 00:06:40,280
+somewhere around five million
+
+113
+00:06:40,280 --> 00:06:42,060
+of us scouts and leaders
+
+114
+00:06:42,060 --> 00:06:43,200
+will carry out
+
+115
+00:06:43,200 --> 00:06:45,600
+this simple vital work
+
+116
+00:06:45,600 --> 00:06:46,900
+by, you know,
+
+117
+00:06:46,980 --> 00:06:48,700
+doing any one of a dozen things.
+
+118
+00:06:48,700 --> 00:06:49,599
+We'll be at a meeting
+
+119
+00:06:49,599 --> 00:06:51,479
+or we'll be on a camping trip
+
+120
+00:06:51,479 --> 00:06:52,719
+or something like that.
+
+121
+00:06:52,880 --> 00:06:56,560
+And it does us well to pause
+
+122
+00:06:56,560 --> 00:06:58,060
+and remember we stand on the shoulders
+
+123
+00:06:58,060 --> 00:06:59,400
+of a lot of people.
+
+124
+00:07:00,520 --> 00:07:02,500
+And if you just think for a moment
+
+125
+00:07:02,500 --> 00:07:05,719
+and you've been in scouting for a while,
+
+126
+00:07:05,840 --> 00:07:08,659
+you know you can call the name
+
+127
+00:07:08,659 --> 00:07:09,880
+of dozens of people
+
+128
+00:07:09,880 --> 00:07:11,960
+who have helped you along the way.
+
+129
+00:07:11,960 --> 00:07:14,520
+So to mark this centenary,
+
+130
+00:07:14,859 --> 00:07:17,060
+let's go back to 1937.
+
+131
+00:07:17,700 --> 00:07:20,060
+It is the 80th birthday
+
+132
+00:07:20,060 --> 00:07:23,460
+of Robert Baden-Powell.
+
+133
+00:07:24,599 --> 00:07:27,200
+And he makes this recording.
+
+134
+00:07:27,200 --> 00:07:31,320
+My dear brother Scouts,
+
+135
+00:07:31,659 --> 00:07:33,320
+I am 80 years old.
+
+136
+00:07:33,840 --> 00:07:34,800
+What do you think of that?
+
+137
+00:07:35,340 --> 00:07:36,800
+But I can't say that I feel
+
+138
+00:07:36,800 --> 00:07:38,780
+very much older than some of you.
+
+139
+00:07:39,340 --> 00:07:40,740
+I did a good lot of traveling,
+
+140
+00:07:41,159 --> 00:07:42,360
+which opened my eyes
+
+141
+00:07:42,360 --> 00:07:43,320
+to other countries
+
+142
+00:07:43,320 --> 00:07:44,480
+and other peoples
+
+143
+00:07:44,480 --> 00:07:45,460
+and their ways.
+
+144
+00:07:46,060 --> 00:07:47,140
+I played games
+
+145
+00:07:47,140 --> 00:07:48,180
+and got healthy
+
+146
+00:07:48,180 --> 00:07:50,020
+and I did exploring
+
+147
+00:07:50,020 --> 00:07:51,760
+and got lots of adventure.
+
+148
+00:07:52,800 --> 00:07:54,640
+Yes, I thoroughly enjoyed my life.
+
+149
+00:07:54,640 --> 00:07:56,539
+And though I had no money
+
+150
+00:07:56,539 --> 00:07:59,000
+except what I earned by my work,
+
+151
+00:07:59,840 --> 00:08:01,099
+I got lots of pleasure.
+
+152
+00:08:01,599 --> 00:08:02,500
+But after a time,
+
+153
+00:08:02,599 --> 00:08:03,940
+I found there was a difference
+
+154
+00:08:03,940 --> 00:08:05,960
+between pleasure and happiness.
+
+155
+00:08:07,020 --> 00:08:08,419
+Happiness is another thing.
+
+156
+00:08:09,099 --> 00:08:09,900
+It is a joy
+
+157
+00:08:09,900 --> 00:08:11,659
+which lasts with you always.
+
+158
+00:08:12,400 --> 00:08:13,500
+And it comes largely
+
+159
+00:08:13,500 --> 00:08:15,580
+not so much from amusing yourself
+
+160
+00:08:15,580 --> 00:08:18,120
+as from doing good turns
+
+161
+00:08:18,120 --> 00:08:19,659
+which help other people.
+
+162
+00:08:21,460 --> 00:08:23,960
+80 years may seem to you a long time.
+
+163
+00:08:24,640 --> 00:08:26,320
+But in all my 80 years,
+
+164
+00:08:26,640 --> 00:08:28,280
+I can't remember a time
+
+165
+00:08:28,280 --> 00:08:29,599
+when I wasn't busy.
+
+166
+00:08:30,400 --> 00:08:31,880
+And so long as you are busy,
+
+167
+00:08:32,199 --> 00:08:33,799
+you can't help being cheerful.
+
+168
+00:08:35,179 --> 00:08:37,000
+So if ever you find yourself
+
+169
+00:08:37,000 --> 00:08:38,100
+without something to do,
+
+170
+00:08:38,520 --> 00:08:39,699
+remember there are always
+
+171
+00:08:39,699 --> 00:08:41,380
+lots of people wanting help
+
+172
+00:08:41,380 --> 00:08:42,740
+who would be only too glad
+
+173
+00:08:42,740 --> 00:08:43,860
+of a helping hand.
+
+174
+00:08:44,480 --> 00:08:45,720
+If you go and help them
+
+175
+00:08:45,720 --> 00:08:46,880
+and cheer them up,
+
+176
+00:08:47,580 --> 00:08:48,740
+a funny thing happens.
+
+177
+00:08:49,480 --> 00:08:51,780
+You find that by making others happy,
+
+178
+00:08:51,780 --> 00:08:53,280
+you're making yourself
+
+179
+00:08:53,280 --> 00:08:54,600
+all the happier too.
+
+180
+00:08:55,740 --> 00:08:57,100
+I want you to have
+
+181
+00:08:57,100 --> 00:08:58,720
+as long and jolly a life
+
+182
+00:08:58,720 --> 00:08:59,480
+as I've had.
+
+183
+00:08:59,980 --> 00:09:01,079
+And you can get it
+
+184
+00:09:01,079 --> 00:09:03,380
+if you keep yourself healthy
+
+185
+00:09:03,380 --> 00:09:05,120
+and helpful to others.
+
+186
+00:09:05,780 --> 00:09:07,720
+I'll tell you my secret for this.
+
+187
+00:09:08,579 --> 00:09:10,459
+I've always tried to carry out
+
+188
+00:09:10,459 --> 00:09:11,339
+the Scout promise
+
+189
+00:09:11,339 --> 00:09:12,920
+and the Scout law
+
+190
+00:09:12,920 --> 00:09:14,380
+in all that I do.
+
+191
+00:09:14,380 --> 00:09:16,200
+If you do that,
+
+192
+00:09:16,439 --> 00:09:17,380
+you will make a success
+
+193
+00:09:17,380 --> 00:09:18,060
+of your life
+
+194
+00:09:18,060 --> 00:09:20,420
+and will have a very happy time
+
+195
+00:09:20,420 --> 00:09:22,420
+even if you live to be 80
+
+196
+00:09:22,420 --> 00:09:23,200
+like me.
+
+197
+00:09:24,100 --> 00:09:25,080
+Thank you so much,
+
+198
+00:09:25,160 --> 00:09:25,600
+Sir Robert.
+
+199
+00:09:26,360 --> 00:09:27,660
+We're going to get back to work,
+
+200
+00:09:27,880 --> 00:09:28,900
+keep ourselves busy
+
+201
+00:09:28,900 --> 00:09:30,240
+here at the Scoutmaster Podcast
+
+202
+00:09:30,240 --> 00:09:32,800
+and wish you a very fine centenary
+
+203
+00:09:32,800 --> 00:09:34,640
+in this 100th year
+
+204
+00:09:34,640 --> 00:09:36,820
+of the Boy Scouts of America.
+
+205
+00:09:36,820 --> 00:09:41,640
+Scoutmastership in 7 minutes
+
+206
+00:09:41,640 --> 00:09:43,540
+or less.
+
+207
+00:09:50,320 --> 00:09:52,540
+Hey, we have a nationwide
+
+208
+00:09:52,540 --> 00:09:53,600
+Scout movement
+
+209
+00:09:53,600 --> 00:09:55,000
+in the Boy Scouts of America.
+
+210
+00:09:55,500 --> 00:09:56,640
+2.8 million youth
+
+211
+00:09:56,640 --> 00:09:58,880
+and 1.3 million adult participants.
+
+212
+00:09:59,660 --> 00:10:01,800
+Right around 5 million people
+
+213
+00:10:01,800 --> 00:10:02,700
+involved in Scouting
+
+214
+00:10:02,700 --> 00:10:03,560
+in one way or another.
+
+215
+00:10:03,560 --> 00:10:06,060
+And this whole movement
+
+216
+00:10:06,060 --> 00:10:08,319
+is all about policies
+
+217
+00:10:08,319 --> 00:10:08,959
+and procedures.
+
+218
+00:10:10,479 --> 00:10:11,339
+Yeah, it is.
+
+219
+00:10:11,780 --> 00:10:12,439
+Administering it
+
+220
+00:10:12,439 --> 00:10:13,219
+is about policies
+
+221
+00:10:13,219 --> 00:10:13,819
+and procedures.
+
+222
+00:10:13,959 --> 00:10:15,119
+You may not like that idea,
+
+223
+00:10:15,420 --> 00:10:16,459
+but it really is.
+
+224
+00:10:17,780 --> 00:10:19,739
+And what I'm trying
+
+225
+00:10:19,739 --> 00:10:20,400
+to get across
+
+226
+00:10:20,400 --> 00:10:23,359
+in my thinking here
+
+227
+00:10:23,359 --> 00:10:25,099
+is that sometimes
+
+228
+00:10:25,099 --> 00:10:27,819
+we have practices
+
+229
+00:10:27,819 --> 00:10:28,859
+and traditions
+
+230
+00:10:28,859 --> 00:10:31,479
+that have gone
+
+231
+00:10:31,479 --> 00:10:32,599
+off the rails
+
+232
+00:10:32,600 --> 00:10:34,200
+in one way or another
+
+233
+00:10:34,200 --> 00:10:35,940
+and are hurting
+
+234
+00:10:35,940 --> 00:10:38,040
+your effectiveness
+
+235
+00:10:38,040 --> 00:10:39,780
+as a Scout troop
+
+236
+00:10:39,780 --> 00:10:41,020
+or a Venture crew
+
+237
+00:10:41,020 --> 00:10:41,940
+or a Cub Pack.
+
+238
+00:10:42,120 --> 00:10:43,040
+Let me give you an example.
+
+239
+00:10:44,300 --> 00:10:45,400
+How many of you
+
+240
+00:10:45,400 --> 00:10:47,220
+make a boy
+
+241
+00:10:47,220 --> 00:10:48,160
+who is going
+
+242
+00:10:48,160 --> 00:10:49,280
+to get the Scout badge
+
+243
+00:10:49,280 --> 00:10:49,880
+memorize
+
+244
+00:10:49,880 --> 00:10:51,740
+the Scout Oath
+
+245
+00:10:51,740 --> 00:10:52,280
+and Law?
+
+246
+00:10:52,740 --> 00:10:53,280
+Hands up.
+
+247
+00:10:53,820 --> 00:10:54,880
+I see a lot of hands
+
+248
+00:10:54,880 --> 00:10:55,280
+out there.
+
+249
+00:10:55,440 --> 00:10:55,980
+I used to.
+
+250
+00:10:56,340 --> 00:10:57,200
+I used to.
+
+251
+00:10:58,200 --> 00:10:59,000
+Well, if you go
+
+252
+00:10:59,000 --> 00:10:59,860
+and look at the requirement,
+
+253
+00:11:00,100 --> 00:11:00,900
+the requirement says
+
+254
+00:11:00,900 --> 00:11:01,900
+understand and agree
+
+255
+00:11:01,900 --> 00:11:02,579
+to live by
+
+256
+00:11:02,579 --> 00:11:04,240
+the Scout Oath
+
+257
+00:11:04,240 --> 00:11:04,740
+and Promise
+
+258
+00:11:04,740 --> 00:11:05,439
+and the Scout Law,
+
+259
+00:11:05,520 --> 00:11:05,800
+the motto,
+
+260
+00:11:05,900 --> 00:11:06,260
+the slogan,
+
+261
+00:11:06,340 --> 00:11:07,060
+and the outdoor code.
+
+262
+00:11:07,120 --> 00:11:07,860
+That's what it says.
+
+263
+00:11:07,920 --> 00:11:08,720
+That's the requirement.
+
+264
+00:11:09,100 --> 00:11:10,040
+It's very specific,
+
+265
+00:11:10,199 --> 00:11:10,600
+isn't it?
+
+266
+00:11:11,079 --> 00:11:12,100
+Understand and agree
+
+267
+00:11:12,100 --> 00:11:12,600
+to live by.
+
+268
+00:11:12,640 --> 00:11:13,600
+It does not say memorize.
+
+269
+00:11:14,340 --> 00:11:15,260
+It does not say
+
+270
+00:11:15,260 --> 00:11:15,920
+repeat from memory.
+
+271
+00:11:16,020 --> 00:11:17,040
+That's in the
+
+272
+00:11:17,040 --> 00:11:18,000
+Tenderfoot requirement.
+
+273
+00:11:18,840 --> 00:11:19,380
+It says,
+
+274
+00:11:19,840 --> 00:11:20,980
+the Tenderfoot requirement
+
+275
+00:11:20,980 --> 00:11:21,740
+says repeat
+
+276
+00:11:21,740 --> 00:11:23,000
+from memory
+
+277
+00:11:23,000 --> 00:11:24,540
+and explain
+
+278
+00:11:24,540 --> 00:11:25,579
+in your own words
+
+279
+00:11:25,579 --> 00:11:26,420
+the Scout Oath
+
+280
+00:11:26,420 --> 00:11:26,660
+law,
+
+281
+00:11:26,740 --> 00:11:27,000
+motto,
+
+282
+00:11:27,040 --> 00:11:27,500
+and slogan.
+
+283
+00:11:27,500 --> 00:11:29,600
+Hey, we want boys
+
+284
+00:11:29,600 --> 00:11:30,380
+to become Scouts
+
+285
+00:11:30,380 --> 00:11:31,160
+in minutes,
+
+286
+00:11:31,680 --> 00:11:33,040
+not hours and hours.
+
+287
+00:11:33,740 --> 00:11:34,040
+Okay?
+
+288
+00:11:34,220 --> 00:11:35,080
+We don't want to make it
+
+289
+00:11:35,080 --> 00:11:35,960
+artificially difficult
+
+290
+00:11:35,960 --> 00:11:36,380
+for them.
+
+291
+00:11:36,440 --> 00:11:36,940
+The Scout badge
+
+292
+00:11:36,940 --> 00:11:37,540
+is simple.
+
+293
+00:11:38,060 --> 00:11:39,180
+It's the joining badge.
+
+294
+00:11:40,440 --> 00:11:41,700
+Learn to tie a square knot.
+
+295
+00:11:42,920 --> 00:11:44,000
+Realize a couple of things.
+
+296
+00:11:44,120 --> 00:11:44,620
+Think about them
+
+297
+00:11:44,620 --> 00:11:45,060
+a little bit.
+
+298
+00:11:45,160 --> 00:11:45,780
+Have your folks
+
+299
+00:11:45,780 --> 00:11:47,520
+go through the book
+
+300
+00:11:47,520 --> 00:11:47,740
+with you.
+
+301
+00:11:47,840 --> 00:11:48,680
+Hey, bada bing,
+
+302
+00:11:48,780 --> 00:11:49,180
+bada boom.
+
+303
+00:11:49,500 --> 00:11:50,080
+It's done.
+
+304
+00:11:51,120 --> 00:11:52,000
+And it should be.
+
+305
+00:11:53,140 --> 00:11:53,980
+It's not something
+
+306
+00:11:53,980 --> 00:11:54,600
+that you want to put
+
+307
+00:11:54,600 --> 00:11:55,520
+artificial barriers
+
+308
+00:11:55,520 --> 00:11:56,100
+in front of.
+
+309
+00:11:56,100 --> 00:11:57,380
+Now, I'm not going
+
+310
+00:11:57,380 --> 00:11:57,780
+to sit here
+
+311
+00:11:57,780 --> 00:11:58,520
+and harp about
+
+312
+00:11:58,520 --> 00:11:59,240
+the fact that
+
+313
+00:11:59,240 --> 00:11:59,680
+some of you
+
+314
+00:11:59,680 --> 00:12:00,800
+are making a Scout
+
+315
+00:12:00,800 --> 00:12:02,460
+memorize the Scout
+
+316
+00:12:02,460 --> 00:12:03,080
+Oath and Law.
+
+317
+00:12:03,400 --> 00:12:03,980
+I'm not going to harp.
+
+318
+00:12:04,540 --> 00:12:05,760
+Listen, I used to do it
+
+319
+00:12:05,760 --> 00:12:06,980
+and I used to think,
+
+320
+00:12:07,080 --> 00:12:08,060
+well, what's the difficulty
+
+321
+00:12:08,060 --> 00:12:09,340
+of having a higher standard?
+
+322
+00:12:10,300 --> 00:12:11,700
+How could that be
+
+323
+00:12:11,700 --> 00:12:13,420
+disruptive or difficult?
+
+324
+00:12:14,040 --> 00:12:14,900
+Well, first of all,
+
+325
+00:12:15,260 --> 00:12:16,340
+it's just plain wrong.
+
+326
+00:12:17,320 --> 00:12:18,380
+I shouldn't be able
+
+327
+00:12:18,380 --> 00:12:19,520
+to adjust the standards
+
+328
+00:12:19,520 --> 00:12:21,040
+as I see them fit
+
+329
+00:12:21,040 --> 00:12:24,160
+and as I interpret them
+
+330
+00:12:24,160 --> 00:12:25,600
+when they're clearly
+
+331
+00:12:25,600 --> 00:12:27,220
+when my interpretation
+
+332
+00:12:27,220 --> 00:12:28,700
+is clearly in contravention
+
+333
+00:12:28,700 --> 00:12:30,020
+of what's in the requirement.
+
+334
+00:12:31,080 --> 00:12:31,220
+Okay?
+
+335
+00:12:31,700 --> 00:12:32,820
+That should never happen.
+
+336
+00:12:33,880 --> 00:12:35,560
+And b, you know what?
+
+337
+00:12:36,020 --> 00:12:37,260
+We've had 100 years
+
+338
+00:12:37,260 --> 00:12:39,160
+in the Boy Scouts of America,
+
+339
+00:12:39,300 --> 00:12:40,080
+I've had 100 years
+
+340
+00:12:40,080 --> 00:12:40,660
+to figure some
+
+341
+00:12:40,660 --> 00:12:41,300
+of this stuff out.
+
+342
+00:12:41,360 --> 00:12:41,940
+I'm going to trust
+
+343
+00:12:41,940 --> 00:12:42,780
+what they've figured out.
+
+344
+00:12:43,700 --> 00:12:45,440
+If I can't rationalize it
+
+345
+00:12:45,440 --> 00:12:46,320
+and I can't figure it out
+
+346
+00:12:46,320 --> 00:12:46,920
+for myself,
+
+347
+00:12:47,480 --> 00:12:49,260
+then I'm going to work hard
+
+348
+00:12:49,260 --> 00:12:50,160
+at it until I can
+
+349
+00:12:50,160 --> 00:12:51,700
+and know the reason
+
+350
+00:12:51,700 --> 00:12:52,320
+that it's there.
+
+351
+00:12:52,320 --> 00:12:54,840
+And I haven't found anything
+
+352
+00:12:54,840 --> 00:12:56,820
+in national policy
+
+353
+00:12:56,820 --> 00:12:57,740
+or in requirements
+
+354
+00:12:57,740 --> 00:12:58,660
+or anything like that
+
+355
+00:12:58,660 --> 00:13:00,780
+that doesn't have its root
+
+356
+00:13:00,780 --> 00:13:02,160
+in a common sense approach
+
+357
+00:13:02,160 --> 00:13:04,060
+and the goals of scouting.
+
+358
+00:13:05,560 --> 00:13:06,920
+So what do we need to do?
+
+359
+00:13:07,260 --> 00:13:10,120
+Well, what we really need to do
+
+360
+00:13:10,120 --> 00:13:14,180
+is not become, you know,
+
+361
+00:13:14,340 --> 00:13:16,600
+little lawyers
+
+362
+00:13:16,600 --> 00:13:18,720
+and go around
+
+363
+00:13:18,720 --> 00:13:20,100
+with national policy manuals
+
+364
+00:13:20,100 --> 00:13:22,160
+and try and fix everything.
+
+365
+00:13:22,480 --> 00:13:23,920
+But we do need to examine
+
+366
+00:13:23,920 --> 00:13:24,720
+some of the traditions
+
+367
+00:13:24,720 --> 00:13:25,300
+and assumptions
+
+368
+00:13:25,300 --> 00:13:26,440
+about scouting, don't we?
+
+369
+00:13:26,460 --> 00:13:27,240
+Here's another one.
+
+370
+00:13:27,720 --> 00:13:27,980
+Okay?
+
+371
+00:13:28,460 --> 00:13:29,640
+This one is shocking.
+
+372
+00:13:30,020 --> 00:13:31,120
+This one...
+
+373
+00:13:31,120 --> 00:13:33,400
+I'm going to get letters
+
+374
+00:13:33,400 --> 00:13:34,080
+about this.
+
+375
+00:13:34,200 --> 00:13:34,460
+Okay?
+
+376
+00:13:36,340 --> 00:13:38,080
+So you have a tradition
+
+377
+00:13:38,080 --> 00:13:38,740
+in your troop,
+
+378
+00:13:38,740 --> 00:13:39,600
+I will bet,
+
+379
+00:13:39,980 --> 00:13:42,920
+where you require a scout
+
+380
+00:13:42,920 --> 00:13:44,600
+to be in a Class A uniform
+
+381
+00:13:44,600 --> 00:13:45,860
+for a board of review.
+
+382
+00:13:46,600 --> 00:13:48,680
+Yep.
+
+383
+00:13:49,220 --> 00:13:50,320
+I see some hands up.
+
+384
+00:13:50,480 --> 00:13:50,780
+Okay.
+
+385
+00:13:51,640 --> 00:13:52,320
+Do you know that
+
+386
+00:13:52,320 --> 00:13:53,460
+you can't do that?
+
+387
+00:13:54,920 --> 00:13:55,660
+What do you mean
+
+388
+00:13:55,660 --> 00:13:56,400
+I can't do that?
+
+389
+00:13:56,420 --> 00:13:57,340
+Of course I can require
+
+390
+00:13:57,340 --> 00:13:57,640
+the board of review
+
+391
+00:13:57,640 --> 00:13:58,380
+to have a uniform
+
+392
+00:13:58,380 --> 00:13:59,300
+and appear in a uniform.
+
+393
+00:13:59,780 --> 00:14:00,340
+We don't let them
+
+394
+00:14:00,340 --> 00:14:01,340
+into a board of review
+
+395
+00:14:01,340 --> 00:14:01,980
+unless they have
+
+396
+00:14:01,980 --> 00:14:02,680
+a uniform on.
+
+397
+00:14:03,240 --> 00:14:04,300
+All right, smarty guy.
+
+398
+00:14:04,980 --> 00:14:05,700
+Find me
+
+399
+00:14:05,700 --> 00:14:07,080
+in writing
+
+400
+00:14:07,080 --> 00:14:09,660
+in national policy,
+
+401
+00:14:09,800 --> 00:14:11,200
+not in your troop handbook,
+
+402
+00:14:12,060 --> 00:14:13,480
+but in national policy
+
+403
+00:14:13,480 --> 00:14:14,740
+where it requires a boy
+
+404
+00:14:14,740 --> 00:14:15,860
+to own a scout uniform.
+
+405
+00:14:15,860 --> 00:14:17,120
+Much less
+
+406
+00:14:17,120 --> 00:14:18,440
+appear at a board of review
+
+407
+00:14:18,440 --> 00:14:19,540
+in a scout uniform.
+
+408
+00:14:21,440 --> 00:14:23,200
+Oh, now you're just crazy.
+
+409
+00:14:24,260 --> 00:14:25,180
+Of course they have
+
+410
+00:14:25,180 --> 00:14:25,840
+to own a uniform.
+
+411
+00:14:26,440 --> 00:14:26,620
+Yep.
+
+412
+00:14:26,840 --> 00:14:27,320
+Find it.
+
+413
+00:14:27,880 --> 00:14:28,580
+Email it to me.
+
+414
+00:14:28,780 --> 00:14:29,200
+I'll send you
+
+415
+00:14:29,200 --> 00:14:30,440
+a crisp $100 bill.
+
+416
+00:14:30,900 --> 00:14:32,160
+My $100 bill is safe.
+
+417
+00:14:33,740 --> 00:14:34,600
+There's nothing
+
+418
+00:14:34,600 --> 00:14:36,740
+in our national policy
+
+419
+00:14:36,740 --> 00:14:38,060
+that says a boy
+
+420
+00:14:38,060 --> 00:14:38,860
+must own
+
+421
+00:14:38,860 --> 00:14:40,020
+and wear
+
+422
+00:14:40,020 --> 00:14:40,980
+a scout uniform.
+
+423
+00:14:40,980 --> 00:14:43,060
+It says that any boy
+
+424
+00:14:43,060 --> 00:14:43,780
+who is a scout
+
+425
+00:14:43,780 --> 00:14:44,540
+would want to,
+
+426
+00:14:45,440 --> 00:14:47,100
+but it doesn't insist
+
+427
+00:14:47,100 --> 00:14:47,540
+upon it
+
+428
+00:14:47,540 --> 00:14:48,400
+or require it
+
+429
+00:14:48,400 --> 00:14:49,120
+in any way.
+
+430
+00:14:49,620 --> 00:14:50,340
+So when you're
+
+431
+00:14:50,340 --> 00:14:51,000
+requiring that
+
+432
+00:14:51,000 --> 00:14:51,820
+as a troop,
+
+433
+00:14:51,920 --> 00:14:52,320
+are you allowed
+
+434
+00:14:52,320 --> 00:14:52,760
+to do that?
+
+435
+00:14:52,900 --> 00:14:53,120
+No.
+
+436
+00:14:53,580 --> 00:14:53,860
+No.
+
+437
+00:14:54,420 --> 00:14:55,180
+You're really not.
+
+438
+00:14:56,040 --> 00:14:57,040
+Should you encourage it?
+
+439
+00:14:57,100 --> 00:14:57,580
+Of course.
+
+440
+00:14:57,780 --> 00:14:58,540
+Should you support it?
+
+441
+00:14:58,600 --> 00:14:59,100
+Of course.
+
+442
+00:14:59,440 --> 00:14:59,840
+We do.
+
+443
+00:15:00,840 --> 00:15:01,720
+But I'm not going
+
+444
+00:15:01,720 --> 00:15:02,540
+to turn a boy away
+
+445
+00:15:02,540 --> 00:15:03,240
+who doesn't have
+
+446
+00:15:03,240 --> 00:15:03,840
+a scout uniform
+
+447
+00:15:03,840 --> 00:15:06,560
+from a board of review
+
+448
+00:15:06,560 --> 00:15:08,020
+because it's
+
+449
+00:15:08,020 --> 00:15:08,600
+in contradiction
+
+450
+00:15:08,600 --> 00:15:09,960
+of policy.
+
+451
+00:15:11,120 --> 00:15:11,300
+Hey,
+
+452
+00:15:12,220 --> 00:15:13,520
+if a boy shows up
+
+453
+00:15:13,520 --> 00:15:14,360
+for a board of review,
+
+454
+00:15:14,600 --> 00:15:15,960
+he should at all costs
+
+455
+00:15:15,960 --> 00:15:16,660
+be able to go
+
+456
+00:15:16,660 --> 00:15:17,540
+through that board of review.
+
+457
+00:15:18,660 --> 00:15:18,980
+Sure.
+
+458
+00:15:19,260 --> 00:15:20,000
+Ask a question
+
+459
+00:15:20,000 --> 00:15:20,720
+about the uniform.
+
+460
+00:15:20,920 --> 00:15:21,660
+That's no problem.
+
+461
+00:15:23,280 --> 00:15:24,460
+And a class A uniform?
+
+462
+00:15:24,700 --> 00:15:25,120
+Eh, there ain't
+
+463
+00:15:25,120 --> 00:15:25,700
+no class A,
+
+464
+00:15:25,760 --> 00:15:26,280
+no class B,
+
+465
+00:15:26,340 --> 00:15:26,760
+but you already
+
+466
+00:15:26,760 --> 00:15:27,400
+knew that, right?
+
+467
+00:15:28,680 --> 00:15:29,140
+Oh, no.
+
+468
+00:15:29,340 --> 00:15:29,960
+There really isn't.
+
+469
+00:15:30,160 --> 00:15:30,920
+Look at your uniform
+
+470
+00:15:30,920 --> 00:15:31,780
+and insignia guide.
+
+471
+00:15:32,160 --> 00:15:33,040
+Find me where it says
+
+472
+00:15:33,040 --> 00:15:33,939
+class A, class B.
+
+473
+00:15:34,699 --> 00:15:35,699
+No, doesn't happen.
+
+474
+00:15:36,339 --> 00:15:36,839
+All right,
+
+475
+00:15:36,920 --> 00:15:37,620
+so now I've been
+
+476
+00:15:37,620 --> 00:15:38,480
+Mr. Smarty Pants
+
+477
+00:15:38,480 --> 00:15:39,319
+and I've tried to
+
+478
+00:15:39,319 --> 00:15:40,240
+debug and de,
+
+479
+00:15:40,939 --> 00:15:41,400
+you know,
+
+480
+00:15:41,540 --> 00:15:43,020
+debunk a couple
+
+481
+00:15:43,020 --> 00:15:43,880
+of urban legends
+
+482
+00:15:43,880 --> 00:15:44,400
+in scouting
+
+483
+00:15:44,400 --> 00:15:45,300
+and why am I doing it?
+
+484
+00:15:45,319 --> 00:15:46,180
+Just so I can be smart
+
+485
+00:15:46,180 --> 00:15:46,719
+and the big guy?
+
+486
+00:15:46,860 --> 00:15:47,060
+No.
+
+487
+00:15:47,459 --> 00:15:48,439
+I'm doing it because
+
+488
+00:15:48,439 --> 00:15:49,459
+sometimes
+
+489
+00:15:49,459 --> 00:15:51,180
+those traditions
+
+490
+00:15:51,180 --> 00:15:51,880
+and practices
+
+491
+00:15:51,880 --> 00:15:52,939
+that are out of alignment
+
+492
+00:15:52,939 --> 00:15:55,620
+with scout policy,
+
+493
+00:15:55,800 --> 00:15:56,699
+they can look small
+
+494
+00:15:56,699 --> 00:15:58,740
+and insignificant,
+
+495
+00:15:59,120 --> 00:15:59,860
+but they really
+
+496
+00:15:59,860 --> 00:16:00,660
+do mean something
+
+497
+00:16:00,660 --> 00:16:01,819
+and it's really
+
+498
+00:16:01,819 --> 00:16:02,400
+something that we
+
+499
+00:16:02,400 --> 00:16:02,959
+should examine.
+
+500
+00:16:03,040 --> 00:16:03,839
+And it can lead us
+
+501
+00:16:03,839 --> 00:16:04,360
+even farther
+
+502
+00:16:04,360 --> 00:16:05,839
+off the path.
+
+503
+00:16:06,880 --> 00:16:07,579
+Scouting is simple.
+
+504
+00:16:08,380 --> 00:16:09,099
+Scouting is easy.
+
+505
+00:16:09,900 --> 00:16:11,060
+Scouting is not complicated.
+
+506
+00:16:11,780 --> 00:16:12,560
+Scouting is not full
+
+507
+00:16:12,560 --> 00:16:13,040
+of rules
+
+508
+00:16:13,040 --> 00:16:13,920
+and it's not full
+
+509
+00:16:13,920 --> 00:16:14,780
+of prohibitions.
+
+510
+00:16:15,439 --> 00:16:16,260
+Everything in scouting
+
+511
+00:16:16,260 --> 00:16:16,980
+is positive
+
+512
+00:16:16,980 --> 00:16:18,000
+rather than negative
+
+513
+00:16:18,000 --> 00:16:18,699
+reinforcement.
+
+514
+00:16:19,699 --> 00:16:20,699
+Every single thing.
+
+515
+00:16:21,560 --> 00:16:22,280
+There's not a lot
+
+516
+00:16:22,280 --> 00:16:23,199
+of no's out there.
+
+517
+00:16:23,860 --> 00:16:25,099
+There's a lot of yes's
+
+518
+00:16:25,099 --> 00:16:26,040
+and there's a lot of
+
+519
+00:16:26,040 --> 00:16:27,099
+this is going to be exciting
+
+520
+00:16:27,099 --> 00:16:28,180
+and there's a lot
+
+521
+00:16:28,180 --> 00:16:28,680
+of promises.
+
+522
+00:16:28,680 --> 00:16:30,599
+So aligning
+
+523
+00:16:30,599 --> 00:16:32,000
+all of your traditions
+
+524
+00:16:32,000 --> 00:16:32,699
+and practices
+
+525
+00:16:32,699 --> 00:16:34,099
+with national policy
+
+526
+00:16:34,099 --> 00:16:35,319
+is a good practice
+
+527
+00:16:35,319 --> 00:16:36,199
+because they're smarter
+
+528
+00:16:36,199 --> 00:16:36,660
+than you.
+
+529
+00:16:37,199 --> 00:16:38,099
+They've been at it
+
+530
+00:16:38,099 --> 00:16:39,140
+longer, okay?
+
+531
+00:16:39,599 --> 00:16:40,920
+And it's also
+
+532
+00:16:40,920 --> 00:16:41,880
+going to align it
+
+533
+00:16:41,880 --> 00:16:42,599
+with the spirit
+
+534
+00:16:42,599 --> 00:16:43,560
+of what scouting
+
+535
+00:16:43,560 --> 00:16:44,839
+is supposed to stand for.
+
+536
+00:16:44,840 --> 00:16:56,580
+Ken Ryan retired
+
+537
+00:16:56,580 --> 00:16:58,780
+from being a scoutmaster
+
+538
+00:16:58,780 --> 00:16:59,620
+of another troop
+
+539
+00:16:59,620 --> 00:17:00,620
+in our town
+
+540
+00:17:00,620 --> 00:17:03,020
+the year that I became
+
+541
+00:17:03,020 --> 00:17:03,800
+the scoutmaster
+
+542
+00:17:03,800 --> 00:17:05,260
+of our troop.
+
+543
+00:17:05,900 --> 00:17:06,720
+So that's about
+
+544
+00:17:06,720 --> 00:17:07,800
+25 years ago.
+
+545
+00:17:08,700 --> 00:17:10,660
+Ken had several boys
+
+546
+00:17:10,660 --> 00:17:12,200
+still left in his troop
+
+547
+00:17:12,200 --> 00:17:12,780
+that had grown
+
+548
+00:17:12,780 --> 00:17:14,180
+kind of small.
+
+549
+00:17:14,839 --> 00:17:16,839
+And so he asked them
+
+550
+00:17:16,839 --> 00:17:17,740
+to come over
+
+551
+00:17:17,740 --> 00:17:18,760
+and join us
+
+552
+00:17:18,760 --> 00:17:20,899
+and Ken kept an eye
+
+553
+00:17:20,899 --> 00:17:22,379
+on me for a number
+
+554
+00:17:22,379 --> 00:17:22,919
+of years
+
+555
+00:17:22,919 --> 00:17:24,099
+and made sure that
+
+556
+00:17:24,099 --> 00:17:25,480
+I was doing a decent
+
+557
+00:17:25,480 --> 00:17:26,639
+job as a scoutmaster
+
+558
+00:17:26,639 --> 00:17:27,579
+and he always maintained
+
+559
+00:17:27,579 --> 00:17:28,399
+his registration
+
+560
+00:17:28,399 --> 00:17:29,760
+with our troop
+
+561
+00:17:29,760 --> 00:17:31,760
+all the way
+
+562
+00:17:31,760 --> 00:17:32,760
+until he passed away
+
+563
+00:17:32,760 --> 00:17:34,159
+several years ago.
+
+564
+00:17:35,300 --> 00:17:36,199
+But early on
+
+565
+00:17:36,199 --> 00:17:37,080
+I remember Ken
+
+566
+00:17:37,080 --> 00:17:38,120
+attending one of
+
+567
+00:17:38,120 --> 00:17:38,720
+the troop meetings
+
+568
+00:17:38,720 --> 00:17:40,980
+and he taught me
+
+569
+00:17:40,980 --> 00:17:41,760
+something that
+
+570
+00:17:41,760 --> 00:17:44,260
+I don't know
+
+571
+00:17:44,260 --> 00:17:45,540
+as I will ever forget
+
+572
+00:17:45,540 --> 00:17:46,540
+a very valuable
+
+573
+00:17:46,540 --> 00:17:48,000
+little piece of information.
+
+574
+00:17:57,220 --> 00:17:57,960
+At the beginning
+
+575
+00:17:57,960 --> 00:17:58,620
+of the troop meeting
+
+576
+00:17:58,620 --> 00:17:59,700
+the boys were
+
+577
+00:17:59,700 --> 00:18:00,800
+kind of milling around
+
+578
+00:18:00,800 --> 00:18:02,600
+and you know
+
+579
+00:18:02,600 --> 00:18:03,960
+making noise
+
+580
+00:18:03,960 --> 00:18:04,800
+and yapping
+
+581
+00:18:04,800 --> 00:18:05,420
+they weren't paying
+
+582
+00:18:05,420 --> 00:18:06,160
+attention to the
+
+583
+00:18:06,160 --> 00:18:06,960
+senior patrol leader
+
+584
+00:18:06,960 --> 00:18:08,060
+or anything like that.
+
+585
+00:18:08,060 --> 00:18:10,419
+Ken was standing
+
+586
+00:18:10,419 --> 00:18:10,879
+at the back
+
+587
+00:18:10,879 --> 00:18:11,240
+of the room
+
+588
+00:18:11,240 --> 00:18:11,620
+with me
+
+589
+00:18:11,620 --> 00:18:13,720
+and he watched
+
+590
+00:18:13,720 --> 00:18:14,399
+this for about
+
+591
+00:18:14,399 --> 00:18:15,000
+as long as he
+
+592
+00:18:15,000 --> 00:18:15,679
+could stand it
+
+593
+00:18:15,679 --> 00:18:18,040
+and he reared up
+
+594
+00:18:18,040 --> 00:18:18,659
+and Ken
+
+595
+00:18:18,659 --> 00:18:21,020
+is just a little
+
+596
+00:18:21,020 --> 00:18:21,760
+fire plug
+
+597
+00:18:21,760 --> 00:18:22,460
+of an Irishman
+
+598
+00:18:22,460 --> 00:18:24,980
+and very unassuming
+
+599
+00:18:24,980 --> 00:18:25,980
+very calm
+
+600
+00:18:25,980 --> 00:18:27,060
+nice fella
+
+601
+00:18:27,060 --> 00:18:29,220
+but he reared up
+
+602
+00:18:29,220 --> 00:18:30,000
+on his hind legs
+
+603
+00:18:30,000 --> 00:18:30,580
+and he said
+
+604
+00:18:30,580 --> 00:18:32,560
+be quiet
+
+605
+00:18:32,560 --> 00:18:33,740
+and line up
+
+606
+00:18:33,740 --> 00:18:35,179
+and
+
+607
+00:18:35,179 --> 00:18:39,520
+not one of the
+
+608
+00:18:39,520 --> 00:18:39,820
+scouts
+
+609
+00:18:39,820 --> 00:18:40,520
+turned around
+
+610
+00:18:40,520 --> 00:18:42,260
+they all
+
+611
+00:18:42,260 --> 00:18:42,940
+just kind of
+
+612
+00:18:42,940 --> 00:18:43,100
+went
+
+613
+00:18:43,100 --> 00:18:44,720
+and lined
+
+614
+00:18:44,720 --> 00:18:45,240
+right up
+
+615
+00:18:45,240 --> 00:18:45,919
+and paid
+
+616
+00:18:45,919 --> 00:18:46,500
+very close
+
+617
+00:18:46,500 --> 00:18:46,820
+attention
+
+618
+00:18:46,820 --> 00:18:47,360
+to the senior
+
+619
+00:18:47,360 --> 00:18:47,940
+patrol leader
+
+620
+00:18:47,940 --> 00:18:49,280
+and none of the
+
+621
+00:18:49,280 --> 00:18:49,919
+scouts ever knew
+
+622
+00:18:49,919 --> 00:18:50,360
+who the heck
+
+623
+00:18:50,360 --> 00:18:50,760
+it was.
+
+624
+00:18:50,760 --> 00:18:58,920
+So Ken taught me
+
+625
+00:18:58,920 --> 00:19:00,240
+a pretty important
+
+626
+00:19:00,240 --> 00:19:00,580
+thing
+
+627
+00:19:00,580 --> 00:19:02,540
+speak softly
+
+628
+00:19:02,540 --> 00:19:04,800
+and bark
+
+629
+00:19:04,800 --> 00:19:05,860
+every little
+
+630
+00:19:05,860 --> 00:19:06,700
+once in a while.
+
+631
+00:19:06,700 --> 00:19:07,700
+Thank you.
+
+632
+00:19:20,760 --> 00:19:27,660
+This is the third
+
+633
+00:19:27,660 --> 00:19:28,280
+in our series
+
+634
+00:19:28,280 --> 00:19:28,920
+of instructional
+
+635
+00:19:28,920 --> 00:19:29,879
+methods for scouts.
+
+636
+00:19:30,060 --> 00:19:31,000
+I'm going to remind you
+
+637
+00:19:31,000 --> 00:19:31,520
+that you can get
+
+638
+00:19:31,520 --> 00:19:32,700
+all of this information
+
+639
+00:19:32,700 --> 00:19:34,420
+in a PDF file
+
+640
+00:19:34,420 --> 00:19:35,720
+on our blog.
+
+641
+00:19:36,220 --> 00:19:37,140
+So here's two or three
+
+642
+00:19:37,140 --> 00:19:38,280
+very promising methods
+
+643
+00:19:38,280 --> 00:19:38,820
+to use
+
+644
+00:19:38,820 --> 00:19:40,120
+when you're instructing scouts.
+
+645
+00:19:40,260 --> 00:19:41,980
+One is very,
+
+646
+00:19:42,140 --> 00:19:42,640
+very simple.
+
+647
+00:19:43,280 --> 00:19:43,720
+Actually,
+
+648
+00:19:43,820 --> 00:19:44,560
+they're all pretty simple
+
+649
+00:19:44,560 --> 00:19:46,280
+but one is called
+
+650
+00:19:46,280 --> 00:19:47,060
+circling up.
+
+651
+00:19:48,060 --> 00:19:48,260
+Now,
+
+652
+00:19:48,960 --> 00:19:49,840
+what's your normal
+
+653
+00:19:49,840 --> 00:19:51,100
+picture
+
+654
+00:19:51,100 --> 00:19:52,939
+of an instructional
+
+655
+00:19:52,939 --> 00:19:54,020
+session?
+
+656
+00:19:55,580 --> 00:19:56,399
+It's mostly
+
+657
+00:19:56,399 --> 00:19:57,480
+the instructor
+
+658
+00:19:57,480 --> 00:19:58,340
+standing in front
+
+659
+00:19:58,340 --> 00:19:58,800
+of a group
+
+660
+00:19:58,800 --> 00:19:59,439
+in one way
+
+661
+00:19:59,439 --> 00:19:59,760
+or another
+
+662
+00:19:59,760 --> 00:20:00,300
+and the group
+
+663
+00:20:00,300 --> 00:20:01,740
+is very passive.
+
+664
+00:20:02,560 --> 00:20:02,699
+So,
+
+665
+00:20:03,480 --> 00:20:03,800
+you know,
+
+666
+00:20:03,860 --> 00:20:04,419
+there are going to be
+
+667
+00:20:04,419 --> 00:20:05,439
+times where we have
+
+668
+00:20:05,439 --> 00:20:06,379
+to go with
+
+669
+00:20:06,379 --> 00:20:07,639
+the you stand
+
+670
+00:20:07,639 --> 00:20:07,980
+and listen
+
+671
+00:20:07,980 --> 00:20:08,760
+while I talk
+
+672
+00:20:08,760 --> 00:20:09,100
+model.
+
+673
+00:20:09,840 --> 00:20:10,639
+So when we do
+
+674
+00:20:10,639 --> 00:20:12,100
+have to use this,
+
+675
+00:20:12,800 --> 00:20:13,600
+we want to
+
+676
+00:20:13,600 --> 00:20:14,399
+have everybody
+
+677
+00:20:14,399 --> 00:20:15,220
+standing up
+
+678
+00:20:15,220 --> 00:20:16,280
+in a circle.
+
+679
+00:20:17,740 --> 00:20:18,000
+Yep.
+
+680
+00:20:18,459 --> 00:20:19,459
+And I'm
+
+681
+00:20:19,460 --> 00:20:20,880
+I want you
+
+682
+00:20:20,880 --> 00:20:21,560
+to try this.
+
+683
+00:20:22,040 --> 00:20:22,340
+I want you
+
+684
+00:20:22,340 --> 00:20:22,800
+to make sure
+
+685
+00:20:22,800 --> 00:20:23,240
+to try it
+
+686
+00:20:23,240 --> 00:20:23,860
+a few times.
+
+687
+00:20:24,380 --> 00:20:25,280
+But if you
+
+688
+00:20:25,280 --> 00:20:25,900
+are standing
+
+689
+00:20:25,900 --> 00:20:26,580
+up in a circle,
+
+690
+00:20:26,680 --> 00:20:27,260
+there's lots
+
+691
+00:20:27,260 --> 00:20:27,920
+of interesting
+
+692
+00:20:27,920 --> 00:20:29,180
+things that happen.
+
+693
+00:20:29,500 --> 00:20:30,180
+First of all,
+
+694
+00:20:30,560 --> 00:20:31,500
+there's no layers
+
+695
+00:20:31,500 --> 00:20:31,960
+of people.
+
+696
+00:20:32,100 --> 00:20:32,640
+It's not people
+
+697
+00:20:32,640 --> 00:20:33,900
+sitting or standing
+
+698
+00:20:33,900 --> 00:20:34,540
+in rows.
+
+699
+00:20:35,180 --> 00:20:35,900
+In a circle,
+
+700
+00:20:36,100 --> 00:20:36,900
+everybody sees
+
+701
+00:20:36,900 --> 00:20:37,560
+everyone else.
+
+702
+00:20:37,700 --> 00:20:38,220
+The instructor
+
+703
+00:20:38,220 --> 00:20:39,320
+sees all of his
+
+704
+00:20:39,320 --> 00:20:40,740
+pupils and the
+
+705
+00:20:40,740 --> 00:20:41,920
+pupils can see
+
+706
+00:20:41,920 --> 00:20:42,520
+the instructor.
+
+707
+00:20:43,080 --> 00:20:43,600
+So it's hard
+
+708
+00:20:43,600 --> 00:20:44,080
+to hide.
+
+709
+00:20:44,640 --> 00:20:44,780
+Okay?
+
+710
+00:20:44,780 --> 00:20:46,500
+Second,
+
+711
+00:20:47,020 --> 00:20:47,560
+if you're
+
+712
+00:20:47,560 --> 00:20:47,980
+standing,
+
+713
+00:20:48,700 --> 00:20:49,960
+you become
+
+714
+00:20:49,960 --> 00:20:50,760
+uncomfortable
+
+715
+00:20:50,760 --> 00:20:51,980
+with just
+
+716
+00:20:51,980 --> 00:20:52,680
+kind of standing
+
+717
+00:20:52,680 --> 00:20:53,440
+there after
+
+718
+00:20:53,440 --> 00:20:54,320
+four or five
+
+719
+00:20:54,320 --> 00:20:54,639
+minutes.
+
+720
+00:20:55,000 --> 00:20:55,780
+So your lecture
+
+721
+00:20:55,780 --> 00:20:56,440
+is going to
+
+722
+00:20:56,440 --> 00:20:57,420
+necessarily be
+
+723
+00:20:57,420 --> 00:20:59,580
+limited because
+
+724
+00:20:59,580 --> 00:21:00,280
+you're not going
+
+725
+00:21:00,280 --> 00:21:01,060
+to, everybody's
+
+726
+00:21:01,060 --> 00:21:01,480
+going to start
+
+727
+00:21:01,480 --> 00:21:02,340
+shifting around
+
+728
+00:21:02,340 --> 00:21:03,120
+and getting
+
+729
+00:21:03,120 --> 00:21:04,340
+bored with
+
+730
+00:21:04,340 --> 00:21:04,980
+standing in a
+
+731
+00:21:04,980 --> 00:21:05,660
+circle listening
+
+732
+00:21:05,660 --> 00:21:06,879
+to you if you
+
+733
+00:21:06,879 --> 00:21:07,420
+go beyond,
+
+734
+00:21:07,520 --> 00:21:07,840
+you know,
+
+735
+00:21:07,879 --> 00:21:08,379
+four or five
+
+736
+00:21:08,379 --> 00:21:08,740
+minutes.
+
+737
+00:21:09,440 --> 00:21:10,860
+Our rule of
+
+738
+00:21:10,860 --> 00:21:11,600
+thumb is not to
+
+739
+00:21:11,600 --> 00:21:12,420
+lecture beyond two
+
+740
+00:21:12,420 --> 00:21:12,760
+minutes.
+
+741
+00:21:12,760 --> 00:21:13,560
+And do what
+
+742
+00:21:13,560 --> 00:21:13,980
+I do.
+
+743
+00:21:14,620 --> 00:21:15,379
+Hand one of
+
+744
+00:21:15,379 --> 00:21:15,879
+the boys a
+
+745
+00:21:15,879 --> 00:21:16,780
+stopwatch if you
+
+746
+00:21:16,780 --> 00:21:17,180
+need to.
+
+747
+00:21:18,080 --> 00:21:18,860
+Because, man,
+
+748
+00:21:18,940 --> 00:21:19,879
+I can talk the
+
+749
+00:21:19,879 --> 00:21:21,180
+legs off of an
+
+750
+00:21:21,180 --> 00:21:22,240
+iron pot and
+
+751
+00:21:22,240 --> 00:21:23,040
+everybody knows
+
+752
+00:21:23,040 --> 00:21:23,240
+it.
+
+753
+00:21:23,960 --> 00:21:25,620
+So they can
+
+754
+00:21:25,620 --> 00:21:26,540
+have a lot of
+
+755
+00:21:26,540 --> 00:21:27,300
+fun keeping me
+
+756
+00:21:27,300 --> 00:21:27,940
+to two minutes.
+
+757
+00:21:28,680 --> 00:21:29,340
+The other thing
+
+758
+00:21:29,340 --> 00:21:30,540
+is in a circle I
+
+759
+00:21:30,540 --> 00:21:32,040
+can see faces and
+
+760
+00:21:32,040 --> 00:21:32,740
+I can ask
+
+761
+00:21:32,740 --> 00:21:33,640
+questions very
+
+762
+00:21:33,640 --> 00:21:34,260
+quickly and
+
+763
+00:21:34,260 --> 00:21:35,020
+easily and it's
+
+764
+00:21:35,020 --> 00:21:35,700
+a very natural
+
+765
+00:21:35,700 --> 00:21:36,460
+type of thing.
+
+766
+00:21:37,900 --> 00:21:38,160
+You know,
+
+767
+00:21:38,200 --> 00:21:38,800
+another good
+
+768
+00:21:38,800 --> 00:21:39,560
+rule of thumb is
+
+769
+00:21:39,560 --> 00:21:40,480
+to try to ask as
+
+770
+00:21:40,480 --> 00:21:41,740
+many questions as
+
+771
+00:21:41,740 --> 00:21:42,240
+you make
+
+772
+00:21:42,240 --> 00:21:42,960
+statements.
+
+773
+00:21:45,180 --> 00:21:46,320
+So the
+
+774
+00:21:46,320 --> 00:21:46,980
+circling up
+
+775
+00:21:46,980 --> 00:21:49,460
+thing is a
+
+776
+00:21:49,460 --> 00:21:50,340
+very useful
+
+777
+00:21:50,340 --> 00:21:51,880
+method.
+
+778
+00:21:52,540 --> 00:21:53,000
+Don't
+
+779
+00:21:53,000 --> 00:21:54,500
+discount it.
+
+780
+00:21:54,680 --> 00:21:55,200
+You will be
+
+781
+00:21:55,200 --> 00:21:56,120
+impressed with
+
+782
+00:21:56,120 --> 00:21:57,200
+what a difference
+
+783
+00:21:57,200 --> 00:21:57,640
+it makes.
+
+784
+00:21:58,220 --> 00:21:59,140
+And as soon as
+
+785
+00:21:59,140 --> 00:22:00,340
+the scouts become
+
+786
+00:22:00,340 --> 00:22:01,240
+used to the
+
+787
+00:22:01,240 --> 00:22:02,340
+idea that
+
+788
+00:22:02,340 --> 00:22:03,760
+forming a
+
+789
+00:22:03,760 --> 00:22:05,080
+circle is,
+
+790
+00:22:05,280 --> 00:22:06,820
+you know,
+
+791
+00:22:06,900 --> 00:22:07,920
+what follows is
+
+792
+00:22:07,920 --> 00:22:08,460
+going to be an
+
+793
+00:22:08,460 --> 00:22:09,360
+instructional thing,
+
+794
+00:22:10,060 --> 00:22:10,420
+you know,
+
+795
+00:22:10,540 --> 00:22:11,400
+it will also
+
+796
+00:22:11,400 --> 00:22:12,360
+help them assume
+
+797
+00:22:12,360 --> 00:22:13,720
+the right state
+
+798
+00:22:13,720 --> 00:22:14,160
+of mind.
+
+799
+00:22:15,120 --> 00:22:16,700
+So a very
+
+800
+00:22:16,700 --> 00:22:17,540
+important yet
+
+801
+00:22:17,540 --> 00:22:19,020
+simple little
+
+802
+00:22:19,020 --> 00:22:19,660
+piece of work.
+
+803
+00:22:19,660 --> 00:22:21,320
+The next one is
+
+804
+00:22:21,320 --> 00:22:22,500
+round robins.
+
+805
+00:22:22,940 --> 00:22:23,140
+Now,
+
+806
+00:22:23,540 --> 00:22:24,400
+as a wrestling
+
+807
+00:22:24,400 --> 00:22:24,760
+coach,
+
+808
+00:22:24,800 --> 00:22:25,360
+I coached
+
+809
+00:22:25,360 --> 00:22:26,440
+wrestling at
+
+810
+00:22:26,440 --> 00:22:27,580
+the junior
+
+811
+00:22:27,580 --> 00:22:28,380
+varsity and
+
+812
+00:22:28,380 --> 00:22:29,300
+middle school
+
+813
+00:22:29,300 --> 00:22:30,060
+level for a
+
+814
+00:22:30,060 --> 00:22:30,680
+number of years
+
+815
+00:22:30,680 --> 00:22:31,680
+players.
+
+816
+00:22:31,680 --> 00:22:31,700
+And we used
+
+817
+00:22:31,700 --> 00:22:32,420
+round robins a
+
+818
+00:22:32,420 --> 00:22:32,820
+lot during
+
+819
+00:22:32,820 --> 00:22:33,320
+practice.
+
+820
+00:22:33,460 --> 00:22:33,820
+And what that
+
+821
+00:22:33,820 --> 00:22:34,340
+would be is we
+
+822
+00:22:34,340 --> 00:22:34,720
+would get,
+
+823
+00:22:35,220 --> 00:22:35,400
+you know,
+
+824
+00:22:35,440 --> 00:22:36,200
+a small group
+
+825
+00:22:36,200 --> 00:22:38,100
+and they
+
+826
+00:22:38,100 --> 00:22:39,880
+would take
+
+827
+00:22:39,880 --> 00:22:41,360
+turns doing
+
+828
+00:22:41,360 --> 00:22:42,900
+different wrestling
+
+829
+00:22:42,900 --> 00:22:43,720
+moves and
+
+830
+00:22:43,720 --> 00:22:44,900
+practicing them.
+
+831
+00:22:45,580 --> 00:22:46,880
+And so it
+
+832
+00:22:46,880 --> 00:22:47,980
+kind of would
+
+833
+00:22:47,980 --> 00:22:48,540
+break up the
+
+834
+00:22:48,540 --> 00:22:49,220
+practice a little
+
+835
+00:22:49,220 --> 00:22:49,960
+bit and make it
+
+836
+00:22:49,960 --> 00:22:51,180
+more interesting.
+
+837
+00:22:51,680 --> 00:22:52,300
+And it would
+
+838
+00:22:52,300 --> 00:22:52,940
+give you a chance
+
+839
+00:22:52,940 --> 00:22:53,860
+to wrestle with a
+
+840
+00:22:53,860 --> 00:22:54,420
+lot of different
+
+841
+00:22:54,420 --> 00:22:54,800
+people.
+
+842
+00:22:54,800 --> 00:22:54,840
+skill.
+
+843
+00:22:56,240 --> 00:22:57,419
+The way that we
+
+844
+00:22:57,419 --> 00:22:58,440
+operate this in
+
+845
+00:22:58,440 --> 00:22:59,120
+scouts is,
+
+846
+00:22:59,700 --> 00:23:00,560
+let's say that
+
+847
+00:23:00,560 --> 00:23:01,700
+we, let's take
+
+848
+00:23:01,700 --> 00:23:02,560
+our example of
+
+849
+00:23:02,560 --> 00:23:03,120
+totem chip.
+
+850
+00:23:03,659 --> 00:23:03,919
+Okay?
+
+851
+00:23:04,200 --> 00:23:05,060
+And we have
+
+852
+00:23:05,060 --> 00:23:06,740
+axe, knife, and
+
+853
+00:23:06,740 --> 00:23:07,260
+saw skills.
+
+854
+00:23:07,379 --> 00:23:07,940
+So we have
+
+855
+00:23:07,940 --> 00:23:09,060
+three basic
+
+856
+00:23:09,060 --> 00:23:09,780
+areas to work
+
+857
+00:23:09,780 --> 00:23:10,060
+with.
+
+858
+00:23:10,379 --> 00:23:10,940
+So we're going
+
+859
+00:23:10,940 --> 00:23:11,440
+to break that
+
+860
+00:23:11,440 --> 00:23:12,080
+up into three
+
+861
+00:23:12,080 --> 00:23:12,899
+different stations.
+
+862
+00:23:13,740 --> 00:23:14,379
+One, one's
+
+863
+00:23:14,379 --> 00:23:14,740
+going to be the
+
+864
+00:23:14,740 --> 00:23:15,260
+axe, one's
+
+865
+00:23:15,260 --> 00:23:15,620
+going to be the
+
+866
+00:23:15,620 --> 00:23:16,040
+knife, one.
+
+867
+00:23:24,800 --> 00:23:43,260
+That's right, it's
+
+868
+00:23:43,260 --> 00:23:44,899
+time for a
+
+869
+00:23:44,899 --> 00:23:45,720
+Scoutmaster's
+
+870
+00:23:45,720 --> 00:23:45,919
+Minute.
+
+871
+00:23:51,800 --> 00:23:52,600
+I want you to
+
+872
+00:23:52,600 --> 00:23:53,220
+come and visit a
+
+873
+00:23:53,220 --> 00:23:53,800
+troop meeting with
+
+874
+00:23:53,800 --> 00:23:54,240
+me, okay?
+
+875
+00:23:54,240 --> 00:23:55,100
+My troop.
+
+876
+00:23:55,220 --> 00:23:56,060
+My troop that I've
+
+877
+00:23:56,060 --> 00:23:56,640
+been with for
+
+878
+00:23:56,640 --> 00:23:57,600
+ages and ages and
+
+879
+00:23:57,600 --> 00:23:58,300
+worked really hard
+
+880
+00:23:58,300 --> 00:23:59,340
+with, and I'll
+
+881
+00:23:59,340 --> 00:23:59,860
+tell you something,
+
+882
+00:24:00,220 --> 00:24:01,060
+you are not going
+
+883
+00:24:01,060 --> 00:24:01,560
+to call it a
+
+884
+00:24:01,560 --> 00:24:02,440
+well-oiled machine
+
+885
+00:24:02,440 --> 00:24:03,280
+or a model of
+
+886
+00:24:03,280 --> 00:24:03,780
+efficiency.
+
+887
+00:24:04,520 --> 00:24:05,660
+And that's why
+
+888
+00:24:05,660 --> 00:24:07,740
+I like it.
+
+889
+00:24:08,180 --> 00:24:09,080
+That's why I like
+
+890
+00:24:09,080 --> 00:24:09,280
+it.
+
+891
+00:24:10,060 --> 00:24:11,400
+A dear friend who
+
+892
+00:24:11,400 --> 00:24:12,120
+was a really
+
+893
+00:24:12,120 --> 00:24:13,300
+successful artist
+
+894
+00:24:13,300 --> 00:24:15,140
+and worked out
+
+895
+00:24:15,140 --> 00:24:16,500
+at a studio that
+
+896
+00:24:16,500 --> 00:24:18,000
+was just a hot
+
+897
+00:24:18,000 --> 00:24:18,500
+mess.
+
+898
+00:24:19,640 --> 00:24:20,600
+I'm not saying
+
+899
+00:24:20,600 --> 00:24:21,180
+it was just like
+
+900
+00:24:21,180 --> 00:24:21,860
+a little messy.
+
+901
+00:24:22,320 --> 00:24:23,680
+I'm saying it
+
+902
+00:24:23,680 --> 00:24:25,080
+was breathtakingly
+
+903
+00:24:25,080 --> 00:24:25,640
+disordered.
+
+904
+00:24:26,840 --> 00:24:27,900
+Even so, he
+
+905
+00:24:27,900 --> 00:24:29,560
+produced artwork
+
+906
+00:24:29,560 --> 00:24:30,920
+that was just
+
+907
+00:24:30,920 --> 00:24:33,180
+genius and
+
+908
+00:24:33,180 --> 00:24:34,280
+penetrating and
+
+909
+00:24:34,280 --> 00:24:35,540
+simple and
+
+910
+00:24:35,540 --> 00:24:35,960
+beautiful.
+
+911
+00:24:36,200 --> 00:24:37,140
+There's a point in
+
+912
+00:24:37,140 --> 00:24:37,840
+any troop meeting
+
+913
+00:24:37,840 --> 00:24:38,660
+where I do the
+
+914
+00:24:38,660 --> 00:24:39,440
+same thing you do.
+
+915
+00:24:39,500 --> 00:24:40,360
+I look around and
+
+916
+00:24:40,360 --> 00:24:41,140
+I see some
+
+917
+00:24:41,140 --> 00:24:43,640
+disorder, and from
+
+918
+00:24:43,640 --> 00:24:44,720
+my perspective, the
+
+919
+00:24:44,720 --> 00:24:45,300
+youth leaders are
+
+920
+00:24:45,300 --> 00:24:46,260
+slacking off and the
+
+921
+00:24:46,260 --> 00:24:47,120
+adults are interfering
+
+922
+00:24:47,120 --> 00:24:48,600
+and the scouts are
+
+923
+00:24:48,600 --> 00:24:49,700
+kind of disinterested.
+
+924
+00:24:49,700 --> 00:24:51,660
+it's all just a
+
+925
+00:24:51,660 --> 00:24:52,700
+millisecond from
+
+926
+00:24:52,700 --> 00:24:53,820
+falling apart and
+
+927
+00:24:53,820 --> 00:24:54,700
+from spinning out of
+
+928
+00:24:54,700 --> 00:24:55,040
+control.
+
+929
+00:24:56,160 --> 00:24:56,900
+And it's those
+
+930
+00:24:56,900 --> 00:24:57,800
+moments I imagine
+
+931
+00:24:57,800 --> 00:24:58,680
+my artist friend
+
+932
+00:24:58,680 --> 00:24:59,520
+laboring over
+
+933
+00:24:59,520 --> 00:24:59,940
+painting.
+
+934
+00:25:00,400 --> 00:25:01,120
+There's water
+
+935
+00:25:01,120 --> 00:25:01,600
+everywhere.
+
+936
+00:25:02,060 --> 00:25:02,980
+There's water
+
+937
+00:25:02,980 --> 00:25:03,700
+pooling on a
+
+938
+00:25:03,700 --> 00:25:04,360
+tabletop.
+
+939
+00:25:04,480 --> 00:25:04,980
+On the paper,
+
+940
+00:25:04,980 --> 00:25:06,160
+there's huge
+
+941
+00:25:06,160 --> 00:25:07,860
+globs of paint
+
+942
+00:25:07,860 --> 00:25:10,000
+and brushes are
+
+943
+00:25:10,000 --> 00:25:10,820
+flying and
+
+944
+00:25:10,820 --> 00:25:11,360
+splashing.
+
+945
+00:25:11,620 --> 00:25:12,360
+It's an impossible
+
+946
+00:25:12,360 --> 00:25:12,860
+mess.
+
+947
+00:25:13,500 --> 00:25:14,300
+He taught me,
+
+948
+00:25:14,560 --> 00:25:16,240
+though, that what
+
+949
+00:25:16,240 --> 00:25:17,300
+seems like a mess
+
+950
+00:25:17,300 --> 00:25:18,860
+was actually really
+
+951
+00:25:18,860 --> 00:25:19,720
+the process of
+
+952
+00:25:19,720 --> 00:25:20,240
+creation.
+
+953
+00:25:20,940 --> 00:25:21,500
+There were forces
+
+954
+00:25:21,500 --> 00:25:22,500
+at work that no
+
+955
+00:25:22,500 --> 00:25:25,440
+one could and no
+
+956
+00:25:25,440 --> 00:25:27,180
+one should seek to
+
+957
+00:25:27,180 --> 00:25:27,639
+control.
+
+958
+00:25:28,760 --> 00:25:29,639
+Art came out of
+
+959
+00:25:29,639 --> 00:25:30,700
+working in that
+
+960
+00:25:30,700 --> 00:25:32,020
+maelstrom of his
+
+961
+00:25:32,020 --> 00:25:33,600
+and understanding
+
+962
+00:25:33,600 --> 00:25:34,879
+and cooperating with
+
+963
+00:25:34,879 --> 00:25:35,899
+the maelstrom that
+
+964
+00:25:35,899 --> 00:25:37,040
+he created, not
+
+965
+00:25:37,040 --> 00:25:37,879
+controlling it.
+
+966
+00:25:38,240 --> 00:25:39,200
+I think it goes for
+
+967
+00:25:39,200 --> 00:25:40,520
+scouting, at least
+
+968
+00:25:40,520 --> 00:25:40,919
+for me.
+
+969
+00:25:41,240 --> 00:25:41,840
+It might work
+
+970
+00:25:41,840 --> 00:25:42,620
+differently for you.
+
+971
+00:25:44,040 --> 00:25:45,220
+I mean, our job as
+
+972
+00:25:45,220 --> 00:25:46,060
+scoutmasters is to
+
+973
+00:25:46,060 --> 00:25:46,800
+set things into
+
+974
+00:25:46,800 --> 00:25:47,940
+motion to encourage
+
+975
+00:25:47,940 --> 00:25:48,760
+and exhort and
+
+976
+00:25:48,760 --> 00:25:51,040
+inspire and then
+
+977
+00:25:51,040 --> 00:25:52,180
+step back and let
+
+978
+00:25:52,180 --> 00:25:54,139
+things go to work.
+
+979
+00:25:55,300 --> 00:25:56,120
+What I see as
+
+980
+00:25:56,120 --> 00:25:56,620
+messy and
+
+981
+00:25:56,620 --> 00:25:57,680
+disorganized and
+
+982
+00:25:57,680 --> 00:25:59,460
+is experienced by
+
+983
+00:25:59,460 --> 00:26:00,340
+my scouts as the
+
+984
+00:26:00,340 --> 00:26:01,300
+most orderly and
+
+985
+00:26:01,300 --> 00:26:02,440
+enriching experience
+
+986
+00:26:02,440 --> 00:26:03,060
+of their lives.
+
+987
+00:26:03,980 --> 00:26:05,460
+It's just a little
+
+988
+00:26:05,460 --> 00:26:06,560
+trick of perspective.
+
+989
+00:26:08,159 --> 00:26:08,879
+Now, I know
+
+990
+00:26:08,879 --> 00:26:09,740
+throwing some lumber
+
+991
+00:26:09,740 --> 00:26:10,300
+and glue and
+
+992
+00:26:10,300 --> 00:26:11,180
+shellac in a cement
+
+993
+00:26:11,180 --> 00:26:12,860
+mixer is not going
+
+994
+00:26:12,860 --> 00:26:13,639
+to produce a
+
+995
+00:26:13,639 --> 00:26:14,440
+Chippendale chair.
+
+996
+00:26:14,560 --> 00:26:15,260
+That's not the kind
+
+997
+00:26:15,260 --> 00:26:16,340
+of disorder and
+
+998
+00:26:16,340 --> 00:26:17,000
+craziness I'm
+
+999
+00:26:17,000 --> 00:26:17,720
+talking about.
+
+1000
+00:26:18,760 --> 00:26:19,500
+Well, you know,
+
+1001
+00:26:19,580 --> 00:26:20,400
+theoretically I might
+
+1002
+00:26:20,400 --> 00:26:21,280
+produce a Chippendale
+
+1003
+00:26:21,280 --> 00:26:21,580
+chair.
+
+1004
+00:26:22,620 --> 00:26:23,379
+I'm not going to
+
+1005
+00:26:23,379 --> 00:26:23,879
+waste my time
+
+1006
+00:26:23,879 --> 00:26:24,460
+trying, though.
+
+1007
+00:26:25,400 --> 00:26:26,400
+I'm not recommending
+
+1008
+00:26:26,400 --> 00:26:27,320
+that we promote
+
+1009
+00:26:27,320 --> 00:26:29,300
+disorder or look on
+
+1010
+00:26:29,300 --> 00:26:30,400
+it cavalierly, but
+
+1011
+00:26:30,400 --> 00:26:31,460
+rather we recognize
+
+1012
+00:26:31,460 --> 00:26:32,440
+that what looks like
+
+1013
+00:26:32,440 --> 00:26:33,240
+a hot mess to us
+
+1014
+00:26:33,240 --> 00:26:34,160
+sometimes may be
+
+1015
+00:26:34,160 --> 00:26:35,860
+that vital maelstrom
+
+1016
+00:26:35,860 --> 00:26:36,760
+of creation.
+
+1017
+00:26:38,060 --> 00:26:39,600
+Experience teaches
+
+1018
+00:26:39,600 --> 00:26:40,420
+there are times
+
+1019
+00:26:40,420 --> 00:26:41,080
+when we need to
+
+1020
+00:26:41,080 --> 00:26:42,420
+step in and times
+
+1021
+00:26:42,420 --> 00:26:43,220
+when we should
+
+1022
+00:26:43,220 --> 00:26:43,480
+not.
+
+1023
+00:26:44,540 --> 00:26:45,760
+This finds no
+
+1024
+00:26:45,760 --> 00:26:46,540
+better expression
+
+1025
+00:26:46,540 --> 00:26:47,460
+in the well-known
+
+1026
+00:26:47,460 --> 00:26:48,480
+prayer attributed
+
+1027
+00:26:48,480 --> 00:26:50,420
+to the theologian
+
+1028
+00:26:50,420 --> 00:26:51,540
+Reinald Niebuhr.
+
+1029
+00:26:52,480 --> 00:26:53,500
+To accept the
+
+1030
+00:26:53,500 --> 00:26:54,320
+things I cannot
+
+1031
+00:26:54,320 --> 00:26:55,880
+change, courage
+
+1032
+00:26:55,880 --> 00:26:56,740
+to change the
+
+1033
+00:26:56,740 --> 00:26:58,580
+things I can, and
+
+1034
+00:26:58,580 --> 00:26:59,280
+the wisdom to
+
+1035
+00:26:59,280 --> 00:27:00,040
+know the difference.
+
+1036
+00:27:00,040 --> 00:27:26,920
+So that's it for
+
+1037
+00:27:26,920 --> 00:27:27,760
+the third edition of
+
+1038
+00:27:27,760 --> 00:27:28,320
+the Scout Masters
+
+1039
+00:27:28,320 --> 00:27:28,760
+podcast.
+
+1040
+00:27:28,760 --> 00:27:30,200
+Thank you so much
+
+1041
+00:27:30,200 --> 00:27:30,620
+for listening.
+
+1042
+00:27:30,760 --> 00:27:31,460
+You can read the
+
+1043
+00:27:31,460 --> 00:27:36,200
+blog at scoutmaster.typepad.com.
+
+1044
+00:27:36,980 --> 00:27:37,879
+Look us up on
+
+1045
+00:27:37,879 --> 00:27:38,520
+Facebook at
+
+1046
+00:27:38,520 --> 00:27:39,300
+Scoutmaster Blog.
+
+1047
+00:27:39,420 --> 00:27:39,980
+Follow us on
+
+1048
+00:27:39,980 --> 00:27:40,440
+Twitter at
+
+1049
+00:27:40,440 --> 00:27:41,260
+Scoutmaster Blog.
+
+1050
+00:27:41,440 --> 00:27:42,340
+And you can get in
+
+1051
+00:27:42,340 --> 00:27:43,640
+touch with me at
+
+1052
+00:27:43,640 --> 00:27:46,120
+clarkgreen at
+
+1053
+00:27:46,120 --> 00:27:47,600
+gmail.com.
+
+1054
+00:27:47,720 --> 00:27:48,620
+Remember, Clark has
+
+1055
+00:27:48,620 --> 00:27:48,900
+an E.
+
+1056
+00:27:49,100 --> 00:27:51,460
+C-L-A-R-K-E-G-R-E-E-N.
+
+1057
+00:27:52,120 --> 00:27:53,760
+And we'd love to hear
+
+1058
+00:27:53,760 --> 00:27:55,340
+from you and know
+
+1059
+00:27:55,340 --> 00:27:55,900
+what you think of
+
+1060
+00:27:55,900 --> 00:27:56,800
+the podcast and the
+
+1061
+00:27:56,800 --> 00:27:57,580
+blog and all that.
+
+1062
+00:27:57,740 --> 00:27:58,200
+Love to get
+
+1063
+00:27:58,200 --> 00:27:58,680
+questions.
+
+1064
+00:27:59,240 --> 00:27:59,860
+And here's what
+
+1065
+00:27:59,860 --> 00:28:00,480
+everybody's been
+
+1066
+00:28:00,480 --> 00:28:01,160
+waiting for, the
+
+1067
+00:28:01,160 --> 00:28:01,800
+disclaimer.
+
+1068
+00:28:02,120 --> 00:28:02,879
+That's right, folks.
+
+1069
+00:28:02,960 --> 00:28:03,840
+The disclaimer, the
+
+1070
+00:28:03,840 --> 00:28:04,900
+Scoutmaster blog and the
+
+1071
+00:28:04,900 --> 00:28:06,580
+Scoutmaster podcast are
+
+1072
+00:28:06,580 --> 00:28:07,820
+not official publications
+
+1073
+00:28:07,820 --> 00:28:08,700
+of the Boy Scouts of
+
+1074
+00:28:08,700 --> 00:28:09,840
+America, nor are they
+
+1075
+00:28:09,840 --> 00:28:11,480
+endorsed or sponsored by
+
+1076
+00:28:11,480 --> 00:28:12,200
+the Boy Scouts of
+
+1077
+00:28:12,200 --> 00:28:12,420
+America.
+
+1078
+00:28:12,420 --> 00:28:13,260
+Until next time.
+
+1079
+00:28:13,700 --> 00:28:15,100
+Good luck to you and
+
+1080
+00:28:15,100 --> 00:28:15,900
+good camping.
+
+1081
+00:28:15,900 --> 00:28:17,840
+tahu this library...
+
+1082
+00:28:17,840 --> 00:28:18,160
+good week.
+
+1083
+00:28:18,160 --> 00:28:18,900
+Good work.
+
+1084
+00:28:18,900 --> 00:28:19,060
+Good enjoy purchasing.
+
+1085
+00:28:19,060 --> 00:28:20,940
+sagen eu �ë and
+
+1086
+00:28:20,940 --> 00:28:21,220
+들 from the
+
+1087
+00:28:21,240 --> 00:28:24,740
+Area finals
+
+1088
+00:28:24,740 --> 00:28:54,720
+Thank you.
+

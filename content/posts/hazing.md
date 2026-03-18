@@ -2,7 +2,9 @@
 title: "Hazing"
 date: 2005-12-01
 draft: false
-categories: ["scoutmasters-life", "scouting-ideals"]
+topics:
+  - "Discipline & Behavior"
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20141115163015/http://scoutmastercg.com:80/hazing/?"
 ---
 

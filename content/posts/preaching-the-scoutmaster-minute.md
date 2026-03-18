@@ -2,7 +2,9 @@
 title: "Preaching the Scoutmaster Minute"
 date: 2012-10-19
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Instructional Methods"
+  - "Scoutmaster Conference"
 wayback_url: "https://web.archive.org/web/20140911064307/http://scoutmastercg.com/preaching-the-scoutmaster-minute/?replytocom=3101"
 ---
 

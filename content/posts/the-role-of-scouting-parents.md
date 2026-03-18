@@ -2,7 +2,9 @@
 title: "The Role of Scouting Parents"
 date: 2016-10-13
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Parent Relations"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20161013095959/http://scoutmastercg.com:80/the-role-of-scouting-parents/"
 ---
 

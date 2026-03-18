@@ -2,7 +2,8 @@
 title: "Champions of Scouting"
 date: 2017-06-06
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20170606010420/http://scoutmastercg.com/champions-of-scouting/"
 ---
 

@@ -6,6 +6,9 @@ theme = "ananke"
 [markup.goldmark.renderer]
   unsafe = true
 
+[taxonomies]
+  topic = "topics"
+
 [params]
   favicon = "/favicon.svg"
 

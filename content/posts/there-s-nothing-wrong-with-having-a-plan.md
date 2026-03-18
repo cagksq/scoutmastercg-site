@@ -2,7 +2,9 @@
 title: "There’s nothing wrong with having a plan"
 date: 2011-11-08
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20111116194610/http://www.scoutmastercg.com:80/2011/11/theres-nothing-wrong-with-having-a-plan/"
 ---
 

@@ -2,7 +2,8 @@
 title: "Linear Versus Interactive Learning"
 date: 2013-10-12
 draft: false
-categories: ["advancement"]
+topics:
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20141015064310/http://scoutmastercg.com:80/linear-versus-interactive-learning/"
 ---
 

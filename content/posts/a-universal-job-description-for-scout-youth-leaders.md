@@ -2,7 +2,9 @@
 title: "A Universal Job Description for Scout Youth Leaders."
 date: 2012-12-20
 draft: false
-categories: ["advancement"]
+topics:
+  - "Youth Leadership Development"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20121220013115/http://www.scoutmastercg.com:80/a-universal-job-description-for-scout-youth-leaders/"
 ---
 

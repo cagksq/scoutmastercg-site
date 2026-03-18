@@ -2,7 +2,8 @@
 title: "Membership Resolution Approved"
 date: 2013-08-11
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "BSA Membership & Inclusion"
 wayback_url: "https://web.archive.org/web/20140825023451/http://scoutmastercg.com/membership-resolution-approved/?replytocom=48491"
 ---
 

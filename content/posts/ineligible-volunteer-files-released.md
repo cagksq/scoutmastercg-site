@@ -2,7 +2,9 @@
 title: "Ineligible Volunteer Files Released"
 date: 2012-10-24
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Risk Management & Safety"
+  - "BSA Membership & Inclusion"
 wayback_url: "https://web.archive.org/web/20121024005448/http://www.scoutmastercg.com:80/2012/10/ineligible-volunteer-files-released/"
 ---
 

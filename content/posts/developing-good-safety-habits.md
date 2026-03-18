@@ -2,7 +2,9 @@
 title: "Developing Good Safety Habits"
 date: 2012-11-14
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20160916122359/http://scoutmastercg.com:80/buddy-system/"
 ---
 

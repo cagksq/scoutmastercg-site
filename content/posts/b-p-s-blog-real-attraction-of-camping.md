@@ -3,8 +3,9 @@ title: "B.P.'s Blog - Real Attraction of Camping"
 date: 2014-08-24
 draft: false
 image: "/images/bp2.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20140903173531/http://scoutmastercg.com:80/b-p-s-blog-real-attraction-camping/"
 ---
 

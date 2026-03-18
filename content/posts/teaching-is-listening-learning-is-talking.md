@@ -2,7 +2,9 @@
 title: "Teaching is Listening, Learning is Talking"
 date: 2009-08-05
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Instructional Methods"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20121229025609/http://www.scoutmastercg.com:80/teaching-is-listening-learning-is-talking/"
 ---
 

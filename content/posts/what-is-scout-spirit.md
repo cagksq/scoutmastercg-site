@@ -2,7 +2,9 @@
 title: "What is Scout Spirit?"
 date: 2013-09-01
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Scout Law & Oath"
+  - "Scoutmaster Conference"
 wayback_url: "https://web.archive.org/web/20141011004734/http://scoutmastercg.com:80/what-is-scout-spirit/"
 ---
 

@@ -2,8 +2,8 @@
 title: Girls in the BSA?
 date: 2018-02-25
 draft: false
-categories:
-  - scouting-history-ideas
+topics:
+  - "BSA Membership & Inclusion"
 wayback_url: https://web.archive.org/web/20180225142535/http://scoutmastercg.com:80/girls-in-the-bsa/
 ---
 Yes, girls in the BSA.

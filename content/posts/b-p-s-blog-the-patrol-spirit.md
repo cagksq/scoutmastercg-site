@@ -3,8 +3,9 @@ title: "B.P.'s Blog - The Patrol Spirit"
 date: 2014-09-14
 draft: false
 image: "/images/bp1.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20170920104422/http://scoutmastercg.com/b-p-s-blog-patrol-spirit/"
 ---
 

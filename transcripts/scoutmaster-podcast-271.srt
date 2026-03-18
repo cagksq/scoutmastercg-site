@@ -1,0 +1,1128 @@
+1
+00:00:00,000 --> 00:00:04,960
+I'm Mitch Tansby. I'm the Scoutmaster from Troop 404 in Norman Beach, Florida.
+
+2
+00:00:05,680 --> 00:00:10,400
+This edition of the Scoutmaster podcast is sponsored by Backers Like Me.
+
+3
+00:00:10,400 --> 00:00:12,320
+And now for you, Scoutmaster,
+
+4
+00:00:18,880 --> 00:00:24,480
+The other night we're talking about first aid And I asked the Scouts: I said:
+
+5
+00:00:24,480 --> 00:00:30,720
+have any of you gotten a good example of where you used some of your first aid training? you've
+
+6
+00:00:30,720 --> 00:00:35,440
+gotten in Scouts. And one of the guys raised his hand and, very excited, I said: yeah, my neighbor
+
+7
+00:00:35,440 --> 00:00:41,040
+fell off his ladder and broke his leg And it was a compound fracture. It was pretty messed up
+
+8
+00:00:41,040 --> 00:00:46,640
+And I said: so tell us how you handled the situation. What did you do first? I said: well,
+
+9
+00:00:47,680 --> 00:00:52,960
+after being in Scouts and being at the scene of this kind of accident, I knew exactly what to do.
+
+10
+00:00:53,040 --> 00:00:57,840
+So I sat down and I put my head between my knees so I wouldn't faint.
+
+11
+00:01:00,800 --> 00:01:03,840
+Hey, this is podcast number 271.. Hey,
+
+12
+00:01:23,920 --> 00:01:33,840
+Welcome back to the Scoutmaster podcast. This is Clark Green. Let's see what did we pick out to
+
+13
+00:01:33,840 --> 00:01:39,200
+put up here. Beth and Kim got in touch with me this past week and said: thank you so much for
+
+14
+00:01:39,200 --> 00:01:46,480
+all you do on the blog and any help you can give me on this. I'm a PhD candidate- PhD,
+
+15
+00:01:47,440 --> 00:01:55,200
+As I remember that stands for post hole digger, But I probably have that wrong. But anyway,
+
+16
+00:01:55,200 --> 00:02:01,840
+Beth Ann says I'm a PhD candidate in the Cub College for the University of Scouting in 2016..
+
+17
+00:02:01,840 --> 00:02:06,720
+Is there any chance you could help me with a little bit of research by asking your listeners
+
+18
+00:02:06,720 --> 00:02:12,000
+and readers to respond to two questions: What are the biggest mistakes you've seen Cub
+
+19
+00:02:12,000 --> 00:02:18,160
+Scout packs make And what is the best way to avoid them? Well, Beth Ann, I'd love to help you out.
+
+20
+00:02:18,160 --> 00:02:26,160
+What I have done is set up a survey that is in the post that contains this podcast. Go there,
+
+21
+00:02:26,160 --> 00:02:31,440
+there's a form, set up, answer Beth Ann's two questions and it's set up so she'll be able
+
+22
+00:02:31,440 --> 00:02:36,080
+to get the replies and you'll help her out with the research that she's doing for the University
+
+23
+00:02:36,080 --> 00:02:43,120
+of Scouting. I had a couple of chat sessions last week. Jeff Giacomi from Los Alamedas, California,
+
+24
+00:02:43,120 --> 00:02:49,920
+is the Scoutmaster Troop 671, checked in, As did DeFerrick, who's a committee chair in
+
+25
+00:02:49,920 --> 00:02:57,360
+Minasha, Wisconsin, And all of the other folks. all of our other folks are frequent flyers.
+
+26
+00:02:57,360 --> 00:03:02,640
+We're there too. We have pretty lively chat sessions at scoutmastercgcom, So make sure
+
+27
+00:03:02,720 --> 00:03:09,040
+to stop through, Most of the time on weekday mornings. watch the Twitter feed and the Facebook
+
+28
+00:03:09,040 --> 00:03:14,640
+feed for announcements on when we'll be doing a live chat, And you know we have a lot of fun
+
+29
+00:03:14,640 --> 00:03:19,680
+In this podcast. I've got a bunch of email questions saved up, But before we go any further,
+
+30
+00:03:19,680 --> 00:03:25,200
+let me tell you something real quick. Everything at scoutmastercgcom is there to help you.
+
+31
+00:03:25,200 --> 00:03:30,000
+If you're a Scouter, that's what it's for, And I'm very pleased to tell you that I hear
+
+32
+00:03:30,000 --> 00:03:35,440
+from Scouts from all over the world who do find what we're doing helpful, And the one thing I want
+
+33
+00:03:35,440 --> 00:03:40,960
+to continue to do is to keep all of this freely available, And to do that I depend on people
+
+34
+00:03:40,960 --> 00:03:46,480
+like you- Not the other people who are listening, but people like you- who become
+
+35
+00:03:46,480 --> 00:03:53,120
+scoutmastercgcom backers. This whole backer thing is an unusual idea, So let me take
+
+36
+00:03:53,120 --> 00:03:58,080
+a moment to explain how it works. If, rather than a podcast and a website, I was publishing
+
+37
+00:03:58,160 --> 00:04:03,760
+a real life newspaper or magazine, we'd, all you know, you'd say, okay, well,
+
+38
+00:04:03,760 --> 00:04:09,600
+there are costs associated with that, because you need to pay printers and writers and you
+
+39
+00:04:09,600 --> 00:04:15,200
+need to pay postage. So in the virtual world of podcasting and blogging and everything
+
+40
+00:04:15,200 --> 00:04:19,440
+like that, there are still those kind of expenses, because somebody spends their time
+
+41
+00:04:19,440 --> 00:04:25,120
+producing all this and incurs the expenses of publishing it online. So my answer to the
+
+42
+00:04:25,120 --> 00:04:29,360
+question of how do you make this viable- You know how do you cover the expenses-
+
+43
+00:04:30,160 --> 00:04:35,440
+Started a couple of years ago and I asked people to make a kind of voluntary subscription
+
+44
+00:04:35,440 --> 00:04:41,760
+payment, and you do this by becoming a scoutmastercgcom backer, And that payment
+
+45
+00:04:41,760 --> 00:04:46,400
+covers the expense of producing and publishing what you find on scoutmastercgcom,
+
+46
+00:04:46,400 --> 00:04:52,800
+including what you're listening to right now. So take a moment this week: go to scoutmastercgcom,
+
+47
+00:04:52,800 --> 00:04:59,120
+click the support link at the top of the page and you'll find a number of ways to become a scoutmastercgcom
+
+48
+00:04:59,120 --> 00:05:05,920
+backer. So this week I want to take a moment to personally thank Michael Miller, Gordon Bain
+
+49
+00:05:05,920 --> 00:05:12,000
+and Darren Austin, who've all become backers since our last podcast. Thank you so very much.
+
+50
+00:05:12,640 --> 00:05:19,200
+Go to scoutmastercgcom. this week You become a backer and I'll thank you during our next
+
+51
+00:05:19,280 --> 00:05:26,000
+podcast. Well, as I said a little earlier in this week's podcast, I've got a hat full of email
+
+52
+00:05:26,000 --> 00:05:30,640
+questions to answer and that's going to take up the remainder of the podcast. So let's get started.
+
+53
+00:05:30,640 --> 00:05:31,120
+shall we
+
+54
+00:06:19,840 --> 00:06:24,080
+Write me a letter? send it by name
+
+55
+00:06:26,080 --> 00:06:31,120
+Email, that is folks. And here's an answer to one of your emails.
+
+56
+00:06:39,440 --> 00:06:45,760
+Ralph Osbog is the troop committee chair with troop 457 in Greenwood Village, Colorado,
+
+57
+00:06:45,760 --> 00:06:52,960
+and he wrote in to say this. our troop has a happy problem. We're in danger of becoming too large.
+
+58
+00:06:52,960 --> 00:06:58,880
+We have 40 active scouts organized into five patrols. Our scoutmaster stays very busy with
+
+59
+00:06:58,880 --> 00:07:03,840
+scoutmaster conferences. Our troop trailer is as large as it can be And if we get much larger
+
+60
+00:07:03,840 --> 00:07:09,760
+I anticipate problems with finding places we can go camping and backpacking and other activities.
+
+61
+00:07:09,760 --> 00:07:19,599
+In addition, I recall that Baden Powell stated that the maximum number for scouts in a troop was 32..
+
+62
+00:07:19,599 --> 00:07:25,039
+I find myself almost wanting to discourage scouts from joining and choose another one of the local
+
+63
+00:07:25,039 --> 00:07:30,719
+troops, most of which are a bit smaller. Our couple in our council are gigantic. They have
+
+64
+00:07:30,719 --> 00:07:35,680
+85 or 90 scouts and I don't know how they manage. We always need to have some new
+
+65
+00:07:35,680 --> 00:07:41,040
+scouts join each year, but I'm concerned about getting too large. Do you have any suggestions?
+
+66
+00:07:41,040 --> 00:07:46,960
+How big is too big And what should a troop do if it feels it's getting too big? Well, Ralph,
+
+67
+00:07:46,960 --> 00:07:51,600
+those are all very good questions. Let's start with what Baden Powell had to say.
+
+68
+00:07:51,600 --> 00:07:58,800
+Why would he say something like 32 is the maximum size for a troop? Well, if you read Baden Powell's
+
+69
+00:07:58,880 --> 00:08:06,240
+stuff, he was really adamant about two aspects of scale in scouting, And those two things were the
+
+70
+00:08:06,240 --> 00:08:12,560
+patrol and the individual scout. Now, according to the Baden Powell, the Scout Master is a really
+
+71
+00:08:12,560 --> 00:08:18,240
+important influence on the lives of individual scouts, And I think this is true today.
+
+72
+00:08:18,240 --> 00:08:24,560
+but the Scout Master role has morphed and changed a little bit since Baden Powell's time. I would
+
+73
+00:08:24,560 --> 00:08:30,320
+say that it continues to be really important that the Scout Master knows his scouts well enough
+
+74
+00:08:30,960 --> 00:08:36,559
+so that so that he can work with them individually to mentor and counsel them on an ongoing basis.
+
+75
+00:08:36,559 --> 00:08:42,720
+And we know that the real effects of scouting, the aims and scouting, are reached in the patrol.
+
+76
+00:08:42,720 --> 00:08:49,440
+The largest part of a scout's experience is what he is doing in his patrol. So patrols are
+
+77
+00:08:49,440 --> 00:08:55,920
+the real focus. Troops are just a handy way of handling patrols right, They're just an administrative
+
+78
+00:08:55,920 --> 00:09:03,920
+method. Now, more often than not today, those two things about scale kind of get lost And we
+
+79
+00:09:03,920 --> 00:09:10,960
+work with scouts in big herds- And that is a term that I borrow from Baden Powell- the herd. He
+
+80
+00:09:10,960 --> 00:09:17,280
+talked about the herd frequently And a lot of times patrols don't function at a very high
+
+81
+00:09:17,280 --> 00:09:24,000
+level, They're not autonomous, And we've created other mechanisms and approaches that dull the
+
+82
+00:09:24,000 --> 00:09:30,800
+patrol emphasis And we tend to treat scouts in a big herd or kind of like widgets on a production
+
+83
+00:09:30,800 --> 00:09:36,800
+line. Like you, I've seen some really large troops. you know where. you have 80, 90, 100 scouts.
+
+84
+00:09:36,800 --> 00:09:42,880
+Every once in a while you hear about one that's 110, 120. Now, if you come from one of those
+
+85
+00:09:42,880 --> 00:09:49,120
+big, giant, mega troops, I've just raised your hackles a little bit. But I'm not condemning
+
+86
+00:09:49,120 --> 00:09:56,480
+the idea of having that many scouts in a troop. But the dysfunction of troops, whether they're
+
+87
+00:09:56,480 --> 00:10:03,439
+large or small, is usually abandoning the scale of the individual and how important
+
+88
+00:10:04,160 --> 00:10:10,880
+that individual scout is, And usually abandoning the emphasis on the patrol system
+
+89
+00:10:10,880 --> 00:10:17,520
+for easier administrative models. It's just a lot easier to get all the scouts together in a big
+
+90
+00:10:17,520 --> 00:10:24,800
+herd and deal with them as a herd. Okay, it's a little bit more difficult to deal with them as
+
+91
+00:10:24,800 --> 00:10:30,960
+patrols And it's a little more difficult to look at them as individuals. Now, I don't think people
+
+92
+00:10:30,960 --> 00:10:37,440
+do this consciously. I don't think people say: Well, you know, we're just lazy, so we're not
+
+93
+00:10:37,520 --> 00:10:42,960
+going to bother, right? I don't think that they understand the importance of the scale of the
+
+94
+00:10:42,960 --> 00:10:49,520
+patrol and the scale of dealing with an individual scout. So they don't, they don't tend to focus on
+
+95
+00:10:49,520 --> 00:10:56,560
+them Now. at the same time, it would be a real shame to deny any boy who wanted to be a scout,
+
+96
+00:10:56,560 --> 00:11:01,600
+membership in the troop of their choice, because we said an arbitrary number and said:
+
+97
+00:11:01,600 --> 00:11:08,240
+Oh, you know, we've already got 32, 33 scouts- is not going to work. We've already got 40, 48 scouts-
+
+98
+00:11:08,240 --> 00:11:13,200
+isn't going to work. We've already got 100, 120 isn't going to work. Now, that's a very poor excuse
+
+99
+00:11:13,200 --> 00:11:18,240
+for a boy not being able to become a scout. The door should always be open and we'll deal with
+
+100
+00:11:18,240 --> 00:11:24,880
+whatever number we get. Now, faced with the kind of growth that you project, I would say it's
+
+101
+00:11:24,880 --> 00:11:31,280
+time to start discussing, innovating the way you do things, rather than telling boys that they
+
+102
+00:11:31,280 --> 00:11:36,640
+can't join. And I don't think you're prepared to do that. I think you're just trying to figure out:
+
+103
+00:11:36,640 --> 00:11:42,080
+Hey, we're 40 now, And what happens when we get 20 other guys? So you have to ask yourself
+
+104
+00:11:42,080 --> 00:11:47,680
+the question: are you focusing on what's important? Do you have an effective patrol system that
+
+105
+00:11:47,680 --> 00:11:54,560
+scales can go from five patrols to eight patrols without changing the experience for the scouts
+
+106
+00:11:54,640 --> 00:12:01,120
+significantly? Do you have an emphasis on youth empowerment and youth leadership? Because, as I
+
+107
+00:12:01,120 --> 00:12:05,760
+say all the time, the youth leaders are going to be the first stop in answering this question.
+
+108
+00:12:05,760 --> 00:12:11,840
+They're: you know, guys, we've got X number of scouts. now We've got 20 more guys who want to
+
+109
+00:12:11,840 --> 00:12:15,440
+join the troop. I want to know what you think we ought to do, because they're going to have
+
+110
+00:12:15,440 --> 00:12:21,440
+some ideas about how that should work. And scaling up is always a challenge And I have no doubt
+
+111
+00:12:21,520 --> 00:12:28,560
+that it can be done. but how it is done and why you're doing it is what's important, And it's a
+
+112
+00:12:28,560 --> 00:12:35,040
+challenging process And you may have to abandon some organizational imperatives. You mentioned
+
+113
+00:12:35,040 --> 00:12:39,200
+that you have a trailer and maybe the trailer doesn't accommodate that many scouts. Well,
+
+114
+00:12:39,200 --> 00:12:44,800
+you know what. what's more important, right? The trailer or the scouts? Well, that's an easy
+
+115
+00:12:44,800 --> 00:12:50,000
+answer, And you may have to unsettle a number of assumptions and practices that you have in
+
+116
+00:12:50,000 --> 00:12:55,440
+place right now to serve a bigger number of scouts. but that's what's really important,
+
+117
+00:12:55,440 --> 00:12:59,760
+isn't it? Now I'd need a closer understanding of what you're doing right now. to be more specific
+
+118
+00:12:59,760 --> 00:13:04,800
+than that. This is not so much telling you how to do things, as much as sharing the
+
+119
+00:13:04,800 --> 00:13:09,920
+principles that affect your decisions, And those principles are: scouting has a scale.
+
+120
+00:13:09,920 --> 00:13:14,880
+Baden Powell talked about it. He said it was 32.. I'm not going to necessarily agree or
+
+121
+00:13:14,880 --> 00:13:21,520
+disagree with that, But the idea that hey, there is a point that we can pass. that begins to
+
+122
+00:13:22,160 --> 00:13:27,439
+impinge on the experience of a scout, And Baden Powell was adamant about dealing with scouts
+
+123
+00:13:27,439 --> 00:13:32,800
+on an individual basis and that they be an active autonomous patrols, because that's
+
+124
+00:13:32,800 --> 00:13:37,040
+where the real aims of scouting are met. Those are the principles to apply Now.
+
+125
+00:13:37,040 --> 00:13:42,240
+we got to a point in our troop of several years ago where we were anticipating some
+
+126
+00:13:42,240 --> 00:13:46,800
+really big growth. that didn't end up happening, But in anticipation of that we said: you know,
+
+127
+00:13:46,800 --> 00:13:52,640
+when we hit this number, we need to seriously look at becoming two troops, because the way
+
+128
+00:13:52,640 --> 00:13:57,600
+we do things is not going to scale up past this number And it's going to be more beneficial
+
+129
+00:13:57,600 --> 00:14:02,560
+for the scouts that we're serving for us to be in two troops, And I just offer that as one
+
+130
+00:14:02,560 --> 00:14:09,120
+possible plan. And finally, let's remind ourselves that our organizational imperatives- you know
+
+131
+00:14:09,680 --> 00:14:15,360
+they're not as important as the fact that we're serving anybody who wants to become a scout. That's
+
+132
+00:14:15,360 --> 00:14:22,720
+what's really, really important. Jeff Willett is with Boy Scout Troop 527 in Ashboro, Pennsylvania,
+
+133
+00:14:22,720 --> 00:14:26,720
+And he wrote in with this question. This is an interesting question, Jeff. How long do you
+
+134
+00:14:26,720 --> 00:14:32,560
+hold on to scout records? We have a file folder for each scout with all of their advancement
+
+135
+00:14:32,560 --> 00:14:38,080
+records in it, as well as a physical form and whatever other paperwork that gets generated.
+
+136
+00:14:38,080 --> 00:14:44,480
+I'm in a quandary of what to do with those files if a scout drops out or turns 18 or moves away.
+
+137
+00:14:44,480 --> 00:14:48,720
+Can you offer any thoughts about how long we ought to be retaining this information?
+
+138
+00:14:48,720 --> 00:14:54,160
+Well, Jeff, all of the advancement records right should be duplicated in the national
+
+139
+00:14:54,160 --> 00:15:00,400
+advancement database. So what you're holding on to is redundant, but it's still worth holding
+
+140
+00:15:00,400 --> 00:15:07,120
+on to. I suppose I can't imagine a really practical reason why the troop would need to
+
+141
+00:15:07,120 --> 00:15:13,680
+keep them once a scout is either aged out or decided that he's not going to be in scouts anymore.
+
+142
+00:15:13,680 --> 00:15:18,400
+And I can tell you we've done the same thing. I think a lot of people do this. You have a file
+
+143
+00:15:18,400 --> 00:15:22,400
+folder. it has the scout's name on it. any paper that gets generated goes into the file folder
+
+144
+00:15:22,400 --> 00:15:27,920
+And after holding on to those file folders for many years and looking at them as we were
+
+145
+00:15:27,920 --> 00:15:32,800
+cleaning out our stuff a couple of years ago, we said, look, do we have any reason to keep
+
+146
+00:15:32,800 --> 00:15:38,880
+these? And we tried to remember any time we had needed those records to go back to and look at.
+
+147
+00:15:38,880 --> 00:15:43,920
+We had a couple of file cabinet drawers full of them, We decided that it was safe to get rid of
+
+148
+00:15:43,920 --> 00:15:49,200
+them. And that's exactly what we did With sensitive personal information like physicals
+
+149
+00:15:49,200 --> 00:15:52,640
+or something like that. we made sure that we shredded that. The rest of it just went into
+
+150
+00:15:52,640 --> 00:15:57,920
+the recycling bin. And now you know, we still maintain that file And you know,
+
+151
+00:15:57,920 --> 00:16:02,560
+since we keep a lot of our stuff electronically, that file folder is not quite as important
+
+152
+00:16:02,560 --> 00:16:07,360
+as it used to be. But if a scout leaves the troop, if he ages out, he drops out whatever
+
+153
+00:16:07,360 --> 00:16:12,240
+we hand him the file folder and he can decide what to do with it. So, Jeff, that's the best
+
+154
+00:16:12,240 --> 00:16:17,920
+answer I have for you, But that works for us. I had this email. this was kind of an interesting
+
+155
+00:16:17,920 --> 00:16:23,760
+email and it'll remain anonymous. Can you do a podcast on following up on scouts and the
+
+156
+00:16:23,760 --> 00:16:29,760
+quality of their leadership? Our scout manager will only listen to you and ignores us, And I'm
+
+157
+00:16:29,760 --> 00:16:34,080
+not quite sure who us is, because this person didn't identify themselves by saying they were
+
+158
+00:16:34,080 --> 00:16:38,880
+either a volunteer or a parent or whatever. Our troop and meetings are really suffering
+
+159
+00:16:38,880 --> 00:16:44,400
+because our scout master believes that anything the scouts do, regardless of the quality of what
+
+160
+00:16:44,400 --> 00:16:52,720
+they do, is acceptable. For example, we went on a trip and instead of the three safety stations
+
+161
+00:16:52,720 --> 00:16:57,760
+we would normally have for this activity, there was just a five minute talk And I don't think
+
+162
+00:16:57,840 --> 00:17:03,680
+that was anywhere near as thorough. Many scouts and parents are getting ready to leave this troop.
+
+163
+00:17:03,680 --> 00:17:11,440
+We want more accountability on what these youth leaders are doing. Well, from a distance and with
+
+164
+00:17:11,440 --> 00:17:16,640
+only what you have told me, which is one side of the story, I wouldn't want to judge what's
+
+165
+00:17:16,640 --> 00:17:22,879
+happening in your troop specifically as either being right or wrong. You said that the scout
+
+166
+00:17:22,960 --> 00:17:29,200
+master only listens to me and ignores you. Well, my guess is that he's heard you, So he's actually
+
+167
+00:17:29,200 --> 00:17:35,360
+is listening, but it's likely he or she does not agree with your advice. I do know that if a scout
+
+168
+00:17:35,360 --> 00:17:40,240
+master is empowering their youth leaders to make decisions and run their own program, there's
+
+169
+00:17:40,240 --> 00:17:46,720
+always going to be some chaos and disorganization and some challenges, but that's to be accepted
+
+170
+00:17:46,720 --> 00:17:51,680
+and even welcome. The quality of the kind of program that youth leaders put on is going to
+
+171
+00:17:51,680 --> 00:17:58,320
+be all over the map, because they're learning to work together in an active process. I doubt many
+
+172
+00:17:58,320 --> 00:18:03,680
+of their efforts would equal what adults are capable of doing, but that's really not the aim
+
+173
+00:18:03,680 --> 00:18:10,560
+of our work in scouting. The aim is not presenting a slick adult run program to a group of boys,
+
+174
+00:18:10,560 --> 00:18:16,400
+but helping young people discover how to do things for themselves, And it may be hard
+
+175
+00:18:16,400 --> 00:18:23,120
+to see what's going on from where you sit. So let me share this perspective that I find helpful
+
+176
+00:18:23,120 --> 00:18:29,840
+personally, because somewhere all of us have a scribbly little bit of paper or a lopsided lump
+
+177
+00:18:29,840 --> 00:18:37,120
+of clay that our child proudly presented to us. It's a little bit of artwork that they did
+
+178
+00:18:37,120 --> 00:18:43,200
+and they gave to us with a big smile on their face. And you know what? that scribbly
+
+179
+00:18:43,200 --> 00:18:49,120
+bit of paper, that lump of clay? it ain't the Mona Lisa, but it's priceless in the eyes of a parent,
+
+180
+00:18:49,120 --> 00:18:54,400
+right? That's how I've learned to look at what my youth leaders do. It's usually a little rough
+
+181
+00:18:54,400 --> 00:19:03,920
+around the edges and sometimes it's a total mess, but the value in it is not objective, It's
+
+182
+00:19:03,920 --> 00:19:09,520
+subject. The value is that they're doing something for themselves. They are creating
+
+183
+00:19:09,520 --> 00:19:16,080
+something for themselves by themselves. Now, all that being said, scouts certainly need guidance when
+
+184
+00:19:16,080 --> 00:19:22,240
+it comes to the safety and propriety of their activities, and a five minute talk Sounds about
+
+185
+00:19:22,240 --> 00:19:29,040
+right for the safety of the activity you told me about, And three stations that take up 45
+
+186
+00:19:29,040 --> 00:19:34,960
+minutes sounds like a lot. It sounds like things went fine on the camping trip because I take it
+
+187
+00:19:34,960 --> 00:19:40,880
+there were no injuries or accidents. They were successful in making sure that they kept their
+
+188
+00:19:40,880 --> 00:19:46,800
+fellow scouts safe. They just didn't do it in a way that you particularly liked. If none
+
+189
+00:19:46,800 --> 00:19:52,160
+of what I've written seems to help you, the only thing I can tell you is what I tell everybody
+
+190
+00:19:52,160 --> 00:19:59,280
+else, and that is, if you're a parent or a volunteer and you're in a troupe with a scout
+
+191
+00:19:59,280 --> 00:20:04,160
+master who's not meeting your expectations and you've made some suggestions or you've offered
+
+192
+00:20:04,160 --> 00:20:10,000
+your help and they are not interested in that, then the best thing to do is to find another troupe
+
+193
+00:20:10,000 --> 00:20:16,960
+where the scout master more closely meets your expectations, And that's. I'm not trying to be
+
+194
+00:20:16,960 --> 00:20:22,560
+snide. If you really aren't seeing eye to eye well, don't torture the scout master and don't
+
+195
+00:20:22,560 --> 00:20:29,040
+torture yourself. Find another solution. Okay, Patrick Albano is the scout master of troupe
+
+196
+00:20:29,040 --> 00:20:36,159
+152 in Jackson, New Jersey, And he wrote to say: I am the proud new scout master of a new troupe.
+
+197
+00:20:36,159 --> 00:20:40,960
+All the info on your site has kept my troupe moving forward. My question is:
+
+198
+00:20:41,680 --> 00:20:48,480
+with such a young troupe and really no older youth to lead, where do you draw the line as far as
+
+199
+00:20:48,480 --> 00:20:55,200
+what adult volunteers are doing. How can I keep the program fresh and exciting, especially in
+
+200
+00:20:55,200 --> 00:21:01,360
+today's electronic world, And how can you put responsibility into the scout's hands
+
+201
+00:21:01,360 --> 00:21:06,800
+without them being bored by it or considering it to be work? Well, Patrick, I hope I can be of
+
+202
+00:21:06,800 --> 00:21:12,960
+assistance. Congratulations on being a scout master, And I'm assuming you have a son and that they're
+
+203
+00:21:12,960 --> 00:21:18,160
+old enough to have learned to ride a two-wheeler, And I want you to think about what happened
+
+204
+00:21:18,160 --> 00:21:24,400
+during that process. What was your role to begin with in him learning how to ride a bike,
+
+205
+00:21:24,400 --> 00:21:30,320
+and how did it evolve? Now it's unlikely, but let's pretend your son never saw anybody ride a bike,
+
+206
+00:21:30,320 --> 00:21:35,200
+So you'd first probably show him how to ride a bike yourself by getting on the bike and pedaling
+
+207
+00:21:35,200 --> 00:21:39,360
+it for a little while and saying, Hey, see how it works. And you'd only stand the bike long enough
+
+208
+00:21:39,360 --> 00:21:44,320
+for him to understand what it looked like to ride a bike. When he was on the bike for the first
+
+209
+00:21:44,320 --> 00:21:50,000
+time, where were you? You were probably nearby, holding on, giving some instructions and plenty
+
+210
+00:21:50,000 --> 00:21:54,880
+of encouragement, And as he gained a little confidence, you walked alongside And then at some
+
+211
+00:21:54,880 --> 00:22:00,400
+point you let go of the bike. He pedaled a little away and he fell over. Now, when he fell over,
+
+212
+00:22:00,400 --> 00:22:05,680
+hopefully you didn't get angry and take the bike away. You didn't berate your son's abilities
+
+213
+00:22:05,680 --> 00:22:10,320
+and wish that he'd done better. You helped him up, patterned him on the back, dusted him off
+
+214
+00:22:10,320 --> 00:22:15,600
+and said: Hey, let's try again, because you'll get it. Everybody falls down, but get back
+
+215
+00:22:15,600 --> 00:22:19,520
+on the bike and let's try again. Some children learn to ride a bike in a few minutes. Some
+
+216
+00:22:19,520 --> 00:22:26,320
+take a couple of hours and some take days and days of practice. They all eventually get there,
+
+217
+00:22:26,320 --> 00:22:31,760
+though, if whoever's showing them how to ride the bike is patient and kind and supportive.
+
+218
+00:22:31,760 --> 00:22:35,040
+Patrick, you figured out where I was headed when I started talking about riding a bike,
+
+219
+00:22:35,040 --> 00:22:39,840
+right? I don't have to explain this metaphor to you. This is exactly the way that you're
+
+220
+00:22:39,840 --> 00:22:48,240
+going to begin to see your scouts, no matter what their age, take over the reins of leadership
+
+221
+00:22:48,240 --> 00:22:54,879
+for their truth. Now, the only thing that's different here, perhaps, is that you haven't-
+
+222
+00:22:55,760 --> 00:23:01,199
+quote: ridden the bike, unquote. right, You're learning about what it's like to be a scout
+
+223
+00:23:01,199 --> 00:23:07,040
+master with empowered youth leaders at the same time as they are, So you're going to want
+
+224
+00:23:07,040 --> 00:23:12,800
+to try and stay a few steps ahead of them. Get the principles of empowering youth leaders down in
+
+225
+00:23:12,800 --> 00:23:19,600
+your mind and in the mind of the adults who are working with you, and things will go much better.
+
+226
+00:23:19,600 --> 00:23:25,600
+Now my assumption is is, like most people, you think that this youth leadership idea simply won't
+
+227
+00:23:25,600 --> 00:23:31,600
+work because you haven't really seen it work before. I've seen it work over and over again
+
+228
+00:23:31,600 --> 00:23:37,680
+and trust me, it will work. Age is not your problem. A 12 year old can be a great youth
+
+229
+00:23:37,680 --> 00:23:42,320
+leader. He may not have all the capabilities he'll develop within a couple of years,
+
+230
+00:23:42,320 --> 00:23:48,480
+but he can still surprise you. Don't worry about their age. Work with what they can do
+
+231
+00:23:49,200 --> 00:23:54,640
+rather than with what they can. Now you asked about how do you get youth leaders to take
+
+232
+00:23:54,640 --> 00:23:58,960
+on responsibilities without them getting bored by it or feeling like it's work. Well,
+
+233
+00:23:58,960 --> 00:24:03,360
+there's work in scouting, but don't ever tell the scouts that it's work, because they're looking at it
+
+234
+00:24:03,360 --> 00:24:08,960
+just fun. And even when it's challenging, they're looking at it as having fun. And if you keep the
+
+235
+00:24:08,960 --> 00:24:13,120
+right spirit about it and you encourage them and you're always patient and you work hard
+
+236
+00:24:13,120 --> 00:24:17,840
+to empower them to lead, they're always going to look at it as being fun. So let's go back
+
+237
+00:24:17,840 --> 00:24:21,600
+to the bike for a moment. You put your son on the bike. You told him a few helpful things
+
+238
+00:24:21,600 --> 00:24:25,280
+and he started pedaling right Before you put him on the bike. you didn't sit him down
+
+239
+00:24:25,280 --> 00:24:30,639
+with a lecture on physics or get out a PowerPoint presentation on the parts of a bike.
+
+240
+00:24:30,639 --> 00:24:35,760
+So don't do either of those things to your youth leaders. Don't tell them much of anything And,
+
+241
+00:24:35,760 --> 00:24:42,879
+for having sakes, don't try to train them. Just ask them questions and give them some resources
+
+242
+00:24:42,879 --> 00:24:48,320
+and help them find their own answers. Get a copy of the senior patrol leaders handbook,
+
+243
+00:24:48,320 --> 00:24:52,960
+put it on the table at your next patrol leaders council meeting and start asking questions
+
+244
+00:24:52,960 --> 00:24:59,600
+like: hey, how does the scout troop work? How does this actually happen? I'm pretty new to this
+
+245
+00:24:59,600 --> 00:25:05,280
+and I'm interested in what you think. How do we make up patrols? How should we do that? Can you
+
+246
+00:25:05,280 --> 00:25:10,000
+tell me, like step one, two, three, how we should do that? How do we decide who's going to be a
+
+247
+00:25:10,000 --> 00:25:15,040
+patrol leader? You know, and if you keep asking these questions, one of the scouts around that
+
+248
+00:25:15,040 --> 00:25:19,360
+table is going to get the idea and look in the book and then you're off to the races
+
+249
+00:25:19,360 --> 00:25:22,960
+And once they start finding answers and discovering how that process works,
+
+250
+00:25:23,760 --> 00:25:29,520
+good luck keeping up. Okay, And there was another question. you asked about keeping things fresh
+
+251
+00:25:29,520 --> 00:25:33,840
+and exciting. And you know, listen, if your scouts are leading their troop, it's not too
+
+252
+00:25:33,840 --> 00:25:39,200
+likely you'll ever have to worry about jazzing up the program or keeping it fresh or making it
+
+253
+00:25:39,200 --> 00:25:44,160
+exciting. They will know how to do that better than you. hand them everything that they can
+
+254
+00:25:44,160 --> 00:25:50,480
+take on and be relentlessly encouraging. Accelerate every small victory. minimize failures.
+
+255
+00:25:50,480 --> 00:25:57,200
+listen to them very carefully. Don't tell them much. Let them have the joy of doing this for
+
+256
+00:25:57,200 --> 00:26:01,440
+themselves. After I sent that answer to Patrick, he wrote back. he said: thanks so much. That
+
+257
+00:26:01,440 --> 00:26:06,640
+helps significantly. I really was looking for some reassurance I wasn't doing too much or too
+
+258
+00:26:06,640 --> 00:26:11,680
+little. Keep up the awesome work. It's calming to know that I'm not alone and it's great to
+
+259
+00:26:11,680 --> 00:26:16,720
+get answers based on solid experience. Well, Patrick, thank you for those kind words
+
+260
+00:26:17,600 --> 00:26:22,160
+And I was happy to try and help you answer those questions. And if you have a question, like
+
+261
+00:26:22,160 --> 00:26:26,480
+Patrick or the other folks that have written in this week, you can get in touch with me
+
+262
+00:26:26,480 --> 00:26:39,280
+and you're going to find out how to do that in just a moment.
+
+263
+00:26:45,600 --> 00:26:50,560
+Well, thanks for listening to this 271st edition of the Scoutmaster Podcast.
+
+264
+00:26:51,280 --> 00:26:56,000
+Here's how to keep in touch. Read the blog at scoutmastercgcom and, while you're there,
+
+265
+00:26:56,000 --> 00:27:00,000
+subscribe to receive updates to the blog by email. You can join the other mobile
+
+266
+00:27:00,000 --> 00:27:04,960
+scouters who have the Scoutmaster CG app on their mobile devices and it's available in the
+
+267
+00:27:04,960 --> 00:27:10,320
+Google Play and iTunes app store. You can experience the wonders of scoutmastercgcom
+
+268
+00:27:10,320 --> 00:27:16,080
+through the vast panorama of social media outlets. Join the over 9,000 folks who
+
+269
+00:27:16,080 --> 00:27:21,520
+like Scoutmaster blog on Facebook. Tweet along with the chorus of 1200 tweeters on Twitter.
+
+270
+00:27:21,520 --> 00:27:27,040
+Pin the pultritudinous pictures. Profit publicly with 2000 other prolific pinners on Pinterest.
+
+271
+00:27:27,040 --> 00:27:34,080
+Watch us at YouTube or join the 400 odd folks who form the exclusive Scoutmaster CG circle on Google
+
+272
+00:27:34,080 --> 00:27:38,320
+Plus. If you can't face Facebook, Twitter makes you bitter. You've no interest in Pinterest.
+
+273
+00:27:38,320 --> 00:27:41,360
+You're minus when it comes to Google Plus and you don't put the? U in YouTube.
+
+274
+00:27:42,080 --> 00:27:48,400
+That's fine. Zoom into the late 90s and fire off an email. You can email me, Clark Green,
+
+275
+00:27:48,400 --> 00:28:01,600
+your comments and questions at Clark at scoutmastercgcom. C-L-A-R-K-E at scoutmastercgcom.
+
+276
+00:28:01,600 --> 00:28:08,560
+It only remains for me to repeat the obvious: that the Scoutmaster blog and the Scoutmaster podcast
+
+277
+00:28:08,560 --> 00:28:14,480
+and all the other things that we do are not official publications of any scouting organization
+
+278
+00:28:14,480 --> 00:28:18,160
+and they bear no sponsorship or endorsement of any scouting organization.
+
+279
+00:28:18,800 --> 00:28:24,480
+Nah, it's just me talking into a microphone and trying to lend a hand to scout leaders and,
+
+280
+00:28:24,480 --> 00:28:29,200
+you know, have a little bit of fun along the way. And speaking of fun, here's our founder,
+
+281
+00:28:29,760 --> 00:28:35,440
+Sir Robert Baden-Powell. Sir Robert, Good luck to you and good camping.
+
+282
+00:28:35,440 --> 00:28:48,240
+Oh, I thank you, sir, Until next time, everyone.
+

@@ -2,7 +2,9 @@
 title: "Do What Scouts Do"
 date: 2017-06-06
 draft: false
-categories: ["outdoors", "scouting-ideals"]
+topics:
+  - "Scouting History & Tradition"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20170606120046/http://scoutmastercg.com/do-what-scouts-do/"
 ---
 

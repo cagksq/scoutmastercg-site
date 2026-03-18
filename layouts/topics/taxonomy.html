@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <article class="mw7 center ph3 pb5">
+
+    <a href="/" class="smcg-back-link">← All Topics</a>
+
+    <h1 class="topics-page-title">{{ .Title }}</h1>
+    <p class="topics-page-count">{{ len .Pages }} posts</p>
+
+    <div class="topics-page-list">
+      {{ range .Pages.ByDate.Reverse }}
+        <a class="topics-page-row" href="{{ .RelPermalink }}">
+          <div class="topics-page-row-title">{{ .Title }}</div>
+          <div class="topics-page-row-summary">{{ index (split (.Summary | plainify) ".") 0 }}.</div>
+        </a>
+      {{ end }}
+    </div>
+
+  </article>
+{{ end }}

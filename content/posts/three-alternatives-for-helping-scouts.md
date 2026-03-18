@@ -2,7 +2,9 @@
 title: "Three Alternatives for Helping Scouts"
 date: 2014-10-18
 draft: false
-categories: ["scouts"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20141018212851/http://scoutmastercg.com:80/three-alternatives-for-helping-scouts/"
 ---
 

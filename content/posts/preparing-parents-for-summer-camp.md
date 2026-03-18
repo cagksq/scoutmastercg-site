@@ -2,7 +2,9 @@
 title: "Preparing Parents for Summer Camp"
 date: 2012-06-15
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Parent Relations"
+  - "Summer Camp"
 wayback_url: "https://web.archive.org/web/20130115215218/http://www.scoutmastercg.com:80/preparing-parents-summer-camp-2/"
 ---
 

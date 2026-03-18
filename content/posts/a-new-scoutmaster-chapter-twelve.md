@@ -2,7 +2,9 @@
 title: "A New Scoutmaster - Chapter Twelve"
 date: 2015-02-15
 draft: false
-categories: ["scoutmasters-job", "scouts"]
+topics:
+  - "Discipline & Behavior"
+  - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20150215220133/http://scoutmastercg.com:80/new-scoutmaster-chapter-twelve/"
 ---
 

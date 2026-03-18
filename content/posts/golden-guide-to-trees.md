@@ -2,8 +2,8 @@
 title: "Golden Guide to Trees"
 date: 2012-12-18
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20150310041732/http://scoutmastercg.com:80/identifying-tre/"
 ---
 

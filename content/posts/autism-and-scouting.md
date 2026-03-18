@@ -2,7 +2,8 @@
 title: "Autism and Scouting"
 date: 2013-01-20
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20130120104556/http://www.scoutmastercg.com:80/autism-and-scouting/"
 ---
 

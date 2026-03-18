@@ -2,7 +2,8 @@
 title: "Attack or Opportunity"
 date: 2005-12-01
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20141017150419/http://scoutmastercg.com:80/attack_or_oppor/"
 ---
 

@@ -2,7 +2,8 @@
 title: "Moderation"
 date: 2014-08-24
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20140824204444/http://scoutmastercg.com/moderation/"
 ---
 

@@ -2,7 +2,9 @@
 title: "The way to the brain, goes through the hand"
 date: 2011-03-08
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Instructional Methods"
+  - "Scout Activities & Games"
 wayback_url: "https://web.archive.org/web/20150921145326/http://scoutmastercg.com/the-way-to-the-brain-goes-through-the-hand-2/"
 ---
 

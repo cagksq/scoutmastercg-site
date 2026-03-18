@@ -2,7 +2,9 @@
 title: "Troop Organization Chart"
 date: 2015-10-29
 draft: false
-categories: ["scouts"]
+topics:
+  - "Organizational Structure"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20151029205514/http://scoutmastercg.com:80/troop-organization-chart/"
 ---
 

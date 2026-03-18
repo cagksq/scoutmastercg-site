@@ -2,7 +2,9 @@
 title: "Another Eagle Scout Imbroglio"
 date: 2015-09-19
 draft: false
-categories: ["advancement"]
+topics:
+  - "Adult Leadership Roles"
+  - "Eagle Scout"
 wayback_url: "https://web.archive.org/web/20150919205424/http://scoutmastercg.com/another-eagle-scout-imbroglio/"
 ---
 

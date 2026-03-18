@@ -2,7 +2,9 @@
 title: "No Jerks"
 date: 2015-09-21
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Adult Leadership Roles"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20150921141442/http://scoutmastercg.com/no-jerks/"
 ---
 

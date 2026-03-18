@@ -2,7 +2,9 @@
 title: "The Merit of Badges"
 date: 2013-01-17
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Merit Badges"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20141013050230/http://scoutmastercg.com:80/the-merit-of-badges/"
 ---
 

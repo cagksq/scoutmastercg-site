@@ -1,0 +1,712 @@
+1
+00:00:00,000 --> 00:00:04,480
+Hi, this is Rob Playsian. I'm the Scoutmaster for Troop 18 in Muskega, Wisconsin.
+
+2
+00:00:04,480 --> 00:00:08,960
+This edition of the Scoutmaster podcast is sponsored by backers just like me.
+
+3
+00:00:08,960 --> 00:00:10,880
+And now to you, Scoutmaster.
+
+4
+00:00:17,440 --> 00:00:22,160
+As I'm fond of saying, it depends on your perspective, right, The way that you look at
+
+5
+00:00:22,160 --> 00:00:28,160
+things and understand them. really, perspective means a lot. For instance, what you and I
+
+6
+00:00:28,160 --> 00:00:32,960
+think of as a tent with a couple of scouts and sleeping bags is to a bear,
+
+7
+00:00:34,080 --> 00:00:36,800
+a couple of soft burritos in a carry-out container.
+
+8
+00:00:40,480 --> 00:00:46,160
+Yes, another bear joke. Hey, this is podcast number 341..
+
+9
+00:00:58,960 --> 00:01:19,600
+Well, welcome back to the Scoutmaster podcast. This is Clark Green. And oh, let's do things the
+
+10
+00:01:19,600 --> 00:01:27,040
+way that we always do. Let's take a look in the mailbag. I heard from my pal, Dennis Runyon,
+
+11
+00:01:27,040 --> 00:01:32,480
+who's the scoutmaster of Troop 14 in nearby Westchester, Pennsylvania, says:
+
+12
+00:01:32,480 --> 00:01:36,800
+I hope all is well. I just listened to your chat with Wade and Bucky. one of the other guys that
+
+13
+00:01:36,800 --> 00:01:42,000
+worked at camp. Wade worked at camp Bucky not so much, And I know Dennis because he's a local
+
+14
+00:01:42,000 --> 00:01:48,000
+scoutmaster and we spend the same week at the same camp every summer and have done so for like, oh,
+
+15
+00:01:49,680 --> 00:01:56,080
+20 years. Maybe I don't know. It's been a long, long time. But Dennis mentioned that there
+
+16
+00:01:56,080 --> 00:02:00,320
+was another guy who worked on camp staff, who was also on the Appalachian Trail, had a little bit
+
+17
+00:02:00,320 --> 00:02:04,960
+of a head start on Wade and Bucky. Thanks for getting in touch, Dennis, Glad you're listening in,
+
+18
+00:02:04,960 --> 00:02:10,000
+And I want to tell you also, by the way, that Wade and Bucky are doing just fine. We're keeping
+
+19
+00:02:10,000 --> 00:02:16,079
+track of them. We'll talk to them again one day soon. Heard from Courtney Clapper, who said
+
+20
+00:02:16,079 --> 00:02:19,840
+thanks again for all you do. Your podcast has been a light in the darkness. We were in
+
+21
+00:02:19,840 --> 00:02:25,120
+kind of a mess, But you kept reminding me that good scouting is out there. Courtney,
+
+22
+00:02:25,120 --> 00:02:30,080
+I'm glad to hear things are working out better And I owe you an email, And I probably owe a lot
+
+23
+00:02:30,080 --> 00:02:35,280
+of people an email at this point. Boy, I've been busy and I haven't been quite as attentive to
+
+24
+00:02:35,280 --> 00:02:40,320
+keeping up with emails as I ought to be. I think every human being on the face of the earth can
+
+25
+00:02:40,320 --> 00:02:45,600
+probably say that at one point or another, can't they? I'm still going through the rather
+
+26
+00:02:45,600 --> 00:02:54,720
+exacting, long process of working on revamping and redesigning scoutmastercgcom- which still
+
+27
+00:02:55,519 --> 00:03:00,480
+kind of picking away at that- And I appreciate the feedback I've received so far about what
+
+28
+00:03:00,480 --> 00:03:07,840
+improvements and updates you all consider most important, what you would like to see. And if
+
+29
+00:03:07,840 --> 00:03:12,560
+there is something specific that you'd like to see changed or improved, you can get in touch
+
+30
+00:03:12,560 --> 00:03:21,120
+with me at clarkclarke at scoutmastercgcom. I would really appreciate any thoughts you might have.
+
+31
+00:03:21,840 --> 00:03:26,560
+Hey, we have a live chat session. Try and have one at least once a week, And that's the way
+
+32
+00:03:26,560 --> 00:03:32,400
+this has been going so far for the past couple of months. on Tuesday mornings, We'll usually
+
+33
+00:03:32,400 --> 00:03:38,400
+get started around 8am Eastern time And what you do is keep an eye on the Facebook feed
+
+34
+00:03:38,400 --> 00:03:44,720
+and the Twitter feed and we'll be on for a live chat. And I want to thank Mike Summers,
+
+35
+00:03:44,720 --> 00:03:52,000
+who's a scoutmaster in Troop 89 in Wilson, North Carolina, And Mitchell Locken, who's a
+
+36
+00:03:52,000 --> 00:03:58,880
+cubmaster in Pac 20 in Lincoln, Nebraska, who both checked in for the first time on the chat this
+
+37
+00:03:58,880 --> 00:04:05,200
+past week, along with any number of folks who we call our frequent flyers, who show up on the
+
+38
+00:04:05,200 --> 00:04:09,760
+chat regularly. It's always good to hear from folks and to see that you check in
+
+39
+00:04:10,320 --> 00:04:17,360
+Once again, live chat at scoutmastercgcom Tuesday mornings. Look on the Facebook feed and the
+
+40
+00:04:17,360 --> 00:04:22,160
+Twitter feed And you'll see a notice that we're live. Come on over and join us. We have a great
+
+41
+00:04:22,160 --> 00:04:28,640
+time. Before I go any further, I want to make sure to thank all the folks who are scoutmastercgcom
+
+42
+00:04:28,640 --> 00:04:34,080
+backers. You're the folks that keep everything up and running, And I want to make sure to
+
+43
+00:04:34,080 --> 00:04:40,880
+especially thanks Susan Puccini, who became a backer since our last podcast, And thanks to
+
+44
+00:04:40,880 --> 00:04:45,280
+everyone who supports the blog and podcast through something called Patreon. It's kind
+
+45
+00:04:45,280 --> 00:04:52,080
+of a subscription service, and Courtney Clappert became a Patreon subscriber since our last podcast.
+
+46
+00:04:52,080 --> 00:04:56,719
+If you would like to join all the folks who are backers or subscribers, it's not that hard to
+
+47
+00:04:57,680 --> 00:05:04,320
+follow the links at the top right of any page at scoutmastercgcom, And I'll also have
+
+48
+00:05:04,320 --> 00:05:11,360
+links in the in this episode's podcast notes. Well, this week I am going to go over some familiar
+
+49
+00:05:11,360 --> 00:05:16,400
+ground to some of you if you've been listeners for a while. It's something that I think is
+
+50
+00:05:16,400 --> 00:05:22,400
+important and we'll be talking about it in Scout Master's ship in seven minutes or less. So let's
+
+51
+00:05:22,400 --> 00:05:32,080
+get started, shall we?
+
+52
+00:05:53,360 --> 00:06:03,200
+Scout Master's ship in seven minutes or less.
+
+53
+00:06:11,280 --> 00:06:17,120
+So this week we're going to talk about asking and telling as it relates to leadership development.
+
+54
+00:06:17,120 --> 00:06:21,680
+If I need to share basic information with you, I will tell you something
+
+55
+00:06:21,680 --> 00:06:26,880
+We're going to meet at this time at this place. that kind of telling, simple sharing of information.
+
+56
+00:06:26,880 --> 00:06:32,800
+If I'm going to work with you to develop your skills as a leader. I'm not going to tell you
+
+57
+00:06:32,800 --> 00:06:37,920
+very much. I'm not going to tell you about the skills of leadership. I'm not going to give you
+
+58
+00:06:37,920 --> 00:06:43,040
+the seven steps of this or the five steps of that. I'm not going to sit you down at a
+
+59
+00:06:43,040 --> 00:06:48,240
+PowerPoint presentation. I'm not going to train you. What I'm going to do is I'm going to ask
+
+60
+00:06:48,240 --> 00:06:54,480
+you to lead and I'm going to ask you questions about that experience. The way that this works,
+
+61
+00:06:54,480 --> 00:07:01,440
+this kind of experiential learning that's possible in scouting, is something that is unique in the
+
+62
+00:07:01,440 --> 00:07:06,640
+lives of most of our Scouts and most of the other organized activities that they participate in.
+
+63
+00:07:06,640 --> 00:07:13,600
+they're not going to get an opportunity for this kind of experiential learning. Now, I am
+
+64
+00:07:13,680 --> 00:07:22,080
+not necessarily a foe of PowerPoint or a foe of training, because there are some things that you
+
+65
+00:07:22,080 --> 00:07:26,800
+have to be told, but let's remember, training is not about asking questions. Training is about
+
+66
+00:07:26,800 --> 00:07:34,320
+telling people the way things work and it has some value. but I believe it to be way overvalued
+
+67
+00:07:34,320 --> 00:07:40,640
+when it comes to developing youth leadership. and I find- parenthetically I'll say this-
+
+68
+00:07:40,640 --> 00:07:47,120
+I find a lot of times the kind of training that we put our youth members through is really
+
+69
+00:07:47,760 --> 00:07:54,080
+there so that later on the adults can say: well, you went to training on it. why can't you understand?
+
+70
+00:07:54,719 --> 00:08:00,080
+you know how to do this thing. or you should have listened more when we had the training thing. or
+
+71
+00:08:00,080 --> 00:08:06,560
+I told you this when in training and you forgot it and you know what I'm saying. I think it's
+
+72
+00:08:07,200 --> 00:08:14,800
+subtly aggressive in a lot of ways. There are absolutely wonderful training experiences and
+
+73
+00:08:14,800 --> 00:08:21,440
+I understand that. I just don't find them entirely all that useful, in my experience,
+
+74
+00:08:22,000 --> 00:08:29,040
+for developing youth leaders. You can't really learn to do things like dribble a basketball
+
+75
+00:08:29,040 --> 00:08:35,039
+or throw a football or something like that by having the process of it explained to you.
+
+76
+00:08:35,039 --> 00:08:42,640
+you have to actually do it and not do it well and then be coached along and then try again and
+
+77
+00:08:42,640 --> 00:08:48,160
+then practice, practice and finally, if you stick with it, you get good at it, and I believe leadership
+
+78
+00:08:48,160 --> 00:08:55,439
+to be a similar kind of skill. You have to practice it. so if you want to learn to be a
+
+79
+00:08:55,439 --> 00:09:02,719
+leader, you have to begin leading, and then you need to have somebody who's able to ask you
+
+80
+00:09:02,720 --> 00:09:10,640
+the right questions about the experiences that you're having that get your mind thinking like a
+
+81
+00:09:10,640 --> 00:09:16,000
+leader. So a new patrol leader, a new senior patrol leader, a new youth member with a set of
+
+82
+00:09:16,000 --> 00:09:22,800
+responsibilities. there is an amount of telling that needs to happen in some cases If you have
+
+83
+00:09:23,840 --> 00:09:28,800
+troop and patrols with ongoing youth leadership. there are a lot of things that probably don't
+
+84
+00:09:28,800 --> 00:09:34,080
+need to be repeated because there is a native understanding in the scouts who are taking on
+
+85
+00:09:34,080 --> 00:09:40,800
+those positions, who've been working with other scouts in those positions of responsibility,
+
+86
+00:09:40,800 --> 00:09:46,560
+where they know what needs to be done. They just are not too sure about their own skills
+
+87
+00:09:46,560 --> 00:09:52,400
+in making that happen. and I can take a group of scouts who are taking on new positions of
+
+88
+00:09:52,400 --> 00:09:58,320
+responsibility and I can sit them down and I can tell them lots of things, but none of those
+
+89
+00:09:58,320 --> 00:10:04,000
+things are especially meaningful to them until they have some experience in their position of
+
+90
+00:10:04,000 --> 00:10:11,040
+leadership. What I have learned to do is to skip over the first telling part and let them lead
+
+91
+00:10:11,040 --> 00:10:17,360
+and then ask them questions about it. So how precisely does this work Right now? this week
+
+92
+00:10:17,360 --> 00:10:21,920
+at our troop meeting it'll be the first meeting for a new patrol leaders council,
+
+93
+00:10:21,920 --> 00:10:26,720
+new senior patrol leader, new patrol leaders. They've been to a lot of scout meetings.
+
+94
+00:10:26,720 --> 00:10:33,440
+they know what needs to happen After they were elected. at our last meeting they spent some time
+
+95
+00:10:33,440 --> 00:10:40,000
+talking and planning and hopefully preparing for this meeting coming up this week. I will ask
+
+96
+00:10:40,000 --> 00:10:45,120
+the following question of the senior patrol leader when I arrive: Do you need any help from me?
+
+97
+00:10:45,120 --> 00:10:52,080
+And almost without exception, every time I've asked that question of a new senior patrol leader,
+
+98
+00:10:52,080 --> 00:10:58,800
+the answer is no. Then I'll ask a second question: do you have any questions for me? and maybe there
+
+99
+00:10:58,800 --> 00:11:03,520
+will be a minor question, but usually there's no question because they're pretty focused on what's
+
+100
+00:11:03,520 --> 00:11:10,800
+about to happen. Then I'll sit back and watch things happen and from my observers perch
+
+101
+00:11:10,800 --> 00:11:17,760
+I'll see what goes on and I'll take note of what's happening. and at the end of the evening
+
+102
+00:11:17,840 --> 00:11:24,160
+the patrol leaders council will get back together and I will ask them how things went.
+
+103
+00:11:25,120 --> 00:11:34,400
+and usually the answer is pretty good: Not a whole lot of thinking there. and if I saw
+
+104
+00:11:34,400 --> 00:11:40,319
+something that was a little off the rails or look like it was causing a little bit of frustration
+
+105
+00:11:40,319 --> 00:11:47,120
+for somebody, I'll ask about that. How do you think this particular aspect of the meeting
+
+106
+00:11:47,120 --> 00:11:52,160
+went? It could be a game, it could be a skill demonstration, it could be the patrol meetings.
+
+107
+00:11:52,160 --> 00:11:59,120
+usually they will say: fine, you know it was fine, because they really don't understand what to look
+
+108
+00:11:59,120 --> 00:12:04,560
+for or what to be thinking about, and they are pretty happy that they got past it without
+
+109
+00:12:05,120 --> 00:12:10,480
+any major incident. but then I'll drill down a little bit and I'll say: well, tell me why you
+
+110
+00:12:10,480 --> 00:12:16,000
+think it was fine, and they'll have to think about that. Then you start to see the gears
+
+111
+00:12:16,000 --> 00:12:21,200
+are starting to move and sometimes there's a little bit of smoke coming out of the ears
+
+112
+00:12:21,200 --> 00:12:27,840
+and that mechanism is kicking in. they have to go back and picture what happened and think about it
+
+113
+00:12:27,840 --> 00:12:33,120
+and then maybe they'll have an explanation and maybe they won't. I might say: what about when
+
+114
+00:12:33,120 --> 00:12:39,120
+this happened? what about when I heard somebody raise their voice? then let them work at that
+
+115
+00:12:39,120 --> 00:12:44,640
+and chew on that one for a little while and see what they have to say. So you're getting the sense-
+
+116
+00:12:44,720 --> 00:12:50,960
+here I'm being like incredibly broadly general, but you're getting the sense of the way that we start
+
+117
+00:12:50,960 --> 00:12:59,199
+to ask questions and the way that we engage their minds in starting to look at the experience that
+
+118
+00:12:59,199 --> 00:13:06,480
+they've just had and try and draw some understanding and some good out of it. Now I've talked about,
+
+119
+00:13:06,480 --> 00:13:10,800
+up to this point, just talking about things that were maybe a little difficult or frustrating for
+
+120
+00:13:10,800 --> 00:13:17,120
+the youth leadership. I will also want to make sure to comment on those things I observed that I thought
+
+121
+00:13:17,120 --> 00:13:24,240
+were particularly good and that made me feel confident in their ability to develop as leaders,
+
+122
+00:13:24,240 --> 00:13:30,320
+to develop in their positions of responsibility. and I have to remind myself to do that, because
+
+123
+00:13:30,320 --> 00:13:35,200
+sometimes I'm more focused on the things that weren't working well than the things that
+
+124
+00:13:35,200 --> 00:13:41,920
+went well, and then I might choose, might, but I try and resist doing this. if it's at all possible- and a
+
+125
+00:13:41,920 --> 00:13:48,560
+lot of times it isn't possible, to be frank, I'll want to tell them something salient to the things
+
+126
+00:13:48,560 --> 00:13:54,800
+that we have been discussing. by me asking questions, I may want to say: you know, if you
+
+127
+00:13:55,840 --> 00:14:01,040
+raise your voice to get everybody's attention, what you're doing is training them to wait
+
+128
+00:14:01,040 --> 00:14:07,439
+until you raise your voice- something similar to that, just a little something in the way of
+
+129
+00:14:08,079 --> 00:14:16,640
+advice or a skill. but I very consciously try and stay away from telling them how I think
+
+130
+00:14:16,640 --> 00:14:25,120
+things went or what I think they ought to do next, because if I pose my questions properly
+
+131
+00:14:25,200 --> 00:14:31,600
+and I listen carefully to their responses, they will be figuring that out on their own. it's a
+
+132
+00:14:31,600 --> 00:14:38,240
+little difficult to express, but I hope it's not confusing, so let me walk through it one last
+
+133
+00:14:38,240 --> 00:14:45,680
+time if I was to observe something going on in a meeting that I thought was a point
+
+134
+00:14:46,400 --> 00:14:50,720
+where my youth leaders were getting frustrated or having a little bit of trouble making
+
+135
+00:14:50,720 --> 00:14:56,320
+something happen after the meeting, not during the meeting. I'm not going to step in after the
+
+136
+00:14:56,320 --> 00:15:02,400
+meeting. the patrol leaders council gets together and I ask questions about that particular thing,
+
+137
+00:15:02,400 --> 00:15:11,440
+trying to get them to identify the thing that was either frustrating or they had trouble with,
+
+138
+00:15:11,440 --> 00:15:17,040
+and then just keep asking questions, and one of the one of the ones that I find myself often
+
+139
+00:15:17,040 --> 00:15:23,439
+asking is: well, given that situation happening again, what would you do the next time? would you do
+
+140
+00:15:23,439 --> 00:15:28,959
+anything differently? and usually that's enough to get them moving. one thing I found when I work
+
+141
+00:15:28,959 --> 00:15:34,240
+with scouts like this- and it just may be me- is that this kind of questioning is a little
+
+142
+00:15:34,240 --> 00:15:39,360
+off-putting or frightening to them, because this doesn't happen all that often. what they're
+
+143
+00:15:39,360 --> 00:15:44,160
+used to having happen is somebody just to tell them the right way to do things, or to tell them
+
+144
+00:15:44,160 --> 00:15:48,400
+that they made a mistake and here's how to correct the mistake. and so when you start asking these
+
+145
+00:15:48,400 --> 00:15:55,040
+kind of open-ended questions and start probing for their answers and things, they think it might be
+
+146
+00:15:55,040 --> 00:16:02,160
+a trick, it might be. you know a way to back me into a corner to get me to say something or
+
+147
+00:16:02,160 --> 00:16:08,160
+commit to something that I don't want to commit to or I don't want to say. so you have to carry
+
+148
+00:16:08,160 --> 00:16:15,199
+this off without being the judge and the jury and them being on the defense. what you want to have
+
+149
+00:16:15,199 --> 00:16:20,880
+is you want to have a team-building kind of aspect to it, where you're a member of the team
+
+150
+00:16:20,880 --> 00:16:27,040
+and your questions are posed in a friendly manner, not an accusatory manner. and sometimes that can
+
+151
+00:16:27,040 --> 00:16:34,480
+be hard because I get frustrated and I get a little impatient, so my attitude sometimes
+
+152
+00:16:34,480 --> 00:16:40,480
+can go south on me if I'm not careful. and once again, I always want to try and find a few
+
+153
+00:16:40,480 --> 00:16:45,760
+good things to emphasize, and it's not usually all that difficult, because if you are looking for
+
+154
+00:16:45,760 --> 00:16:50,720
+problems, you'll see a lot of problems. if you're looking for progress, you'll see a lot of progress.
+
+155
+00:16:50,720 --> 00:16:55,760
+if you're just looking, you'll see both. and those are the things that you want: to take
+
+156
+00:16:56,720 --> 00:17:01,920
+a little bit of time after the meeting to talk to your patrol leaders council about-
+
+157
+00:17:01,920 --> 00:17:06,960
+and when I say a little bit of time, I'm talking five minutes, don't wear out your welcome at a
+
+158
+00:17:06,960 --> 00:17:13,600
+patrol leaders council meeting. that's the difference between asking and telling as it relates to
+
+159
+00:17:13,600 --> 00:17:18,720
+developing youth leadership. I hope you find that useful. I'd love to hear your thoughts on it.
+
+160
+00:17:18,720 --> 00:17:22,720
+I'm easy to get in touch with. I'm going to tell you how to do that in just a moment.
+
+161
+00:17:36,560 --> 00:17:42,880
+thank you for listening to this 341st edition of the scout master podcast. here's a few ways you
+
+162
+00:17:42,880 --> 00:17:50,320
+can keep in touch. first of all, go to scoutmastercgcom and sign up to receive email updates to the blog
+
+163
+00:17:50,320 --> 00:17:57,760
+and the podcast. plus, you'll find like 1500 articles, all the back editions of the podcast. there
+
+164
+00:17:57,760 --> 00:18:03,440
+you can join the many folks who like scout master blog on facebook. it's somewhere around 16,000
+
+165
+00:18:03,440 --> 00:18:10,240
+right now. we have a chorus of tweeters on twitter. we pin pultritudinous pictures publicly
+
+166
+00:18:10,240 --> 00:18:17,200
+with our fellow pinners. on pinterest. you can watch us at scoutmastercg on youtube. but if none of that
+
+167
+00:18:17,200 --> 00:18:24,640
+makes any sense, old-timer, here's what you do. you send me a good old-fashioned email. i'm always
+
+168
+00:18:24,640 --> 00:18:38,480
+available at clark at scoutmastercgcom. that's c, l, a, r, k, e at scoutmastercgcom. now, if all
+
+169
+00:18:38,560 --> 00:18:43,440
+else fails, if you get on the roof of your camp headquarters, you'll find a big spotlight under
+
+170
+00:18:43,440 --> 00:18:49,040
+a tarp, and that spotlight, once you turn it on, projects a special signal up against the clouds,
+
+171
+00:18:49,040 --> 00:18:54,960
+so turn it on for a few minutes. it needs to be a dark and reasonably clear night, but turn on the
+
+172
+00:18:54,960 --> 00:19:00,000
+spotlight for a few minutes and i will make sure to get in touch with you to answer all of your
+
+173
+00:19:00,000 --> 00:19:04,560
+questions. by now, it should be abundantly clear that the scoutmaster blog and the scoutmaster
+
+174
+00:19:04,560 --> 00:19:10,399
+podcast are not official publications of anyone other than myself. i'm not endorsed or sponsored by
+
+175
+00:19:10,399 --> 00:19:16,639
+the boy scouts of america or any other scouting organization. nope, it's just me talking into a
+
+176
+00:19:16,639 --> 00:19:23,120
+microphone, trying to handle land, trying to lend a hand to scouting and have a little bit of fun
+
+177
+00:19:23,120 --> 00:19:30,240
+along the way. and speaking of fun, here he is our founder, sir robert bedan powell. sir robert,
+
+178
+00:19:30,240 --> 00:19:44,080
+good luck to you and good camping. why? thank you, sir? until next time, everyone.
+

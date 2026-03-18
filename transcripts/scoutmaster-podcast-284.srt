@@ -1,0 +1,2572 @@
+1
+00:00:00,000 --> 00:00:06,000
+I'm Terry Gerard and I'm Scoutmaster with Troop44 in Consville, Oklahoma.
+
+2
+00:00:06,000 --> 00:00:11,360
+This edition of the Scoutmaster podcast is sponsored by backers like me.
+
+3
+00:00:11,360 --> 00:00:19,800
+And now for you, Scoutmaster,
+
+4
+00:00:19,800 --> 00:00:24,680
+I have here in front of me another report of a discovery made by the dedicated research
+
+5
+00:00:24,720 --> 00:00:30,240
+Scouters at the Large Baden Collider out in Heisenberg, Arizona,
+
+6
+00:00:31,680 --> 00:00:33,680
+Arizona. huh,
+
+7
+00:00:34,280 --> 00:00:39,160
+I thought I thought Heisenberg was in Germany, but I'm uncertain about that.
+
+8
+00:00:39,160 --> 00:00:44,480
+Well, look anyway, the Large Baden Collider accelerates camping gear
+
+9
+00:00:44,480 --> 00:00:48,280
+to its terminal velocity and things collide, apparently,
+
+10
+00:00:48,280 --> 00:00:53,800
+And they discover interesting properties of different bits of camping gear.
+
+11
+00:00:54,240 --> 00:00:58,360
+and the discovery that this report announces has to do with water filters,
+
+12
+00:00:58,360 --> 00:01:01,200
+And it's called the water filter temporal distortion.
+
+13
+00:01:01,760 --> 00:01:07,200
+What they've discovered is that the stated operational time required
+
+14
+00:01:07,200 --> 00:01:13,480
+to filter a quart of water, expressed in minutes, will actually take
+
+15
+00:01:13,480 --> 00:01:15,680
+an equal number of hours.
+
+16
+00:01:17,280 --> 00:01:21,800
+So I guess if you've ever filtered water with a water filter,
+
+17
+00:01:21,800 --> 00:01:25,200
+you know what I'm talking about.
+
+18
+00:01:25,200 --> 00:01:27,759
+Hey, this is podcast number 284..
+
+19
+00:01:52,560 --> 00:01:55,759
+Well, welcome back to the Scoutmaster podcast.
+
+20
+00:01:55,759 --> 00:01:59,720
+This is Clark Green, back to our regular good old format.
+
+21
+00:01:59,720 --> 00:02:02,160
+We had a vacation day last week
+
+22
+00:02:02,160 --> 00:02:05,479
+And but here we are, we're back again.
+
+23
+00:02:05,880 --> 00:02:08,039
+Fred Glover is an OH chapter advisor.
+
+24
+00:02:08,039 --> 00:02:11,400
+He wrote in to say thanks for your continued support of the scouting movement.
+
+25
+00:02:11,680 --> 00:02:13,840
+I've only been listening to the podcast for a couple of years,
+
+26
+00:02:13,840 --> 00:02:17,320
+but it always seemed that you were on a subject or issue
+
+27
+00:02:17,320 --> 00:02:19,079
+I was encountering at the time.
+
+28
+00:02:19,079 --> 00:02:19,920
+Thanks, Fred,
+
+29
+00:02:19,920 --> 00:02:21,280
+I really appreciate that.
+
+30
+00:02:21,280 --> 00:02:25,960
+And thanks for being a backer to. Fred did mention that in his message to me.
+
+31
+00:02:26,600 --> 00:02:29,200
+Also, this message from Joe Prespari,
+
+32
+00:02:29,480 --> 00:02:32,480
+who is the Cubmaster of Pac-23 in Burlington, Connecticut.
+
+33
+00:02:32,760 --> 00:02:33,360
+Hi, Clark,
+
+34
+00:02:33,360 --> 00:02:35,640
+Well, you've inspired me to stay in Cub scouting next year
+
+35
+00:02:35,640 --> 00:02:38,040
+and allow my son to move up into Boy Scouts.
+
+36
+00:02:38,320 --> 00:02:43,040
+I really see a need in my town for seasoned leaders to remain in Cub Scouts
+
+37
+00:02:43,040 --> 00:02:45,600
+and welcome the next generation of boys into the program.
+
+38
+00:02:45,600 --> 00:02:51,320
+It's my hope I can sway some more experienced tenured leaders to do the same.
+
+39
+00:02:51,880 --> 00:02:54,640
+Otherwise we're going to lose all that experience at the Cub level.
+
+40
+00:02:54,640 --> 00:02:55,640
+Thanks for the good work.
+
+41
+00:02:55,640 --> 00:02:57,840
+Well, Joe, thank you.
+
+42
+00:02:57,840 --> 00:03:02,000
+I'm glad that I had some small part in you're deciding to stay on with
+
+43
+00:03:02,000 --> 00:03:04,320
+Cubs and to stay active there.
+
+44
+00:03:04,519 --> 00:03:06,720
+This is something we've talked about in the past, right
+
+45
+00:03:06,760 --> 00:03:10,760
+That that a lot of times we just expect to lose our most experienced
+
+46
+00:03:10,760 --> 00:03:15,160
+Cub leaders when their own sons move up into a Boy Scout troop.
+
+47
+00:03:15,200 --> 00:03:17,280
+But Joe's taken a little bit of a different tack.
+
+48
+00:03:17,280 --> 00:03:21,000
+I think that's both noble and really, really necessary.
+
+49
+00:03:21,079 --> 00:03:23,400
+So once again, thanks for being in touch, Joe.
+
+50
+00:03:23,760 --> 00:03:28,640
+Hey, last week we were on with live chats and these happen usually
+
+51
+00:03:28,640 --> 00:03:32,519
+on Tuesday and Wednesday mornings, Eastern time, starting about eight o'clock.
+
+52
+00:03:32,519 --> 00:03:37,240
+We go to about 11 o'clock. keep an eye on my Facebook feed and my Twitter feed
+
+53
+00:03:37,320 --> 00:03:41,280
+and come and join us at scoutmastercgcom for a live chat.
+
+54
+00:03:41,280 --> 00:03:43,760
+And I wanted to say thank you to Scott Jones,
+
+55
+00:03:44,480 --> 00:03:49,440
+who's a scout master for Troop 911 in San Antonio, Texas, and Jeremy Snyder,
+
+56
+00:03:49,720 --> 00:03:54,399
+who's an assistant scout master with Troop 175 in North Ridgeville, Ohio.
+
+57
+00:03:54,840 --> 00:03:57,720
+Scott and Jeremy both signed on for the first time
+
+58
+00:03:58,079 --> 00:04:02,239
+and joined the rest of the frequent flyers that show up when we have a live chat.
+
+59
+00:04:02,359 --> 00:04:03,920
+Thanks for spending a little time with me.
+
+60
+00:04:03,920 --> 00:04:05,440
+I appreciate it.
+
+61
+00:04:05,440 --> 00:04:09,840
+Let me take time to ask you a favor, because I- because I do need your help.
+
+62
+00:04:10,080 --> 00:04:15,600
+I started blogging and podcasting back in 2005 and I really didn't plan
+
+63
+00:04:15,920 --> 00:04:18,240
+on what happened in the next 10 years.
+
+64
+00:04:18,240 --> 00:04:21,480
+It just kind of grew and I hear from a lot of folks every week
+
+65
+00:04:21,600 --> 00:04:26,440
+and it's really heartening to know I'm able to lend them a hand in their work as scouts.
+
+66
+00:04:27,080 --> 00:04:32,120
+So what I'm asking for is if you're finding the podcast and the blog posts
+
+67
+00:04:32,120 --> 00:04:36,560
+and all the other things that we create at scoutmastercgcom useful to you.
+
+68
+00:04:36,840 --> 00:04:41,480
+you can return the favor by becoming a backer, and it's pretty easy to do.
+
+69
+00:04:41,480 --> 00:04:45,640
+Go to scoutmastercgcom, click the support link at the top of the page
+
+70
+00:04:46,000 --> 00:04:49,880
+and you'll find a number of options on making a one-time kind of voluntary
+
+71
+00:04:49,880 --> 00:04:52,600
+subscription payment to keep things up and running.
+
+72
+00:04:53,080 --> 00:04:56,080
+And I want to take a moment to personally thank Owen Wilson
+
+73
+00:04:56,360 --> 00:05:01,160
+and Jamie Barnes, who became backers since the last podcast.
+
+74
+00:05:01,520 --> 00:05:04,000
+Once again, go to scoutmastercgcom,
+
+75
+00:05:04,560 --> 00:05:07,880
+Go to the support link at the top of the page, become a backer this week
+
+76
+00:05:07,880 --> 00:05:11,080
+and I'll be sure to thank you on our next podcast.
+
+77
+00:05:11,360 --> 00:05:16,440
+Now. last week I posted my thoughts about offering alternative wording
+
+78
+00:05:16,440 --> 00:05:21,320
+to the Scout Oath that would be more in line with the BSA's approval
+
+79
+00:05:21,320 --> 00:05:28,000
+of non-theist religious groups for participation in the Religious Emblems Program.
+
+80
+00:05:28,320 --> 00:05:32,520
+I'm not going to try and explain everything that was in that post
+
+81
+00:05:32,719 --> 00:05:33,960
+here. on the podcast,
+
+82
+00:05:34,039 --> 00:05:38,400
+If you go to scoutmastercgcom, look for the post that's titled
+
+83
+00:05:38,680 --> 00:05:43,880
+A Scout's Duty to God, and I'll link to it in the post that contains this podcast too.
+
+84
+00:05:44,799 --> 00:05:47,560
+Now, whenever I mention debatable issues like this,
+
+85
+00:05:47,560 --> 00:05:51,240
+I expect a strong response from both sides of the debate,
+
+86
+00:05:51,400 --> 00:05:54,840
+And I'm not real comfortable talking about debatable issues most of the time,
+
+87
+00:05:55,240 --> 00:05:57,960
+because it can be divisive, right?
+
+88
+00:05:58,799 --> 00:06:03,159
+Discussing things like this with people is always a little tricky, isn't it?
+
+89
+00:06:03,479 --> 00:06:07,560
+And discussing it online is even more complicated,
+
+90
+00:06:07,840 --> 00:06:12,680
+But I wanted to say how much I appreciate everyone who took the time
+
+91
+00:06:12,680 --> 00:06:18,120
+to join in the conversation and how much I appreciate the tone
+
+92
+00:06:18,560 --> 00:06:22,200
+of almost everybody who joined in.
+
+93
+00:06:22,599 --> 00:06:26,120
+You know, some people get a little strident about things
+
+94
+00:06:26,320 --> 00:06:29,600
+in an inappropriate manner online, and that's going to happen,
+
+95
+00:06:29,960 --> 00:06:33,200
+But when we're talking about scouts, for the most part, people you know
+
+96
+00:06:33,560 --> 00:06:36,440
+are very respectful of each other's opinions.
+
+97
+00:06:36,840 --> 00:06:40,880
+What that really gets me thinking about, though, is whenever
+
+98
+00:06:41,280 --> 00:06:43,840
+we end up talking about these issues- right-
+
+99
+00:06:43,840 --> 00:06:46,640
+And these are usually issues affecting membership
+
+100
+00:06:46,640 --> 00:06:51,560
+and how we interpret and present the principles that scouting is based on-
+
+101
+00:06:51,920 --> 00:06:55,280
+You have to examine what you're doing as an organization.
+
+102
+00:06:55,640 --> 00:06:58,880
+I've spent the whole of my adult life being a scouter
+
+103
+00:06:59,200 --> 00:07:02,200
+and being associated with the Boy Scouts of America,
+
+104
+00:07:02,560 --> 00:07:06,760
+And you know the good old BSA has been through some difficult times
+
+105
+00:07:06,760 --> 00:07:11,400
+in its century of existence, but perhaps none are more difficult
+
+106
+00:07:11,400 --> 00:07:13,360
+than the times that we're in now,
+
+107
+00:07:13,360 --> 00:07:17,320
+And when I think about organizations and changes and things like that,
+
+108
+00:07:17,720 --> 00:07:23,160
+I think I think a useful allegory is that organizations
+
+109
+00:07:23,160 --> 00:07:25,280
+are kind of like ships on the ocean.
+
+110
+00:07:25,680 --> 00:07:28,200
+Now, if you're going to build a ship that carries a lot of people,
+
+111
+00:07:28,480 --> 00:07:31,280
+you want to build something that's stable and safe,
+
+112
+00:07:31,520 --> 00:07:35,920
+that reacts predictably to the winds and waves and currents and things,
+
+113
+00:07:36,680 --> 00:07:39,880
+And so when you build an organization as big as the BSA,
+
+114
+00:07:40,680 --> 00:07:42,120
+it's got to be stable.
+
+115
+00:07:42,120 --> 00:07:46,960
+But to get that stability sometimes you have to be kind of impenetrable
+
+116
+00:07:46,960 --> 00:07:49,640
+and inflexible like a ship, right?
+
+117
+00:07:49,840 --> 00:07:51,440
+I mean, if you're building a big ship,
+
+118
+00:07:51,480 --> 00:07:53,520
+you don't want to build the whole out of cellophane,
+
+119
+00:07:53,840 --> 00:07:56,760
+You want to build it out of something pretty impenetrable
+
+120
+00:07:56,760 --> 00:07:58,680
+and inflexible like steel, right?
+
+121
+00:07:59,560 --> 00:08:01,360
+And we build organizations that way.
+
+122
+00:08:01,360 --> 00:08:03,760
+We build them to be very stable,
+
+123
+00:08:04,080 --> 00:08:07,760
+And that makes things kind of difficult. when it comes to evolution and change.
+
+124
+00:08:08,200 --> 00:08:12,440
+The best ship is still going to have a lot of drag associated with it,
+
+125
+00:08:12,440 --> 00:08:16,640
+And when it's a really big ship, it's going to take a lot of time to turn.
+
+126
+00:08:17,080 --> 00:08:20,560
+And so, if you follow my allegory, the ocean that we're floating on
+
+127
+00:08:20,600 --> 00:08:23,680
+is the culture, and culture is pretty wide and deep
+
+128
+00:08:23,680 --> 00:08:28,080
+And it's more fluid and changeable than the organizational ships
+
+129
+00:08:28,080 --> 00:08:29,800
+that we're traveling in.
+
+130
+00:08:29,800 --> 00:08:35,120
+Big organizations like the BSA embrace cultural change pretty slowly,
+
+131
+00:08:35,520 --> 00:08:39,120
+But to add to the complexity of the whole thing,
+
+132
+00:08:39,760 --> 00:08:44,400
+our individual members and our young people they embrace change pretty quickly.
+
+133
+00:08:44,960 --> 00:08:46,800
+Yeah, you ever noticed something about scouts?
+
+134
+00:08:46,839 --> 00:08:51,040
+Scouts have this kind of unsettling ability
+
+135
+00:08:51,400 --> 00:08:55,240
+to take the values and ethics that scouting has developed in them
+
+136
+00:08:55,680 --> 00:09:00,520
+and to apply them without much regard to what the broader organization has to say.
+
+137
+00:09:00,880 --> 00:09:04,400
+Scouts take things literally. and a really good example of that:
+
+138
+00:09:04,640 --> 00:09:07,839
+Go work on a camp staff with a lot of young people sometime
+
+139
+00:09:07,959 --> 00:09:10,839
+and you'll you'll understand exactly what what I mean.
+
+140
+00:09:11,280 --> 00:09:15,760
+They understand the values and the ethics of scouting
+
+141
+00:09:16,120 --> 00:09:19,439
+And sometimes they get crosswise to organizational imperatives.
+
+142
+00:09:19,439 --> 00:09:22,960
+They come to a different conclusion about exactly how these things
+
+143
+00:09:22,960 --> 00:09:24,280
+ought to be carried out.
+
+144
+00:09:24,280 --> 00:09:28,240
+And I'll tell you something: anything like the BSA
+
+145
+00:09:28,240 --> 00:09:31,640
+is going to find itself on the wrong side of history from time to time.
+
+146
+00:09:31,920 --> 00:09:36,160
+Big national organizations are reluctant to face cultural changes,
+
+147
+00:09:36,439 --> 00:09:39,439
+especially when championing a set of values and ethics
+
+148
+00:09:39,439 --> 00:09:42,720
+that we say are unchanging and unalterable.
+
+149
+00:09:42,880 --> 00:09:45,760
+But if you look at the history of the scouting movement
+
+150
+00:09:45,760 --> 00:09:49,120
+and scouting organizations, there's been a lot of changes
+
+151
+00:09:49,120 --> 00:09:53,280
+about how they interpret and express the values that we hold.
+
+152
+00:09:53,640 --> 00:09:56,160
+We find new meanings, our world grows bigger,
+
+153
+00:09:56,160 --> 00:09:59,560
+we become more diverse, and that diversity makes us stronger.
+
+154
+00:09:59,600 --> 00:10:03,080
+You can look at diversity as being something that dilutes you,
+
+155
+00:10:03,280 --> 00:10:07,440
+But I don't agree. OK. I think diversity makes us very strong.
+
+156
+00:10:07,880 --> 00:10:12,080
+Now I'm 55 years old and if you're a part of my generation or older,
+
+157
+00:10:12,080 --> 00:10:13,720
+I've got something to share with you,
+
+158
+00:10:13,720 --> 00:10:15,760
+And if you're younger, you can keep listening,
+
+159
+00:10:15,760 --> 00:10:18,280
+That's OK. But think about this:
+
+160
+00:10:19,160 --> 00:10:24,720
+Our grandparents notice things that they didn't like in our parents' generation,
+
+161
+00:10:25,680 --> 00:10:28,760
+And our parents noticed the same types of things
+
+162
+00:10:28,760 --> 00:10:32,040
+they didn't like about our generation,
+
+163
+00:10:32,760 --> 00:10:37,320
+And now it's basically our turn to be parents and grandparents
+
+164
+00:10:37,320 --> 00:10:41,560
+and notice in our children's and our grandchildren's generation
+
+165
+00:10:41,800 --> 00:10:44,040
+Things that we don't particularly approve of
+
+166
+00:10:44,040 --> 00:10:49,360
+or things that seem to have changed, things that look scary to us.
+
+167
+00:10:49,840 --> 00:10:53,280
+What you and I are noticing is basically the same thing
+
+168
+00:10:53,280 --> 00:10:56,160
+that our parents and our grandparents were noticing.
+
+169
+00:10:56,520 --> 00:10:59,960
+It's not so much things changing around us
+
+170
+00:11:00,280 --> 00:11:05,440
+as our own perspective changing as we are getting a little older.
+
+171
+00:11:06,680 --> 00:11:08,800
+Yeah, things changed around us.
+
+172
+00:11:08,840 --> 00:11:11,440
+I understand that, but I think we older people
+
+173
+00:11:11,440 --> 00:11:16,480
+fall into this comfortable trap of looking at anything that's changing
+
+174
+00:11:16,480 --> 00:11:19,240
+and moaning and groaning about how things are different now,
+
+175
+00:11:19,720 --> 00:11:22,720
+because we're a little bit afraid of what comes next. for us,
+
+176
+00:11:23,280 --> 00:11:26,720
+It's harder to accept changes and to look at things
+
+177
+00:11:27,040 --> 00:11:29,400
+from new perspectives the older you get-
+
+178
+00:11:29,960 --> 00:11:33,360
+And also men. we need to defer to the youthful energy
+
+179
+00:11:33,360 --> 00:11:37,480
+and initiative of young people, of our scouts and younger scouts.
+
+180
+00:11:37,480 --> 00:11:40,160
+We need to listen because there's a lot of wisdom
+
+181
+00:11:40,160 --> 00:11:43,560
+in what they're having to say and they can help us navigate
+
+182
+00:11:44,040 --> 00:11:47,160
+what's changing around us, because I'm afraid otherwise
+
+183
+00:11:47,560 --> 00:11:49,560
+we'll have an organization with a few scouts
+
+184
+00:11:49,560 --> 00:11:51,920
+and a lot of old geezers like me. right,
+
+185
+00:11:52,760 --> 00:11:55,040
+And I got to say it's the old geezers
+
+186
+00:11:55,040 --> 00:11:57,840
+that kind of run the show. as far as the PSA is concerned,
+
+187
+00:11:57,840 --> 00:12:00,040
+If you go to a meeting, take a look around,
+
+188
+00:12:00,040 --> 00:12:01,960
+You see the age, gender and race
+
+189
+00:12:01,960 --> 00:12:05,840
+of the people who are making decisions is pretty much, you know,
+
+190
+00:12:05,840 --> 00:12:07,240
+pretty much the same.
+
+191
+00:12:07,280 --> 00:12:08,800
+And when we old geezers sit around
+
+192
+00:12:08,800 --> 00:12:11,000
+we're not too sure what's going wrong.
+
+193
+00:12:11,000 --> 00:12:13,280
+We think we just have to market ourselves better
+
+194
+00:12:13,280 --> 00:12:17,160
+or repackage our message or add more programs
+
+195
+00:12:17,160 --> 00:12:21,560
+that 50 plus year old men think boys would be interested in.
+
+196
+00:12:22,400 --> 00:12:25,400
+But what scouts do is not the problem.
+
+197
+00:12:25,400 --> 00:12:28,440
+That program is still relevant, exciting and engaging.
+
+198
+00:12:28,840 --> 00:12:30,760
+We don't have to adorn it with bobbles
+
+199
+00:12:30,760 --> 00:12:32,560
+or repackage it in shiny paper.
+
+200
+00:12:32,560 --> 00:12:36,160
+We've tried that many, many times before and it never works.
+
+201
+00:12:36,480 --> 00:12:38,640
+Those aren't the kind of changes we need.
+
+202
+00:12:39,160 --> 00:12:40,920
+I'm saying that most of the people
+
+203
+00:12:40,920 --> 00:12:43,920
+who are making the decisions in the PSA
+
+204
+00:12:43,920 --> 00:12:46,079
+are kind of old geezers like me,
+
+205
+00:12:46,079 --> 00:12:48,760
+And I don't think they're bad people, far from it.
+
+206
+00:12:48,760 --> 00:12:51,199
+I know that they're people of goodwill
+
+207
+00:12:51,199 --> 00:12:54,160
+as concerned with and engaged in scouting as anybody.
+
+208
+00:12:54,600 --> 00:12:57,199
+I do think, though, that they're reluctant
+
+209
+00:12:57,199 --> 00:12:59,240
+to make any big changes, and I can't blame them,
+
+210
+00:12:59,240 --> 00:13:02,040
+because change is scary and uncertain
+
+211
+00:13:02,400 --> 00:13:04,839
+And it can be tremendously difficult,
+
+212
+00:13:04,840 --> 00:13:07,720
+It can be kind of exhausting and it can be divisive,
+
+213
+00:13:08,520 --> 00:13:11,280
+And change can be seen as an admission
+
+214
+00:13:11,720 --> 00:13:14,440
+that you were doing things wrong, and that's humbling,
+
+215
+00:13:15,040 --> 00:13:18,480
+And so it becomes a very complex question, doesn't it?
+
+216
+00:13:19,280 --> 00:13:21,040
+But I have to say I've watched the rest
+
+217
+00:13:21,040 --> 00:13:23,560
+of the world scouting movement confront
+
+218
+00:13:24,080 --> 00:13:27,480
+the changes the society makes over the past few decades
+
+219
+00:13:27,880 --> 00:13:30,760
+and do the hard work required to serve
+
+220
+00:13:30,800 --> 00:13:32,960
+as many youth as possible
+
+221
+00:13:33,400 --> 00:13:36,080
+with the really wonderful program
+
+222
+00:13:36,080 --> 00:13:39,520
+and the vast potential that scouting promises.
+
+223
+00:13:39,960 --> 00:13:43,160
+And I don't think anybody from any of the different
+
+224
+00:13:43,160 --> 00:13:45,040
+organizations in the world of scouting
+
+225
+00:13:45,280 --> 00:13:47,560
+would tell you that change was easy, because it isn't.
+
+226
+00:13:47,560 --> 00:13:51,560
+But even so, these organizations have stabilized
+
+227
+00:13:51,560 --> 00:13:54,360
+and even grown over the past 15 years,
+
+228
+00:13:54,680 --> 00:13:57,600
+as our beloved, arthritic old PSA
+
+229
+00:13:57,960 --> 00:14:02,040
+has shrunk by one third of its youth members,
+
+230
+00:14:02,360 --> 00:14:05,280
+That's a million young people,
+
+231
+00:14:05,480 --> 00:14:07,920
+If you sit and talk about it and you think about it. of course
+
+232
+00:14:08,319 --> 00:14:11,079
+there's a number of different reasons that membership is down,
+
+233
+00:14:11,400 --> 00:14:14,040
+But I think what we have to ask ourselves seriously
+
+234
+00:14:14,640 --> 00:14:17,839
+is what our organization will look like five years from now
+
+235
+00:14:18,000 --> 00:14:20,920
+If we were to not make any changes at all,
+
+236
+00:14:20,920 --> 00:14:24,680
+not to ask ourselves questions and innovate our programs
+
+237
+00:14:24,680 --> 00:14:28,360
+and our approaches, because I think that future looks pretty grim.
+
+238
+00:14:29,160 --> 00:14:31,160
+But if we listen to our young people,
+
+239
+00:14:31,280 --> 00:14:34,520
+we'll find a lot of energy and inspiration in what they have to say
+
+240
+00:14:34,959 --> 00:14:40,480
+And if we understand our aim is to give as many young people
+
+241
+00:14:40,480 --> 00:14:44,560
+as possible the advantage of having the wonderful opportunities
+
+242
+00:14:44,560 --> 00:14:46,880
+that scouting offers, we're going to make some changes
+
+243
+00:14:46,959 --> 00:14:48,880
+and we're going to start to see things look up.
+
+244
+00:14:48,880 --> 00:14:50,000
+So there we go.
+
+245
+00:14:50,000 --> 00:14:52,880
+I'll get down off my soapbox now and we'll move on,
+
+246
+00:14:53,160 --> 00:14:54,719
+And in the remainder of this podcast
+
+247
+00:14:54,719 --> 00:14:56,280
+I've got some email questions to answer.
+
+248
+00:14:56,280 --> 00:14:58,040
+So let's get started. shall we
+
+249
+00:15:32,120 --> 00:15:34,120
+Send it by name
+
+250
+00:15:35,600 --> 00:15:37,120
+Email? that is, folks.
+
+251
+00:15:37,920 --> 00:15:40,760
+And here's an answer to one of your emails.
+
+252
+00:15:50,160 --> 00:15:53,959
+Brittany Henson is from PAC 691 in Longwood, Florida,
+
+253
+00:15:54,240 --> 00:15:55,839
+And she wrote to say: I'm a scout mom.
+
+254
+00:15:55,839 --> 00:15:59,560
+I've recently taken over the leadership of my son,
+
+255
+00:16:00,440 --> 00:16:02,920
+My son's- Weeblows 1 den
+
+256
+00:16:03,160 --> 00:16:07,840
+And I've been told I need to run the den like a Boy Scout patrol.
+
+257
+00:16:08,320 --> 00:16:11,400
+I like the idea, but I'm a little confused.
+
+258
+00:16:11,400 --> 00:16:13,600
+Do you have any pointers on how I can do this
+
+259
+00:16:13,600 --> 00:16:16,280
+And what are the main points of a Boy Scout patrol?
+
+260
+00:16:17,560 --> 00:16:18,920
+How strict is the group size?
+
+261
+00:16:18,920 --> 00:16:21,800
+I only have four Weeblows right now.
+
+262
+00:16:22,040 --> 00:16:24,680
+I do have all the information on Weeblows requirements
+
+263
+00:16:24,680 --> 00:16:25,960
+and the new program.
+
+264
+00:16:25,960 --> 00:16:28,280
+I guess what I don't entirely understand
+
+265
+00:16:28,280 --> 00:16:30,079
+is the purpose of a patrol
+
+266
+00:16:30,400 --> 00:16:32,720
+Other than the boys and I meeting once a week.
+
+267
+00:16:32,720 --> 00:16:34,280
+are there other considerations?
+
+268
+00:16:35,120 --> 00:16:37,079
+Well, Brittany, that's an excellent question,
+
+269
+00:16:37,079 --> 00:16:39,680
+And as for what scout patrols do
+
+270
+00:16:39,680 --> 00:16:41,319
+and how you incorporate it into Weeblows,
+
+271
+00:16:41,319 --> 00:16:43,160
+it's not all that difficult or mysterious
+
+272
+00:16:43,160 --> 00:16:44,400
+to tell you the truth.
+
+273
+00:16:44,400 --> 00:16:47,040
+So don't let the idea of a patrol confuse you,
+
+274
+00:16:47,040 --> 00:16:50,319
+because it's actually pretty much the way things
+
+275
+00:16:50,319 --> 00:16:54,040
+work, naturally with scouts and with boys. to begin with,
+
+276
+00:16:54,319 --> 00:16:57,400
+A patrol is just really a small group of scouts
+
+277
+00:16:57,400 --> 00:17:00,360
+who work together under their own leadership.
+
+278
+00:17:00,920 --> 00:17:03,360
+Now in Weeblows, the boys are of an age
+
+279
+00:17:03,360 --> 00:17:05,079
+where they can begin to take on
+
+280
+00:17:05,079 --> 00:17:07,319
+more and more responsibility for themselves,
+
+281
+00:17:07,319 --> 00:17:09,000
+And we want to encourage that.
+
+282
+00:17:09,000 --> 00:17:11,119
+As a den leader, you'll want to explain
+
+283
+00:17:11,119 --> 00:17:12,440
+that they're getting a little older.
+
+284
+00:17:12,440 --> 00:17:13,800
+It's time for them to start learning
+
+285
+00:17:13,800 --> 00:17:15,720
+how to work together as a patrol
+
+286
+00:17:15,720 --> 00:17:17,520
+and how to lead each other
+
+287
+00:17:17,520 --> 00:17:19,680
+through the things that they do.
+
+288
+00:17:20,240 --> 00:17:22,280
+So they can do things like choose a patrol name
+
+289
+00:17:22,280 --> 00:17:23,720
+and elect a patrol leader,
+
+290
+00:17:23,720 --> 00:17:27,000
+and the patrol leader can start helping you lead the den.
+
+291
+00:17:27,000 --> 00:17:29,520
+I think it'd be a good idea to give all the Weeblows
+
+292
+00:17:29,520 --> 00:17:31,920
+the chance to be patrol leader,
+
+293
+00:17:31,920 --> 00:17:33,760
+So you may want to have a talk with them
+
+294
+00:17:33,760 --> 00:17:35,880
+about exactly how you're going to make that happen,
+
+295
+00:17:35,880 --> 00:17:37,520
+And talking to them is something
+
+296
+00:17:37,520 --> 00:17:39,280
+that I really encourage you to do.
+
+297
+00:17:39,280 --> 00:17:41,400
+Look at your work as a den leader
+
+298
+00:17:41,400 --> 00:17:45,240
+as helping the Weeblows organize themselves
+
+299
+00:17:45,240 --> 00:17:46,360
+and make things happen,
+
+300
+00:17:46,360 --> 00:17:48,360
+rather than thinking you have to be the expert
+
+301
+00:17:48,360 --> 00:17:49,640
+and know all the answers.
+
+302
+00:17:49,640 --> 00:17:52,480
+I'm a big advocate of talking to our scouts
+
+303
+00:17:52,480 --> 00:17:54,600
+about how they'd like to make things happen.
+
+304
+00:17:54,600 --> 00:17:56,200
+You don't have to know at all
+
+305
+00:17:56,280 --> 00:17:57,520
+or be an expert.
+
+306
+00:17:57,520 --> 00:17:59,600
+You can learn right along with them.
+
+307
+00:17:59,600 --> 00:18:03,120
+If you take the materials that explain the program,
+
+308
+00:18:03,120 --> 00:18:04,920
+if you take the Weeblows handbook
+
+309
+00:18:04,920 --> 00:18:06,520
+and you start discussing with them
+
+310
+00:18:06,520 --> 00:18:07,920
+how to make things happen
+
+311
+00:18:07,920 --> 00:18:10,040
+and you use those resources
+
+312
+00:18:10,040 --> 00:18:12,360
+to define the way you're going to do it,
+
+313
+00:18:12,360 --> 00:18:14,840
+you'll be surprised at how much they can actually do
+
+314
+00:18:14,840 --> 00:18:16,840
+and how excited they are
+
+315
+00:18:16,840 --> 00:18:20,000
+when they're actually having something to do
+
+316
+00:18:20,000 --> 00:18:22,120
+with leading themselves.
+
+317
+00:18:22,120 --> 00:18:25,080
+I heard from William Castler in Wasilla, Alaska,
+
+318
+00:18:25,080 --> 00:18:26,679
+and he said. 22 years ago
+
+319
+00:18:26,679 --> 00:18:28,120
+my boys came home
+
+320
+00:18:28,120 --> 00:18:30,120
+and they asked me if they could join scouting.
+
+321
+00:18:30,120 --> 00:18:30,960
+I said okay
+
+322
+00:18:30,960 --> 00:18:33,560
+and I found myself as the PAC committee chairman.
+
+323
+00:18:33,560 --> 00:18:35,480
+So I've been a den leader, assistant scout,
+
+324
+00:18:35,480 --> 00:18:36,480
+master, unit commissioner,
+
+325
+00:18:36,480 --> 00:18:39,840
+merit badge counselor and more besides,
+
+326
+00:18:39,840 --> 00:18:41,080
+And when I first got started
+
+327
+00:18:41,080 --> 00:18:43,280
+I found it difficult to find good information,
+
+328
+00:18:43,280 --> 00:18:45,679
+especially when working with parents and other adults.
+
+329
+00:18:45,679 --> 00:18:46,520
+Several years ago
+
+330
+00:18:46,520 --> 00:18:48,199
+I started to put out a weekly newsletter
+
+331
+00:18:48,199 --> 00:18:50,439
+and I've included your excellent posts
+
+332
+00:18:50,439 --> 00:18:53,240
+and your material in my newsletter as often as I could,
+
+333
+00:18:53,240 --> 00:18:55,480
+but I'm in the process of changing the format
+
+334
+00:18:55,480 --> 00:18:56,720
+to a webpage
+
+335
+00:18:56,720 --> 00:18:59,160
+and I'm writing to ask if you'd had any objections
+
+336
+00:18:59,160 --> 00:19:00,480
+if I took your posts
+
+337
+00:19:00,480 --> 00:19:03,240
+and used them on this new site.
+
+338
+00:19:03,240 --> 00:19:04,600
+Before I answer, William,
+
+339
+00:19:04,600 --> 00:19:06,240
+I also heard from Pierre,
+
+340
+00:19:06,240 --> 00:19:07,960
+who said I'm working on a little camp book
+
+341
+00:19:07,960 --> 00:19:09,280
+for my scouts
+
+342
+00:19:09,280 --> 00:19:11,600
+with useful tips and things for them to use.
+
+343
+00:19:11,600 --> 00:19:13,040
+I'd like to use some of the material
+
+344
+00:19:13,040 --> 00:19:13,880
+that you've produced
+
+345
+00:19:13,880 --> 00:19:15,480
+and translated into French,
+
+346
+00:19:15,480 --> 00:19:17,320
+and I can send the finished book
+
+347
+00:19:17,320 --> 00:19:18,880
+and all the translated documents
+
+348
+00:19:18,880 --> 00:19:20,240
+that you add to your website.
+
+349
+00:19:20,240 --> 00:19:22,360
+I wanted to find out if that's okay with you,
+
+350
+00:19:22,360 --> 00:19:24,480
+and that's from Pierre Courdiere,
+
+351
+00:19:24,480 --> 00:19:26,520
+who is with the FSS,
+
+352
+00:19:26,520 --> 00:19:30,360
+the Fraternal Salut Scouts in France.
+
+353
+00:19:30,360 --> 00:19:32,280
+So William and Pierre
+
+354
+00:19:32,280 --> 00:19:33,560
+and everybody else is listening.
+
+355
+00:19:33,560 --> 00:19:34,840
+Anything that I've made,
+
+356
+00:19:34,840 --> 00:19:36,520
+anything I've written or produced,
+
+357
+00:19:36,520 --> 00:19:38,280
+the infographics and all that stuff
+
+358
+00:19:38,280 --> 00:19:40,400
+is freely offered to support scouting,
+
+359
+00:19:40,400 --> 00:19:41,840
+no matter where you are.
+
+360
+00:19:41,840 --> 00:19:43,560
+The only thing that I ask
+
+361
+00:19:43,560 --> 00:19:45,520
+is that if you use anything
+
+362
+00:19:45,520 --> 00:19:47,040
+that I've created in your materials,
+
+363
+00:19:47,040 --> 00:19:50,120
+all you do is let people know where you found it,
+
+364
+00:19:50,120 --> 00:19:52,080
+Give them a link back to the website
+
+365
+00:19:52,080 --> 00:19:55,159
+or to say that you found it at scoutmastercgcom.
+
+366
+00:19:55,159 --> 00:19:57,159
+So if you're working on a project
+
+367
+00:19:57,159 --> 00:19:59,000
+and you want to incorporate some of the material
+
+368
+00:19:59,000 --> 00:20:00,399
+or some of the writing that I've done,
+
+369
+00:20:00,399 --> 00:20:03,760
+please take this as a blanket approval to do so,
+
+370
+00:20:03,760 --> 00:20:06,080
+so long as you, like I said,
+
+371
+00:20:06,080 --> 00:20:08,040
+give proper attribution to where you found it
+
+372
+00:20:08,040 --> 00:20:09,199
+and who created it.
+
+373
+00:20:09,199 --> 00:20:10,800
+Heard from Joel Irway.
+
+374
+00:20:10,800 --> 00:20:11,639
+He said this:
+
+375
+00:20:11,639 --> 00:20:14,760
+I'm an assistant scout master with Troop 637
+
+376
+00:20:14,760 --> 00:20:16,639
+in Onsted, Michigan.
+
+377
+00:20:16,639 --> 00:20:18,240
+As an assistant scout master,
+
+378
+00:20:18,240 --> 00:20:19,679
+I'm not part of the committee,
+
+379
+00:20:19,679 --> 00:20:21,879
+nor do I sit on boards of review
+
+380
+00:20:21,880 --> 00:20:24,120
+and, in an effort to keep the Troop youth led,
+
+381
+00:20:24,120 --> 00:20:26,520
+I'm really not supposed to have an influence
+
+382
+00:20:26,520 --> 00:20:28,880
+on patrol leaders council meetings.
+
+383
+00:20:28,880 --> 00:20:32,280
+So with all the stuff I am not supposed to do,
+
+384
+00:20:32,280 --> 00:20:34,960
+I'm a little lost as to what I should be doing.
+
+385
+00:20:34,960 --> 00:20:37,440
+I asked another assistant scout master from our Troop
+
+386
+00:20:37,440 --> 00:20:39,640
+and he didn't have an answer for me either.
+
+387
+00:20:39,640 --> 00:20:42,360
+We both felt like this was a good question for you
+
+388
+00:20:42,360 --> 00:20:43,920
+and that it's pretty likely
+
+389
+00:20:43,920 --> 00:20:45,720
+we're not the only assistant scout masters
+
+390
+00:20:45,720 --> 00:20:46,840
+who are a little puzzled.
+
+391
+00:20:46,840 --> 00:20:48,840
+Well, Joel, that is an excellent question.
+
+392
+00:20:48,840 --> 00:20:50,440
+You're puzzled because, unfortunately,
+
+393
+00:20:50,440 --> 00:20:52,000
+the way the vast majority of Troops
+
+394
+00:20:52,000 --> 00:20:54,880
+handle the assistant scout master position,
+
+395
+00:20:54,880 --> 00:20:55,720
+I don't know,
+
+396
+00:20:55,720 --> 00:20:58,160
+it just doesn't make a lot of sense to me. sometimes
+
+397
+00:20:58,160 --> 00:21:00,040
+There are frankly-
+
+398
+00:21:00,040 --> 00:21:02,640
+oh I'm gonna get myself in trouble by saying this,
+
+399
+00:21:02,640 --> 00:21:04,320
+but listen, frankly,
+
+400
+00:21:04,320 --> 00:21:06,520
+there are just too many adult volunteers
+
+401
+00:21:06,520 --> 00:21:08,640
+who have little or no idea
+
+402
+00:21:08,640 --> 00:21:12,560
+of what scouting is or their role in making it happen.
+
+403
+00:21:12,560 --> 00:21:13,760
+Somewhere along the way,
+
+404
+00:21:13,760 --> 00:21:14,760
+I think we got the idea
+
+405
+00:21:14,760 --> 00:21:17,840
+that the more volunteers we have, the better,
+
+406
+00:21:17,840 --> 00:21:21,159
+but this is not necessarily the case. okay,
+
+407
+00:21:21,159 --> 00:21:23,040
+If you have a troop with 30 scouts
+
+408
+00:21:23,040 --> 00:21:25,120
+and 12 assistant scout masters,
+
+409
+00:21:25,120 --> 00:21:27,679
+what you really end up with is either
+
+410
+00:21:27,679 --> 00:21:30,360
+the assistant scout masters kind of doing the things
+
+411
+00:21:30,360 --> 00:21:32,000
+that the scouts are supposed to do,
+
+412
+00:21:32,000 --> 00:21:34,199
+or you have a parents club within the troop,
+
+413
+00:21:34,199 --> 00:21:36,639
+and that can cause problems too,
+
+414
+00:21:36,639 --> 00:21:37,480
+And it's great fun
+
+415
+00:21:37,480 --> 00:21:39,280
+for all the people who are volunteering,
+
+416
+00:21:39,280 --> 00:21:41,840
+but maybe not so much for the scouts who are involved.
+
+417
+00:21:41,840 --> 00:21:42,800
+Now, to tell you the truth,
+
+418
+00:21:42,800 --> 00:21:44,760
+there really shouldn't be very much
+
+419
+00:21:44,760 --> 00:21:46,360
+for assistant scout masters-
+
+420
+00:21:46,360 --> 00:21:49,240
+or the scout master for that matter- to do.
+
+421
+00:21:49,240 --> 00:21:52,280
+I mean, when there's an engaged youth leadership
+
+422
+00:21:52,280 --> 00:21:54,120
+running their program.
+
+423
+00:21:54,120 --> 00:21:55,320
+you know, if you think about it,
+
+424
+00:21:55,320 --> 00:21:56,560
+there's not a whole lot of use
+
+425
+00:21:56,560 --> 00:21:59,280
+for more than two or three scouters on an outing.
+
+426
+00:21:59,280 --> 00:22:01,960
+There's almost nothing for them to do at meetings
+
+427
+00:22:01,960 --> 00:22:04,879
+that involve the program and the meeting directly.
+
+428
+00:22:04,879 --> 00:22:07,760
+but I frequently see troops with 10 or more,
+
+429
+00:22:07,760 --> 00:22:10,360
+and sometimes many more, assistant scout masters.
+
+430
+00:22:10,360 --> 00:22:12,360
+I have to wonder what they actually do.
+
+431
+00:22:12,360 --> 00:22:15,480
+Now, my ideal setup is a scout master
+
+432
+00:22:15,480 --> 00:22:17,400
+with two assistant scout masters
+
+433
+00:22:17,400 --> 00:22:20,040
+for any reasonably sized troop.
+
+434
+00:22:20,040 --> 00:22:21,800
+One of the assistant scout masters
+
+435
+00:22:21,800 --> 00:22:24,720
+is nominally the first assistant
+
+436
+00:22:24,720 --> 00:22:26,920
+And he's the guy who's on deck to take over
+
+437
+00:22:26,920 --> 00:22:29,240
+when the scout masters ready to hand things over.
+
+438
+00:22:29,240 --> 00:22:32,920
+And ideally there'd be a date certain for that transition.
+
+439
+00:22:32,920 --> 00:22:35,520
+We'd know, you know, that the current scout master
+
+440
+00:22:35,520 --> 00:22:37,640
+is gonna serve for the next two or three years
+
+441
+00:22:37,640 --> 00:22:39,120
+and we know the date
+
+442
+00:22:39,120 --> 00:22:40,640
+where there's gonna be a transition.
+
+443
+00:22:40,640 --> 00:22:43,560
+So our first assistant is getting prepared
+
+444
+00:22:43,560 --> 00:22:46,160
+And there's a second assistant scout master
+
+445
+00:22:46,160 --> 00:22:49,320
+who becomes the first assistant scout master
+
+446
+00:22:49,320 --> 00:22:51,120
+when there's that transition.
+
+447
+00:22:51,120 --> 00:22:53,880
+So at each transition of who's the scout master
+
+448
+00:22:53,880 --> 00:22:55,960
+and assistant scout master, post comes open
+
+449
+00:22:55,960 --> 00:22:57,680
+and the committee appoints someone
+
+450
+00:22:57,680 --> 00:23:00,680
+who's fully committed to developing the skills required,
+
+451
+00:23:00,680 --> 00:23:01,680
+And I think personally
+
+452
+00:23:01,680 --> 00:23:04,080
+there should be some very high expectations
+
+453
+00:23:04,080 --> 00:23:06,920
+of the adults who are chosen to be scout master
+
+454
+00:23:06,920 --> 00:23:08,440
+and assistant scout master.
+
+455
+00:23:08,440 --> 00:23:11,240
+Now, any responsible committee should be sure
+
+456
+00:23:11,240 --> 00:23:13,680
+of who the next scout master will be,
+
+457
+00:23:13,680 --> 00:23:15,880
+And ideally they'll have a couple of people
+
+458
+00:23:15,880 --> 00:23:17,720
+ready to take the job on.
+
+459
+00:23:17,720 --> 00:23:19,440
+Now, some years back
+
+460
+00:23:19,440 --> 00:23:21,960
+we trimmed our assistant scout master list
+
+461
+00:23:21,960 --> 00:23:23,440
+down to three or four
+
+462
+00:23:23,440 --> 00:23:24,960
+And we asked all the other adults
+
+463
+00:23:24,960 --> 00:23:27,040
+registered as assistant scout masters
+
+464
+00:23:27,040 --> 00:23:29,040
+to change their registration
+
+465
+00:23:29,040 --> 00:23:30,280
+to be members of the committee,
+
+466
+00:23:30,280 --> 00:23:31,720
+And at that time
+
+467
+00:23:31,720 --> 00:23:33,400
+we had a lot of assistant scout masters,
+
+468
+00:23:33,400 --> 00:23:34,520
+probably close to 10..
+
+469
+00:23:34,520 --> 00:23:37,040
+They were mostly doing committee work anyway
+
+470
+00:23:37,040 --> 00:23:38,879
+And the committee was kind of thin.
+
+471
+00:23:38,879 --> 00:23:41,399
+So changing the positions made a lot of sense
+
+472
+00:23:41,399 --> 00:23:42,240
+And as a result
+
+473
+00:23:42,240 --> 00:23:44,480
+we've had a pretty substantial advancement team
+
+474
+00:23:44,480 --> 00:23:46,320
+of four or five people.
+
+475
+00:23:46,320 --> 00:23:47,720
+So setting up boards of review
+
+476
+00:23:47,720 --> 00:23:49,760
+and tracking advancement and things like that
+
+477
+00:23:49,760 --> 00:23:53,800
+is pretty light lifting for a group that size.
+
+478
+00:23:53,800 --> 00:23:56,200
+We have a gear guy- and presently that's me-
+
+479
+00:23:56,200 --> 00:23:57,600
+who keeps an eye on all the gear
+
+480
+00:23:57,600 --> 00:23:59,200
+and works with the quarter master
+
+481
+00:23:59,200 --> 00:24:01,399
+and a number of other folks doing committee work
+
+482
+00:24:01,399 --> 00:24:03,120
+of one kind or another.
+
+483
+00:24:03,120 --> 00:24:04,680
+Now that's what works for me
+
+484
+00:24:04,680 --> 00:24:06,240
+And that may help you
+
+485
+00:24:06,280 --> 00:24:08,800
+and your troops sort out what happens next
+
+486
+00:24:08,800 --> 00:24:10,000
+If you have a scout master
+
+487
+00:24:10,000 --> 00:24:13,440
+who doesn't know when they're going to be stepping down.
+
+488
+00:24:13,440 --> 00:24:14,960
+I think it's an important discussion
+
+489
+00:24:14,960 --> 00:24:16,600
+to have with the committee.
+
+490
+00:24:16,600 --> 00:24:18,840
+I suggest most scout masters would serve
+
+491
+00:24:18,840 --> 00:24:21,760
+for maybe a maximum of five years.
+
+492
+00:24:21,760 --> 00:24:24,000
+I went on for 30.
+
+493
+00:24:24,000 --> 00:24:25,400
+And that's kind of an anomaly
+
+494
+00:24:25,400 --> 00:24:27,120
+And I know there's a lot of long-tenured
+
+495
+00:24:27,120 --> 00:24:28,760
+scout masters out there.
+
+496
+00:24:28,760 --> 00:24:30,040
+But realistically
+
+497
+00:24:30,040 --> 00:24:31,800
+I think five years,
+
+498
+00:24:31,800 --> 00:24:32,840
+three to five years,
+
+499
+00:24:32,840 --> 00:24:36,000
+is a pretty realistic commitment for most people.
+
+500
+00:24:36,440 --> 00:24:38,120
+Then you have a date out there.
+
+501
+00:24:38,120 --> 00:24:40,760
+It's not that we appoint a scout master
+
+502
+00:24:40,760 --> 00:24:44,520
+and they serve on in perpetuity with no end in sight,
+
+503
+00:24:44,520 --> 00:24:46,800
+because usually there's an end in sight
+
+504
+00:24:46,800 --> 00:24:48,960
+And putting a date on that is gonna be helpful,
+
+505
+00:24:48,960 --> 00:24:51,320
+because then the troop can appoint
+
+506
+00:24:51,320 --> 00:24:54,360
+a first and second assistant scout master
+
+507
+00:24:54,360 --> 00:24:57,120
+And then the assistant scout masters
+
+508
+00:24:57,120 --> 00:24:59,320
+will have some real direction in what they're doing.
+
+509
+00:24:59,320 --> 00:25:01,800
+So I think that any troops should decide
+
+510
+00:25:01,800 --> 00:25:05,000
+how many assistant scout masters they actually need,
+
+511
+00:25:05,000 --> 00:25:07,080
+what expectations they should meet,
+
+512
+00:25:07,080 --> 00:25:09,280
+and only appoint that many.
+
+513
+00:25:09,280 --> 00:25:11,320
+Anyone else interested in volunteering,
+
+514
+00:25:11,320 --> 00:25:12,760
+they can serve on the committee
+
+515
+00:25:12,760 --> 00:25:14,200
+And if they're really interested
+
+516
+00:25:14,200 --> 00:25:16,040
+in being an assistant scout master
+
+517
+00:25:16,040 --> 00:25:17,560
+and all the spots are filled
+
+518
+00:25:17,560 --> 00:25:18,520
+serving on the committee,
+
+519
+00:25:18,520 --> 00:25:21,120
+they'll be there when one of those spots comes open.
+
+520
+00:25:21,120 --> 00:25:22,440
+Now Joel got back to me and said:
+
+521
+00:25:22,440 --> 00:25:23,520
+well, in our troop
+
+522
+00:25:23,520 --> 00:25:25,720
+only two of us are assistant scout masters
+
+523
+00:25:25,720 --> 00:25:27,160
+and everyone else is on the committee.
+
+524
+00:25:27,160 --> 00:25:28,640
+I think the troop is about halfway
+
+525
+00:25:28,640 --> 00:25:32,280
+to being completely functional as a patrol method troop.
+
+526
+00:25:32,280 --> 00:25:33,760
+We have some strong youth leaders
+
+527
+00:25:33,760 --> 00:25:34,960
+and the patrols are there,
+
+528
+00:25:34,960 --> 00:25:37,440
+but they're mostly just on paper at this point.
+
+529
+00:25:37,440 --> 00:25:40,000
+What did your assistant scout masters do
+
+530
+00:25:40,000 --> 00:25:42,120
+to help you over the years?
+
+531
+00:25:42,120 --> 00:25:44,160
+Well, another great question,
+
+532
+00:25:44,160 --> 00:25:46,680
+because my assistant scout masters were there
+
+533
+00:25:46,680 --> 00:25:50,480
+in the role of a pretty basic function of an assistant
+
+534
+00:25:50,480 --> 00:25:52,920
+to take over things when I wasn't able to be there.
+
+535
+00:25:52,920 --> 00:25:55,280
+They were also more sets of eyes and ears
+
+536
+00:25:55,280 --> 00:25:56,680
+observing what was going on
+
+537
+00:25:56,680 --> 00:26:00,240
+and we could discuss then what was happening with scouts.
+
+538
+00:26:00,240 --> 00:26:02,040
+As for working with the youth leadership,
+
+539
+00:26:02,040 --> 00:26:03,520
+there's always a lot of strength
+
+540
+00:26:03,520 --> 00:26:06,399
+and a number of opinions and voices,
+
+541
+00:26:06,399 --> 00:26:08,200
+but that all should be coordinated
+
+542
+00:26:08,200 --> 00:26:10,159
+and it's best for the ideas and comments
+
+543
+00:26:10,159 --> 00:26:11,680
+to come through the scout master,
+
+544
+00:26:11,680 --> 00:26:14,120
+because it's just less confusing for the scouts
+
+545
+00:26:14,120 --> 00:26:16,480
+and a lot more effective that way.
+
+546
+00:26:16,480 --> 00:26:18,080
+And the way that that would happen
+
+547
+00:26:18,080 --> 00:26:19,680
+is myself and my assistants-
+
+548
+00:26:19,680 --> 00:26:21,200
+we would talk all the time.
+
+549
+00:26:21,200 --> 00:26:23,200
+We would talk a lot
+
+550
+00:26:23,200 --> 00:26:25,280
+and we would share our observations with each other
+
+551
+00:26:25,280 --> 00:26:27,600
+And if we came up with ideas or suggestions
+
+552
+00:26:27,600 --> 00:26:30,720
+for the patrol leaders, counselor or the youth leaders,
+
+553
+00:26:30,720 --> 00:26:33,000
+then it was my job to take that to them.
+
+554
+00:26:33,000 --> 00:26:35,240
+Now I found it useful to have some assistants
+
+555
+00:26:35,240 --> 00:26:38,160
+mentor specific youth leaders over time
+
+556
+00:26:38,160 --> 00:26:40,920
+when there was a specific goal in mind.
+
+557
+00:26:40,920 --> 00:26:43,440
+I didn't set up permanent relationships like that,
+
+558
+00:26:43,440 --> 00:26:45,760
+because just working with a youth leader for a time-
+
+559
+00:26:45,760 --> 00:26:47,880
+it might be a couple of weeks or a couple of months-
+
+560
+00:26:47,880 --> 00:26:49,440
+to help them with one thing or another
+
+561
+00:26:49,440 --> 00:26:50,880
+was often very useful.
+
+562
+00:26:50,880 --> 00:26:53,880
+My assistant scout masters were also a great sounding board
+
+563
+00:26:53,880 --> 00:26:57,080
+for my ideas and for the scout's ideas
+
+564
+00:26:57,080 --> 00:26:59,200
+and to help me find solutions to problems
+
+565
+00:26:59,200 --> 00:27:00,840
+or to work with me to counsel scouts
+
+566
+00:27:00,840 --> 00:27:02,640
+in the midst of some dilemma,
+
+567
+00:27:02,640 --> 00:27:05,640
+And there's a nominal chain of command involved here.
+
+568
+00:27:05,640 --> 00:27:09,880
+but it's all more about coordination than control.
+
+569
+00:27:09,880 --> 00:27:12,320
+Now you note that your troop has some work to do
+
+570
+00:27:12,320 --> 00:27:16,120
+towards fully getting the most out of the patrol system,
+
+571
+00:27:16,120 --> 00:27:17,080
+And I gotta tell you, Joel,
+
+572
+00:27:17,080 --> 00:27:19,640
+that's pretty much what everybody tells me
+
+573
+00:27:19,640 --> 00:27:21,560
+And the way I always felt as scout master-
+
+574
+00:27:21,560 --> 00:27:22,880
+we had never really arrived.
+
+575
+00:27:22,880 --> 00:27:26,160
+We were always just traveling in that direction.
+
+576
+00:27:26,160 --> 00:27:28,840
+But the real answer to your questions here
+
+577
+00:27:28,840 --> 00:27:30,800
+is gonna come from the scout master.
+
+578
+00:27:30,800 --> 00:27:32,320
+If you and your fellow assistants
+
+579
+00:27:32,320 --> 00:27:33,880
+are uncertain of how to be supportive.
+
+580
+00:27:33,880 --> 00:27:36,520
+I've asked the scout master to sit down with you
+
+581
+00:27:36,520 --> 00:27:38,160
+to talk through what's happening
+
+582
+00:27:38,160 --> 00:27:39,480
+and what his goals are
+
+583
+00:27:39,480 --> 00:27:41,360
+and how you can coordinate efforts
+
+584
+00:27:41,360 --> 00:27:43,400
+And, as I said before,
+
+585
+00:27:43,400 --> 00:27:47,320
+I would plan on who the next scout master is gonna be
+
+586
+00:27:47,320 --> 00:27:49,000
+and when that will happen.
+
+587
+00:27:49,000 --> 00:27:52,040
+And the ongoing work that you're doing is pretty simple:
+
+588
+00:27:52,040 --> 00:27:54,760
+to support and develop our youth leadership
+
+589
+00:27:54,760 --> 00:27:57,800
+and to be part of that adult leadership team
+
+590
+00:27:57,840 --> 00:27:59,280
+with the scout master,
+
+591
+00:27:59,280 --> 00:28:02,480
+but to understand the importance of coordinating input
+
+592
+00:28:02,480 --> 00:28:04,720
+for the scouts through the scout master.
+
+593
+00:28:04,720 --> 00:28:09,720
+Well, thanks for listening to this 284th edition
+
+594
+00:28:29,480 --> 00:28:31,280
+of the scout master podcast.
+
+595
+00:28:31,280 --> 00:28:32,760
+Here's how to keep in touch:
+
+596
+00:28:32,760 --> 00:28:34,680
+Go to scoutmastercgcom
+
+597
+00:28:34,680 --> 00:28:36,560
+and you'll see that we have a blog there
+
+598
+00:28:36,560 --> 00:28:38,600
+and you can subscribe to receive updates
+
+599
+00:28:38,600 --> 00:28:40,200
+to the blog by email.
+
+600
+00:28:40,200 --> 00:28:42,720
+You can experience the wonders of scoutmastercgcom
+
+601
+00:28:42,720 --> 00:28:46,640
+through the vast panorama of social media.
+
+602
+00:28:46,640 --> 00:28:49,120
+That's right. join the nearly 10,000 folks
+
+603
+00:28:49,120 --> 00:28:51,680
+who like the scout master blog on Facebook.
+
+604
+00:28:51,680 --> 00:28:52,840
+Tweet along with the course
+
+605
+00:28:52,840 --> 00:28:56,120
+of 1300 other tweeters on Twitter.
+
+606
+00:28:56,120 --> 00:28:58,800
+Pin the pultritudinous Pinterest pictures
+
+607
+00:28:58,800 --> 00:29:02,000
+proffered publicly, with 2,300 other
+
+608
+00:29:02,000 --> 00:29:04,360
+prolific Pinterest pinners.
+
+609
+00:29:04,760 --> 00:29:05,880
+How about that?
+
+610
+00:29:05,880 --> 00:29:08,040
+Watch us at scoutmastercg on YouTube.
+
+611
+00:29:08,040 --> 00:29:10,880
+and? but look, I understand with this social media stuff
+
+612
+00:29:10,880 --> 00:29:12,760
+Some of you can't face. Facebook
+
+613
+00:29:12,760 --> 00:29:14,160
+or Twitter makes you better
+
+614
+00:29:14,160 --> 00:29:15,720
+and you have no interest in Pinterest
+
+615
+00:29:15,720 --> 00:29:17,040
+and you don't put the? U in YouTube,
+
+616
+00:29:17,040 --> 00:29:18,120
+but that's all right.
+
+617
+00:29:18,120 --> 00:29:20,760
+Zoom into the late 90s and send me an email.
+
+618
+00:29:20,760 --> 00:29:24,160
+You can get in touch with me, Clark Green,
+
+619
+00:29:24,160 --> 00:29:25,600
+with your comments and questions
+
+620
+00:29:25,600 --> 00:29:28,720
+at Clark at scoutmastercgcom.
+
+621
+00:29:28,720 --> 00:29:33,720
+It's C-L-A-R-K-E at scoutmastercgcom,
+
+622
+00:29:34,080 --> 00:29:36,360
+And if all else fails, you can write your message
+
+623
+00:29:36,360 --> 00:29:38,280
+on a piece of paper, seal it in a bottle
+
+624
+00:29:38,280 --> 00:29:40,920
+and bury it in any campfire circle.
+
+625
+00:29:40,920 --> 00:29:41,760
+I'll be sure to get it,
+
+626
+00:29:41,760 --> 00:29:43,800
+because I have agents everywhere.
+
+627
+00:29:43,800 --> 00:29:45,400
+It only remains for me to remind you
+
+628
+00:29:45,400 --> 00:29:46,520
+that the scout master blog
+
+629
+00:29:46,520 --> 00:29:47,680
+and the scout master podcast
+
+630
+00:29:47,680 --> 00:29:48,960
+are not official publications
+
+631
+00:29:48,960 --> 00:29:50,920
+of any scouting organization,
+
+632
+00:29:50,920 --> 00:29:52,440
+nor they endorsed or sponsored
+
+633
+00:29:52,440 --> 00:29:53,920
+by any scouting organization
+
+634
+00:29:53,920 --> 00:29:55,880
+such as the Boy Scouts of America.
+
+635
+00:29:55,880 --> 00:29:58,960
+No, it's just me talking into a microphone,
+
+636
+00:29:58,960 --> 00:30:00,480
+trying to lend a hand to scout leaders
+
+637
+00:30:00,480 --> 00:30:01,840
+and have a little bit of fun along the way.
+
+638
+00:30:01,880 --> 00:30:04,280
+and speaking of fun,
+
+639
+00:30:04,280 --> 00:30:07,640
+here he is our founder, Sir Robert Baden Powell.
+
+640
+00:30:07,640 --> 00:30:08,560
+Sir Robert,
+
+641
+00:30:08,560 --> 00:30:11,200
+Good luck to you and good camping,
+
+642
+00:30:11,200 --> 00:30:12,800
+Why? thank you, sir.
+
+643
+00:30:12,800 --> 00:30:14,000
+Until next time, everyone.
+

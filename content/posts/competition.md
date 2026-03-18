@@ -2,7 +2,9 @@
 title: "Competition"
 date: 2005-11-01
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Youth Leadership Development"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20140824233023/http://scoutmastercg.com/competition/"
 ---
 

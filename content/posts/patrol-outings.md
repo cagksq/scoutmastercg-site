@@ -2,7 +2,9 @@
 title: "Patrol Outings"
 date: 2014-10-11
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Patrol Method"
+  - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20141011192928/http://scoutmastercg.com:80/patrol-outings/"
 ---
 

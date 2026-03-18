@@ -2,7 +2,9 @@
 title: "Bill\" - Looking Back at a Great Scoutmaster"
 date: 2015-09-20
 draft: false
-categories: ["patrol-method", "scouting-ideals"]
+topics:
+  - "Adult Leadership Roles"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20150920054952/http://scoutmastercg.com/bill-looking-back-at-a-great-scoutmaster/"
 ---
 

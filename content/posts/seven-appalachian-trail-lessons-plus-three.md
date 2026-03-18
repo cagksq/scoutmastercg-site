@@ -2,7 +2,9 @@
 title: "Seven Appalachian Trail Lessons Plus Three"
 date: 2018-02-05
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20180205194312/http://scoutmastercg.com:80/appalachian-trail-lessons/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Patrol Teamwork Part 5 - Patrol Burglar?"
 date: 2014-03-08
 draft: false
-categories: ["outdoors", "patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20170707133654/http://scoutmastercg.com/patrol-teamwork-part-5-burglar-hikemaster/"
 ---
 

@@ -2,7 +2,8 @@
 title: "Ten Truths about Leadership"
 date: 2013-01-05
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20130105121130/http://www.scoutmastercg.com:80/ten-truths-about-leadership/"
 ---
 

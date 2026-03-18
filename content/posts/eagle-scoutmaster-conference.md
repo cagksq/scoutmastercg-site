@@ -2,7 +2,9 @@
 title: "Eagle Scoutmaster Conference"
 date: 2013-10-12
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scoutmaster Conference"
+  - "Eagle Scout"
 wayback_url: "https://web.archive.org/web/20140830082806/http://scoutmastercg.com/eagle-scoutmaster-conference/?replytocom=13313"
 ---
 

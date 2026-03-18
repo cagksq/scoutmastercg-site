@@ -2,8 +2,8 @@
 title: "Building Resilience in Children and Teens - Dr. Kenneth Ginsburg"
 date: 2015-02-28
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20150923201029/http://scoutmastercg.com:80/building-resilience-seven-cs-and-scouting/"
 ---
 

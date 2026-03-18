@@ -2,7 +2,9 @@
 title: "Ten Ways to Frustrate a Youth Leader"
 date: 2017-06-06
 draft: false
-categories: ["scoutmasters-life"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20170606021806/http://scoutmastercg.com/ten-ways-to-frustrate-a-youth-leader/"
 ---
 

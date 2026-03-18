@@ -2,7 +2,9 @@
 title: "Polish Scout, Resistance Fighter"
 date: 2012-05-31
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scouting History & Tradition"
+  - "International Scouting"
 wayback_url: "https://web.archive.org/web/20121220014730/http://www.scoutmastercg.com:80/polish-scout-resistance-fighter/"
 ---
 

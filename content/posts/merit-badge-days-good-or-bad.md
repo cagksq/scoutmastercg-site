@@ -2,7 +2,9 @@
 title: "Merit Badge Days - Good or Bad?"
 date: 2010-02-17
 draft: false
-categories: ["advancement"]
+topics:
+  - "Merit Badges"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20141009014907/http://scoutmastercg.com:80/hi-clarke-i-really-enjoy-your-thoughtful-blogs-and-podcasts-and-im-interested-to-learn-about-your-views-on-merit-bad/"
 ---
 

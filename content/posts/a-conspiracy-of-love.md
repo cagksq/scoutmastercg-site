@@ -2,7 +2,8 @@
 title: "A Conspiracy of Love"
 date: 2012-07-30
 draft: false
-categories: ["scouts"]
+topics:
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20120730112916/http://www.scoutmastercg.com/2012/07/a-conspiracy-of-love/"
 ---
 

@@ -3,8 +3,9 @@ title: "B.P.'s Blog - Listen"
 date: 2015-04-02
 draft: false
 image: "/images/bp4.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150402073551/http://scoutmastercg.com:80/b-p-s-blog-listen/"
 ---
 

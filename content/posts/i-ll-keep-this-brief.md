@@ -2,7 +2,8 @@
 title: "I'll keep this brief..."
 date: 2012-09-22
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Quotes & Brief Reflections"
 wayback_url: "https://web.archive.org/web/20140830164331/http://scoutmastercg.com/ill-keep-this-brief/?replytocom=18900"
 ---
 

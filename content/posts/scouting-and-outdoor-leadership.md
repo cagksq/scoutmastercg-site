@@ -2,7 +2,9 @@
 title: "Scouting and Outdoor Leadership"
 date: 2014-08-22
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Leadership Theory"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20170414101245/http://scoutmastercg.com:80/scouting-outdoor-leadership/"
 ---
 

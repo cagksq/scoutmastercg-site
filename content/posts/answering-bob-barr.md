@@ -2,12 +2,9 @@
 title: "Answering Bob Barr"
 date: 2006-01-01
 draft: false
-categories:
-  - scouting-ideals
+topics:
+  - "BSA Membership & Inclusion"
 ---
-
-'The Leader', our council newsletter, featured an excerpt of a piece by former Congressman Bob Barr wishing the BSA a happy 94th birthday. In this piece Congressman Barr asked several questions that deserve an answer.
-
 Congressman Barr spoke of the larger culture wars that are ravaging Western civilization and asked why people were criticizing the Boy Scouts of America. The answer is simple enough; we are being criticized because we are allowing a narrow interpretation of our Scout and Law to go unchallenged from within our membership. (By the way, Bob, Western Civilization, for all its advantages, needs regular ravaging. Without this 'ravaging' African Americans would still be second class citizens, women wouldn't have the vote, there would be no organized labor, no child labor laws; all things that were decried as an attack on civilization at the time.)1
 
 The heart and genius of our movement is decentralization, as best expressed by our founder:

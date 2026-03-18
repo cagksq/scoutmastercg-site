@@ -2,7 +2,9 @@
 title: "Sewing Scout Patches"
 date: 2012-08-25
 draft: false
-categories: ["advancement", "scouting-ideals"]
+topics:
+  - "Scout Advancement"
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20180129012527/http://scoutmastercg.com:80/sewing-on-scout-patches/"
 ---
 

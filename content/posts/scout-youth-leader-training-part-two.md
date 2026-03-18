@@ -2,7 +2,9 @@
 title: "Scout Youth Leader Training - Part Two"
 date: 2012-10-09
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20121009074839/http://www.scoutmastercg.com:80/2012/10/scout-youth-leader-training-part-two/"
 ---
 

@@ -2,7 +2,8 @@
 title: "Worth the Effort and the Time"
 date: 2015-09-16
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20150916204110/http://scoutmastercg.com/worth-the-effort-and-the-time/"
 ---
 

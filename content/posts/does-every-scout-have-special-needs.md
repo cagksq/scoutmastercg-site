@@ -2,7 +2,9 @@
 title: "Does Every Scout Have \"Special\" Needs?"
 date: 2014-08-22
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Kindness Empathy & Inclusion"
+  - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20150311040405/http://scoutmastercg.com:80/every-scout-special-needs/"
 ---
 

@@ -2,7 +2,9 @@
 title: "Patrol Method in Practice - Objections"
 date: 2013-01-26
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Patrol Method"
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20130126084154/http://www.scoutmastercg.com:80/patrol-method-objections/"
 ---
 

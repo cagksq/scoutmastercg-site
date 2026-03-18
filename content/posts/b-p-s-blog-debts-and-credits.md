@@ -3,8 +3,9 @@ title: "B-P's Blog - Debts and Credits"
 date: 2014-11-11
 draft: false
 image: "/images/bp4.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Character Development"
 wayback_url: "https://web.archive.org/web/20141111051219/http://scoutmastercg.com:80/b-p-s-blog-education-debtor-creditor/"
 ---
 

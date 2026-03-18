@@ -2,7 +2,9 @@
 title: "Observation and Proximity"
 date: 2014-10-09
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20141009224604/http://scoutmastercg.com:80/physics-and-scouting/"
 ---
 

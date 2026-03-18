@@ -2,7 +2,9 @@
 title: "Finding the Advisor's Voice"
 date: 2013-10-27
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20131027044601/http://www.scoutmastercg.com:80/finding-the-advisors-voice/"
 ---
 

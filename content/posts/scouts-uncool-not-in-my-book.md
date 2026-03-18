@@ -2,7 +2,8 @@
 title: "Scouts uncool? Not in my book"
 date: 2015-09-20
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20150920111101/http://scoutmastercg.com/scouts_uncool_n/"
 ---
 

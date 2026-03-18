@@ -2,7 +2,8 @@
 title: "Dirt Bagging\" for Cheap Gear"
 date: 2007-05-21
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
 wayback_url: "https://web.archive.org/web/20140823185720/http://scoutmastercg.com/dirt_bagging_fo/"
 ---
 

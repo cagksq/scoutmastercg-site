@@ -2,7 +2,9 @@
 title: "Four Steps to Scout Advancement - A Scout is Reveiwed"
 date: 2012-11-20
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Scoutmaster Conference"
 wayback_url: "https://web.archive.org/web/20121217232016/http://www.scoutmastercg.com:80/four-steps-to-scout-advancement-a-scout-is-reveiwed/"
 ---
 

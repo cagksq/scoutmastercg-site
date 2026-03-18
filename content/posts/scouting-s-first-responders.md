@@ -2,7 +2,9 @@
 title: "Scouting's First Responders"
 date: 2009-04-13
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Adult Leadership Roles"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150920062517/http://scoutmastercg.com/scoutings-first-responders/"
 ---
 

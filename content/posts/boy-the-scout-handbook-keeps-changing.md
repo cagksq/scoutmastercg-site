@@ -2,7 +2,9 @@
 title: "Boy, the Scout Handbook Keeps Changing"
 date: 2010-03-01
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scouting History & Tradition"
+  - "BSA Membership & Inclusion"
 wayback_url: "https://web.archive.org/web/20121220014446/http://www.scoutmastercg.com:80/boy-the-scout-handbook-keeps-changing/"
 ---
 

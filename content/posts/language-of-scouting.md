@@ -2,7 +2,9 @@
 title: "Language of Scouting"
 date: 2015-10-13
 draft: false
-categories: ["patrol-method", "advancement"]
+topics:
+  - "Scouting History & Tradition"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20151013215918/http://scoutmastercg.com/language-of-scouting/"
 ---
 

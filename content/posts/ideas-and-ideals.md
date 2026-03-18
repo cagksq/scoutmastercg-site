@@ -2,7 +2,9 @@
 title: "Ideas and Ideals"
 date: 2015-09-19
 draft: false
-categories: ["scouting-ideals"]
+topics:
+  - "Character Development"
+  - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20150919081747/http://scoutmastercg.com/ideas_and_ideal/"
 ---
 

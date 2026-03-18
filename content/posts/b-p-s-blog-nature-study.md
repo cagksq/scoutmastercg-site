@@ -3,8 +3,9 @@ title: "B.P.'s Blog - Nature Study"
 date: 2015-02-21
 draft: false
 image: "/images/bp3.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Nature & Environment"
 wayback_url: "https://web.archive.org/web/20150221064753/http://scoutmastercg.com:80/b-p-s-blog-3/"
 ---
 

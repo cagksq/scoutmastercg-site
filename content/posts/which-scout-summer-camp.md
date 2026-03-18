@@ -2,7 +2,9 @@
 title: "Which Scout Summer Camp?"
 date: 2014-08-31
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Summer Camp"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20140831221923/http://scoutmastercg.com/evaluating-scout-summer-camp/?replytocom=50078"
 ---
 

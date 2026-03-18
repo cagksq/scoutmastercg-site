@@ -2,7 +2,9 @@
 title: "The Patrol Leaders Council - John Thurman"
 date: 2017-06-06
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Patrol Method"
 wayback_url: "https://web.archive.org/web/20170606224813/http://scoutmastercg.com:80/the-court-of-honor/"
 ---
 

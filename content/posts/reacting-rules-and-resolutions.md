@@ -2,7 +2,9 @@
 title: "Reacting, Rules and Resolutions"
 date: 2009-05-20
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
+  - "Mentoring & Coaching"
 wayback_url: "https://web.archive.org/web/20121018084957/http://www.scoutmastercg.com:80/2009/05/reacting-rules-and-resolutions/"
 ---
 

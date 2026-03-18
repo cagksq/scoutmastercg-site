@@ -2,7 +2,9 @@
 title: "BSA Separate But Equal Plan for Girls"
 date: 2018-02-15
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20180215042224/http://scoutmastercg.com:80/bsa-separate-but-equal-plan-for-girls/"
 ---
 

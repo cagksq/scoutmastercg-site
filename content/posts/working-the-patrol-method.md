@@ -2,8 +2,8 @@
 title: "Working the Patrol Method"
 date: 2012-10-19
 draft: false
-categories:
-  - book-reviews
+topics:
+  - "Book Reviews"
 wayback_url: "https://web.archive.org/web/20121019100115/http://www.scoutmastercg.com:80/2010/10/working-the-patrol-method/"
 ---
 

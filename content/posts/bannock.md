@@ -2,7 +2,9 @@
 title: "Bannock"
 date: 2013-08-10
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scout Activities & Games"
+  - "Camping"
 wayback_url: "https://web.archive.org/web/20140824063149/http://scoutmastercg.com/bannock/"
 ---
 

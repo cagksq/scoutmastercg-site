@@ -2,7 +2,9 @@
 title: "Evaluating Scouting Positions of Responsibility"
 date: 2013-10-12
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20141008084257/http://scoutmastercg.com:80/evaluating-scouting-positions-of-responsibility/"
 ---
 

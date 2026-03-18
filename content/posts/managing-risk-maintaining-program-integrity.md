@@ -2,7 +2,9 @@
 title: "Managing Risk - Maintaining Program Integrity"
 date: 2009-04-21
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Risk Management & Safety"
+  - "High Adventure & Canoe Trips"
 wayback_url: "https://web.archive.org/web/20151014174941/http://scoutmastercg.com/managing-risk-maintaining-program/"
 ---
 

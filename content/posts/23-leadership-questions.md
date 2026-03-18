@@ -2,7 +2,8 @@
 title: "23 Leadership Questions"
 date: 2013-03-24
 draft: false
-categories: ["patrol-method"]
+topics:
+  - "Youth Leadership Development"
 wayback_url: "https://web.archive.org/web/20140904123824/http://scoutmastercg.com/23-leadership-questions/?replytocom=48173"
 ---
 

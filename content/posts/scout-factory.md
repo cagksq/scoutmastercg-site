@@ -2,7 +2,9 @@
 title: "Scout Factory"
 date: 2005-12-01
 draft: false
-categories: ["scoutmasters-job"]
+topics:
+  - "Baden-Powell Writings"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20140822181701/http://scoutmastercg.com/scout_factory/"
 ---
 

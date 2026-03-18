@@ -2,7 +2,9 @@
 title: "Keep the Promise of Scouting"
 date: 2013-07-08
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Scouting History & Tradition"
+  - "Leadership Theory"
 wayback_url: "https://web.archive.org/web/20130708005345/http://www.scoutmastercg.com:80/keep-the-promise-of-scouting/"
 ---
 

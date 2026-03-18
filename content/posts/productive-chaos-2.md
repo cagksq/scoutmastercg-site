@@ -2,7 +2,9 @@
 title: "Productive Chaos"
 date: 2011-04-06
 draft: false
-categories: ["outdoors"]
+topics:
+  - "Personal Reflection"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20141011012018/http://scoutmastercg.com:80/productive-chaos-2/"
 ---
 

@@ -2,7 +2,8 @@
 title: "Access and Discrimination"
 date: 2005-11-01
 draft: false
-categories: ["scouting-history-ideas"]
+topics:
+  - "BSA Membership & Inclusion"
 wayback_url: "https://web.archive.org/web/20141011011927/http://scoutmastercg.com:80/bsa_v_aclu/"
 ---
 

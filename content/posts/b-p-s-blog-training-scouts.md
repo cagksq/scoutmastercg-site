@@ -3,8 +3,9 @@ title: "B.P.'s Blog - Training Scouts"
 date: 2014-04-13
 draft: false
 image: "/images/bp3.png"
-categories:
-  - bps-blog
+topics:
+  - "Baden-Powell Writings"
+  - "Adult Leadership Roles"
 wayback_url: "https://web.archive.org/web/20150915103113/http://scoutmastercg.com/b-p-s-blog-training-scouts/"
 ---
 

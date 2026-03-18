@@ -2,7 +2,9 @@
 title: "Reading Scout Requirements"
 date: 2013-01-22
 draft: false
-categories: ["advancement"]
+topics:
+  - "Scout Advancement"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20141020045806/http://scoutmastercg.com:80/reading-scout-requirements/"
 ---
 

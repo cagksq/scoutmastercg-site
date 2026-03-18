@@ -2,7 +2,9 @@
 title: "Merit Badge Thoughts"
 date: 2009-08-04
 draft: false
-categories: ["advancement"]
+topics:
+  - "Merit Badges"
+  - "Summer Camp"
 wayback_url: "https://web.archive.org/web/20130115072913/http://www.scoutmastercg.com:80/merit-badge-thoughts/"
 ---
 

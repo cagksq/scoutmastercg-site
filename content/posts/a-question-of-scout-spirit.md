@@ -2,7 +2,8 @@
 title: "A Question of Scout Spirit"
 date: 2015-08-28
 draft: false
-categories: ["scouting-ideals", "advancement"]
+topics:
+  - "Scoutmaster Conference"
 wayback_url: "https://web.archive.org/web/20150828070615/http://scoutmastercg.com:80/a-question-of-scout-spirit/"
 ---
 

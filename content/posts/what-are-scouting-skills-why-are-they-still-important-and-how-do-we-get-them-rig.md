@@ -2,7 +2,9 @@
 title: "What Are Scouting Skills, Why Are They (Still) Important and How do We Get Them Right?"
 date: 2013-07-14
 draft: false
-categories: ["advancement", "outdoors"]
+topics:
+  - "Outdoor Skills & Gear"
+  - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20150414030507/http://scoutmastercg.com:80/what-are-scouting-skills-why-are-they-still-important-and-how-do-we-get-them-right/?"
 ---
 

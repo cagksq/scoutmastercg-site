@@ -2,7 +2,9 @@
 title: "BSA ends the ban on gay leaders"
 date: 2015-08-01
 draft: false
-categories: ["scouting-history-ideas", "scoutmasters-job"]
+topics:
+  - "BSA Membership & Inclusion"
+  - "BSA Rules & Policy"
 wayback_url: "https://web.archive.org/web/20170627203052/http://scoutmastercg.com/bsa-ends-the-ban-on-gay-leaders/"
 ---
 

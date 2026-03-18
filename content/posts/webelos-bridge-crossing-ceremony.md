@@ -2,7 +2,9 @@
 title: "Webelos Bridge Crossing Ceremony"
 date: 2012-11-26
 draft: false
-categories: ["patrol-method", "scouts"]
+topics:
+  - "Youth Leadership Development"
+  - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20160315155739/http://scoutmastercg.com:80/webelos-bridge-crossing-ceremony/"
 ---
 

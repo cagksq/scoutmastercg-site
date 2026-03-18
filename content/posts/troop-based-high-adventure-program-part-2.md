@@ -2,8 +2,9 @@
 title: Troop Based High Adventure Programs | Part 2
 date: 2015-09-20
 draft: false
-categories:
-  - outdoors
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Troop Administration"
 wayback_url: https://web.archive.org/web/20150919205443/http://scoutmastercg.com/troop-based-high-adventure-program-part-2/
 ---
 

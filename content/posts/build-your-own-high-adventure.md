@@ -2,7 +2,9 @@
 title: "Build Your Own High Adventure"
 date: 2015-09-19
 draft: false
-categories: ["outdoors"]
+topics:
+  - "High Adventure & Canoe Trips"
+  - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20150919212304/http://scoutmastercg.com/high-adventure/"
 ---
 
