@@ -4,7 +4,7 @@ date: 2014-09-28
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20170503233540/http://scoutmastercg.com:80/b-p-s-blog-origin-scouting-boys/"
 ---

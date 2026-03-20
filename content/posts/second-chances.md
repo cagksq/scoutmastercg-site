@@ -4,7 +4,7 @@ date: 2017-05-22
 draft: false
 topics:
   - "Discipline & Behavior"
-  - "Youth Leadership Development"
+  - "Why Youth-Led Scouting Works"
 wayback_url: "https://web.archive.org/web/20170522104856/http://scoutmastercg.com:80/second-chances/"
 ---
 

@@ -4,7 +4,7 @@ date: 2015-09-20
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20150920053829/http://scoutmastercg.com/methods-rules-and-joy/"
 ---
 

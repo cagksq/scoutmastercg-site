@@ -3,7 +3,7 @@ title: "True North or Magnetic North?"
 date: 2014-10-18
 draft: false
 topics:
-  - "Leadership Theory"
+  - "What Scouting Does"
   - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20141018141806/http://scoutmastercg.com:80/true-north-or-magnetic-north/?replytocom=69053"
 ---

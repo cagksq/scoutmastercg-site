@@ -4,7 +4,7 @@ date: 2014-07-06
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Character & Citizenship"
   - "Spirituality & Religion"
 wayback_url: "https://web.archive.org/web/20141012080507/http://scoutmastercg.com:80/b-p-s-blog-religion/"
 ---

@@ -4,8 +4,8 @@ date: 2014-04-20
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Patrol Method"
+  - "B.P. on Leadership & the Scouting Method"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20150409054231/http://scoutmastercg.com:80/b-p-s-blog-camps/"
 ---
 

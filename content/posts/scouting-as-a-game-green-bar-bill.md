@@ -3,8 +3,8 @@ title: "Scouting as a Game - Green Bar Bill"
 date: 2012-10-22
 draft: false
 topics:
-  - "Patrol Method"
-  - "Youth Leadership Development"
+  - "Understanding the Patrol Method"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20121022042653/http://www.scoutmastercg.com:80/2012/10/scouting-as-a-game-green-bar-bill/"
 ---
 

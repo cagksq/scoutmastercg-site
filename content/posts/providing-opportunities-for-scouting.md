@@ -3,8 +3,8 @@ title: "Providing Opportunities for Scouting"
 date: 2015-02-21
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150221122222/http://scoutmastercg.com:80/providing-opportunities-for-scouting/?"
 ---
 

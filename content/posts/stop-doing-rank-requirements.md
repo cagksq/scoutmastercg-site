@@ -3,8 +3,8 @@ title: "Stop doing rank requirements."
 date: 2012-05-12
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Adult Leadership Roles"
+  - "Putting Youth in Charge"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20171012000234/http://scoutmastercg.com/stop-doing-rank-requirements/"
 ---
 

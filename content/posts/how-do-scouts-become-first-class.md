@@ -4,7 +4,7 @@ date: 2012-10-05
 draft: false
 topics:
   - "Scout Advancement"
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20140706003611/http://scoutmastercg.com/what-your-youth-leadership-needs-to-know/"
 ---
 

@@ -4,7 +4,7 @@ date: 2009-08-05
 draft: false
 topics:
   - "Instructional Methods"
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20121229025609/http://www.scoutmastercg.com:80/teaching-is-listening-learning-is-talking/"
 ---
 

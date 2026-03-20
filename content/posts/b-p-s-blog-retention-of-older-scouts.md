@@ -4,8 +4,8 @@ date: 2017-09-01
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Youth Leadership Development"
+  - "B.P. on the Outdoor Program"
+  - "Keeping Older Scouts Engaged"
 wayback_url: "https://web.archive.org/web/20170901035049/http://scoutmastercg.com/b-p-s-blog-retention-of-older-scouts/"
 ---
 

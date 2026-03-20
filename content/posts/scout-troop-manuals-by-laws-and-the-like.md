@@ -4,7 +4,7 @@ date: 2015-03-06
 draft: false
 topics:
   - "Troop Administration"
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150306053436/http://scoutmastercg.com:80/scout-troop-manuals-bylaws-and-the-like/?"
 ---
 

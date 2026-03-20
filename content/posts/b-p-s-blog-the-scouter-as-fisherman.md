@@ -4,8 +4,8 @@ date: 2015-08-23
 draft: false
 image: "/images/bp5.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Adult Leadership Roles"
+  - "B.P. on Leadership & the Scouting Method"
+  - "New & Transitioning Adult Leaders"
 wayback_url: "https://web.archive.org/web/20160823153723/http://scoutmastercg.com:80/b-ps-blog-the-scouter-as-fisherman/"
 ---
 

@@ -3,8 +3,8 @@ title: "Where is it written that troops are boy-led?"
 date: 2017-10-22
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Baden-Powell Writings"
+  - "Giving Scouts Authority"
+  - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20171022112011/http://scoutmastercg.com:80/where-is-it-written-that-troops-are-boy-led/"
 ---
 

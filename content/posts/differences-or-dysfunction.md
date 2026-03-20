@@ -3,7 +3,7 @@ title: "Differences or Dysfunction?"
 date: 2015-03-11
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
   - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150311145437/http://scoutmastercg.com:80/differences_or_/"
 ---

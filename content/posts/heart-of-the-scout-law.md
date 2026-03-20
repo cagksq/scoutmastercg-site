@@ -4,7 +4,7 @@ date: 2013-01-04
 draft: false
 topics:
   - "Scout Law & Oath"
-  - "Character Development"
+  - "Character & Values in Action"
 wayback_url: "https://web.archive.org/web/20140901033355/http://scoutmastercg.com/heart-of-the-scout-law/?replytocom=6864"
 ---
 

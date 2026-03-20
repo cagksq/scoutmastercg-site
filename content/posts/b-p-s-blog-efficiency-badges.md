@@ -4,7 +4,7 @@ date: 2014-05-11
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20141012080952/http://scoutmastercg.com:80/b-p-s-blog-efficiency-badges/"
 ---

@@ -3,8 +3,8 @@ title: "The Why Behind The How Part Two"
 date: 2015-12-26
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Character Development"
+  - "Why Youth-Led Scouting Works"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20151226025706/http://scoutmastercg.com/quotations/"
 ---
 

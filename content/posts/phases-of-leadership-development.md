@@ -3,8 +3,8 @@ title: "Phases of Leadership Development"
 date: 2012-09-20
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Leadership Theory"
+  - "Developing & Training Youth Leaders"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20121219232432/http://www.scoutmastercg.com:80/phases-of-leadership-development/"
 ---
 

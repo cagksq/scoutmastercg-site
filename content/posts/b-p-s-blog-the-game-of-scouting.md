@@ -4,8 +4,8 @@ date: 2015-03-22
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Youth Leadership Development"
+  - "B.P. on Leadership & the Scouting Method"
+  - "Why Youth-Led Scouting Works"
 wayback_url: "https://web.archive.org/web/20170711181656/http://scoutmastercg.com/b-p-s-blog-the-game-of-scouting/"
 ---
 

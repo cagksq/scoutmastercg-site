@@ -3,8 +3,8 @@ title: "Storming, Storming and Storming"
 date: 2012-12-20
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Developing & Training Youth Leaders"
+  - "How Patrols Work"
 wayback_url: "https://web.archive.org/web/20121220014243/http://www.scoutmastercg.com:80/storming-storming-and-storming/"
 ---
 

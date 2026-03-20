@@ -4,7 +4,7 @@ date: 2012-05-01
 draft: false
 topics:
   - "Instructional Methods"
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20141010132201/http://scoutmastercg.com:80/escaping-the-classroom/"
 ---
 

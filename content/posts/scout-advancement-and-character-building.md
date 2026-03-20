@@ -4,7 +4,7 @@ date: 2019-10-17
 draft: false
 topics:
   - "Scout Advancement"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20191017041327/https://scoutmastercg.com/scout-advancement-character-building/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=FeedBlitzRss&utm_content=Scout+Advancement+and++Character+Building"
 ---
 

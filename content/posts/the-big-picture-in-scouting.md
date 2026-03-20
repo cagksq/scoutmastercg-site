@@ -3,8 +3,8 @@ title: "The Big Picture in Scouting"
 date: 2015-02-24
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Leadership Theory"
+  - "Why Youth-Led Scouting Works"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20150224155227/http://scoutmastercg.com:80/hothouse-scouts/?"
 ---
 

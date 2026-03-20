@@ -3,7 +3,7 @@ title: "Jedi Scoutmaster"
 date: 2012-03-04
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Putting Youth in Charge"
   - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20170522104712/http://scoutmastercg.com:80/jeddi-scoutmaster/"
 ---

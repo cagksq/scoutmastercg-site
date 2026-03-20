@@ -3,7 +3,7 @@ title: "The Patrol System"
 date: 2014-10-13
 draft: false
 topics:
-  - "Patrol Method"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20141013161019/http://scoutmastercg.com:80/the_patrol_syst/"
 ---
 

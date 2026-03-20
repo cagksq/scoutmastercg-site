@@ -3,7 +3,7 @@ title: "What a Patrol Leader Does When Things Go Wrong."
 date: 2014-09-02
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Youth Leader Roles"
   - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20140902232132/http://scoutmastercg.com/what-a-patrol-leader-does-when-things-go-wrong/?replytocom=54572"
 ---

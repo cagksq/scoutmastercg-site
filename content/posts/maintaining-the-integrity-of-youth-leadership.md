@@ -3,8 +3,8 @@ title: "Maintaining the Integrity of Youth Leadership"
 date: 2015-10-16
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Adult Leadership Roles"
+  - "Putting Youth in Charge"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20151016171243/http://scoutmastercg.com/maintaining-the/"
 ---
 

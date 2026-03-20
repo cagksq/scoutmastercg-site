@@ -3,8 +3,8 @@ title: "Starting the Transition from Adult to Youth Leadership"
 date: 2009-07-09
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20130105065031/http://www.scoutmastercg.com:80/transition-from-adult-to-youth-leadership-first-steps/"
 ---
 

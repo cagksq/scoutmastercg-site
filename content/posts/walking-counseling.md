@@ -3,7 +3,7 @@ title: "Walking Counseling"
 date: 2015-09-20
 draft: false
 topics:
-  - "Mentoring & Coaching"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150920073827/http://scoutmastercg.com/walking-counsel/"
 ---
 

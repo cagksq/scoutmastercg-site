@@ -4,7 +4,7 @@ date: 2012-12-20
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20140830235708/http://scoutmastercg.com/centennary-of-the-boy-scouts-of-america/?replytocom=278"
 ---
 

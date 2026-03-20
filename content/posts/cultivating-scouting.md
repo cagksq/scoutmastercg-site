@@ -3,8 +3,8 @@ title: "Cultivating Scouting"
 date: 2015-03-11
 draft: false
 topics:
-  - "Adult Leadership Roles"
-  - "Leadership Theory"
+  - "The Scoutmaster's Job"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20150311144257/http://scoutmastercg.com:80/cultivating-scouting/"
 ---
 

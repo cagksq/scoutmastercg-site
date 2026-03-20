@@ -3,7 +3,7 @@ title: "Hoop Jumping"
 date: 2014-10-10
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Giving Scouts Authority"
   - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20141010214451/http://scoutmastercg.com:80/hoop_jumping/"
 ---

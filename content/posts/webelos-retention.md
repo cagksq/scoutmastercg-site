@@ -3,8 +3,8 @@ title: "Webelos Retention"
 date: 2013-10-12
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Keeping Older Scouts Engaged"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150919143737/http://scoutmastercg.com/webelos_retenti/"
 ---
 

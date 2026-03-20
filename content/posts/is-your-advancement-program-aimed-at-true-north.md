@@ -4,7 +4,7 @@ date: 2008-03-17
 draft: false
 topics:
   - "Scout Advancement"
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20141008040956/http://scoutmastercg.com:80/are-you-aimed-a/"
 ---
 

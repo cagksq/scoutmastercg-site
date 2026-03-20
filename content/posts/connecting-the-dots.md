@@ -4,7 +4,7 @@ date: 2012-01-10
 draft: false
 topics:
   - "Personal Reflection"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20121220013151/http://www.scoutmastercg.com:80/connecting-the-dots/"
 ---
 

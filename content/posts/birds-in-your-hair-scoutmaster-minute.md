@@ -3,7 +3,7 @@ title: "Birds in your hair - Scoutmaster Minute"
 date: 2012-10-26
 draft: false
 topics:
-  - "Character Development"
+  - "Character & Values in Action"
 wayback_url: "https://web.archive.org/web/20150926210351/http://scoutmastercg.com:80/birds-in-your-hair-scoutmaster-minute/"
 ---
 

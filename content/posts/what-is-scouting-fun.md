@@ -3,7 +3,7 @@ title: "What is Scouting Fun?"
 date: 2014-11-09
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Keeping Older Scouts Engaged"
   - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20141109025959/http://scoutmastercg.com:80/what-is-scouting-fun/"
 ---

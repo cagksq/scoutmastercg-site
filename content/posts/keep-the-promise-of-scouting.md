@@ -4,7 +4,7 @@ date: 2013-07-08
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20130708005345/http://www.scoutmastercg.com:80/keep-the-promise-of-scouting/"
 ---
 

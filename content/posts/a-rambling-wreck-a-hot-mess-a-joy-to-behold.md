@@ -3,7 +3,7 @@ title: "A Rambling Wreck, A Hot Mess, A Joy to Behold"
 date: 2014-08-25
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20140825085412/http://scoutmastercg.com/a-rambling-wreck-a-hot-mess-a-joy-to-behold/"
 ---
 

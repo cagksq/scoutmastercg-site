@@ -3,7 +3,7 @@ title: "Scouting, Sidelines, and New Interpretations"
 date: 2014-08-22
 draft: false
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20160315155734/http://scoutmastercg.com:80/scouting-sidelines-and-new-interpretations/"
 ---

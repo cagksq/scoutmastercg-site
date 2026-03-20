@@ -4,7 +4,7 @@ date: 2017-07-07
 draft: false
 topics:
   - "Scout Advancement"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20170707132551/http://scoutmastercg.com/strategic-preparation-2-chose-to-prepare/"
 ---
 

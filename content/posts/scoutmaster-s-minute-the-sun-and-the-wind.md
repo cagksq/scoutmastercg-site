@@ -3,8 +3,8 @@ title: "Scoutmaster's Minute - The Sun and the Wind"
 date: 2014-05-13
 draft: false
 topics:
-  - "Character Development"
-  - "Mentoring & Coaching"
+  - "Character & Values in Action"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150926210619/http://scoutmastercg.com:80/wind-sun/"
 ---
 

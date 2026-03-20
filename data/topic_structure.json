@@ -1,209 +1,269 @@
 [
   {
     "name": "Leadership & Youth Development",
-    "count": 403,
+    "count": 671,
     "subcategories": [
       {
-        "name": "Youth Leadership Development",
-        "count": 240
+        "name": "Why Youth-Led Scouting Works",
+        "count": 61
       },
       {
-        "name": "Adult Leadership Roles",
-        "count": 78
+        "name": "Putting Youth in Charge",
+        "count": 92
       },
       {
-        "name": "Patrol Method",
-        "count": 19
+        "name": "Giving Scouts Authority",
+        "count": 14
       },
       {
-        "name": "Mentoring & Coaching",
-        "count": 62
+        "name": "Developing & Training Youth Leaders",
+        "count": 73
       },
       {
-        "name": "Leadership Theory",
-        "count": 4
+        "name": "Youth Leader Roles",
+        "count": 23
+      },
+      {
+        "name": "Keeping Older Scouts Engaged",
+        "count": 24
+      },
+      {
+        "name": "The Scouter & the Scout",
+        "count": 6
+      },
+      {
+        "name": "Guiding Youth Leaders",
+        "count": 15
+      },
+      {
+        "name": "Working through Problems",
+        "count": 14
+      },
+      {
+        "name": "The Scouter Role",
+        "count": 44
+      },
+      {
+        "name": "The Scouter in Practice",
+        "count": 21
+      },
+      {
+        "name": "New & Transitioning Adult Leaders",
+        "count": 32
+      },
+      {
+        "name": "Working with Adult Leaders",
+        "count": 34
+      },
+      {
+        "name": "Understanding the Patrol Method",
+        "count": 83
+      },
+      {
+        "name": "How Patrols Work",
+        "count": 69
+      },
+      {
+        "name": "Defining Leadership",
+        "count": 20
+      },
+      {
+        "name": "What Scouting Does",
+        "count": 46
       }
     ]
   },
   {
     "name": "Scouting Program & Methods",
-    "count": 345,
+    "count": 273,
     "subcategories": [
       {
         "name": "Scout Advancement",
-        "count": 118
+        "count": 85
       },
       {
         "name": "Merit Badges",
-        "count": 2
+        "count": 25
       },
       {
         "name": "Eagle Scout",
-        "count": 65
+        "count": 37
       },
       {
         "name": "Instructional Methods",
-        "count": 81
+        "count": 62
       },
       {
         "name": "Scout Activities & Games",
-        "count": 67
+        "count": 28
       },
       {
         "name": "Patrol Planning & Operations",
-        "count": 12
+        "count": 36
       }
     ]
   },
   {
     "name": "Outdoor Program",
-    "count": 614,
+    "count": 182,
     "subcategories": [
       {
         "name": "Camping",
-        "count": 376
+        "count": 30
       },
       {
         "name": "High Adventure & Canoe Trips",
-        "count": 61
+        "count": 47
       },
       {
         "name": "Risk Management & Safety",
-        "count": 39
+        "count": 49
       },
       {
         "name": "Outdoor Skills & Gear",
-        "count": 78
+        "count": 43
       },
       {
         "name": "Nature & Environment",
-        "count": 60
+        "count": 13
       }
     ]
   },
   {
     "name": "Scoutmaster Practice",
-    "count": 285,
+    "count": 300,
     "subcategories": [
       {
         "name": "Scoutmaster Conference",
-        "count": 6
+        "count": 48
       },
       {
         "name": "Troop Administration",
-        "count": 15
+        "count": 107
       },
       {
         "name": "Discipline & Behavior",
-        "count": 134
+        "count": 51
       },
       {
         "name": "Parent Relations",
-        "count": 115
+        "count": 54
       },
       {
         "name": "Volunteer Management & Burnout",
-        "count": 15
+        "count": 40
       }
     ]
   },
   {
     "name": "BSA Policy & History",
-    "count": 164,
+    "count": 237,
     "subcategories": [
       {
         "name": "BSA Rules & Policy",
-        "count": 11
+        "count": 49
       },
       {
         "name": "Scouting History & Tradition",
-        "count": 25
+        "count": 62
       },
       {
-        "name": "Baden-Powell Writings",
-        "count": 75
+        "name": "B.P. on Leadership & the Scouting Method",
+        "count": 69
+      },
+      {
+        "name": "B.P. on Character & Citizenship",
+        "count": 20
       },
       {
         "name": "BSA Membership & Inclusion",
-        "count": 14
+        "count": 32
       },
       {
         "name": "Organizational Structure",
-        "count": 39
+        "count": 5
       }
     ]
   },
   {
     "name": "Character & Values",
-    "count": 243,
+    "count": 182,
     "subcategories": [
       {
         "name": "Scout Law & Oath",
-        "count": 132
+        "count": 57
       },
       {
-        "name": "Character Development",
-        "count": 34
+        "name": "What is Meant by Character",
+        "count": 18
+      },
+      {
+        "name": "How Scouting Builds Character",
+        "count": 36
       },
       {
         "name": "Citizenship & Patriotism",
-        "count": 43
+        "count": 10
       },
       {
         "name": "Spirituality & Religion",
+        "count": 16
+      },
+      {
+        "name": "Kindness Empathy & Inclusion",
         "count": 27
       },
       {
-        "name": "Kindness, Empathy & Inclusion",
-        "count": 7
+        "name": "Character & Values in Action",
+        "count": 18
       }
     ]
   },
   {
     "name": "Community & Context",
-    "count": 52,
+    "count": 117,
     "subcategories": [
       {
         "name": "Scout Parents",
-        "count": 1
+        "count": 17
       },
       {
         "name": "Fundraising & Finances",
-        "count": 5
+        "count": 11
       },
       {
         "name": "Summer Camp",
-        "count": 19
+        "count": 21
       },
       {
         "name": "International Scouting",
-        "count": 6
+        "count": 19
       },
       {
         "name": "Personal Reflection",
-        "count": 21
+        "count": 49
       }
     ]
   },
   {
     "name": "Reflections & Humor",
-    "count": 23,
+    "count": 396,
     "subcategories": [
       {
         "name": "Quotes and Brief Reflections",
-        "count": 23
+        "count": 0
       },
       {
         "name": "Opening Jokes",
-        "count": 0
+        "count": 368
       },
       {
         "name": "Brick Mason Episodes",
-        "count": 0
+        "count": 7
       },
       {
         "name": "This Has to Be the Truth",
-        "count": 0
+        "count": 21
       }
     ]
   }

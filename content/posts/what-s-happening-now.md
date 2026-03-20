@@ -3,8 +3,8 @@ title: "What's Happening Now?"
 date: 2012-09-18
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Character Development"
+  - "Why Youth-Led Scouting Works"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20120921021219/http://www.scoutmastercg.com:80/2012/09/whats-happening-now/"
 ---
 

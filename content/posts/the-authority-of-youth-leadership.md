@@ -3,8 +3,8 @@ title: "The Authority of Youth Leadership."
 date: 2015-11-03
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Giving Scouts Authority"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20151103163459/http://scoutmastercg.com:80/the-authority-of-youth-leadership/"
 ---
 

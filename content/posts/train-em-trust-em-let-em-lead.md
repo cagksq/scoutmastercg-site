@@ -3,8 +3,8 @@ title: "Train ‘em, Trust ‘em, Let ‘em Lead!"
 date: 2013-04-02
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20171019210021/http://scoutmastercg.com/train_em_trust_/"
 ---
 

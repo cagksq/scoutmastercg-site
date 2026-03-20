@@ -4,7 +4,7 @@ date: 2014-10-17
 draft: false
 topics:
   - "Eagle Scout"
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150916201710/http://scoutmastercg.com/keeping-the-trail-to-eagle-clear/"
 ---
 

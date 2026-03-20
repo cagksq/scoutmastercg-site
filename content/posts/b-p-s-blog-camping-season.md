@@ -4,7 +4,7 @@ date: 2014-11-30
 draft: false
 image: "/images/bp5.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on the Outdoor Program"
   - "Camping"
 wayback_url: "https://web.archive.org/web/20150303084254/http://scoutmastercg.com:80/b-p-s-blog-camping-season/"
 ---

@@ -4,7 +4,7 @@ date: 2012-06-06
 draft: false
 topics:
   - "Risk Management & Safety"
-  - "Youth Leadership Development"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20120620180331/http://www.scoutmastercg.com:80/2012/06/understanding-risky-behavior-in-scouts-part-two/"
 ---
 

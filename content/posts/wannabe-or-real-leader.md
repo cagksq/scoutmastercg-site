@@ -3,8 +3,8 @@ title: "Wannabe or Real Leader?"
 date: 2014-08-30
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Youth Leader Roles"
+  - "How Patrols Work"
 wayback_url: "https://web.archive.org/web/20140830070650/http://scoutmastercg.com/wannabe-real-leader/?replytocom=53922"
 ---
 

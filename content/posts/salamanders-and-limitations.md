@@ -4,7 +4,7 @@ date: 2014-08-22
 draft: false
 topics:
   - "Instructional Methods"
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20140822065802/http://scoutmastercg.com/salamanders-and-limitations/?replytocom=49385"
 ---
 

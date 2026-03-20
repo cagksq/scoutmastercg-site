@@ -3,7 +3,7 @@ title: "Acting Like a Leader - Be a Leader! Part 3"
 date: 2014-02-01
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20170720053409/http://scoutmastercg.com/leader-part-3-acting-like-leader/"
 ---
 

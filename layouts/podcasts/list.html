@@ -3,23 +3,6 @@
     #podcast-list { display: flex; flex-direction: column; }
     .year-rows    { display: flex; flex-direction: column; }
 
-    @media (min-width: 600px) {
-      #podcast-list {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        column-gap: 0;
-        row-gap: 0.85rem;
-        align-items: start;
-        background-image: linear-gradient(to bottom, #d8d8d8, #d8d8d8);
-        background-size: 1px 100%;
-        background-position: center top;
-        background-repeat: no-repeat;
-      }
-      .year-group { margin-bottom: 0; }
-      .year-group:nth-child(odd)  { margin-right: 0.85rem; }
-      .year-group:nth-child(even) { margin-left:  0.85rem; }
-    }
-
     .pc-search {
       flex: 1; min-width: 160px;
       padding: 0.4rem 0.85rem;
@@ -86,7 +69,7 @@
     .ep-row:hover .ep-date { color: #999; }
   </style>
 
-  <div class="pa3 pa4-ns center" style="max-width:88rem;">
+  <div class="pa3 pa4-ns center" style="max-width:700px;">
 
     {{/* Featured / Start Here */}}
     {{ $featured := where .Pages ".Params.featured" true }}
@@ -103,12 +86,16 @@
     {{/* Controls */}}
     <div style="display:flex; align-items:center; gap:0.55rem; margin-bottom:0.5rem; flex-wrap:wrap;">
       <input type="search" id="ep-search" class="pc-search" placeholder="Search episodes…">
-      <button id="sort-toggle" class="pc-sort-btn">Newest first ↕</button>
+      <div class="topics-sort-btns">
+        <button class="topics-sort-btn active" id="sort-newest" onclick="pcSort('newest', this)">Newest first</button>
+        <span class="topics-sort-sep">·</span>
+        <button class="topics-sort-btn" id="sort-oldest" onclick="pcSort('oldest', this)">Oldest first</button>
+      </div>
       <span id="result-count" style="font-size:0.75rem; color:#bbb;"></span>
     </div>
     <hr style="border:none; border-top:1px solid #e0e0e0; margin:0.6rem 0 0.7rem;">
-    <p style="font-size:0.7rem; color:#bbb; margin:0 0 1.1rem; line-height:1.6;">
-      Click the <span style="display:inline-block; width:9px; height:9px; border-radius:50%; background:#4a8c2a; vertical-align:middle;"></span> dot to mark played — turns <span style="display:inline-block; width:9px; height:9px; border-radius:50%; background:#c0392b; vertical-align:middle;"></span> red. Saved in this browser.
+    <p style="font-size:0.85rem; font-weight:600; color:#555; margin:0 0 1.1rem; line-height:1.6;">
+      Click the <span style="display:inline-block; width:11px; height:11px; border-radius:50%; background:#4a8c2a; vertical-align:middle;"></span> dot to mark played — turns <span style="display:inline-block; width:11px; height:11px; border-radius:50%; background:#c0392b; vertical-align:middle;"></span> red. Saved in this browser.
     </p>
 
     {{/* Year groups */}}
@@ -169,13 +156,20 @@
   (function() {
     var list      = document.getElementById("podcast-list");
     var searchEl  = document.getElementById("ep-search");
-    var sortBtn   = document.getElementById("sort-toggle");
     var noResults = document.getElementById("no-results");
     var countEl   = document.getElementById("result-count");
 
     var newestFirst  = true;
     var query        = "";
     var collapsedYrs = new Set();
+
+    window.pcSort = function(dir, btn) {
+      newestFirst = (dir === 'newest');
+      document.querySelectorAll('.topics-sort-btn').forEach(function(b) {
+        b.classList.toggle('active', b === btn);
+      });
+      applySort();
+    };
 
     // --- Listened dots ---
     document.querySelectorAll(".listened-dot").forEach(function(dot) {
@@ -215,21 +209,8 @@
     });
 
     // --- Sort ---
-    sortBtn.addEventListener("click", function() {
-      newestFirst = !newestFirst;
-      sortBtn.textContent = newestFirst ? "Newest first ↕" : "Oldest first ↕";
-      applySort();
-    });
     function applySort() {
-      var groups = list.querySelectorAll(".year-group");
-      var total  = groups.length;
-      if (window.getComputedStyle(list).display === "grid") {
-        groups.forEach(function(grp, i) {
-          grp.style.order = newestFirst ? i : (total - 1 - i);
-        });
-      } else {
-        list.style.flexDirection = newestFirst ? "column" : "column-reverse";
-      }
+      list.style.flexDirection = newestFirst ? "column" : "column-reverse";
       document.querySelectorAll(".year-rows").forEach(function(yr) {
         yr.style.flexDirection = newestFirst ? "column" : "column-reverse";
       });

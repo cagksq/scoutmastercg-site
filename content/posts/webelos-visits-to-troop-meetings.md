@@ -4,7 +4,7 @@ date: 2013-10-12
 draft: false
 topics:
   - "Parent Relations"
-  - "Youth Leadership Development"
+  - "Keeping Older Scouts Engaged"
 wayback_url: "https://web.archive.org/web/20150916074538/http://scoutmastercg.com/webelos-visits-to-troop-meetings/"
 ---
 

@@ -4,7 +4,7 @@ date: 2016-10-13
 draft: false
 topics:
   - "Parent Relations"
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
 wayback_url: "https://web.archive.org/web/20161013095959/http://scoutmastercg.com:80/the-role-of-scouting-parents/"
 ---
 

@@ -3,8 +3,8 @@ title: "A New Scoutmaster - Chapter Eight"
 date: 2017-07-05
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Developing & Training Youth Leaders"
+  - "How Patrols Work"
 wayback_url: "https://web.archive.org/web/20170705215848/http://scoutmastercg.com/new-scoutmaster-chapter-seven/"
 ---
 

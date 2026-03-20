@@ -3,8 +3,8 @@ title: "JLT or OJT"
 date: 2005-11-01
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20140826021939/http://scoutmastercg.com/jlt_or_ojt/"
 ---
 

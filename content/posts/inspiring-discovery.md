@@ -4,7 +4,7 @@ date: 2012-09-18
 draft: false
 topics:
   - "Personal Reflection"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20171020123334/http://scoutmastercg.com/inspire-a-thirst-for-discovery/"
 ---
 

@@ -4,7 +4,7 @@ date: 2014-08-30
 draft: false
 topics:
   - "Scout Advancement"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20170704092722/http://scoutmastercg.com/service-vs-obligation/"
 ---
 

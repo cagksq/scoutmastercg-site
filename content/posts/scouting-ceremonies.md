@@ -3,8 +3,8 @@ title: "Scouting Ceremonies"
 date: 2012-11-20
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Adult Leadership Roles"
+  - "Why Youth-Led Scouting Works"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20121120010623/http://www.scoutmastercg.com:80/2012/11/scouting-ceremonies/"
 ---
 

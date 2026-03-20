@@ -3,7 +3,7 @@ title: "The Rules"
 date: 2013-01-02
 draft: false
 topics:
-  - "Leadership Theory"
+  - "Defining Leadership"
   - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20130102221650/http://www.scoutmastercg.com:80/the-rules/"
 ---

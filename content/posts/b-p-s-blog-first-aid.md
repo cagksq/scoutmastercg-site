@@ -5,7 +5,7 @@ draft: false
 image: "/images/bp5.png"
 topics:
   - "Instructional Methods"
-  - "Baden-Powell Writings"
+  - "B.P. on the Outdoor Program"
 wayback_url: "https://web.archive.org/web/20141012081438/http://scoutmastercg.com:80/b-p-s-blog-first-aid/"
 ---
 

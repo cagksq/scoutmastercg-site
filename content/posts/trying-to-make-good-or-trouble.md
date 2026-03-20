@@ -4,7 +4,7 @@ date: 2012-02-01
 draft: false
 topics:
   - "Discipline & Behavior"
-  - "Mentoring & Coaching"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20120213181206/http://www.scoutmastercg.com:80/2012/02/trying-to-make-good-or-trouble/"
 ---
 

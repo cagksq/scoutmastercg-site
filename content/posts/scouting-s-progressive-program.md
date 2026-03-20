@@ -3,7 +3,7 @@ title: "Scouting's Progressive Program"
 date: 2008-01-14
 draft: false
 topics:
-  - "Leadership Theory"
+  - "What Scouting Does"
   - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20141018160913/http://scoutmastercg.com:80/scoutings-progressive-program/"
 ---

@@ -3,7 +3,7 @@ title: "Cub Scout Leader \"Survival Guide\" 2"
 date: 2015-02-21
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "New & Transitioning Adult Leaders"
   - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20170619130626/http://scoutmastercg.com/cub-scout-leader-survival-guide-2/"
 ---

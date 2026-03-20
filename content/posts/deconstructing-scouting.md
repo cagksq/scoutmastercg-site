@@ -3,7 +3,7 @@ title: "Deconstructing Scouting"
 date: 2006-01-01
 draft: false
 topics:
-  - "Leadership Theory"
+  - "What Scouting Does"
   - "Scouting History & Tradition"
 ---
 Don't be afraid, deconstruction is not demolition, it is examination. I am not suggesting that we tear things down, but that we understand them.

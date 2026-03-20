@@ -4,7 +4,7 @@ date: 2013-09-01
 draft: false
 topics:
   - "Discipline & Behavior"
-  - "Youth Leadership Development"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20141012082002/http://scoutmastercg.com:80/behavior-discipline-consequences/"
 ---
 

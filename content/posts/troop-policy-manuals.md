@@ -4,7 +4,7 @@ date: 2013-01-05
 draft: false
 topics:
   - "Troop Administration"
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20130105121619/http://www.scoutmastercg.com:80/troop_policies/"
 ---
 

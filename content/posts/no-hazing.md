@@ -4,7 +4,7 @@ date: 2015-09-19
 draft: false
 topics:
   - "Discipline & Behavior"
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150919044334/http://scoutmastercg.com/no-hazing/"
 ---
 

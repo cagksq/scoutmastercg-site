@@ -4,8 +4,8 @@ date: 2017-07-11
 draft: false
 image: "/images/bp1.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Leadership Theory"
+  - "B.P. on Leadership & the Scouting Method"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20170711192809/http://scoutmastercg.com/b-p-s-blog-the-tsar-and-scouts/"
 ---
 

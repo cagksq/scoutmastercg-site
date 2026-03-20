@@ -3,8 +3,8 @@ title: "Scouting’s One Essential Feature"
 date: 2012-01-20
 draft: false
 topics:
-  - "Patrol Method"
-  - "Youth Leadership Development"
+  - "Understanding the Patrol Method"
+  - "Giving Scouts Authority"
 wayback_url: "https://web.archive.org/web/20120120015607/http://www.scoutmastercg.com:80/2012/01/scoutings-one-essential-feature/"
 ---
 

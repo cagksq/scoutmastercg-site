@@ -4,8 +4,8 @@ date: 2014-11-11
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Character Development"
+  - "B.P. on Character & Citizenship"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20141111051219/http://scoutmastercg.com:80/b-p-s-blog-education-debtor-creditor/"
 ---
 

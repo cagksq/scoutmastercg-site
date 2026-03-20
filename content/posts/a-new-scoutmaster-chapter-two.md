@@ -3,8 +3,8 @@ title: "A New Scoutmaster - Chapter Two"
 date: 2014-11-07
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Developing & Training Youth Leaders"
+  - "How Patrols Work"
 wayback_url: "https://web.archive.org/web/20141206070826/http://scoutmastercg.com:80/a-new-scoutmaster-chapter-two/"
 ---
 

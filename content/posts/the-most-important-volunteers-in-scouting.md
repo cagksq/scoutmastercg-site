@@ -3,7 +3,7 @@ title: "The Most Important Volunteers in Scouting"
 date: 2015-03-11
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Why Youth-Led Scouting Works"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20150311032316/http://scoutmastercg.com:80/the-most-important-volunteers-in-scouting/?"
 ---

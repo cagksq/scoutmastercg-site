@@ -3,8 +3,8 @@ title: "Scale and Scouting"
 date: 2015-04-09
 draft: false
 topics:
-  - "Patrol Method"
-  - "Leadership Theory"
+  - "Understanding the Patrol Method"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20150409053812/http://scoutmastercg.com:80/scale-and-scout/"
 ---
 

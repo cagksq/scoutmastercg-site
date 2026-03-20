@@ -3,8 +3,8 @@ title: "When Youth Leadership Doesn't Lead"
 date: 2009-06-01
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20130105121614/http://www.scoutmastercg.com:80/the-scoutmasters-role/"
 ---
 

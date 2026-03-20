@@ -3,8 +3,8 @@ title: "Inter-Patrol Scoutmaster's Challenge"
 date: 2006-08-22
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Developing & Training Youth Leaders"
+  - "How Patrols Work"
 wayback_url: "https://web.archive.org/web/20150305010552/http://scoutmastercg.com:80/interpatrol_sco/"
 ---
 

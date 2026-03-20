@@ -3,7 +3,7 @@ title: "Troop Rules or Resolutions?"
 date: 2016-03-10
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Putting Youth in Charge"
   - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20160310202557/http://scoutmastercg.com:80/troop-rules-or-resolutions/"
 ---

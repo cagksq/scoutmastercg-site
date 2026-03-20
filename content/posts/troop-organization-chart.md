@@ -4,7 +4,7 @@ date: 2015-10-29
 draft: false
 topics:
   - "Organizational Structure"
-  - "Youth Leadership Development"
+  - "Giving Scouts Authority"
 wayback_url: "https://web.archive.org/web/20151029205514/http://scoutmastercg.com:80/troop-organization-chart/"
 ---
 

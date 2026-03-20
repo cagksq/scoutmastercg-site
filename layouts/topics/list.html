@@ -21,7 +21,6 @@
     <h1 class="topics-page-title">{{ .Title }}</h1>
 
     <div class="topics-sort-bar">
-      <span class="topics-page-count">{{ len .Pages }} posts</span>
       <div class="topics-sort-btns">
         <button class="topics-sort-btn active" data-dir="desc" onclick="smcgSort('desc', this)">Newest first</button>
         <span class="topics-sort-sep">·</span>
@@ -39,6 +38,7 @@
     </div>
 
     {{ $podMatches := where (index site.Data "podcast-assignments") "topics" "intersect" (slice .Title) }}
+    {{ $podMatches = sort $podMatches "episode" "desc" }}
     {{ if $podMatches }}
       <h2 class="topics-page-section-heading">Podcast Sections</h2>
       <div class="topics-page-list">

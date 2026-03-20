@@ -3,7 +3,7 @@ title: "Four Ways to be a Leader"
 date: 2012-09-24
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
   - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20130126084044/http://www.scoutmastercg.com:80/four-kinds-of-leadership/"
 ---

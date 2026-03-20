@@ -3,8 +3,8 @@ title: "Webelos Den Leader Transition"
 date: 2015-10-26
 draft: false
 topics:
-  - "Mentoring & Coaching"
-  - "Adult Leadership Roles"
+  - "Scoutmaster as Mentor"
+  - "New & Transitioning Adult Leaders"
 wayback_url: "https://web.archive.org/web/20151026023405/http://scoutmastercg.com:80/webelos-den-leader-to-scoutmaster/"
 ---
 

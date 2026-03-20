@@ -4,7 +4,7 @@ date: 2014-08-25
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Organizational Structure"
 wayback_url: "https://web.archive.org/web/20140825045450/http://scoutmastercg.com/decentralizatio/"
 ---

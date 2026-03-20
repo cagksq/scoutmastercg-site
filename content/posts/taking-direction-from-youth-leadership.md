@@ -3,8 +3,8 @@ title: "Taking Direction from Youth Leadership"
 date: 2013-10-12
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Adult Leadership Roles"
+  - "Putting Youth in Charge"
+  - "Working with Adult Leaders"
 wayback_url: "https://web.archive.org/web/20140707192638/http://scoutmastercg.com/finding-directi/"
 ---
 

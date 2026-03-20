@@ -3,7 +3,7 @@ title: "A New Scoutmaster Makes Changes"
 date: 2015-03-04
 draft: false
 topics:
-  - "Leadership Theory"
+  - "What Scouting Does"
   - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150304134718/http://scoutmastercg.com:80/a-new-scoutmaster-makes-changes/"
 ---

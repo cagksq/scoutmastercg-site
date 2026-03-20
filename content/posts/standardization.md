@@ -3,7 +3,7 @@ title: "Standardization"
 date: 2005-11-01
 draft: false
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Scout Advancement"
 ---
 The short passage below has had more influence on what I do as a scoutmaster than anything else.

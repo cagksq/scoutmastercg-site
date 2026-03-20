@@ -3,7 +3,7 @@ title: "Adaptive Leadership Skills"
 date: 2013-10-12
 draft: false
 topics:
-  - "Leadership Theory"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20141227225409/http://scoutmastercg.com:80/leadership-stuff/?"
 ---
 

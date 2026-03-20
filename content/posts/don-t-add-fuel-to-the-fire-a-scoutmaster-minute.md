@@ -3,7 +3,7 @@ title: "Don’t add fuel to the fire - A Scoutmaster Minute"
 date: 2012-10-11
 draft: false
 topics:
-  - "Character Development"
+  - "Character & Values in Action"
   - "Kindness Empathy & Inclusion"
 wayback_url: "https://web.archive.org/web/20121017205749/http://www.scoutmastercg.com:80/2012/10/dont-add-fuel-to-the-fire-a-scoutmaster-minute/"
 ---

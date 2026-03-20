@@ -3,7 +3,7 @@ title: "A Hundred Years from Now"
 date: 2017-08-31
 draft: false
 topics:
-  - "Mentoring & Coaching"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20170831052157/http://scoutmastercg.com/a-hundred-years-from-now/"
 ---
 

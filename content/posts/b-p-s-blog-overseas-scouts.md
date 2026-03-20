@@ -4,7 +4,7 @@ date: 2014-07-27
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Character & Citizenship"
   - "International Scouting"
 wayback_url: "https://web.archive.org/web/20170920101110/http://scoutmastercg.com/b-p-s-blog-overseas-scouts/"
 ---

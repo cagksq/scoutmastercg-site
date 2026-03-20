@@ -3,8 +3,8 @@ title: "The Work of Adolescence"
 date: 2005-11-01
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Why Youth-Led Scouting Works"
+  - "Understanding Scouts"
 ---
 Adolescence is serious work. The quality of the product is proportional to the value we place on it.
 

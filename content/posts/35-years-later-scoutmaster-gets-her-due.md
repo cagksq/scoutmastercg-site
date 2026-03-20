@@ -3,8 +3,8 @@ title: "35 Years Later Scoutmaster Gets Her Due"
 date: 2013-03-05
 draft: false
 topics:
-  - "Adult Leadership Roles"
-  - "Mentoring & Coaching"
+  - "The Scoutmaster's Job"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20130305115703/http://www.scoutmastercg.com:80/scoutmaster-gets-her-due/"
 ---
 

@@ -3,8 +3,8 @@ title: "Getting Cub Scouts to be Serious"
 date: 2012-12-20
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Understanding Scouts"
 wayback_url: "https://web.archive.org/web/20150919185653/http://scoutmastercg.com/getting-cub-scouts-to-be-serious/"
 ---
 

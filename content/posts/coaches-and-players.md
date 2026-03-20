@@ -3,8 +3,8 @@ title: "Coaches and Players"
 date: 2005-11-01
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Why Youth-Led Scouting Works"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150920025918/http://scoutmastercg.com/coaches_and_pla/"
 ---
 

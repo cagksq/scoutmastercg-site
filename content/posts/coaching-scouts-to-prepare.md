@@ -3,8 +3,8 @@ title: "Coaching Scouts to Prepare"
 date: 2013-03-11
 draft: false
 topics:
-  - "Mentoring & Coaching"
-  - "Youth Leadership Development"
+  - "Scoutmaster as Mentor"
+  - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20150827041624/http://scoutmastercg.com:80/coaching-scouts-to-prepare/"
 ---
 

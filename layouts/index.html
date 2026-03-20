@@ -2,8 +2,20 @@
 
   {{/* Hero */}}
   <div class="smcg-hero">
-    <h1 class="smcg-hero-hed">15 years of thinking about<br>what makes Scouting work.</h1>
-    <p class="smcg-hero-sub"><a href="/podcasts/">372 podcast episodes</a> · 900+ blog posts · <a href="/about/">Clarke Green</a></p>
+    <h1 class="smcg-hero-hed">30 years of thinking about<br>what makes Scouting work.</h1>
+    <p class="smcg-hero-quote">"Scouting is unlike any other youth program;<br>the basics take minutes to learn and a lifetime to master."</p>
+  </div>
+
+  {{/* Site search */}}
+  <div style="padding:0.75rem 1.25rem 0;">
+    <form action="https://www.google.com/search" method="get" target="_blank" style="display:flex; gap:0.5rem;">
+      <input type="hidden" name="q" value="">
+      <input type="search" id="site-search" name="q" placeholder="Search scoutmastercg.com…"
+             style="flex:1; padding:0.45rem 1rem; border:1px solid #ddd; border-radius:3px; font-size:0.9rem; font-family:'Roboto',sans-serif; outline:none; transition:border-color 0.15s, box-shadow 0.15s;"
+             onfocus="this.style.borderColor='#3B4D1E';this.style.boxShadow='0 0 0 2px rgba(59,77,30,0.15)'"
+             onblur="this.style.borderColor='#ddd';this.style.boxShadow='none'">
+      <button type="submit" style="padding:0.45rem 1.1rem; background:#3B4D1E; color:#fff; border:none; border-radius:3px; font-family:'Roboto',sans-serif; font-size:0.875rem; cursor:pointer;">Search</button>
+    </form>
   </div>
 
   {{/* Topic accordion */}}
@@ -39,12 +51,18 @@
   </section>
 
   <script>
+  document.querySelector('#site-search').closest('form').addEventListener('submit', function(e) {
+    var input = document.getElementById('site-search');
+    input.value = input.value.trim() + ' site:scoutmastercg.com';
+  });
+
   function smcgToggle(btn) {
     var panel = btn.nextElementSibling;
     var open = btn.getAttribute('aria-expanded') === 'true';
     btn.setAttribute('aria-expanded', open ? 'false' : 'true');
     if (open) { panel.hidden = true; } else { panel.hidden = false; }
   }
-  </script>
+
+</script>
 
 {{ end }}

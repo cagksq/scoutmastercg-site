@@ -4,7 +4,7 @@ date: 2005-12-01
 draft: false
 topics:
   - "Eagle Scout"
-  - "Youth Leadership Development"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20150919205413/http://scoutmastercg.com/eagle_projects/"
 ---
 

@@ -4,7 +4,7 @@ date: 2013-05-20
 draft: false
 topics:
   - "Summer Camp"
-  - "Mentoring & Coaching"
+  - "Working through Problems"
 wayback_url: "https://web.archive.org/web/20140824173742/http://scoutmastercg.com/homesick-scouts-2/?replytocom=48347"
 ---
 

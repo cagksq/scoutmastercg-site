@@ -4,7 +4,7 @@ date: 2012-03-23
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20150926205052/http://scoutmastercg.com:80/it-aint-ignorance/"
 ---
 

@@ -3,8 +3,8 @@ title: "Fifteen Thoughts for Scout Leaders"
 date: 2012-12-06
 draft: false
 topics:
-  - "Adult Leadership Roles"
-  - "Leadership Theory"
+  - "The Scoutmaster's Job"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20121206030123/http://www.scoutmastercg.com:80/fifteen-thoughts-for-scout-leaders/"
 ---
 

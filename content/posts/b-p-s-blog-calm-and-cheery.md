@@ -4,8 +4,8 @@ date: 2014-10-26
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Mentoring & Coaching"
+  - "B.P. on Leadership & the Scouting Method"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150312030353/http://scoutmastercg.com:80/b-p-s-blog-calm-cheery/"
 ---
 

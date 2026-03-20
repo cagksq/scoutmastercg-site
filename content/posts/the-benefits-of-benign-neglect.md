@@ -3,8 +3,8 @@ title: "The Benefits of Benign Neglect"
 date: 2014-08-23
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Adult Leadership Roles"
+  - "Putting Youth in Charge"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20140823011130/http://scoutmastercg.com/the-benefits-of/"
 ---
 

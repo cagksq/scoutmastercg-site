@@ -3,8 +3,8 @@ title: "Webelos Crossover - Every Scoutmaster Should Read This"
 date: 2013-06-25
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Keeping Older Scouts Engaged"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20170905021009/http://scoutmastercg.com:80/webelos-crossover-something-every-scoutmaster-should-read/"
 ---
 

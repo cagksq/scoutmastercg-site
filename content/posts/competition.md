@@ -3,8 +3,8 @@ title: "Competition"
 date: 2005-11-01
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Character Development"
+  - "Why Youth-Led Scouting Works"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20140824233023/http://scoutmastercg.com/competition/"
 ---
 

@@ -4,7 +4,7 @@ date: 2011-06-28
 draft: false
 topics:
   - "Parent Relations"
-  - "Youth Leadership Development"
+  - "Keeping Older Scouts Engaged"
 wayback_url: "https://web.archive.org/web/20130115072835/http://www.scoutmastercg.com:80/should-i-make-my-son-stay-in-scouts/"
 ---
 

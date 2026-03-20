@@ -3,8 +3,8 @@ title: "A Scouter's Summer Camp Schedule"
 date: 2013-06-19
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Adult Leadership Roles"
+  - "Putting Youth in Charge"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20160919093612/http://scoutmastercg.com:80/scouters-summer-camp-schedule/"
 ---
 

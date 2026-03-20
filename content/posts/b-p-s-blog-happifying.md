@@ -4,8 +4,8 @@ date: 2015-07-05
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Character Development"
+  - "B.P. on Character & Citizenship"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20151220131128/http://scoutmastercg.com/b-ps-blog-happifying/?replytocom=79737"
 ---
 

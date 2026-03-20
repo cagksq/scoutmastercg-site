@@ -4,7 +4,7 @@ date: 2014-10-09
 draft: false
 topics:
   - "Personal Reflection"
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20141009014321/http://scoutmastercg.com:80/no-expectations/"
 ---
 

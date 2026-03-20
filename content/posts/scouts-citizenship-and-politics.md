@@ -4,7 +4,7 @@ date: 2014-10-11
 draft: false
 topics:
   - "Citizenship & Patriotism"
-  - "Youth Leadership Development"
+  - "Why Youth-Led Scouting Works"
 wayback_url: "https://web.archive.org/web/20141011011719/http://scoutmastercg.com:80/scouts-citizens/"
 ---
 

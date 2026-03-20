@@ -4,7 +4,7 @@ date: 2009-11-02
 draft: false
 topics:
   - "Scout Advancement"
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20141013045910/http://scoutmastercg.com:80/eagle-scout-problems/"
 ---
 

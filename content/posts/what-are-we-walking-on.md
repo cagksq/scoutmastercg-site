@@ -4,7 +4,7 @@ date: 2015-10-14
 draft: false
 topics:
   - "Scout Law & Oath"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20151014175518/http://scoutmastercg.com/what-are-we-wal/"
 ---
 

@@ -4,7 +4,7 @@ date: 2017-06-06
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Scouting History & Tradition"
 wayback_url: "https://web.archive.org/web/20170606101444/http://scoutmastercg.com/b-ps-blog-i-was-a-boy/"
 ---

@@ -4,7 +4,7 @@ date: 2017-06-06
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20170606120046/http://scoutmastercg.com/do-what-scouts-do/"
 ---
 

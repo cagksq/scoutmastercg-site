@@ -3,8 +3,8 @@ title: "Scoutmaster Minute - Fuzzy or Focused?"
 date: 2014-04-08
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Character Development"
+  - "Keeping Older Scouts Engaged"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20151101100607/http://scoutmastercg.com:80/scoutmaster-minute-fuzzy-or-focused/"
 ---
 

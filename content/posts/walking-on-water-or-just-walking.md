@@ -4,7 +4,7 @@ date: 2014-08-25
 draft: false
 topics:
   - "Personal Reflection"
-  - "Youth Leadership Development"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20140825083812/http://scoutmastercg.com/walking-on-water-or-just-walking/"
 ---
 

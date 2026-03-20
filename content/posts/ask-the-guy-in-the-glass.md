@@ -3,7 +3,7 @@ title: "Ask The Guy in the Glass"
 date: 2014-12-04
 draft: false
 topics:
-  - "Mentoring & Coaching"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20141204064234/http://scoutmastercg.com:80/ask-the-guy-in-the-glass/"
 ---
 

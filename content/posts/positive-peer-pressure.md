@@ -3,8 +3,8 @@ title: "Positive Peer Pressure"
 date: 2013-09-01
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20141122153324/http://scoutmastercg.com:80/positive_peer_p/"
 ---
 

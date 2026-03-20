@@ -3,8 +3,8 @@ title: "A Little Misdirection"
 date: 2015-03-13
 draft: false
 topics:
-  - "Mentoring & Coaching"
-  - "Adult Leadership Roles"
+  - "Scoutmaster as Mentor"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150313222935/http://scoutmastercg.com:80/droids/"
 ---
 

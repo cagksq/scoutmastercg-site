@@ -3,7 +3,7 @@ title: "Committee Chair Conflict with Scoutmaster"
 date: 2015-09-19
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20150919033430/http://scoutmastercg.com/starting-off-on-the-right-foot/"
 ---

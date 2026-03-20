@@ -4,7 +4,7 @@ date: 2013-03-22
 draft: false
 topics:
   - "High Adventure & Canoe Trips"
-  - "Patrol Method"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20170711191537/http://scoutmastercg.com/high-adventure-friendship-and-loyalty/"
 ---
 

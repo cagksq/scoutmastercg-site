@@ -4,7 +4,7 @@ date: 2015-10-14
 draft: false
 topics:
   - "Scout Law & Oath"
-  - "Character Development"
+  - "Character & Values in Action"
 wayback_url: "https://web.archive.org/web/20151014175204/http://scoutmastercg.com/a-scout-is-helpful/"
 ---
 

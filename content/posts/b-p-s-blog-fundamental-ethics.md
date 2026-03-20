@@ -4,7 +4,7 @@ date: 2017-07-11
 draft: false
 image: "/images/bp5.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Character & Citizenship"
   - "Spirituality & Religion"
 wayback_url: "https://web.archive.org/web/20170711185802/http://scoutmastercg.com/b-ps-blog-fundamental-ethics/"
 ---

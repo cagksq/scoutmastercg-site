@@ -3,8 +3,8 @@ title: "Lucky? Not Really."
 date: 2017-06-01
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Adult Leadership Roles"
+  - "Putting Youth in Charge"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20170601170012/http://scoutmastercg.com:80/lucky-really/"
 ---
 

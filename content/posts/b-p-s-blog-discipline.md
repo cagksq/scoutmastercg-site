@@ -4,8 +4,8 @@ date: 2014-06-15
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Mentoring & Coaching"
-  - "Baden-Powell Writings"
+  - "Scoutmaster as Mentor"
+  - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20140825094831/http://scoutmastercg.com/b-p-s-blog-discipline/?replytocom=57431"
 ---
 

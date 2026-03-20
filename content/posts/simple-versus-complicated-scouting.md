@@ -3,8 +3,8 @@ title: "Simple Versus Complicated Scouting"
 date: 2014-08-22
 draft: false
 topics:
-  - "Leadership Theory"
-  - "Patrol Method"
+  - "What Scouting Does"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20140822055936/http://scoutmastercg.com/simple-versus-complicated-scouting/?replytocom=51895"
 ---
 

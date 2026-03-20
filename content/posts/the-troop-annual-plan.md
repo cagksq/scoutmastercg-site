@@ -4,7 +4,7 @@ date: 2012-08-11
 draft: false
 topics:
   - "Troop Administration"
-  - "Youth Leadership Development"
+  - "Youth Leader Roles"
 wayback_url: "https://web.archive.org/web/20120811085013/http://www.scoutmastercg.com:80/2012/08/the-troop-annual-plan/"
 ---
 

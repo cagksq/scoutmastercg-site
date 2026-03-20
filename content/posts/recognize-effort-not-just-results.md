@@ -3,8 +3,8 @@ title: "Recognize effort, not just results"
 date: 2014-08-23
 draft: false
 topics:
-  - "Mentoring & Coaching"
-  - "Adult Leadership Roles"
+  - "Scoutmaster as Mentor"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20140823235959/http://scoutmastercg.com/recognize-effort-not-just-results/"
 ---
 

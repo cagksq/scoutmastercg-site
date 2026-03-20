@@ -3,8 +3,8 @@ title: "Scouter's Sunday Phone Call"
 date: 2017-04-23
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Why Youth-Led Scouting Works"
+  - "How Patrols Work"
 wayback_url: "https://web.archive.org/web/20170423013149/http://scoutmastercg.com:80/the-sunday-phone-calli/"
 ---
 

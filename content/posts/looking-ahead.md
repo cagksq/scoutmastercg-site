@@ -4,7 +4,7 @@ date: 2011-07-24
 draft: false
 topics:
   - "Troop Administration"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20150920111111/http://scoutmastercg.com/looking-ahead/"
 ---
 

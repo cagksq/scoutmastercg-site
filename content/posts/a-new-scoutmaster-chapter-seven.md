@@ -3,8 +3,8 @@ title: "A New Scoutmaster - Chapter Seven"
 date: 2017-07-05
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Adult Leadership Roles"
+  - "Putting Youth in Charge"
+  - "New & Transitioning Adult Leaders"
 wayback_url: "https://web.archive.org/web/20170705223057/http://scoutmastercg.com/new-scoutmaster-chapter-seven-2/"
 ---
 

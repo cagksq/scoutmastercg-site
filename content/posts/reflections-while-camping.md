@@ -3,8 +3,8 @@ title: "Reflections while Camping"
 date: 2012-05-24
 draft: false
 topics:
-  - "Character Development"
-  - "Youth Leadership Development"
+  - "Character & Values in Action"
+  - "Youth Leader Roles"
 wayback_url: "https://web.archive.org/web/20120526144127/http://www.scoutmastercg.com:80/2012/05/ten-inspiring-meditations-scouts/"
 ---
 

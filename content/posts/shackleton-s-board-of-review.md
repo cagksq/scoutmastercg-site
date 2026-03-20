@@ -4,7 +4,7 @@ date: 2014-08-24
 draft: false
 topics:
   - "Scout Advancement"
-  - "Leadership Theory"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20140824203006/http://scoutmastercg.com/shackletons-board-review/?replytocom=52378"
 ---
 

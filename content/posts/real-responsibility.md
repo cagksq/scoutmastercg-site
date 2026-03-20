@@ -3,8 +3,8 @@ title: "Real Responsibility"
 date: 2005-11-01
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Understanding Scouts"
 wayback_url: "https://web.archive.org/web/20150919193805/http://scoutmastercg.com/real_responsibi/"
 ---
 

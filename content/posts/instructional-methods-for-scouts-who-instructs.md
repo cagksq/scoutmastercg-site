@@ -4,7 +4,7 @@ date: 2006-08-18
 draft: false
 topics:
   - "Instructional Methods"
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20121126055820/http://www.scoutmastercg.com:80/2006/08/instructional_m_4/"
 ---
 

@@ -3,8 +3,8 @@ title: "Process Intelligence"
 date: 2013-10-12
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Leadership Theory"
+  - "Developing & Training Youth Leaders"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20141019000452/http://scoutmastercg.com:80/process-intelligence/?"
 ---
 

@@ -4,7 +4,7 @@ date: 2014-08-03
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on the Outdoor Program"
   - "Camping"
 wayback_url: "https://web.archive.org/web/20140903150617/http://scoutmastercg.com:80/b-p-s-blog-on-camping/"
 ---

@@ -3,7 +3,7 @@ title: "Scouting is a Verb"
 date: 2012-10-19
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Why Youth-Led Scouting Works"
   - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20121019055258/http://www.scoutmastercg.com:80/2012/10/scouting-is-a-verb/"
 ---

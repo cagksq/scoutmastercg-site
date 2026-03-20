@@ -3,7 +3,7 @@ title: "How Scouts Listen"
 date: 2013-11-28
 draft: false
 topics:
-  - "Mentoring & Coaching"
+  - "Understanding Scouts"
 wayback_url: "https://web.archive.org/web/20151114062038/http://scoutmastercg.com:80/scouts-listen/"
 ---
 

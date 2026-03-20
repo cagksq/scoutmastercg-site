@@ -4,7 +4,7 @@ date: 2013-09-01
 draft: false
 topics:
   - "Scout Law & Oath"
-  - "Character Development"
+  - "Character & Values in Action"
 wayback_url: "https://web.archive.org/web/20151014174913/http://scoutmastercg.com/a-scout-is-trustworthy/"
 ---
 

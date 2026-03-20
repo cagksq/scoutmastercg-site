@@ -4,7 +4,7 @@ date: 2013-08-01
 draft: false
 topics:
   - "Summer Camp"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20140829173627/http://scoutmastercg.com/scout-summer-camp-benefits/?replytocom=13145"
 ---
 

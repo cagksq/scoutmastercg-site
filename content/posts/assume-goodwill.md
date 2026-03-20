@@ -3,7 +3,7 @@ title: "Assume Goodwill"
 date: 2013-11-28
 draft: false
 topics:
-  - "Leadership Theory"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20150308080610/http://scoutmastercg.com:80/assume-goodwill/"
 ---
 

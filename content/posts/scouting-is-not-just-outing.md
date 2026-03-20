@@ -3,8 +3,8 @@ title: "Scouting is Not (just) Outing."
 date: 2014-08-25
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Why Youth-Led Scouting Works"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20140825034147/http://scoutmastercg.com/scouting-is-not-just-outing/"
 ---
 

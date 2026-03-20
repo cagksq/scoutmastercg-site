@@ -3,7 +3,7 @@ title: "The Nature of the Game"
 date: 2011-04-17
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Why Youth-Led Scouting Works"
   - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20110417014846/http://www.scoutmastercg.com:80/2009/12/the-nature-of-the-game/"
 ---

@@ -3,7 +3,7 @@ title: "Mistakes Were Made"
 date: 2013-01-02
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
   - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20151014180151/http://scoutmastercg.com/mistakes-were-made/"
 ---

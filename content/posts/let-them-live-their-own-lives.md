@@ -3,8 +3,8 @@ title: "Let Them Live Their Own Lives"
 date: 2013-10-11
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Why Youth-Led Scouting Works"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20150920075820/http://scoutmastercg.com/let_them_live_t/"
 ---
 

@@ -4,7 +4,7 @@ date: 2012-11-12
 draft: false
 topics:
   - "Personal Reflection"
-  - "Mentoring & Coaching"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150926210320/http://scoutmastercg.com:80/life-can-only-be-understood-backwards-but-it-must-be-lived-forwards/"
 ---
 

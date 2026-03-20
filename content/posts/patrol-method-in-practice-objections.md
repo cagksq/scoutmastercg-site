@@ -3,8 +3,8 @@ title: "Patrol Method in Practice - Objections"
 date: 2013-01-26
 draft: false
 topics:
-  - "Patrol Method"
-  - "Youth Leadership Development"
+  - "Understanding the Patrol Method"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20130126084154/http://www.scoutmastercg.com:80/patrol-method-objections/"
 ---
 

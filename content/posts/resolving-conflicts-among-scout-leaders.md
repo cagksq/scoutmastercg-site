@@ -3,7 +3,7 @@ title: "Resolving Conflicts Among Scout Leaders"
 date: 2015-03-08
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20150308222154/http://scoutmastercg.com:80/resolving_confl/"
 ---

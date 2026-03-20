@@ -3,8 +3,8 @@ title: "10 Ways to Support the Senior Patrol Leader"
 date: 2012-09-18
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20121230132952/http://www.scoutmastercg.com:80/senior-patrol-leader/"
 ---
 

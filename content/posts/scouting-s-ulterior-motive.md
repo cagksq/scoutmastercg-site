@@ -3,7 +3,7 @@ title: "Scouting's Ulterior Motive"
 date: 2013-10-03
 draft: false
 topics:
-  - "Character Development"
+  - "What is Meant by Character"
   - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20150304081658/http://scoutmastercg.com:80/scoutings-ulterior-motive/"
 ---

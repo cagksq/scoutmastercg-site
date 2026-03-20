@@ -3,7 +3,7 @@ title: "Behavior and Program"
 date: 2011-04-17
 draft: false
 topics:
-  - "Patrol Method"
+  - "Understanding the Patrol Method"
   - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20141017151042/http://scoutmastercg.com:80/behavior-and-program/"
 ---

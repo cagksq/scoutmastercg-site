@@ -4,7 +4,7 @@ date: 2012-08-12
 draft: false
 topics:
   - "Parent Relations"
-  - "Character Development"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20121220014159/http://www.scoutmastercg.com:80/perspective-and-proportion/"
 ---
 

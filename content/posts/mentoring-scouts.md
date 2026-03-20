@@ -3,8 +3,8 @@ title: "Mentoring Scouts"
 date: 2013-06-25
 draft: false
 topics:
-  - "Mentoring & Coaching"
-  - "Baden-Powell Writings"
+  - "Scoutmaster as Mentor"
+  - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20141012080548/http://scoutmastercg.com:80/mentoring-scouts/"
 ---
 

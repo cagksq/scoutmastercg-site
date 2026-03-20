@@ -3,7 +3,7 @@ title: "Scoutmaster's Reward"
 date: 2005-12-01
 draft: false
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20140824183906/http://scoutmastercg.com/scoutmasters_re/"
 ---

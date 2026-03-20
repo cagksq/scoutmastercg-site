@@ -3,7 +3,7 @@ title: "Last Minute Eagles"
 date: 2011-10-20
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Why Youth-Led Scouting Works"
   - "Scout Advancement"
 wayback_url: "https://web.archive.org/web/20130131193907/http://www.scoutmastercg.com:80/last-minute-eagles/"
 ---

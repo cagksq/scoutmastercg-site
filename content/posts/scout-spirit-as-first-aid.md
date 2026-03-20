@@ -3,8 +3,8 @@ title: "Scout Spirit as First Aid"
 date: 2015-01-01
 draft: false
 topics:
-  - "Character Development"
-  - "Mentoring & Coaching"
+  - "How Scouting Builds Character"
+  - "Working through Problems"
 wayback_url: "https://web.archive.org/web/20150101200535/http://scoutmastercg.com:80/scout-spirit-first-aid/?"
 ---
 

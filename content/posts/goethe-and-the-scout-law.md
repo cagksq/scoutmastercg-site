@@ -4,7 +4,7 @@ date: 2015-09-10
 draft: false
 topics:
   - "Scout Law & Oath"
-  - "Character Development"
+  - "Character & Values in Action"
 wayback_url: "https://web.archive.org/web/20150910172042/http://scoutmastercg.com/friendship/"
 ---
 

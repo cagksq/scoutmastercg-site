@@ -3,7 +3,7 @@ title: "Don't be a 'Dog in the Manger'"
 date: 2012-06-29
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20140830081958/http://scoutmastercg.com/dont-dog-manger/?replytocom=12851"
 ---

@@ -3,8 +3,8 @@ title: "Be an Adult, and Be Kind"
 date: 2017-05-22
 draft: false
 topics:
-  - "Mentoring & Coaching"
-  - "Character Development"
+  - "Scoutmaster as Mentor"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20170522104150/http://scoutmastercg.com:80/accountability-and-responsibilty-free-from-shame-and-anger/"
 ---
 

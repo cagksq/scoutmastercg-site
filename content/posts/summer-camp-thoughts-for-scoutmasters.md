@@ -4,7 +4,7 @@ date: 2015-09-20
 draft: false
 topics:
   - "Summer Camp"
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20150920025741/http://scoutmastercg.com/summer-camp-tho/"
 ---
 

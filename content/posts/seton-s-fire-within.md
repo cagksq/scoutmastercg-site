@@ -4,7 +4,7 @@ date: 2006-02-23
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Character Development"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20150427004123/http://scoutmastercg.com:80/setons-fire-within/?"
 ---
 

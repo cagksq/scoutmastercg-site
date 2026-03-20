@@ -4,8 +4,8 @@ date: 2015-09-20
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Character Development"
+  - "B.P. on Character & Citizenship"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20160823153709/http://scoutmastercg.com:80/b-ps-blog-reading/"
 ---
 

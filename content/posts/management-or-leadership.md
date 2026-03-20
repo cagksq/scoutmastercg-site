@@ -3,8 +3,8 @@ title: "Management or Leadership?"
 date: 2005-11-01
 draft: false
 topics:
-  - "Leadership Theory"
-  - "Adult Leadership Roles"
+  - "Defining Leadership"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20140825083733/http://scoutmastercg.com/management_or_l/"
 ---
 

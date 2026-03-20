@@ -4,7 +4,7 @@ date: 2016-03-11
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Character & Citizenship"
 wayback_url: "https://web.archive.org/web/20160311005538/http://scoutmastercg.com:80/b-p-s-blog-happiness/"
 ---
 

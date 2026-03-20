@@ -4,7 +4,7 @@ date: 2015-06-07
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Character & Citizenship"
   - "Spirituality & Religion"
 wayback_url: "https://web.archive.org/web/20151019100000/http://scoutmastercg.com/b-ps-blog-religious-observance/?replytocom=79477"
 ---

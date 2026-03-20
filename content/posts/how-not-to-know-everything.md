@@ -3,8 +3,8 @@ title: "How Not To Know Everything"
 date: 2015-09-20
 draft: false
 topics:
-  - "Mentoring & Coaching"
-  - "Youth Leadership Development"
+  - "Scoutmaster as Mentor"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20150920091702/http://scoutmastercg.com/how-not-to-know/"
 ---
 

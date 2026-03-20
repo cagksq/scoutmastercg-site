@@ -3,8 +3,8 @@ title: "A New Scoutmaster - Chapter One"
 date: 2016-06-10
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Developing & Training Youth Leaders"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20160610184753/http://scoutmastercg.com:80/a-new-scoutmaster-chapter-one/"
 ---
 

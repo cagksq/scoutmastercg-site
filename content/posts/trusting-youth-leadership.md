@@ -3,8 +3,8 @@ title: "Trusting Youth Leadership"
 date: 2014-08-25
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20140825021539/http://scoutmastercg.com/trusting-youth-leadership/"
 ---
 

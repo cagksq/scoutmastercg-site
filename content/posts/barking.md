@@ -3,8 +3,8 @@ title: "Barking"
 date: 2006-01-01
 draft: false
 topics:
-  - "Mentoring & Coaching"
-  - "Adult Leadership Roles"
+  - "Scoutmaster as Mentor"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150921145225/http://scoutmastercg.com/barking/"
 ---
 

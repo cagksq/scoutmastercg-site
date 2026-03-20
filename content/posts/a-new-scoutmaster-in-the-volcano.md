@@ -3,8 +3,8 @@ title: "A New Scoutmaster in the Volcano"
 date: 2017-05-18
 draft: false
 topics:
-  - "Patrol Method"
-  - "Youth Leadership Development"
+  - "Understanding the Patrol Method"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20170518202809/http://scoutmastercg.com:80/a-new-scoutmaster-in-the-volcano/"
 ---
 

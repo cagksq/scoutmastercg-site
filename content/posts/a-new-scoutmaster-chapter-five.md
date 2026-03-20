@@ -3,8 +3,8 @@ title: "A New Scoutmaster - Chapter FIve"
 date: 2017-07-05
 draft: false
 topics:
-  - "Patrol Method"
-  - "Mentoring & Coaching"
+  - "How Patrols Work"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20170705223323/http://scoutmastercg.com/new-scoutmaster-chapter-five/"
 ---
 

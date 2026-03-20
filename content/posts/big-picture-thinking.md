@@ -3,8 +3,8 @@ title: "Big Picture\" Thinking"
 date: 2008-10-20
 draft: false
 topics:
-  - "Adult Leadership Roles"
-  - "Leadership Theory"
+  - "The Scoutmaster's Job"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20150920091559/http://scoutmastercg.com/big-picture-thinking/"
 ---
 

@@ -3,7 +3,7 @@ title: "Looking Ahead - Leadership Transitions"
 date: 2009-12-30
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "New & Transitioning Adult Leaders"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20150920045745/http://scoutmastercg.com/looking-ahead-leadership/"
 ---

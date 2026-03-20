@@ -3,8 +3,8 @@ title: "Building Confidence in Youth Leadership"
 date: 2015-09-17
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150917022108/http://scoutmastercg.com/building-confid/"
 ---
 

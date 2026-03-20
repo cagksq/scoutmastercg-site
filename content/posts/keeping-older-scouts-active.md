@@ -3,8 +3,8 @@ title: "Keeping Older Scouts Active"
 date: 2013-01-17
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Keeping Older Scouts Engaged"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20130117083152/http://www.scoutmastercg.com:80/keeping-older-scouts-active/"
 ---
 

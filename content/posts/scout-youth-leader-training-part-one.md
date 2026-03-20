@@ -3,8 +3,8 @@ title: "Scout Youth Leader Training - Part One"
 date: 2012-10-08
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20121008003944/http://www.scoutmastercg.com:80/2012/10/scout-youth-leader-training/"
 ---
 

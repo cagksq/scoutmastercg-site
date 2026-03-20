@@ -3,8 +3,8 @@ title: "Do your Scouts Share Your Ambitions?"
 date: 2011-11-02
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20111106145042/http://www.scoutmastercg.com:80/2011/11/do-your-scouts-share-your-ambitions/"
 ---
 

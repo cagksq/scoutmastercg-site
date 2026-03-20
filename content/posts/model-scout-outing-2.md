@@ -3,8 +3,8 @@ title: "Model Scout Outing"
 date: 2011-04-17
 draft: false
 topics:
-  - "Patrol Method"
-  - "Youth Leadership Development"
+  - "How Patrols Work"
+  - "Giving Scouts Authority"
 wayback_url: "https://web.archive.org/web/20110417014820/http://www.scoutmastercg.com:80/2009/05/model-scout-outing/"
 ---
 

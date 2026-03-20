@@ -3,8 +3,8 @@ title: "How to Fix Scout Patrol Problems"
 date: 2014-01-01
 draft: false
 topics:
-  - "Patrol Method"
-  - "Youth Leadership Development"
+  - "How Patrols Work"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20140101060005/http://www.scoutmastercg.com:80/fix-scout-patrol-problems"
 ---
 

@@ -3,8 +3,8 @@ title: "Scoutmaster's Mission Statement"
 date: 2006-02-20
 draft: false
 topics:
-  - "Adult Leadership Roles"
-  - "Leadership Theory"
+  - "The Scoutmaster's Job"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20141018160854/http://scoutmastercg.com:80/scoutmasters_mi/"
 ---
 

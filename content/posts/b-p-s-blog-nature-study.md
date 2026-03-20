@@ -4,7 +4,7 @@ date: 2015-02-21
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on the Outdoor Program"
   - "Nature & Environment"
 wayback_url: "https://web.archive.org/web/20150221064753/http://scoutmastercg.com:80/b-p-s-blog-3/"
 ---

@@ -3,8 +3,8 @@ title: "Troop Program Death Spiral!"
 date: 2013-06-29
 draft: false
 topics:
-  - "Patrol Method"
-  - "Adult Leadership Roles"
+  - "Understanding the Patrol Method"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150329220853/http://scoutmastercg.com:80/troop-program-death-spiral/?"
 ---
 

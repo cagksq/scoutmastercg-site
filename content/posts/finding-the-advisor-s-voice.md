@@ -3,8 +3,8 @@ title: "Finding the Advisor's Voice"
 date: 2013-10-27
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20131027044601/http://www.scoutmastercg.com:80/finding-the-advisors-voice/"
 ---
 

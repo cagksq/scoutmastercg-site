@@ -5,7 +5,7 @@ draft: false
 image: "/images/bp5.png"
 topics:
   - "International Scouting"
-  - "Baden-Powell Writings"
+  - "B.P. on Character & Citizenship"
 wayback_url: "https://web.archive.org/web/20150225073448/http://scoutmastercg.com:80/b-p-s-blog-international-scouting/"
 ---
 

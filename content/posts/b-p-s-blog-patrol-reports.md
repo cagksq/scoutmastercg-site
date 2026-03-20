@@ -4,8 +4,8 @@ date: 2014-09-07
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Patrol Method"
+  - "B.P. on Leadership & the Scouting Method"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20141019000300/http://scoutmastercg.com:80/b-p-s-blog-patrol-reports/"
 ---
 

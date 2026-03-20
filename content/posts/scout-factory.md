@@ -3,8 +3,8 @@ title: "Scout Factory"
 date: 2005-12-01
 draft: false
 topics:
-  - "Baden-Powell Writings"
-  - "Leadership Theory"
+  - "B.P. on Leadership & the Scouting Method"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20140822181701/http://scoutmastercg.com/scout_factory/"
 ---
 

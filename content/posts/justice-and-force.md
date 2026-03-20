@@ -3,8 +3,8 @@ title: "Justice and Force"
 date: 2014-08-23
 draft: false
 topics:
-  - "Adult Leadership Roles"
-  - "Leadership Theory"
+  - "The Scoutmaster's Job"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20140823075212/http://scoutmastercg.com/justice-and-for/"
 ---
 

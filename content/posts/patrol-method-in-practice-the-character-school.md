@@ -3,8 +3,8 @@ title: "Patrol Method in Practice - The Character School"
 date: 2013-01-08
 draft: false
 topics:
-  - "Patrol Method"
-  - "Character Development"
+  - "Understanding the Patrol Method"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20170720055734/http://scoutmastercg.com/patrol-method-character-school/"
 ---
 

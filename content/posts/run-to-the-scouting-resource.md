@@ -4,7 +4,7 @@ date: 2015-05-29
 draft: false
 topics:
   - "Volunteer Management & Burnout"
-  - "Adult Leadership Roles"
+  - "New & Transitioning Adult Leaders"
 wayback_url: "https://web.archive.org/web/20150529135040/http://scoutmastercg.com:80/run-to-the-scouting-resource/"
 ---
 

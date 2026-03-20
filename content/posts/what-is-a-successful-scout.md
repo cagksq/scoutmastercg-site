@@ -3,8 +3,8 @@ title: "What is a Successful Scout?"
 date: 2015-09-20
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Character Development"
+  - "Developing & Training Youth Leaders"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20150920050733/http://scoutmastercg.com/what-is-a-successful-scout/"
 ---
 

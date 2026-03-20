@@ -4,7 +4,7 @@ date: 2013-01-15
 draft: false
 topics:
   - "Scout Parents"
-  - "Youth Leadership Development"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20130115215214/http://www.scoutmastercg.com:80/scout-parent-struggles-with-letting-go/"
 ---
 

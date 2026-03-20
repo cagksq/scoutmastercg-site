@@ -3,7 +3,7 @@ title: "Program - Canned or Fresh?"
 date: 2008-04-30
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Why Youth-Led Scouting Works"
   - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20150919044716/http://scoutmastercg.com/program-canne/"
 ---

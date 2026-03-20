@@ -4,8 +4,8 @@ date: 2014-08-17
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Adult Leadership Roles"
+  - "B.P. on Leadership & the Scouting Method"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20140903150701/http://scoutmastercg.com:80/b-p-s-blog-uniform-for-scout-officals/"
 ---
 

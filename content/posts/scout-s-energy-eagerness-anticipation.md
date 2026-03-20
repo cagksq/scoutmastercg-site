@@ -3,8 +3,8 @@ title: "Scout's Energy, Eagerness, & Anticipation"
 date: 2014-09-09
 draft: false
 topics:
-  - "Adult Leadership Roles"
-  - "Mentoring & Coaching"
+  - "The Scoutmaster's Job"
+  - "Understanding Scouts"
 wayback_url: "https://web.archive.org/web/20141208150919/http://scoutmastercg.com:80/scouts-energy-eagerness-and-anticipation22095/"
 ---
 

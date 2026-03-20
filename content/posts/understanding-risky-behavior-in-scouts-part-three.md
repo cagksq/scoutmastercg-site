@@ -4,7 +4,7 @@ date: 2012-06-20
 draft: false
 topics:
   - "Discipline & Behavior"
-  - "Mentoring & Coaching"
+  - "Working through Problems"
 wayback_url: "https://web.archive.org/web/20121220014335/http://www.scoutmastercg.com:80/understanding-risky-behavior-in-scouts-part-three/"
 ---
 

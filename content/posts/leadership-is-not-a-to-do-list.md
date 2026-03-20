@@ -3,8 +3,8 @@ title: "Leadership is Not a To Do List"
 date: 2011-05-22
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150919165047/http://scoutmastercg.com/leadership-is-not-a-to-do-list/"
 ---
 

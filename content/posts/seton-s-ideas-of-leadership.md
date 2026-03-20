@@ -4,7 +4,7 @@ date: 2010-06-15
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20141011012102/http://scoutmastercg.com:80/setons-ideas-of-leadership/"
 ---
 

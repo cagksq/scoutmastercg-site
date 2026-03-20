@@ -4,7 +4,7 @@ date: 2017-07-11
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Character & Citizenship"
   - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20170711191533/http://scoutmastercg.com/b-ps-blog-drawing/"
 ---

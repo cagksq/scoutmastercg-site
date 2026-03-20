@@ -3,8 +3,8 @@ title: "Movement or Organization"
 date: 2012-08-07
 draft: false
 topics:
-  - "Baden-Powell Writings"
-  - "Leadership Theory"
+  - "B.P. on Leadership & the Scouting Method"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20140822180614/http://scoutmastercg.com/movement-or-organization/"
 ---
 

@@ -4,8 +4,8 @@ date: 2015-03-03
 draft: false
 image: "/images/bp1.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Character Development"
+  - "B.P. on Leadership & the Scouting Method"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20150303084318/http://scoutmastercg.com:80/b-p-s-blog-self-education/"
 ---
 

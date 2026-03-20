@@ -4,7 +4,7 @@ date: 2017-08-31
 draft: false
 topics:
   - "Quotes & Brief Reflections"
-  - "Mentoring & Coaching"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20170831073715/http://scoutmastercg.com/oliver-wendell-holmes-on-advice/"
 ---
 

@@ -4,7 +4,7 @@ date: 2017-07-13
 draft: false
 topics:
   - "BSA Rules & Policy"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20170713213942/http://scoutmastercg.com/rules-create-the-game-of-scouting/"
 ---
 

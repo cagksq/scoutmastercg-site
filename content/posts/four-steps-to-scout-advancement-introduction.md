@@ -4,7 +4,7 @@ date: 2012-11-20
 draft: false
 topics:
   - "Scout Advancement"
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20121128180608/http://www.scoutmastercg.com:80/2012/11/four-steps-to-scout-advancement-overview/"
 ---
 

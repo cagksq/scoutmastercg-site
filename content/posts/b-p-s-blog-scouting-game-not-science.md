@@ -4,8 +4,8 @@ date: 2015-07-19
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Leadership Theory"
+  - "B.P. on Leadership & the Scouting Method"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20160823153532/http://scoutmastercg.com:80/b-ps-blog-scouting-game-not-science/"
 ---
 

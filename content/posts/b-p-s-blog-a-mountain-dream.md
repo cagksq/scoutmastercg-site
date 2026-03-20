@@ -4,8 +4,8 @@ date: 2016-07-03
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Character Development"
+  - "B.P. on Character & Citizenship"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20160703044800/http://scoutmastercg.com/b-ps-blog-mountain-dream/?replytocom=89892"
 ---
 

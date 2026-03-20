@@ -4,7 +4,7 @@ date: 2016-06-25
 draft: false
 topics:
   - "Camping"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20160625133319/http://scoutmastercg.com:80/why-do-scouts-go-camping/"
 ---
 

@@ -4,7 +4,7 @@ date: 2005-11-11
 draft: false
 topics:
   - "Kindness Empathy & Inclusion"
-  - "Character Development"
+  - "Character & Values in Action"
 wayback_url: "https://web.archive.org/web/20170901223736/http://scoutmastercg.com/michael-one-special-scout/"
 ---
 

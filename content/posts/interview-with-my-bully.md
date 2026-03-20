@@ -4,7 +4,7 @@ date: 2017-05-22
 draft: false
 topics:
   - "Kindness Empathy & Inclusion"
-  - "Character Development"
+  - "Character & Values in Action"
 wayback_url: "https://web.archive.org/web/20170522104708/http://scoutmastercg.com:80/interview-with-my-bully/"
 ---
 

@@ -3,8 +3,8 @@ title: "Being Mentally Awake"
 date: 2016-09-13
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20160913153839/http://scoutmastercg.com/being-mentally-awake/"
 ---
 

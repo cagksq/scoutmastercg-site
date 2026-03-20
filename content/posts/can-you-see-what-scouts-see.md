@@ -3,8 +3,8 @@ title: "Can You See What Scouts See?"
 date: 2015-05-22
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Why Youth-Led Scouting Works"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150522034739/http://scoutmastercg.com:80/can-you-see-what-scouts-see/?"
 ---
 

@@ -3,8 +3,8 @@ title: "Lead by Walking Away"
 date: 2013-10-12
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Putting Youth in Charge"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20160605142932/http://scoutmastercg.com:80/lead-by-walking-away/"
 ---
 

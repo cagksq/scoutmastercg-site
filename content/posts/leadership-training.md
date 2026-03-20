@@ -3,8 +3,8 @@ title: "Leadership Training"
 date: 2015-09-19
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150919192250/http://scoutmastercg.com/leadership_trai/"
 ---
 

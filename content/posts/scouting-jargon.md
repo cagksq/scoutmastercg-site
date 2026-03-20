@@ -4,7 +4,7 @@ date: 2014-10-08
 draft: false
 topics:
   - "Instructional Methods"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20141008162942/http://scoutmastercg.com:80/scouting-jargon/"
 ---
 

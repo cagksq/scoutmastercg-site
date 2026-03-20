@@ -4,8 +4,8 @@ date: 2016-08-23
 draft: false
 image: "/images/bp5.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Character Development"
+  - "B.P. on Leadership & the Scouting Method"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20160823153516/http://scoutmastercg.com:80/b-ps-blog-adventure/"
 ---
 

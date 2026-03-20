@@ -3,7 +3,7 @@ title: "Atomic Scouting Ideals"
 date: 2017-07-09
 draft: false
 topics:
-  - "Character Development"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20170709055105/http://scoutmastercg.com/atomic-scouting-ideals/"
 ---
 

@@ -3,7 +3,7 @@ title: "How Are We Doing?"
 date: 2012-02-20
 draft: false
 topics:
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20141009014256/http://scoutmastercg.com:80/how-are-we-doing/"
 ---
 

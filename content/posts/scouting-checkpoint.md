@@ -4,7 +4,7 @@ date: 2015-09-16
 draft: false
 topics:
   - "BSA Membership & Inclusion"
-  - "Character Development"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20150916135250/http://scoutmastercg.com/checkpoint/"
 ---
 

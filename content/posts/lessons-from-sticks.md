@@ -3,8 +3,8 @@ title: "Lessons from Sticks"
 date: 2014-08-24
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Why Youth-Led Scouting Works"
+  - "How Patrols Work"
 wayback_url: "https://web.archive.org/web/20140824202621/http://scoutmastercg.com/lessons_from_st/"
 ---
 

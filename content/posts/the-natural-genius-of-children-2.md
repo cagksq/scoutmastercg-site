@@ -3,8 +3,8 @@ title: "The Natural Genius of Children"
 date: 2011-04-17
 draft: false
 topics:
-  - "Character Development"
-  - "Mentoring & Coaching"
+  - "What is Meant by Character"
+  - "Understanding Scouts"
 wayback_url: "https://web.archive.org/web/20170901174839/http://scoutmastercg.com/the-natural-genius-of-children/"
 ---
 

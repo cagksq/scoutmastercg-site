@@ -3,8 +3,8 @@ title: "The Five to One Rule"
 date: 2011-10-20
 draft: false
 topics:
-  - "Mentoring & Coaching"
-  - "Youth Leadership Development"
+  - "Scoutmaster as Mentor"
+  - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20140903024042/http://scoutmastercg.com/the-five-to-one-rule/?replytocom=3046"
 ---
 

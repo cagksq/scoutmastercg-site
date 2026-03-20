@@ -4,7 +4,7 @@ date: 2014-01-02
 draft: false
 topics:
   - "Parent Relations"
-  - "Youth Leadership Development"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20171023044438/http://scoutmastercg.com/what-i-wish-every-scout-parent-understood/"
 ---
 

@@ -3,8 +3,8 @@ title: "Adult and Youth Leadership Ratios on Scout Outings"
 date: 2013-04-16
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Adult Leadership Roles"
+  - "Putting Youth in Charge"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150324012031/http://scoutmastercg.com:80/adult-and-youth-leadership-ratios-on-scout-outings/?"
 ---
 

@@ -4,7 +4,7 @@ date: 2005-11-01
 draft: false
 topics:
   - "Parent Relations"
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
 wayback_url: "https://web.archive.org/web/20150313222528/http://scoutmastercg.com:80/six_commandment/"
 ---
 

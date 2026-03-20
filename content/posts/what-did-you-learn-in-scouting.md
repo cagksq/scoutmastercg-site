@@ -4,7 +4,7 @@ date: 2012-05-03
 draft: false
 topics:
   - "Personal Reflection"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20151017060021/http://scoutmastercg.com/what-did-you-learn-in-scouting/"
 ---
 

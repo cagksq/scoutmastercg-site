@@ -3,8 +3,8 @@ title: "Transition from Adult to Youth Leadership"
 date: 2009-07-13
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Putting Youth in Charge"
+  - "How Patrols Work"
 wayback_url: "https://web.archive.org/web/20130105120407/http://www.scoutmastercg.com:80/transition-from-adult-to-youth-leadership-the-patrol-leaders-council/"
 ---
 

@@ -4,8 +4,8 @@ date: 2015-05-10
 draft: false
 image: "/images/bp5.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Youth Leadership Development"
+  - "B.P. on Leadership & the Scouting Method"
+  - "Keeping Older Scouts Engaged"
 wayback_url: "https://web.archive.org/web/20150610025114/http://scoutmastercg.com:80/b-ps-blog-transition/"
 ---
 

@@ -3,8 +3,8 @@ title: "Youth Leader Training"
 date: 2017-06-23
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Developing & Training Youth Leaders"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20170623025112/http://scoutmastercg.com/youth-leader-training/"
 ---
 

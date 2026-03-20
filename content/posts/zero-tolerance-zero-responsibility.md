@@ -4,7 +4,7 @@ date: 2013-10-12
 draft: false
 topics:
   - "Discipline & Behavior"
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
 wayback_url: "https://web.archive.org/web/20151101153201/http://scoutmastercg.com:80/zero-tolerance-zero-responsibility-1/"
 ---
 

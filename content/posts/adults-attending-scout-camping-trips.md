@@ -3,8 +3,8 @@ title: "Adults Attending Scout Camping Trips"
 date: 2011-09-12
 draft: false
 topics:
-  - "Adult Leadership Roles"
-  - "Youth Leadership Development"
+  - "The Scoutmaster's Job"
+  - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20170425061356/http://scoutmastercg.com:80/adults-attending-scout-camping-trips/"
 ---
 

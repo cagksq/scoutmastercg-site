@@ -3,7 +3,7 @@ title: "Discipline and Accountability in Scouting"
 date: 2012-11-02
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
   - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20170831010907/http://scoutmastercg.com/discipline-and-accountability-in-scouting/"
 ---

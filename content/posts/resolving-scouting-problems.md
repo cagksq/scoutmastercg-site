@@ -3,7 +3,7 @@ title: "Resolving Scouting Problems"
 date: 2015-09-19
 draft: false
 topics:
-  - "Leadership Theory"
+  - "What Scouting Does"
   - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20150919022840/http://scoutmastercg.com/resolving-scouting-problems/?replytocom=79613"
 ---

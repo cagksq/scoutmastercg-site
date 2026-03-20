@@ -3,8 +3,8 @@ title: "A New Scoutmaster - Chapter Eleven"
 date: 2015-02-18
 draft: false
 topics:
-  - "Patrol Method"
-  - "Youth Leadership Development"
+  - "How Patrols Work"
+  - "Youth Leader Roles"
 wayback_url: "https://web.archive.org/web/20150218054114/http://scoutmastercg.com:80/new-scoutmaster-chapter-eleven-2/"
 ---
 

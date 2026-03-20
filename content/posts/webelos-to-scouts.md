@@ -3,7 +3,7 @@ title: "Webelos to Scouts"
 date: 2013-11-14
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Keeping Older Scouts Engaged"
   - "Troop Administration"
 wayback_url: "https://web.archive.org/web/20150916135402/http://scoutmastercg.com/webelos_to_scou/"
 ---

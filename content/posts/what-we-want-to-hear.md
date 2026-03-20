@@ -3,8 +3,8 @@ title: "What We Want to Hear"
 date: 2006-06-30
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20121018084503/http://www.scoutmastercg.com:80/2006/06/what_we_want_to/"
 ---
 

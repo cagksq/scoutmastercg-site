@@ -3,8 +3,8 @@ title: "Cooperation rather than Competition"
 date: 2015-03-02
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Why Youth-Led Scouting Works"
+  - "Understanding Scouts"
 wayback_url: "https://web.archive.org/web/20150302124626/http://scoutmastercg.com:80/cooperation-rather-than-competition/?"
 ---
 

@@ -4,7 +4,7 @@ date: 2015-10-14
 draft: false
 topics:
   - "Scout Law & Oath"
-  - "Character Development"
+  - "What is Meant by Character"
 wayback_url: "https://web.archive.org/web/20151014174230/http://scoutmastercg.com/the-pith-of-sense-and-pride-of-worth/"
 ---
 

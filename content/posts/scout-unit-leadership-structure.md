@@ -4,7 +4,7 @@ date: 2014-08-27
 draft: false
 topics:
   - "Organizational Structure"
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
 wayback_url: "https://web.archive.org/web/20140827111844/http://scoutmastercg.com/scout-unit-leadership-structure/"
 ---
 

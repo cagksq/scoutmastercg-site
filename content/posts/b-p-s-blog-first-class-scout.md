@@ -5,7 +5,7 @@ draft: false
 image: "/images/bp4.png"
 topics:
   - "Scout Advancement"
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20150312035352/http://scoutmastercg.com:80/b-p-s-blog-first-class-scout/"
 ---
 

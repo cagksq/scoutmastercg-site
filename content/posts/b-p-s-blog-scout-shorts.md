@@ -4,7 +4,7 @@ date: 2014-11-23
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Scout Law & Oath"
 wayback_url: "https://web.archive.org/web/20170901091016/http://scoutmastercg.com/b-p-s-blog-scout-shorts/"
 ---

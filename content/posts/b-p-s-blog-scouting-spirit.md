@@ -4,8 +4,8 @@ date: 2016-10-29
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Leadership Theory"
+  - "B.P. on Leadership & the Scouting Method"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20161029232518/http://scoutmastercg.com:80/b-p-s-blog-scouting-spirit/"
 ---
 

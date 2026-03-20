@@ -4,7 +4,7 @@ date: 2017-07-20
 draft: false
 topics:
   - "Instructional Methods"
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20170720054459/http://scoutmastercg.com/are-you-sharing-too-much-information/"
 ---
 

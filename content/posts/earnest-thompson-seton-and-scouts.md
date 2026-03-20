@@ -4,7 +4,7 @@ date: 2017-09-01
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20170901184314/http://scoutmastercg.com/earnest-thompson-seton-and-scouts/"
 ---
 

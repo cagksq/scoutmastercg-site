@@ -4,7 +4,7 @@ date: 2015-07-26
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on the Outdoor Program"
 wayback_url: "https://web.archive.org/web/20150906071155/http://scoutmastercg.com/b-ps-blog-health/"
 ---
 

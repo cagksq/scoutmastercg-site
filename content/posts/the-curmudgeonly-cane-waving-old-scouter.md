@@ -3,7 +3,7 @@ title: "The Curmudgeonly, Cane Waving, Old Scouter"
 date: 2012-05-01
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
   - "Personal Reflection"
 wayback_url: "https://web.archive.org/web/20150916202551/http://scoutmastercg.com/the-curmudgeonly-cane-waving-old-scouter/"
 ---

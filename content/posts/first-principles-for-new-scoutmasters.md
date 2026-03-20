@@ -3,8 +3,8 @@ title: "First Principles for New Scoutmasters"
 date: 2014-08-25
 draft: false
 topics:
-  - "Adult Leadership Roles"
-  - "Leadership Theory"
+  - "New & Transitioning Adult Leaders"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20140825200243/http://scoutmastercg.com/first-principles-for-new-scoutmasters/"
 ---
 

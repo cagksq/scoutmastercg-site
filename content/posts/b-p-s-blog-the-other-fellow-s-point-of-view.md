@@ -4,8 +4,8 @@ date: 2014-10-12
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Character Development"
+  - "B.P. on Character & Citizenship"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20141012080957/http://scoutmastercg.com:80/b-p-s-blog-fellows-point-view/"
 ---
 

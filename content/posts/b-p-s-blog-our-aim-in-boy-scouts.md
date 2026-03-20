@@ -4,7 +4,7 @@ date: 2014-05-04
 draft: false
 image: /images/bp4.png
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Instructional Methods"
 wayback_url: https://web.archive.org/web/20141012081515/http://scoutmastercg.com:80/our-aim-in-boy-scouts/
 ---

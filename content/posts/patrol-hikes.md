@@ -3,7 +3,7 @@ title: "Patrol Hikes"
 date: 2012-01-07
 draft: false
 topics:
-  - "Patrol Method"
+  - "How Patrols Work"
   - "Patrol Planning & Operations"
 wayback_url: "https://web.archive.org/web/20141012004355/http://scoutmastercg.com:80/patrol-hikes/"
 ---

@@ -3,7 +3,7 @@ title: "What Don't People Get About Being A Scout Leader?"
 date: 2011-09-13
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20150916201623/http://scoutmastercg.com/what-dont-people-get-about-being-a-scout-leader/"
 ---

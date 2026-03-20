@@ -3,8 +3,8 @@ title: "The Best Leaders"
 date: 2005-11-01
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20140825094747/http://scoutmastercg.com/the_best_leader/"
 ---
 

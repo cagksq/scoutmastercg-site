@@ -4,7 +4,7 @@ date: 2013-07-26
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Baden-Powell Writings"
+  - "B.P. on Character & Citizenship"
 wayback_url: "https://web.archive.org/web/20141008060318/http://scoutmastercg.com:80/scoutings-past-marks-our-path-to-the-future/"
 ---
 

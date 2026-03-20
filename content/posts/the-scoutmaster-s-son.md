@@ -3,7 +3,7 @@ title: "The Scoutmaster's Son"
 date: 2006-08-17
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "The Scoutmaster's Job"
   - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20140826111941/http://scoutmastercg.com/the_scoutmaster/"
 ---

@@ -4,7 +4,7 @@ date: 2012-12-18
 draft: false
 topics:
   - "Nature & Environment"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20121218055020/http://www.scoutmastercg.com:80/nature-study/"
 ---
 

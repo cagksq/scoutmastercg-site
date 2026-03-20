@@ -3,7 +3,7 @@ title: "Term Limits for Scout Leaders?"
 date: 2014-10-09
 draft: false
 topics:
-  - "Adult Leadership Roles"
+  - "Working with Adult Leaders"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20141009014608/http://scoutmastercg.com:80/term-limits-for-scout-leaders/"
 ---

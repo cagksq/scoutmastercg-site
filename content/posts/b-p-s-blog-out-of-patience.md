@@ -4,8 +4,8 @@ date: 2015-07-12
 draft: false
 image: "/images/bp1.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Leadership Theory"
+  - "B.P. on Leadership & the Scouting Method"
+  - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20151220191209/http://scoutmastercg.com/b-ps-blog-out-of-patience/?replytocom=79834"
 ---
 

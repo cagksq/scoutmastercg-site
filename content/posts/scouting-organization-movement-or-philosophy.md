@@ -4,7 +4,7 @@ date: 2014-08-23
 draft: false
 topics:
   - "Scouting History & Tradition"
-  - "Leadership Theory"
+  - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20140823025827/http://scoutmastercg.com/scouting-organization-movement-or-philosophy/"
 ---
 

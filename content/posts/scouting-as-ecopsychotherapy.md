@@ -4,7 +4,7 @@ date: 2012-12-20
 draft: false
 topics:
   - "Nature & Environment"
-  - "Character Development"
+  - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20150312025901/http://scoutmastercg.com:80/scouting-as-ecopsychotherapy/"
 ---
 

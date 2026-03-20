@@ -4,7 +4,7 @@ date: 2009-02-10
 draft: false
 topics:
   - "Scout Law & Oath"
-  - "Character Development"
+  - "Character & Values in Action"
 wayback_url: "https://web.archive.org/web/20151014175616/http://scoutmastercg.com/a-scout-is-kind-scoutmaster-minute/"
 ---
 

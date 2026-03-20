@@ -3,8 +3,8 @@ title: "The Troop Pivot Point"
 date: 2017-11-02
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Patrol Method"
+  - "Why Youth-Led Scouting Works"
+  - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20171102115907/http://scoutmastercg.com/the-troop-pivot-point/"
 ---
 

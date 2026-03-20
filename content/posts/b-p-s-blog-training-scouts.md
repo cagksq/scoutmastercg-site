@@ -4,8 +4,8 @@ date: 2014-04-13
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "Baden-Powell Writings"
-  - "Adult Leadership Roles"
+  - "B.P. on Leadership & the Scouting Method"
+  - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150915103113/http://scoutmastercg.com/b-p-s-blog-training-scouts/"
 ---
 

@@ -4,7 +4,7 @@ date: 2015-09-22
 draft: false
 topics:
   - "High Adventure & Canoe Trips"
-  - "Youth Leadership Development"
+  - "Developing & Training Youth Leaders"
 wayback_url: https://web.archive.org/web/20150919194555/http://scoutmastercg.com/troop-based-high-adventure-program-part-5/
 ---
 

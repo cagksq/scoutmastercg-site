@@ -3,7 +3,7 @@ title: "Top-Down Organizations"
 date: 2012-12-10
 draft: false
 topics:
-  - "Youth Leadership Development"
+  - "Why Youth-Led Scouting Works"
   - "Organizational Structure"
 wayback_url: "https://web.archive.org/web/20141011131527/http://scoutmastercg.com:80/top-down-organizations/"
 ---

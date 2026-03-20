@@ -3,8 +3,8 @@ title: "Who Makes all the Decisons?"
 date: 2015-09-19
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20150919192353/http://scoutmastercg.com/hierarchical-perspective/"
 ---
 

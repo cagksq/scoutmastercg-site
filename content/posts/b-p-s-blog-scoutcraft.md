@@ -4,7 +4,7 @@ date: 2017-06-16
 draft: false
 image: "/images/bp5.png"
 topics:
-  - "Baden-Powell Writings"
+  - "B.P. on Leadership & the Scouting Method"
   - "Instructional Methods"
 wayback_url: "https://web.archive.org/web/20170616183837/http://scoutmastercg.com/b-ps-blog-scoutcraft/"
 ---

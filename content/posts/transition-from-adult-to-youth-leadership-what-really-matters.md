@@ -3,8 +3,8 @@ title: "Transition from Adult to Youth Leadership - What Really Matters"
 date: 2009-07-10
 draft: false
 topics:
-  - "Youth Leadership Development"
-  - "Mentoring & Coaching"
+  - "Putting Youth in Charge"
+  - "Scoutmaster as Mentor"
 wayback_url: "https://web.archive.org/web/20151016235510/http://scoutmastercg.com/transition-from-adult-to-youth-leadership-what-really-matters/"
 ---
 
