@@ -4,7 +4,7 @@ date: 2009-11-02
 draft: false
 topics:
   - "Scout Advancement"
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
 wayback_url: "https://web.archive.org/web/20141013045910/http://scoutmastercg.com:80/eagle-scout-problems/"
 ---
 

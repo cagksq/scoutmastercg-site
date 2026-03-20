@@ -4,7 +4,7 @@ date: 2014-06-01
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "B.P. on the Outdoor Program"
+  - "B.P. on Leadership & the Scouting Method"
   - "Camping"
 wayback_url: "https://web.archive.org/web/20141012080512/http://scoutmastercg.com:80/b-p-s-blog-value-camp-life/"
 ---

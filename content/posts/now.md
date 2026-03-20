@@ -3,7 +3,7 @@ title: "Now"
 date: 2005-11-01
 draft: false
 topics:
-  - "Quotes & Brief Reflections"
+  - "Quotes and Brief Reflections"
 wayback_url: "https://web.archive.org/web/20150311032247/http://scoutmastercg.com:80/now/"
 ---
 

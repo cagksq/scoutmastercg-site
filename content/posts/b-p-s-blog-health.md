@@ -4,7 +4,7 @@ date: 2015-07-26
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "B.P. on the Outdoor Program"
+  - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20150906071155/http://scoutmastercg.com/b-ps-blog-health/"
 ---
 

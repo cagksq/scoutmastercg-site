@@ -4,7 +4,7 @@ date: 2014-10-17
 draft: false
 topics:
   - "Understanding the Patrol Method"
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20141017151430/http://scoutmastercg.com:80/troop_organizat/"
 ---
 

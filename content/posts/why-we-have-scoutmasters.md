@@ -3,7 +3,7 @@ title: "Why We Have Scoutmasters"
 date: 2014-08-30
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "Understanding the Patrol Method"
 wayback_url: "https://web.archive.org/web/20140830011727/http://scoutmastercg.com/scoutmasters/?replytocom=49078"
 ---

@@ -4,7 +4,7 @@ date: 2013-10-11
 draft: false
 topics:
   - "Personal Reflection"
-  - "Quotes & Brief Reflections"
+  - "Quotes and Brief Reflections"
 wayback_url: "https://web.archive.org/web/20140825013321/http://scoutmastercg.com/the-value-the-rightness-the-truth-of-the-work-itself/"
 ---
 

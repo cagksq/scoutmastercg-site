@@ -4,7 +4,7 @@ date: 2013-01-26
 draft: false
 topics:
   - "Understanding the Patrol Method"
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
 wayback_url: "https://web.archive.org/web/20130126084116/http://www.scoutmastercg.com:80/patrol-method-in-practice-the-adult-role/"
 ---
 

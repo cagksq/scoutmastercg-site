@@ -3,7 +3,7 @@ title: "Honest Effort - Honest Reward"
 date: 2013-03-31
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "How Scouting Builds Character"
 wayback_url: "https://web.archive.org/web/20170915110310/http://scoutmastercg.com/honest-effort-honest-reward/"
 ---

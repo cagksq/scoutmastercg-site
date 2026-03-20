@@ -3,7 +3,7 @@ title: "Measuring Tapes?"
 date: 2014-10-18
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20141018125018/http://scoutmastercg.com:80/measuring_tapes/"
 ---

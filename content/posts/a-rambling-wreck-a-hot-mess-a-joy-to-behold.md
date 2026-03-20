@@ -3,7 +3,7 @@ title: "A Rambling Wreck, A Hot Mess, A Joy to Behold"
 date: 2014-08-25
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20140825085412/http://scoutmastercg.com/a-rambling-wreck-a-hot-mess-a-joy-to-behold/"
 ---
 

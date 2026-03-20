@@ -3,7 +3,7 @@ title: "Three Keys to Scoutmaster Survival"
 date: 2012-11-11
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20141124180050/http://scoutmastercg.com/three-keys-to-scoutmaster-survival/?replytocom=30411"
 ---

@@ -3,7 +3,7 @@ title: "1928 Principles of Scoutmastership"
 date: 2011-09-22
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20141127160705/http://scoutmastercg.com:80/1928_principles/?"
 ---

@@ -4,7 +4,7 @@ date: 2012-05-12
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
 wayback_url: "https://web.archive.org/web/20171012000234/http://scoutmastercg.com/stop-doing-rank-requirements/"
 ---
 

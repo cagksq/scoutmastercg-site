@@ -1,7 +1,7 @@
 [
   {
     "name": "Leadership & Youth Development",
-    "count": 671,
+    "count": 858,
     "subcategories": [
       {
         "name": "Why Youth-Led Scouting Works",
@@ -29,7 +29,7 @@
       },
       {
         "name": "The Scouter & the Scout",
-        "count": 6
+        "count": 113
       },
       {
         "name": "Guiding Youth Leaders",
@@ -41,11 +41,11 @@
       },
       {
         "name": "The Scouter Role",
-        "count": 44
+        "count": 98
       },
       {
         "name": "The Scouter in Practice",
-        "count": 21
+        "count": 47
       },
       {
         "name": "New & Transitioning Adult Leaders",
@@ -75,7 +75,7 @@
   },
   {
     "name": "Scouting Program & Methods",
-    "count": 273,
+    "count": 274,
     "subcategories": [
       {
         "name": "Scout Advancement",
@@ -87,7 +87,7 @@
       },
       {
         "name": "Eagle Scout",
-        "count": 37
+        "count": 38
       },
       {
         "name": "Instructional Methods",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Outdoor Program",
-    "count": 182,
+    "count": 183,
     "subcategories": [
       {
         "name": "Camping",
@@ -121,7 +121,7 @@
       },
       {
         "name": "Outdoor Skills & Gear",
-        "count": 43
+        "count": 44
       },
       {
         "name": "Nature & Environment",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Scoutmaster Practice",
-    "count": 300,
+    "count": 301,
     "subcategories": [
       {
         "name": "Scoutmaster Conference",
@@ -147,7 +147,7 @@
       },
       {
         "name": "Parent Relations",
-        "count": 54
+        "count": 55
       },
       {
         "name": "Volunteer Management & Burnout",
@@ -157,7 +157,7 @@
   },
   {
     "name": "BSA Policy & History",
-    "count": 237,
+    "count": 255,
     "subcategories": [
       {
         "name": "BSA Rules & Policy",
@@ -169,7 +169,7 @@
       },
       {
         "name": "B.P. on Leadership & the Scouting Method",
-        "count": 69
+        "count": 87
       },
       {
         "name": "B.P. on Character & Citizenship",
@@ -202,6 +202,10 @@
         "count": 36
       },
       {
+        "name": "Character & Values in Action",
+        "count": 18
+      },
+      {
         "name": "Citizenship & Patriotism",
         "count": 10
       },
@@ -212,10 +216,6 @@
       {
         "name": "Kindness Empathy & Inclusion",
         "count": 27
-      },
-      {
-        "name": "Character & Values in Action",
-        "count": 18
       }
     ]
   },
@@ -247,11 +247,11 @@
   },
   {
     "name": "Reflections & Humor",
-    "count": 396,
+    "count": 409,
     "subcategories": [
       {
         "name": "Quotes and Brief Reflections",
-        "count": 0
+        "count": 13
       },
       {
         "name": "Opening Jokes",

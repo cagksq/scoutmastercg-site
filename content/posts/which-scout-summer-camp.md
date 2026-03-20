@@ -4,7 +4,7 @@ date: 2014-08-31
 draft: false
 topics:
   - "Summer Camp"
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
 wayback_url: "https://web.archive.org/web/20140831221923/http://scoutmastercg.com/evaluating-scout-summer-camp/?replytocom=50078"
 ---
 

@@ -3,7 +3,7 @@ title: "Ten Common Scoutmaster Mistakes"
 date: 2014-12-03
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
   - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20141203231833/http://scoutmastercg.com:80/ten-common-scoutmaster-mistakes/"
 ---

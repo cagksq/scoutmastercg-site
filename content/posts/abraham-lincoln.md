@@ -3,7 +3,7 @@ title: "Abraham Lincoln"
 date: 2015-09-19
 draft: false
 topics:
-  - "Quotes & Brief Reflections"
+  - "Quotes and Brief Reflections"
 wayback_url: "https://web.archive.org/web/20150919073153/http://scoutmastercg.com/abraham_lincoln/"
 ---
 

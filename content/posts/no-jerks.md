@@ -3,7 +3,7 @@ title: "No Jerks"
 date: 2015-09-21
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "Character & Values in Action"
 wayback_url: "https://web.archive.org/web/20150921141442/http://scoutmastercg.com/no-jerks/"
 ---

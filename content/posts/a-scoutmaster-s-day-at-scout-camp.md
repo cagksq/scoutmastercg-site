@@ -4,7 +4,7 @@ date: 2013-10-12
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
 wayback_url: "https://web.archive.org/web/20140901021547/http://scoutmastercg.com/a-scoutmasters-day-at-scout-camp/?replytocom=1939"
 ---
 

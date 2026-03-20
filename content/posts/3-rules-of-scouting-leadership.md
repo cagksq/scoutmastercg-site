@@ -3,7 +3,7 @@ title: "3 Rules of Scouting Leadership"
 date: 2014-10-11
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
   - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20141011011817/http://scoutmastercg.com:80/the-three-rules-of-scouting-leadership/"
 ---

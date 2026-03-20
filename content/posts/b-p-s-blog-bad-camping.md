@@ -4,7 +4,7 @@ date: 2015-08-09
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "B.P. on the Outdoor Program"
+  - "B.P. on Leadership & the Scouting Method"
   - "Camping"
 wayback_url: "https://web.archive.org/web/20150910051712/http://scoutmastercg.com/b-ps-blog-bad-camping/?replytocom=81997"
 ---

@@ -4,7 +4,7 @@ date: 2014-08-23
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20140823011130/http://scoutmastercg.com/the-benefits-of/"
 ---
 

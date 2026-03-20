@@ -3,7 +3,7 @@ title: "Worst Scout Pun Ever"
 date: 2015-03-13
 draft: false
 topics:
-  - "Quotes & Brief Reflections"
+  - "Quotes and Brief Reflections"
 wayback_url: "https://web.archive.org/web/20150313222958/http://scoutmastercg.com:80/worst-scout-pun/"
 ---
 

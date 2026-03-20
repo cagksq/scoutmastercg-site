@@ -4,7 +4,7 @@ date: 2013-04-16
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
 wayback_url: "https://web.archive.org/web/20150324012031/http://scoutmastercg.com:80/adult-and-youth-leadership-ratios-on-scout-outings/?"
 ---
 

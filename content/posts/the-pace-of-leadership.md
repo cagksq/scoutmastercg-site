@@ -3,7 +3,7 @@ title: "The Pace of Leadership"
 date: 2015-09-19
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "Putting Youth in Charge"
 wayback_url: "https://web.archive.org/web/20150919205111/http://scoutmastercg.com/the-pace-of-leadership/"
 ---

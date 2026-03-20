@@ -3,7 +3,7 @@ title: "Mistakes Scout Leaders Make and How to Correct Them"
 date: 2013-03-03
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
   - "Working through Problems"
 wayback_url: "https://web.archive.org/web/20130303034814/http://www.scoutmastercg.com:80/4-mistakes-scout-leaders-make/"
 ---

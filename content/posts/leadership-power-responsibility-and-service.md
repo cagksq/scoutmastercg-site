@@ -3,7 +3,7 @@ title: "Leadership, Power, Responsibility, and Service"
 date: 2017-06-06
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20170606113508/http://scoutmastercg.com/leadership-power-and-service/"
 ---

@@ -4,7 +4,7 @@ date: 2012-03-23
 draft: false
 topics:
   - "Defining Leadership"
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20120323123649/http://www.scoutmastercg.com/2011/12/leadership-lessons-from-the-shackleton-expedition/"
 ---
 

@@ -3,7 +3,7 @@ title: "John Thurman on Scouters"
 date: 2017-06-19
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "Defining Leadership"
 wayback_url: "https://web.archive.org/web/20170619164804/http://scoutmastercg.com/john-thurman-on-scouters/"
 ---

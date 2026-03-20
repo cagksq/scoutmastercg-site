@@ -4,7 +4,7 @@ date: 2013-06-19
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
 wayback_url: "https://web.archive.org/web/20160919093612/http://scoutmastercg.com:80/scouters-summer-camp-schedule/"
 ---
 

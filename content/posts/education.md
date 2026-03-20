@@ -3,7 +3,7 @@ title: "Education"
 date: 2005-11-01
 draft: false
 topics:
-  - "Quotes & Brief Reflections"
+  - "Quotes and Brief Reflections"
 ---
 Knowledge acquired under compulsion obtains no hold on the mind.
 -Plato

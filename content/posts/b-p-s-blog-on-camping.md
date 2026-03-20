@@ -4,7 +4,7 @@ date: 2014-08-03
 draft: false
 image: "/images/bp2.png"
 topics:
-  - "B.P. on the Outdoor Program"
+  - "B.P. on Leadership & the Scouting Method"
   - "Camping"
 wayback_url: "https://web.archive.org/web/20140903150617/http://scoutmastercg.com:80/b-p-s-blog-on-camping/"
 ---

@@ -4,7 +4,7 @@ date: 2015-10-16
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20151016171243/http://scoutmastercg.com/maintaining-the/"
 ---
 

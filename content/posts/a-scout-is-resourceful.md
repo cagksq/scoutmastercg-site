@@ -4,7 +4,7 @@ date: 2011-05-14
 draft: false
 topics:
   - "The Scouter & the Scout"
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20150920075810/http://scoutmastercg.com/a_scout_is_reso/"
 ---
 

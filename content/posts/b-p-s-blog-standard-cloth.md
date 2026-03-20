@@ -5,7 +5,7 @@ draft: false
 image: "/images/bp5.png"
 topics:
   - "B.P. on Leadership & the Scouting Method"
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20150912205843/http://scoutmastercg.com/b-p-s-blog-standard-cloth/"
 ---
 

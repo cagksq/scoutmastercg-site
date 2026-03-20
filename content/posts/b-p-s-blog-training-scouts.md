@@ -5,7 +5,7 @@ draft: false
 image: "/images/bp3.png"
 topics:
   - "B.P. on Leadership & the Scouting Method"
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20150915103113/http://scoutmastercg.com/b-p-s-blog-training-scouts/"
 ---
 

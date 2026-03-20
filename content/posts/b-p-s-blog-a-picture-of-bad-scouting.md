@@ -4,7 +4,7 @@ date: 2017-09-20
 draft: false
 image: "/images/bp5.png"
 topics:
-  - "B.P. on the Outdoor Program"
+  - "B.P. on Leadership & the Scouting Method"
   - "Risk Management & Safety"
 wayback_url: "https://web.archive.org/web/20170920102112/http://scoutmastercg.com/b-ps-blog-picture-bad-scouting/"
 ---

@@ -3,7 +3,7 @@ title: "A Scoutmaster is Patient"
 date: 2014-10-18
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20141018212756/http://scoutmastercg.com:80/15-tips-for-bec/"
 ---
 

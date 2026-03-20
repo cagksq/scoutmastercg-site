@@ -3,7 +3,7 @@ title: "Just What Does 'Scoutmaster' Mean?"
 date: 2015-01-20
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "What Scouting Does"
 wayback_url: "https://web.archive.org/web/20150120005532/http://scoutmastercg.com:80/just-what-does-scoutmaster-mean/?"
 ---

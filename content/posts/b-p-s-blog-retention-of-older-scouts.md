@@ -4,7 +4,7 @@ date: 2017-09-01
 draft: false
 image: "/images/bp3.png"
 topics:
-  - "B.P. on the Outdoor Program"
+  - "B.P. on Leadership & the Scouting Method"
   - "Keeping Older Scouts Engaged"
 wayback_url: "https://web.archive.org/web/20170901035049/http://scoutmastercg.com/b-p-s-blog-retention-of-older-scouts/"
 ---

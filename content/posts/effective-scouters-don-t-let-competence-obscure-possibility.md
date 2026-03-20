@@ -3,7 +3,7 @@ title: "Effective Scouters don't let Competence Obscure Possibility"
 date: 2013-06-11
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "Why Youth-Led Scouting Works"
 wayback_url: "https://web.archive.org/web/20141012081022/http://scoutmastercg.com:80/effective-scouters-dont-let-competence-cancel-possibility/"
 ---

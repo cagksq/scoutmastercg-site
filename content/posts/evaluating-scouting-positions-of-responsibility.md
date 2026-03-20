@@ -4,7 +4,7 @@ date: 2013-10-12
 draft: false
 topics:
   - "Scout Advancement"
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
 wayback_url: "https://web.archive.org/web/20141008084257/http://scoutmastercg.com:80/evaluating-scouting-positions-of-responsibility/"
 ---
 

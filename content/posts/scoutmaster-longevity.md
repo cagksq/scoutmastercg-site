@@ -3,7 +3,7 @@ title: "Scoutmaster Longevity"
 date: 2014-08-24
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "Volunteer Management & Burnout"
 wayback_url: "https://web.archive.org/web/20140824000054/http://scoutmastercg.com/scoutmaster-longevity/"
 ---

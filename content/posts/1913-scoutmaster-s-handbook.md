@@ -3,7 +3,7 @@ title: 1913 Scoutmaster's Handbook
 date: 2006-12-26
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "What Scouting Does"
 wayback_url: https://web.archive.org/web/20170210200739/http://scoutmastercg.com:80/handbook_for_sc/
 ---

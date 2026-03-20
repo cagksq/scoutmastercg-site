@@ -4,7 +4,7 @@ date: 2005-11-01
 draft: false
 topics:
   - "What is Meant by Character"
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: https://web.archive.org/web/20150304230425/http://scoutmastercg.com:80/boys_universall/
 ---
 

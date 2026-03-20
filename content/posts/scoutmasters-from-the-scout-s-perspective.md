@@ -3,7 +3,7 @@ title: "Scoutmasters from the Scout's Perspective"
 date: 2012-08-21
 draft: false
 topics:
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
   - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20151017055434/http://scoutmastercg.com/scoutmasters-from-the-scouts-perspective/"
 ---

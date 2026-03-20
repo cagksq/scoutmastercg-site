@@ -3,7 +3,7 @@ title: "Oliver Wendell Holmes on Advice"
 date: 2017-08-31
 draft: false
 topics:
-  - "Quotes & Brief Reflections"
+  - "Quotes and Brief Reflections"
   - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20170831073715/http://scoutmastercg.com/oliver-wendell-holmes-on-advice/"
 ---

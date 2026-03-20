@@ -4,7 +4,7 @@ date: 2014-10-17
 draft: false
 topics:
   - "Personal Reflection"
-  - "The Scoutmaster's Job"
+  - "The Scouter Role"
 wayback_url: "https://web.archive.org/web/20141017150444/http://scoutmastercg.com:80/milestones/"
 ---
 

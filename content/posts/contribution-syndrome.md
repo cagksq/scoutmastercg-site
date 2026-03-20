@@ -4,7 +4,7 @@ date: 2011-04-20
 draft: false
 topics:
   - "The Scouter & the Scout"
-  - "The Scoutmaster's Job"
+  - "The Scouter in Practice"
 wayback_url: "https://web.archive.org/web/20150916201846/http://scoutmastercg.com/contribution-syndrome/"
 ---
 
