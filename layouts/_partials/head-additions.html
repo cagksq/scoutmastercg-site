@@ -780,6 +780,28 @@
     border-radius: 0 3px 3px 0;
   }
 
+  /* ── Topic page filter tabs ──────────────────────────── */
+  .topics-filter-bar {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    margin: 0 0 0.25rem;
+  }
+  .topics-filter-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.82rem;
+    color: #bbb;
+    padding: 3px 6px;
+    letter-spacing: 0.02em;
+    transition: color 0.1s;
+  }
+  .topics-filter-btn:hover { color: #3B4D1E; }
+  .topics-filter-btn.active { color: #3B4D1E; font-weight: 700; }
+  .topics-filter-sep { font-size: 0.82rem; color: #ddd; }
+
   /* ── Podcast rows on topic pages ─────────────────────── */
   .topics-page-section-heading {
     font-family: 'Playfair Display', serif;
@@ -790,11 +812,21 @@
     padding: 0.75rem 0 0.5rem;
     border-top: 2px solid #3B4D1E;
   }
+  .topics-page-row--podcast {
+    background: #f5f3ef;
+  }
+  .topics-page-row--podcast:hover { background: #ede9e2; }
   .topics-page-row--podcast .topics-page-row-title {
     font-family: 'Roboto', sans-serif;
     font-size: 0.88rem;
     font-weight: 600;
     color: #3B4D1E;
+  }
+  .topics-pod-icon {
+    font-size: 0.6rem;
+    color: #3B4D1E;
+    vertical-align: middle;
+    margin-right: 3px;
   }
   .topics-page-row-note {
     font-style: italic;

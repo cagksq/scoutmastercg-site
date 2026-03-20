@@ -27,8 +27,7 @@
           <button class="topic-main-btn" onclick="smcgToggle(this)" aria-expanded="false">
             <span class="topic-main-name">{{ $main.name }}</span>
             <span class="topic-main-meta">
-              <span class="topic-row-count">{{ $main.count }}</span>
-              <span class="topic-row-posts">posts</span>
+              <span class="topic-row-count">{{ $main.post_count }} posts · {{ $main.podcast_count }} podcast segments</span>
             </span>
             <span class="topic-main-arrow">›</span>
           </button>
@@ -38,8 +37,7 @@
               <a class="topic-sub-row" href="/topics/{{ $slug }}/">
                 <span class="topic-sub-name">{{ .name }}</span>
                 <span class="topic-sub-meta">
-                  <span class="topic-row-count">{{ .count }}</span>
-                  <span class="topic-row-posts">posts</span>
+                  <span class="topic-row-count">{{ .post_count }} posts · {{ .podcast_count }} podcast segments</span>
                 </span>
                 <span class="topic-row-arrow">›</span>
               </a>

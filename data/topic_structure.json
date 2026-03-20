@@ -2,268 +2,394 @@
   {
     "name": "Leadership & Youth Development",
     "count": 858,
+    "post_count": 547,
+    "podcast_count": 311,
     "subcategories": [
       {
         "name": "Why Youth-Led Scouting Works",
-        "count": 61
+        "count": 61,
+        "post_count": 33,
+        "podcast_count": 28
       },
       {
         "name": "Putting Youth in Charge",
-        "count": 92
+        "count": 92,
+        "post_count": 62,
+        "podcast_count": 30
       },
       {
         "name": "Giving Scouts Authority",
-        "count": 14
+        "count": 14,
+        "post_count": 11,
+        "podcast_count": 3
       },
       {
         "name": "Developing & Training Youth Leaders",
-        "count": 73
+        "count": 73,
+        "post_count": 55,
+        "podcast_count": 18
       },
       {
         "name": "Youth Leader Roles",
-        "count": 23
+        "count": 23,
+        "post_count": 16,
+        "podcast_count": 7
       },
       {
         "name": "Keeping Older Scouts Engaged",
-        "count": 24
+        "count": 24,
+        "post_count": 13,
+        "podcast_count": 11
       },
       {
         "name": "The Scouter & the Scout",
-        "count": 113
+        "count": 113,
+        "post_count": 107,
+        "podcast_count": 6
       },
       {
         "name": "Guiding Youth Leaders",
-        "count": 15
+        "count": 15,
+        "post_count": 0,
+        "podcast_count": 15
       },
       {
         "name": "Working through Problems",
-        "count": 14
+        "count": 14,
+        "post_count": 10,
+        "podcast_count": 4
       },
       {
         "name": "The Scouter Role",
-        "count": 98
+        "count": 98,
+        "post_count": 54,
+        "podcast_count": 44
       },
       {
         "name": "The Scouter in Practice",
-        "count": 47
+        "count": 47,
+        "post_count": 26,
+        "podcast_count": 21
       },
       {
         "name": "New & Transitioning Adult Leaders",
-        "count": 32
+        "count": 32,
+        "post_count": 13,
+        "podcast_count": 19
       },
       {
         "name": "Working with Adult Leaders",
-        "count": 34
+        "count": 34,
+        "post_count": 15,
+        "podcast_count": 19
       },
       {
         "name": "Understanding the Patrol Method",
-        "count": 83
+        "count": 83,
+        "post_count": 38,
+        "podcast_count": 45
       },
       {
         "name": "How Patrols Work",
-        "count": 69
+        "count": 69,
+        "post_count": 28,
+        "podcast_count": 41
       },
       {
         "name": "Defining Leadership",
-        "count": 20
+        "count": 20,
+        "post_count": 20,
+        "podcast_count": 0
       },
       {
         "name": "What Scouting Does",
-        "count": 46
+        "count": 46,
+        "post_count": 46,
+        "podcast_count": 0
       }
     ]
   },
   {
     "name": "Scouting Program & Methods",
     "count": 274,
+    "post_count": 159,
+    "podcast_count": 115,
     "subcategories": [
       {
         "name": "Scout Advancement",
-        "count": 85
+        "count": 85,
+        "post_count": 49,
+        "podcast_count": 36
       },
       {
         "name": "Merit Badges",
-        "count": 25
+        "count": 25,
+        "post_count": 10,
+        "podcast_count": 15
       },
       {
         "name": "Eagle Scout",
-        "count": 38
+        "count": 38,
+        "post_count": 20,
+        "podcast_count": 18
       },
       {
         "name": "Instructional Methods",
-        "count": 62
+        "count": 62,
+        "post_count": 49,
+        "podcast_count": 13
       },
       {
         "name": "Scout Activities & Games",
-        "count": 28
+        "count": 28,
+        "post_count": 20,
+        "podcast_count": 8
       },
       {
         "name": "Patrol Planning & Operations",
-        "count": 36
+        "count": 36,
+        "post_count": 11,
+        "podcast_count": 25
       }
     ]
   },
   {
     "name": "Outdoor Program",
     "count": 183,
+    "post_count": 122,
+    "podcast_count": 61,
     "subcategories": [
       {
         "name": "Camping",
-        "count": 30
+        "count": 30,
+        "post_count": 23,
+        "podcast_count": 7
       },
       {
         "name": "High Adventure & Canoe Trips",
-        "count": 47
+        "count": 47,
+        "post_count": 29,
+        "podcast_count": 18
       },
       {
         "name": "Risk Management & Safety",
-        "count": 49
+        "count": 49,
+        "post_count": 25,
+        "podcast_count": 24
       },
       {
         "name": "Outdoor Skills & Gear",
-        "count": 44
+        "count": 44,
+        "post_count": 33,
+        "podcast_count": 11
       },
       {
         "name": "Nature & Environment",
-        "count": 13
+        "count": 13,
+        "post_count": 12,
+        "podcast_count": 1
       }
     ]
   },
   {
     "name": "Scoutmaster Practice",
     "count": 301,
+    "post_count": 127,
+    "podcast_count": 174,
     "subcategories": [
       {
         "name": "Scoutmaster Conference",
-        "count": 48
+        "count": 48,
+        "post_count": 10,
+        "podcast_count": 38
       },
       {
         "name": "Troop Administration",
-        "count": 107
+        "count": 107,
+        "post_count": 36,
+        "podcast_count": 71
       },
       {
         "name": "Discipline & Behavior",
-        "count": 51
+        "count": 51,
+        "post_count": 24,
+        "podcast_count": 27
       },
       {
         "name": "Parent Relations",
-        "count": 55
+        "count": 55,
+        "post_count": 30,
+        "podcast_count": 25
       },
       {
         "name": "Volunteer Management & Burnout",
-        "count": 40
+        "count": 40,
+        "post_count": 27,
+        "podcast_count": 13
       }
     ]
   },
   {
     "name": "BSA Policy & History",
     "count": 255,
+    "post_count": 179,
+    "podcast_count": 76,
     "subcategories": [
       {
         "name": "BSA Rules & Policy",
-        "count": 49
+        "count": 49,
+        "post_count": 18,
+        "podcast_count": 31
       },
       {
         "name": "Scouting History & Tradition",
-        "count": 62
+        "count": 62,
+        "post_count": 40,
+        "podcast_count": 22
       },
       {
         "name": "B.P. on Leadership & the Scouting Method",
-        "count": 87
+        "count": 87,
+        "post_count": 71,
+        "podcast_count": 16
       },
       {
         "name": "B.P. on Character & Citizenship",
-        "count": 20
+        "count": 20,
+        "post_count": 19,
+        "podcast_count": 1
       },
       {
         "name": "BSA Membership & Inclusion",
-        "count": 32
+        "count": 32,
+        "post_count": 27,
+        "podcast_count": 5
       },
       {
         "name": "Organizational Structure",
-        "count": 5
+        "count": 5,
+        "post_count": 4,
+        "podcast_count": 1
       }
     ]
   },
   {
     "name": "Character & Values",
     "count": 182,
+    "post_count": 150,
+    "podcast_count": 32,
     "subcategories": [
       {
         "name": "Scout Law & Oath",
-        "count": 57
+        "count": 57,
+        "post_count": 42,
+        "podcast_count": 15
       },
       {
         "name": "What is Meant by Character",
-        "count": 18
+        "count": 18,
+        "post_count": 18,
+        "podcast_count": 0
       },
       {
         "name": "How Scouting Builds Character",
-        "count": 36
+        "count": 36,
+        "post_count": 31,
+        "podcast_count": 5
       },
       {
         "name": "Character & Values in Action",
-        "count": 18
+        "count": 18,
+        "post_count": 18,
+        "podcast_count": 0
       },
       {
         "name": "Citizenship & Patriotism",
-        "count": 10
+        "count": 10,
+        "post_count": 7,
+        "podcast_count": 3
       },
       {
         "name": "Spirituality & Religion",
-        "count": 16
+        "count": 16,
+        "post_count": 14,
+        "podcast_count": 2
       },
       {
         "name": "Kindness Empathy & Inclusion",
-        "count": 27
+        "count": 27,
+        "post_count": 20,
+        "podcast_count": 7
       }
     ]
   },
   {
     "name": "Community & Context",
     "count": 117,
+    "post_count": 77,
+    "podcast_count": 40,
     "subcategories": [
       {
         "name": "Scout Parents",
-        "count": 17
+        "count": 17,
+        "post_count": 7,
+        "podcast_count": 10
       },
       {
         "name": "Fundraising & Finances",
-        "count": 11
+        "count": 11,
+        "post_count": 8,
+        "podcast_count": 3
       },
       {
         "name": "Summer Camp",
-        "count": 21
+        "count": 21,
+        "post_count": 13,
+        "podcast_count": 8
       },
       {
         "name": "International Scouting",
-        "count": 19
+        "count": 19,
+        "post_count": 9,
+        "podcast_count": 10
       },
       {
         "name": "Personal Reflection",
-        "count": 49
+        "count": 49,
+        "post_count": 40,
+        "podcast_count": 9
       }
     ]
   },
   {
     "name": "Reflections & Humor",
     "count": 409,
+    "post_count": 13,
+    "podcast_count": 396,
     "subcategories": [
       {
         "name": "Quotes and Brief Reflections",
-        "count": 13
+        "count": 13,
+        "post_count": 13,
+        "podcast_count": 0
       },
       {
         "name": "Opening Jokes",
-        "count": 368
+        "count": 368,
+        "post_count": 0,
+        "podcast_count": 368
       },
       {
         "name": "Brick Mason Episodes",
-        "count": 7
+        "count": 7,
+        "post_count": 0,
+        "podcast_count": 7
       },
       {
         "name": "This Has to Be the Truth",
-        "count": 21
+        "count": 21,
+        "post_count": 0,
+        "podcast_count": 21
       }
     ]
   }
