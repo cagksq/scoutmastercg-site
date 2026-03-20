@@ -3,7 +3,7 @@ title: "A Scout is Resourceful"
 date: 2011-05-14
 draft: false
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
   - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150920075810/http://scoutmastercg.com/a_scout_is_reso/"
 ---

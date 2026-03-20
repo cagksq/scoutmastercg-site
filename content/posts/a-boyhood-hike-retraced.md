@@ -3,7 +3,7 @@ title: "A boyhood hike RETRACED"
 date: 2014-08-25
 draft: false
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20140825041304/http://scoutmastercg.com/a_boyhood_hike_/"
 ---
 

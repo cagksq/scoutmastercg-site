@@ -4,7 +4,7 @@ date: 2005-11-01
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20140825094747/http://scoutmastercg.com/the_best_leader/"
 ---
 

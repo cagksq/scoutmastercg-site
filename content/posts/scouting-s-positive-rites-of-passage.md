@@ -4,7 +4,7 @@ date: 2017-05-22
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Understanding Scouts"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20170522104403/http://scoutmastercg.com:80/scoutings-positive-rites-passage/"
 ---
 

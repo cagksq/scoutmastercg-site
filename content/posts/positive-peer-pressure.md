@@ -4,7 +4,7 @@ date: 2013-09-01
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20141122153324/http://scoutmastercg.com:80/positive_peer_p/"
 ---
 

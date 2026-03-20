@@ -4,7 +4,7 @@ date: 2014-10-18
 draft: false
 topics:
   - "Why Youth-Led Scouting Works"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20141018212851/http://scoutmastercg.com:80/three-alternatives-for-helping-scouts/"
 ---
 

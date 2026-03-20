@@ -4,7 +4,7 @@ date: 2013-08-10
 draft: false
 topics:
   - "The Scoutmaster's Job"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20141009014156/http://scoutmastercg.com:80/association-with-adults-a-method-of-scouting/"
 ---
 

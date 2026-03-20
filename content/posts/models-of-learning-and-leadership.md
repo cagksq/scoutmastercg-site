@@ -4,7 +4,7 @@ date: 2011-05-25
 draft: false
 topics:
   - "Instructional Methods"
-  - "Understanding Scouts"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20141011012008/http://scoutmastercg.com:80/models-of-learning-and-leadership/"
 ---
 

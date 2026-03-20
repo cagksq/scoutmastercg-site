@@ -4,7 +4,7 @@ date: 2014-08-23
 draft: false
 topics:
   - "B.P. on Leadership & the Scouting Method"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20140823013445/http://scoutmastercg.com/scouting-dirty-old-duck-puddle/?replytocom=55943"
 ---
 

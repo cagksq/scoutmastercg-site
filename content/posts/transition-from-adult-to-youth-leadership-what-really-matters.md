@@ -4,7 +4,7 @@ date: 2009-07-10
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20151016235510/http://scoutmastercg.com/transition-from-adult-to-youth-leadership-what-really-matters/"
 ---
 

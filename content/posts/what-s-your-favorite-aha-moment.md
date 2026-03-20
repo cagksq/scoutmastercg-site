@@ -4,7 +4,7 @@ date: 2017-09-26
 draft: false
 topics:
   - "Character & Values in Action"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20170926224434/http://scoutmastercg.com/whats-your-favorite-aha-moment/"
 ---
 

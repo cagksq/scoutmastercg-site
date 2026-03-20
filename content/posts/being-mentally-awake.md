@@ -4,7 +4,7 @@ date: 2016-09-13
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20160913153839/http://scoutmastercg.com/being-mentally-awake/"
 ---
 

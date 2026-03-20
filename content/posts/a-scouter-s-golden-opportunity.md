@@ -4,7 +4,7 @@ date: 2012-02-16
 draft: false
 topics:
   - "How Scouting Builds Character"
-  - "Understanding Scouts"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20141013045759/http://scoutmastercg.com:80/a-scouters-golden-opportunity/"
 ---
 

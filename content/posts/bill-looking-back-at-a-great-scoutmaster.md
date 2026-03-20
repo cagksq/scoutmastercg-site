@@ -4,7 +4,7 @@ date: 2015-09-20
 draft: false
 topics:
   - "The Scoutmaster's Job"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150920054952/http://scoutmastercg.com/bill-looking-back-at-a-great-scoutmaster/"
 ---
 

@@ -4,7 +4,7 @@ date: 2014-06-15
 draft: false
 image: "/images/bp4.png"
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
   - "B.P. on Leadership & the Scouting Method"
 wayback_url: "https://web.archive.org/web/20140825094831/http://scoutmastercg.com/b-p-s-blog-discipline/?replytocom=57431"
 ---

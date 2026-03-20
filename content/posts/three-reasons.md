@@ -3,7 +3,7 @@ title: "Three Reasons"
 date: 2013-02-24
 draft: false
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
   - "Discipline & Behavior"
 wayback_url: "https://web.archive.org/web/20141012082103/http://scoutmastercg.com:80/three-reasons/"
 ---

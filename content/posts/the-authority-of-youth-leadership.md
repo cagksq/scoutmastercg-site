@@ -4,7 +4,7 @@ date: 2015-11-03
 draft: false
 topics:
   - "Giving Scouts Authority"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20151103163459/http://scoutmastercg.com:80/the-authority-of-youth-leadership/"
 ---
 

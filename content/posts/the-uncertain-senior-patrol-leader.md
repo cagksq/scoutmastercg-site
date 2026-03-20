@@ -4,7 +4,7 @@ date: 2017-09-19
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20170919193619/http://scoutmastercg.com/the-uncertain-s/"
 ---
 

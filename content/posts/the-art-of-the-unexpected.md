@@ -4,7 +4,7 @@ date: 2015-09-19
 draft: false
 topics:
   - "Youth Leader Roles"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150919194217/http://scoutmastercg.com/the-art-of-the-unexpected/"
 ---
 

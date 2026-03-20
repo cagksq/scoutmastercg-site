@@ -4,7 +4,7 @@ date: 2013-10-27
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20131027044601/http://www.scoutmastercg.com:80/finding-the-advisors-voice/"
 ---
 

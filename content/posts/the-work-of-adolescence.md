@@ -4,7 +4,7 @@ date: 2005-11-01
 draft: false
 topics:
   - "Why Youth-Led Scouting Works"
-  - "Understanding Scouts"
+  - "The Scouter & the Scout"
 ---
 Adolescence is serious work. The quality of the product is proportional to the value we place on it.
 

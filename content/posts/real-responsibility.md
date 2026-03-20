@@ -4,7 +4,7 @@ date: 2005-11-01
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Understanding Scouts"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150919193805/http://scoutmastercg.com/real_responsibi/"
 ---
 

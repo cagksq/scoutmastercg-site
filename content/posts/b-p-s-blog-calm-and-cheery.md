@@ -5,7 +5,7 @@ draft: false
 image: "/images/bp4.png"
 topics:
   - "B.P. on Leadership & the Scouting Method"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150312030353/http://scoutmastercg.com:80/b-p-s-blog-calm-cheery/"
 ---
 

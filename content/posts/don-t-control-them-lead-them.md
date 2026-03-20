@@ -4,7 +4,7 @@ date: 2008-06-23
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20151016171853/http://scoutmastercg.com/dont-control-th/"
 ---
 

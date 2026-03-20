@@ -4,7 +4,7 @@ date: 2012-04-11
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20141013160954/http://scoutmastercg.com:80/i-dont-know-is-a-good-answer/"
 ---
 

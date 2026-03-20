@@ -3,7 +3,7 @@ title: "Relentless Encouragement"
 date: 2013-10-29
 draft: false
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
   - "Developing & Training Youth Leaders"
 wayback_url: "https://web.archive.org/web/20131029061341/http://www.scoutmastercg.com:80/relentless-encouragement/"
 ---

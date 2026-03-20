@@ -4,7 +4,7 @@ date: 2015-09-09
 draft: false
 topics:
   - "Keeping Older Scouts Engaged"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150909091443/http://scoutmastercg.com:80/ten-practices-for-retaining-older-scouts/"
 ---
 

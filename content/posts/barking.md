@@ -3,7 +3,7 @@ title: "Barking"
 date: 2006-01-01
 draft: false
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
   - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150921145225/http://scoutmastercg.com/barking/"
 ---

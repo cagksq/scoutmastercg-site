@@ -4,7 +4,7 @@ date: 2009-06-01
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20130105121614/http://www.scoutmastercg.com:80/the-scoutmasters-role/"
 ---
 

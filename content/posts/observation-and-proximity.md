@@ -4,7 +4,7 @@ date: 2014-10-09
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20141009224604/http://scoutmastercg.com:80/physics-and-scouting/"
 ---
 

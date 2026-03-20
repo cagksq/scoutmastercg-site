@@ -4,7 +4,7 @@ date: 2005-11-01
 draft: false
 topics:
   - "Why Youth-Led Scouting Works"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150920025918/http://scoutmastercg.com/coaches_and_pla/"
 ---
 

@@ -4,7 +4,7 @@ date: 2017-06-23
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20170623025112/http://scoutmastercg.com/youth-leader-training/"
 ---
 

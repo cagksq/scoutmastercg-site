@@ -4,7 +4,7 @@ date: 2015-09-19
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150919192250/http://scoutmastercg.com/leadership_trai/"
 ---
 

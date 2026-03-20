@@ -4,7 +4,7 @@ date: 2016-07-28
 draft: false
 topics:
   - "Personal Reflection"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20160728000629/http://scoutmastercg.com:80/what-is-your-scouting-legacy/?"
 ---
 

@@ -3,7 +3,7 @@ title: "A Message to Parents"
 date: 2012-12-20
 draft: false
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
   - "Parent Relations"
 wayback_url: "https://web.archive.org/web/20141015064209/http://scoutmastercg.com:80/a-message-to-parents/"
 ---

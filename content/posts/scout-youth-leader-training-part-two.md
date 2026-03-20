@@ -4,7 +4,7 @@ date: 2012-10-09
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20121009074839/http://www.scoutmastercg.com:80/2012/10/scout-youth-leader-training-part-two/"
 ---
 

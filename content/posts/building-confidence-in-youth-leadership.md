@@ -4,7 +4,7 @@ date: 2015-09-17
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150917022108/http://scoutmastercg.com/building-confid/"
 ---
 

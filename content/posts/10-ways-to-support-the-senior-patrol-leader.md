@@ -4,7 +4,7 @@ date: 2012-09-18
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20121230132952/http://www.scoutmastercg.com:80/senior-patrol-leader/"
 ---
 

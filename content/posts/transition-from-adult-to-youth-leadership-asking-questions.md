@@ -4,7 +4,7 @@ date: 2015-10-17
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20151017052400/http://scoutmastercg.com/going-from-adult-to-youth-leadership-1/"
 ---
 

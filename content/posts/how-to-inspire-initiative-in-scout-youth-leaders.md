@@ -4,7 +4,7 @@ date: 2013-10-12
 draft: false
 topics:
   - "Giving Scouts Authority"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20161013093549/http://scoutmastercg.com:80/inspiring-initiative-in-scout-youth-leaders/"
 ---
 

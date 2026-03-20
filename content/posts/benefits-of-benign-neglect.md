@@ -4,7 +4,7 @@ date: 2014-08-24
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Understanding Scouts"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20140824204105/http://scoutmastercg.com/benefits-of-benign-neglect/"
 ---
 

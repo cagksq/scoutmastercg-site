@@ -4,7 +4,7 @@ date: 2013-03-05
 draft: false
 topics:
   - "The Scoutmaster's Job"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20130305115703/http://www.scoutmastercg.com:80/scoutmaster-gets-her-due/"
 ---
 

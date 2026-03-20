@@ -4,7 +4,7 @@ date: 2012-12-20
 draft: false
 topics:
   - "Why Youth-Led Scouting Works"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20121220014019/http://www.scoutmastercg.com:80/earning-an-eagl/"
 ---
 

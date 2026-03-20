@@ -4,7 +4,7 @@ date: 2005-11-01
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20140826021939/http://scoutmastercg.com/jlt_or_ojt/"
 ---
 

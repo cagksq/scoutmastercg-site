@@ -4,7 +4,7 @@ date: 2015-03-02
 draft: false
 topics:
   - "Why Youth-Led Scouting Works"
-  - "Understanding Scouts"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150302124626/http://scoutmastercg.com:80/cooperation-rather-than-competition/?"
 ---
 

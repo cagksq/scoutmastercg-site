@@ -3,7 +3,7 @@ title: "Less is More"
 date: 2015-09-20
 draft: false
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150920091640/http://scoutmastercg.com/less_is_more/"
 ---
 

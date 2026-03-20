@@ -4,7 +4,7 @@ date: 2011-05-22
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150919165047/http://scoutmastercg.com/leadership-is-not-a-to-do-list/"
 ---
 

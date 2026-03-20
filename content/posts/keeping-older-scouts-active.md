@@ -4,7 +4,7 @@ date: 2013-01-17
 draft: false
 topics:
   - "Keeping Older Scouts Engaged"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20130117083152/http://www.scoutmastercg.com:80/keeping-older-scouts-active/"
 ---
 

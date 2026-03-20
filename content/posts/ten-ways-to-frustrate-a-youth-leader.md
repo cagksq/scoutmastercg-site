@@ -4,7 +4,7 @@ date: 2017-06-06
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20170606021806/http://scoutmastercg.com/ten-ways-to-frustrate-a-youth-leader/"
 ---
 

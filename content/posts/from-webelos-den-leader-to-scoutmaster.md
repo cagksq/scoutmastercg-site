@@ -4,7 +4,7 @@ date: 2014-08-25
 draft: false
 topics:
   - "New & Transitioning Adult Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20140825000310/http://scoutmastercg.com/from-webelos-de/"
 ---
 

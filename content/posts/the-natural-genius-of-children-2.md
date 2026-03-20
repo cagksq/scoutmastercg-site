@@ -4,7 +4,7 @@ date: 2011-04-17
 draft: false
 topics:
   - "What is Meant by Character"
-  - "Understanding Scouts"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20170901174839/http://scoutmastercg.com/the-natural-genius-of-children/"
 ---
 

@@ -4,7 +4,7 @@ date: 2009-07-09
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20130105065031/http://www.scoutmastercg.com:80/transition-from-adult-to-youth-leadership-first-steps/"
 ---
 

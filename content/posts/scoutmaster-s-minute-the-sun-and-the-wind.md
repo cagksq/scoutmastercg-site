@@ -4,7 +4,7 @@ date: 2014-05-13
 draft: false
 topics:
   - "Character & Values in Action"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150926210619/http://scoutmastercg.com:80/wind-sun/"
 ---
 

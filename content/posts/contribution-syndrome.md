@@ -3,7 +3,7 @@ title: "Contribution Syndrome"
 date: 2011-04-20
 draft: false
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
   - "The Scoutmaster's Job"
 wayback_url: "https://web.archive.org/web/20150916201846/http://scoutmastercg.com/contribution-syndrome/"
 ---

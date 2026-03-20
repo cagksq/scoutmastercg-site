@@ -4,7 +4,7 @@ date: 2006-06-30
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20121018084503/http://www.scoutmastercg.com:80/2006/06/what_we_want_to/"
 ---
 

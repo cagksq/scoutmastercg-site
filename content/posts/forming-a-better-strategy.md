@@ -4,7 +4,7 @@ date: 2014-08-25
 draft: false
 topics:
   - "Scoutmaster Conference"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20140825004431/http://scoutmastercg.com/forming-a-better-strategy/"
 ---
 

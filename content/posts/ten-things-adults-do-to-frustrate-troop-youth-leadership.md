@@ -4,7 +4,7 @@ date: 2013-10-12
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150916204809/http://scoutmastercg.com/ten-things-adul/"
 ---
 

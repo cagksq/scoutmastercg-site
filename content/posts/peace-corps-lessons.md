@@ -4,7 +4,7 @@ date: 2012-08-24
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20150919083341/http://scoutmastercg.com/peace-corps-lessons/"
 ---
 

@@ -3,7 +3,7 @@ title: "Transforming a \"Skull Full of Mush\""
 date: 2011-06-02
 draft: false
 topics:
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
   - "Developing & Training Youth Leaders"
 ---
 Professor Kingsfield, the student's nemesis, has a reputation for a brilliant, dispassionate relentlessness.

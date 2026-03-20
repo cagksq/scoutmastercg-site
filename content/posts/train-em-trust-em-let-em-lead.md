@@ -4,7 +4,7 @@ date: 2013-04-02
 draft: false
 topics:
   - "Putting Youth in Charge"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20171019210021/http://scoutmastercg.com/train_em_trust_/"
 ---
 

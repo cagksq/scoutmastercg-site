@@ -4,7 +4,7 @@ date: 2015-12-15
 draft: false
 topics:
   - "Developing & Training Youth Leaders"
-  - "Scoutmaster as Mentor"
+  - "The Scouter & the Scout"
 wayback_url: "https://web.archive.org/web/20151215040421/http://scoutmastercg.com:80/responding-to-initiative/"
 ---
 

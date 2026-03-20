@@ -3,7 +3,7 @@ title: "Teenage Brains Article in National Geographic"
 date: 2011-10-12
 draft: false
 topics:
-  - "Understanding Scouts"
+  - "The Scouter & the Scout"
   - "Why Youth-Led Scouting Works"
 wayback_url: "https://web.archive.org/web/20111012024419/http://www.scoutmastercg.com:80/2011/10/teenage-brains-article-in-national-geographic/"
 ---
