@@ -504,13 +504,15 @@
   .smcg-player-tick {
     position: absolute;
     top: -4px;
-    width: 2px;
+    width: 3px;
     height: calc(100% + 8px);
     background: rgba(59,77,30,0.45);
     border-radius: 1px;
     transform: translateX(-50%);
-    pointer-events: none;
+    cursor: pointer;
+    z-index: 1;
   }
+  .smcg-player-tick:hover { background: rgba(59,77,30,0.85); }
 
   /* ── Sticky player bar ────────────────────────────────── */
   .smcg-sticky {

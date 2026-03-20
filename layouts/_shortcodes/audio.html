@@ -87,9 +87,35 @@
       var tick = document.createElement("div");
       tick.className = "smcg-player-tick";
       tick.style.left = pct + "%";
+      tick.title = fmt(secs);
+      /* capture secs in closure so each tick seeks to its own time */
+      (function(s) {
+        tick.addEventListener("click", function(e) {
+          e.stopPropagation();
+          if (window.smcgPlayer)
+            window.smcgPlayer.seekTo(s, episode, epNum, subtitle, pathname);
+        });
+      })(secs);
       pTrack.appendChild(tick);
     });
   }
+
+  /* Only render ticks once the episode audio (not the intro) has loaded */
+  function tryRenderTicks() {
+    if (ticksRendered) return;
+    var ga = document.getElementById("smcg-audio");
+    if (!ga || !ga.duration || !isFinite(ga.duration)) return;
+    var st = window.smcgPlayer && window.smcgPlayer.getState();
+    if (!st || !st.playedIntro || st.episode !== episode) return;
+    renderTicks(ga.duration);
+  }
+
+  /* Primary trigger: loadedmetadata fires when the episode src is set */
+  (function() {
+    var ga = document.getElementById("smcg-audio");
+    if (!ga) return;
+    ga.addEventListener("loadedmetadata", function() { tryRenderTicks(); });
+  })();
 
   function sync(detail) {
     if (!detail || detail.episode !== episode) return;
@@ -99,7 +125,7 @@
     if (ga && ga.duration && isFinite(ga.duration)) {
       pFill.style.width = (detail.time / ga.duration * 100) + "%";
       elRem.textContent  = fmt(ga.duration - detail.time);
-      renderTicks(ga.duration);
+      tryRenderTicks();
     }
   }
 
