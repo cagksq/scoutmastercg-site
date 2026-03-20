@@ -25,7 +25,7 @@
       {{ range $i, $main := site.Data.topic_structure }}
         <div class="topic-main" id="{{ $main.name | urlize }}">
           <button class="topic-main-btn" onclick="smcgToggle(this)" aria-expanded="false">
-            <span class="topic-main-name">{{ $main.name }}</span>
+            <span class="topic-main-name">{{ with $main.display_name }}{{ . }}{{ else }}{{ $main.name }}{{ end }}</span>
             <span class="topic-main-meta">
               <span class="topic-row-count">{{ $main.post_count }} posts · {{ $main.podcast_count }} clips</span>
             </span>
