@@ -25,14 +25,12 @@
 
     <h1 class="topics-page-title">{{ .Title }}</h1>
     {{ with $.Scratch.Get "topicDesc" }}<p class="topics-page-desc">{{ . }}</p>{{ end }}
-    <p class="topics-page-count">{{ len .Pages }} posts · {{ len $podMatches }} clips</p>
-
     <div class="topics-filter-bar">
-      <button class="topics-filter-btn active" onclick="smcgFilter('all', this)">All</button>
+      <button class="topics-filter-btn" onclick="smcgFilter('posts', this)">{{ len .Pages }} Posts</button>
       <span class="topics-filter-sep">·</span>
-      <button class="topics-filter-btn" onclick="smcgFilter('posts', this)">Posts</button>
+      <button class="topics-filter-btn" onclick="smcgFilter('podcast', this)">{{ len $podMatches }} Clips</button>
       <span class="topics-filter-sep">·</span>
-      <button class="topics-filter-btn" onclick="smcgFilter('podcast', this)">Clips</button>
+      <button class="topics-filter-btn active" onclick="smcgFilter('all', this)">All Posts &amp; Clips</button>
     </div>
 
     <div id="smcg-sort-bar" class="topics-sort-bar">
