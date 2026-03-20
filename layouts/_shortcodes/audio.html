@@ -3,17 +3,40 @@
 {{- $sub := .Page.Params.subtitle | default "" -}}
 {{- $n   := .Ordinal -}}
 
-<div class="smcg-card" id="smcg-card-{{ $n }}">
+<div class="smcg-player" id="smcg-player-{{ $n }}">
 
-  <div class="smcg-card-controls">
-    <button class="smcg-card-play" id="smcg-card-play-{{ $n }}" aria-label="Play">
+  <div class="smcg-player-controls">
+
+    <button class="smcg-player-skip" id="smcg-player-back-{{ $n }}" aria-label="Skip back 15 seconds">
+      <svg viewBox="0 0 24 24"><path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/></svg>
+      <span>15</span>
+    </button>
+
+    <button class="smcg-player-play" id="smcg-player-play-{{ $n }}" aria-label="Play">
       <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
     </button>
-    <span class="smcg-card-time" id="smcg-card-time-{{ $n }}">0:00</span>
-    <div class="smcg-card-track" id="smcg-card-track-{{ $n }}">
-      <div class="smcg-card-fill" id="smcg-card-fill-{{ $n }}"></div>
+
+    <button class="smcg-player-skip" id="smcg-player-fwd-{{ $n }}" aria-label="Skip forward 15 seconds">
+      <svg viewBox="0 0 24 24"><path d="M18 13c0 3.31-2.69 6-6 6s-6-2.69-6-6 2.69-6 6-6v4l5-5-5-5v4c-4.42 0-8 3.58-8 8s3.58 8 8 8 8-3.58 8-8h-2z"/></svg>
+      <span>15</span>
+    </button>
+
+    <div class="smcg-player-speeds">
+      <button class="smcg-player-spd" data-rate="0.75">0.75×</button>
+      <button class="smcg-player-spd on" data-rate="1">1×</button>
+      <button class="smcg-player-spd" data-rate="1.25">1.25×</button>
+      <button class="smcg-player-spd" data-rate="1.5">1.5×</button>
+      <button class="smcg-player-spd" data-rate="2">2×</button>
     </div>
-    <span class="smcg-card-dur" id="smcg-card-dur-{{ $n }}">–:––</span>
+
+  </div>
+
+  <div class="smcg-player-progress-row">
+    <span class="smcg-player-time" id="smcg-player-time-{{ $n }}">0:00</span>
+    <div class="smcg-player-track" id="smcg-player-track-{{ $n }}">
+      <div class="smcg-player-fill" id="smcg-player-fill-{{ $n }}"></div>
+    </div>
+    <span class="smcg-player-rem" id="smcg-player-rem-{{ $n }}">–:––</span>
   </div>
 
 </div>
@@ -24,12 +47,16 @@
   var epNum    = {{ $ep }};
   var subtitle = {{ $sub }};
   var pathname = window.location.pathname;
+  var n        = {{ $n }};
 
-  var btnPlay = document.getElementById("smcg-card-play-" + {{ $n }});
-  var elTime  = document.getElementById("smcg-card-time-" + {{ $n }});
-  var elDur   = document.getElementById("smcg-card-dur-"  + {{ $n }});
-  var cTrack  = document.getElementById("smcg-card-track-" + {{ $n }});
-  var cFill   = document.getElementById("smcg-card-fill-"  + {{ $n }});
+  var btnPlay  = document.getElementById("smcg-player-play-" + n);
+  var btnBack  = document.getElementById("smcg-player-back-" + n);
+  var btnFwd   = document.getElementById("smcg-player-fwd-"  + n);
+  var elTime   = document.getElementById("smcg-player-time-" + n);
+  var elRem    = document.getElementById("smcg-player-rem-"  + n);
+  var pTrack   = document.getElementById("smcg-player-track-" + n);
+  var pFill    = document.getElementById("smcg-player-fill-"  + n);
+  var playerEl = document.getElementById("smcg-player-" + n);
 
   var SVG_PLAY  = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
   var SVG_PAUSE = '<svg viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
@@ -39,20 +66,40 @@
   var savedTime  = parseInt(localStorage.getItem("smcg_resume_" + pathname)) || 0;
   var seekTarget = tParam > 0 ? tParam : (savedTime > 30 ? savedTime : 0);
 
+  var ticksRendered = false;
+
   function fmt(s) {
     s = Math.floor(s || 0);
     return Math.floor(s / 60) + ":" + (s % 60 < 10 ? "0" : "") + s % 60;
   }
 
-  /* Sync card UI from global player state */
+  function renderTicks(dur) {
+    if (ticksRendered || !dur || !isFinite(dur)) return;
+    ticksRendered = true;
+    var btns = document.querySelectorAll(".smcg-act-play");
+    btns.forEach(function(btn) {
+      var m = (btn.getAttribute("onclick") || "").match(/seekTo\((\d+)\)/);
+      if (!m) return;
+      var secs = parseInt(m[1]);
+      if (secs <= 0) return;
+      var pct = secs / dur * 100;
+      if (pct <= 0 || pct >= 100) return;
+      var tick = document.createElement("div");
+      tick.className = "smcg-player-tick";
+      tick.style.left = pct + "%";
+      pTrack.appendChild(tick);
+    });
+  }
+
   function sync(detail) {
     if (!detail || detail.episode !== episode) return;
     btnPlay.innerHTML = detail.playing ? SVG_PAUSE : SVG_PLAY;
     elTime.textContent = fmt(detail.time);
     var ga = document.getElementById("smcg-audio");
     if (ga && ga.duration && isFinite(ga.duration)) {
-      cFill.style.width = (detail.time / ga.duration * 100) + "%";
-      elDur.textContent = fmt(ga.duration);
+      pFill.style.width = (detail.time / ga.duration * 100) + "%";
+      elRem.textContent  = fmt(ga.duration - detail.time);
+      renderTicks(ga.duration);
     }
   }
 
@@ -64,18 +111,57 @@
     if (st.episode === episode) sync({ episode: episode, playing: st.playing, time: st.time });
   })();
 
-  /* Play button */
+  /* Play / pause */
   btnPlay.addEventListener("click", function() {
     if (!window.smcgPlayer) return;
     window.smcgPlayer.load(episode, epNum, subtitle, pathname, seekTarget);
   });
 
-  /* Card progress bar seek */
-  cTrack.addEventListener("click", function(e) {
+  /* Skip back 15 s */
+  btnBack.addEventListener("click", function() {
+    var ga = document.getElementById("smcg-audio");
+    var st = window.smcgPlayer && window.smcgPlayer.getState();
+    if (!st || st.episode !== episode || !st.playedIntro) {
+      window.smcgPlayer && window.smcgPlayer.load(episode, epNum, subtitle, pathname, seekTarget);
+      return;
+    }
+    ga.currentTime = Math.max(0, ga.currentTime - 15);
+  });
+
+  /* Skip forward 15 s */
+  btnFwd.addEventListener("click", function() {
+    var ga = document.getElementById("smcg-audio");
+    var st = window.smcgPlayer && window.smcgPlayer.getState();
+    if (!st || st.episode !== episode || !st.playedIntro) {
+      window.smcgPlayer && window.smcgPlayer.load(episode, epNum, subtitle, pathname, seekTarget);
+      return;
+    }
+    if (ga.duration) ga.currentTime = Math.min(ga.duration, ga.currentTime + 15);
+  });
+
+  /* Progress bar seek */
+  pTrack.addEventListener("click", function(e) {
     var ga = document.getElementById("smcg-audio");
     if (!ga || !ga.duration) return;
-    var r = cTrack.getBoundingClientRect();
-    ga.currentTime = Math.max(0, Math.min(1, (e.clientX - r.left) / r.width)) * ga.duration;
+    var st = window.smcgPlayer && window.smcgPlayer.getState();
+    var r  = pTrack.getBoundingClientRect();
+    var pct = Math.max(0, Math.min(1, (e.clientX - r.left) / r.width));
+    if (!st || st.episode !== episode || !st.playedIntro) {
+      window.smcgPlayer && window.smcgPlayer.seekTo(pct * ga.duration, episode, epNum, subtitle, pathname);
+      return;
+    }
+    ga.currentTime = pct * ga.duration;
+  });
+
+  /* Speed buttons */
+  var spdBtns = playerEl.querySelectorAll(".smcg-player-spd");
+  spdBtns.forEach(function(btn) {
+    btn.addEventListener("click", function() {
+      var ga = document.getElementById("smcg-audio");
+      if (ga) ga.playbackRate = parseFloat(btn.dataset.rate);
+      spdBtns.forEach(function(b) { b.classList.remove("on"); });
+      btn.classList.add("on");
+    });
   });
 
   /* seekTo — called by section play buttons */

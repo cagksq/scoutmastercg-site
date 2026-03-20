@@ -392,59 +392,25 @@
   .post-footer .smcg-share-btn { border-color: rgba(255,255,255,0.45); color: #fff; }
   .post-footer .smcg-share-btn:hover { background: rgba(255,255,255,0.12); color: #fff; }
 
-  /* ── Inline player card ──────────────────────────────── */
-  .smcg-card {
-    background: #fff;
-    border: 1px solid #e0e0e0;
-    border-left: 3px solid #3B4D1E;
-    border-radius: 0 6px 6px 0;
-    padding: 0.7rem 1rem 0.8rem;
-    max-width: 640px;
-    margin: 0.5rem 0 1.5rem;
+  /* ── Episode audio player ────────────────────────────── */
+  .smcg-player {
+    background: #1a2a10;
+    border-radius: 8px;
+    padding: 1rem 1.25rem 1rem;
+    margin: 0 0 1.75rem;
     user-select: none;
+    font-family: 'Roboto', sans-serif;
   }
-  .smcg-card-header {
-    display: flex;
-    align-items: baseline;
-    gap: 0.45rem;
-    margin-bottom: 0.6rem;
-    flex-wrap: wrap;
-  }
-  .smcg-card-phase {
-    font-size: 0.58rem;
-    font-weight: 800;
-    letter-spacing: 0.13em;
-    text-transform: uppercase;
-    padding: 2px 6px;
-    border-radius: 3px;
-    background: #ebebeb;
-    color: #999;
-    flex-shrink: 0;
-    transition: background 0.3s, color 0.3s;
-  }
-  .smcg-card-phase.ep { background: #e6f0da; color: #3B4D1E; }
-  .smcg-card-ep {
-    font-size: 0.68rem;
-    color: #bbb;
-    font-weight: 600;
-    flex-shrink: 0;
-  }
-  .smcg-card-sub {
-    font-size: 0.8rem;
-    color: #555;
-    font-style: italic;
-    line-height: 1.3;
-  }
-  .smcg-card-controls {
+  .smcg-player-controls {
     display: flex;
     align-items: center;
-    gap: 0.55rem;
+    gap: 0.6rem;
+    margin-bottom: 0.9rem;
   }
-  .smcg-card-play {
-    width: 38px; height: 38px;
+  .smcg-player-play {
+    width: 52px; height: 52px;
     border-radius: 50%;
-    background: #3B4D1E;
-    color: #fff;
+    background: #527a40;
     border: none;
     cursor: pointer;
     display: flex; align-items: center; justify-content: center;
@@ -452,47 +418,100 @@
     padding: 0;
     transition: background 0.15s, transform 0.1s;
   }
-  .smcg-card-play:hover  { background: #4f6a28; }
-  .smcg-card-play:active { transform: scale(0.93); }
-  .smcg-card-play svg { width: 14px; height: 14px; fill: #fff; }
-  .smcg-card-time, .smcg-card-dur {
+  .smcg-player-play:hover  { background: #3B4D1E; }
+  .smcg-player-play:active { transform: scale(0.93); }
+  .smcg-player-play svg { width: 22px; height: 22px; fill: #fff; }
+  .smcg-player-skip {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #8aaa72;
+    display: flex; flex-direction: column;
+    align-items: center;
+    gap: 1px;
+    padding: 4px 8px;
+    transition: color 0.15s;
+  }
+  .smcg-player-skip:hover { color: #c8e0b0; }
+  .smcg-player-skip svg { width: 20px; height: 20px; fill: currentColor; }
+  .smcg-player-skip span {
+    font-size: 0.6rem;
+    letter-spacing: 0.06em;
+    color: inherit;
+  }
+  .smcg-player-speeds {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 1px;
+  }
+  .smcg-player-spd {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #5a7a48;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.68rem;
+    padding: 3px 6px;
+    border-radius: 3px;
+    transition: color 0.1s, background 0.1s;
+  }
+  .smcg-player-spd:hover { color: #c8e0b0; }
+  .smcg-player-spd.on { color: #fff; background: #3B4D1E; }
+  .smcg-player-progress-row {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+  }
+  .smcg-player-time, .smcg-player-rem {
     font-family: monospace;
-    font-size: 0.7rem;
-    color: #999;
+    font-size: 0.72rem;
+    color: #6a8a58;
     white-space: nowrap;
     flex-shrink: 0;
+    min-width: 2.8rem;
   }
-  .smcg-card-track {
+  .smcg-player-rem { text-align: right; }
+  .smcg-player-track {
     flex: 1;
-    height: 4px;
-    background: #e4e4e4;
-    border-radius: 2px;
-    cursor: pointer;
+    height: 5px;
+    background: rgba(255,255,255,0.12);
+    border-radius: 3px;
     position: relative;
-    margin: 0 2px;
+    cursor: pointer;
   }
-  .smcg-card-track:hover { height: 5px; }
-  .smcg-card-fill {
+  .smcg-player-track:hover { height: 7px; }
+  .smcg-player-fill {
     height: 100%;
-    background: #3B4D1E;
-    border-radius: 2px;
+    background: #527a40;
+    border-radius: 3px;
     width: 0%;
     pointer-events: none;
-    position: relative;
     transition: width 0.25s linear;
+    position: relative;
   }
-  .smcg-card-fill::after {
+  .smcg-player-fill::after {
     content: '';
     position: absolute;
-    right: -6px; top: 50%;
+    right: -7px; top: 50%;
     transform: translateY(-50%);
-    width: 13px; height: 13px;
+    width: 14px; height: 14px;
     border-radius: 50%;
-    background: #3B4D1E;
+    background: #7ab060;
     opacity: 0;
     transition: opacity 0.15s;
   }
-  .smcg-card-track:hover .smcg-card-fill::after { opacity: 1; }
+  .smcg-player-track:hover .smcg-player-fill::after { opacity: 1; }
+  .smcg-player-tick {
+    position: absolute;
+    top: -4px;
+    width: 2px;
+    height: calc(100% + 8px);
+    background: rgba(255,255,255,0.25);
+    border-radius: 1px;
+    transform: translateX(-50%);
+    pointer-events: none;
+  }
 
   /* ── Sticky player bar ────────────────────────────────── */
   .smcg-sticky {
