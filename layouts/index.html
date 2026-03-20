@@ -35,7 +35,10 @@
             {{ range $main.subcategories }}
               {{ $slug := .name | urlize }}
               <a class="topic-sub-row" href="/topics/{{ $slug }}/">
-                <span class="topic-sub-name">{{ .name }}</span>
+                <span class="topic-sub-left">
+                  <span class="topic-sub-name">{{ with .display_name }}{{ . }}{{ else }}{{ .name }}{{ end }}</span>
+                  {{ with .description }}<span class="topic-sub-desc">{{ . }}</span>{{ end }}
+                </span>
                 <span class="topic-sub-meta">
                   <span class="topic-row-count">{{ .post_count }} posts · {{ .podcast_count }} podcast segments</span>
                 </span>

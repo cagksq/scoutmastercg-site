@@ -81,7 +81,7 @@
   .topic-sub-list { background: #fafaf8; }
   .topic-sub-row {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     padding: 0.7rem 1.25rem 0.7rem 2.25rem;
     border-top: 1px solid #ece8e0;
     text-decoration: none;
@@ -89,11 +89,23 @@
     transition: background 0.1s;
   }
   .topic-sub-row:hover { background: #f0f5e8; }
-  .topic-sub-name {
+  .topic-sub-left {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .topic-sub-name {
     font-family: 'Roboto', sans-serif;
     font-size: 0.95rem;
     color: #2d3d28;
+  }
+  .topic-sub-desc {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.75rem;
+    color: #999;
+    font-style: italic;
+    line-height: 1.35;
   }
   .topic-sub-meta {
     display: flex;
@@ -102,20 +114,14 @@
     gap: 1px;
     flex-shrink: 0;
   }
-  /* Shared count/posts labels */
+  /* Shared count labels */
   .topic-row-count {
     font-family: 'Roboto', sans-serif;
-    font-size: 1.0rem;
-    font-weight: 500;
-    color: #2d3d28;
-    line-height: 1;
-  }
-  .topic-row-posts {
-    font-family: 'Roboto', sans-serif;
-    font-size: 0.55rem;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
+    font-size: 0.72rem;
     color: #aaa;
+    line-height: 1.3;
+    text-align: right;
+    white-space: nowrap;
   }
   .topic-row-arrow { font-size: 1.1rem; color: #c8c0aa; flex-shrink: 0; margin-left: 2px; }
   @media (min-width: 640px) {
@@ -153,6 +159,14 @@
     color: #1a2a10;
     margin: 0.25rem 0 0.25rem;
     line-height: 1.2;
+  }
+  .topics-page-desc {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.85rem;
+    color: #888;
+    font-style: italic;
+    margin: 0 0 0.35rem;
+    line-height: 1.45;
   }
   .topics-page-count {
     font-family: 'Roboto', sans-serif;

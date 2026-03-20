@@ -9,103 +9,120 @@
         "name": "Why Youth-Led Scouting Works",
         "count": 61,
         "post_count": 33,
-        "podcast_count": 28
+        "podcast_count": 28,
+        "description": "The philosophical case for youth-led Scouting: what adultism is, the nature of Scout autonomy, and why adults need to step back."
       },
       {
         "name": "Putting Youth in Charge",
         "count": 92,
         "post_count": 62,
-        "podcast_count": 30
+        "podcast_count": 30,
+        "description": "The practical mechanics of stepping back: how the PLC works, proximity effects, and trusting youth leadership in action."
       },
       {
         "name": "Giving Scouts Authority",
         "count": 14,
         "post_count": 11,
-        "podcast_count": 3
+        "podcast_count": 3,
+        "description": "Actively giving Scouts real authority, inspiring initiative, and program ownership."
       },
       {
         "name": "Developing & Training Youth Leaders",
         "count": 73,
         "post_count": 55,
-        "podcast_count": 18
+        "podcast_count": 18,
+        "description": "How to grow Scout leaders through coaching, training, and building confidence."
       },
       {
         "name": "Youth Leader Roles",
         "count": 23,
         "post_count": 16,
-        "podcast_count": 7
+        "podcast_count": 7,
+        "description": "SPL, patrol leader, PLC roles, elections, and job descriptions."
       },
       {
         "name": "Keeping Older Scouts Engaged",
         "count": 24,
         "post_count": 13,
-        "podcast_count": 11
+        "podcast_count": 11,
+        "description": "Retaining older Scouts, handling the transition to independence, and keeping 14\u201317 year olds active."
       },
       {
         "name": "The Scouter & the Scout",
         "count": 113,
         "post_count": 107,
-        "podcast_count": 6
+        "podcast_count": 6,
+        "description": "The direct human relationship between Scouter and individual Scout: listening, serving, and encouraging."
       },
       {
         "name": "Guiding Youth Leaders",
         "count": 15,
         "post_count": 0,
-        "podcast_count": 15
+        "podcast_count": 15,
+        "description": "Practical techniques for coaching Scouts in leadership roles without taking over."
       },
       {
         "name": "Working through Problems",
         "count": 14,
         "post_count": 10,
-        "podcast_count": 4
+        "podcast_count": 4,
+        "description": "Specific difficult situations: Scouts wanting to quit, homesickness, and problem behavior."
       },
       {
         "name": "The Scouter Role",
         "count": 98,
         "post_count": 54,
-        "podcast_count": 44
+        "podcast_count": 44,
+        "description": "What the Scoutmaster role means: its identity, mission, philosophy, and why we have Scoutmasters."
       },
       {
         "name": "The Scouter in Practice",
         "count": 47,
         "post_count": 26,
-        "podcast_count": 21
+        "podcast_count": 21,
+        "description": "The day-to-day job: mistakes, longevity, troop running, and common challenges."
       },
       {
         "name": "New & Transitioning Adult Leaders",
         "count": 32,
         "post_count": 13,
-        "podcast_count": 19
+        "podcast_count": 19,
+        "description": "Leaders starting out, taking over a troop, or new to the role."
       },
       {
         "name": "Working with Adult Leaders",
         "count": 34,
         "post_count": 15,
-        "podcast_count": 19
+        "podcast_count": 19,
+        "description": "Building and managing the adult leadership team: the committee, assistant Scoutmasters, and district relationships."
       },
       {
         "name": "Understanding the Patrol Method",
         "count": 83,
         "post_count": 38,
-        "podcast_count": 45
+        "podcast_count": 45,
+        "description": "What the patrol method is, its history, philosophy, and why it matters."
       },
       {
         "name": "How Patrols Work",
         "count": 69,
         "post_count": 28,
-        "podcast_count": 41
+        "podcast_count": 41,
+        "description": "Day-to-day mechanics: patrol meetings, outings, and fixing patrol problems."
       },
       {
         "name": "Defining Leadership",
         "count": 20,
         "post_count": 20,
-        "podcast_count": 0
+        "podcast_count": 0,
+        "description": "Leadership principles, models, and practice in a Scouting context."
       },
       {
         "name": "What Scouting Does",
         "count": 46,
         "post_count": 46,
-        "podcast_count": 0
+        "podcast_count": 0,
+        "description": "What Scouting actually accomplishes in the lives of young people and why it works."
       }
     ]
   },
@@ -119,37 +136,43 @@
         "name": "Scout Advancement",
         "count": 85,
         "post_count": 49,
-        "podcast_count": 36
+        "podcast_count": 36,
+        "description": "The advancement program: how it works, what it's for, and how to apply it in a way that serves Scouts."
       },
       {
         "name": "Merit Badges",
         "count": 25,
         "post_count": 10,
-        "podcast_count": 15
+        "podcast_count": 15,
+        "description": "Merit badges as tools for exploration and growth \u2014 and how not to turn them into hoops to jump through."
       },
       {
         "name": "Eagle Scout",
         "count": 38,
         "post_count": 20,
-        "podcast_count": 18
+        "podcast_count": 18,
+        "description": "The Eagle Scout rank: what it means, how to support Scouts pursuing it, and how to avoid making it an obstacle."
       },
       {
         "name": "Instructional Methods",
         "count": 62,
         "post_count": 49,
-        "podcast_count": 13
+        "podcast_count": 13,
+        "description": "How Scouts learn best: skill instruction, demonstrations, and the difference between showing and telling."
       },
       {
         "name": "Scout Activities & Games",
         "count": 28,
         "post_count": 20,
-        "podcast_count": 8
+        "podcast_count": 8,
+        "description": "Games, activities, and program elements that make troop meetings and campouts engaging."
       },
       {
         "name": "Patrol Planning & Operations",
         "count": 36,
         "post_count": 11,
-        "podcast_count": 25
+        "podcast_count": 25,
+        "description": "How patrols plan and run their own programs, meetings, and outings."
       }
     ]
   },
@@ -163,31 +186,36 @@
         "name": "Camping",
         "count": 30,
         "post_count": 23,
-        "podcast_count": 7
+        "podcast_count": 7,
+        "description": "The practical and philosophical dimensions of getting Scouts outdoors and into the wild."
       },
       {
         "name": "High Adventure & Canoe Trips",
         "count": 47,
         "post_count": 29,
-        "podcast_count": 18
+        "podcast_count": 18,
+        "description": "Extended expeditions, backcountry travel, canoe treks, and the adventures that define a Scout's career."
       },
       {
         "name": "Risk Management & Safety",
         "count": 49,
         "post_count": 25,
-        "podcast_count": 24
+        "podcast_count": 24,
+        "description": "Keeping Scouts safe without eliminating the productive risk and challenge that makes Scouting valuable."
       },
       {
         "name": "Outdoor Skills & Gear",
         "count": 44,
         "post_count": 33,
-        "podcast_count": 11
+        "podcast_count": 11,
+        "description": "The practical skills of camping, hiking, and wilderness travel, and the gear that supports them."
       },
       {
         "name": "Nature & Environment",
         "count": 13,
         "post_count": 12,
-        "podcast_count": 1
+        "podcast_count": 1,
+        "description": "Developing in Scouts a love and respect for the natural world."
       }
     ]
   },
@@ -201,31 +229,36 @@
         "name": "Scoutmaster Conference",
         "count": 48,
         "post_count": 10,
-        "podcast_count": 38
+        "podcast_count": 38,
+        "description": "The Scoutmaster conference as a mentoring conversation \u2014 how to make it meaningful rather than a formality."
       },
       {
         "name": "Troop Administration",
         "count": 107,
         "post_count": 36,
-        "podcast_count": 71
+        "podcast_count": 71,
+        "description": "The practical business of running a troop: records, meetings, committees, and staying organized."
       },
       {
         "name": "Discipline & Behavior",
         "count": 51,
         "post_count": 24,
-        "podcast_count": 27
+        "podcast_count": 27,
+        "description": "Handling difficult behavior in Scouts and adults, setting standards, and maintaining a healthy troop culture."
       },
       {
         "name": "Parent Relations",
         "count": 55,
         "post_count": 30,
-        "podcast_count": 25
+        "podcast_count": 25,
+        "description": "Working with Scout parents: setting expectations, handling interference, and turning parents into allies."
       },
       {
         "name": "Volunteer Management & Burnout",
         "count": 40,
         "post_count": 27,
-        "podcast_count": 13
+        "podcast_count": 13,
+        "description": "Recruiting and retaining adult volunteers, managing your own energy, and avoiding burnout."
       }
     ]
   },
@@ -239,37 +272,45 @@
         "name": "BSA Rules & Policy",
         "count": 49,
         "post_count": 18,
-        "podcast_count": 31
+        "podcast_count": 31,
+        "description": "Official BSA guidelines, advancement rules, safety policies, and how to apply them without losing sight of what Scouting is for.",
+        "display_name": "Rules & Policy"
       },
       {
         "name": "Scouting History & Tradition",
         "count": 62,
         "post_count": 40,
-        "podcast_count": 22
+        "podcast_count": 22,
+        "description": "The history of the Scouting movement, its founders, traditions, and the ideas that have endured for over a century."
       },
       {
         "name": "B.P. on Leadership & the Scouting Method",
         "count": 87,
         "post_count": 71,
-        "podcast_count": 16
+        "podcast_count": 16,
+        "description": "Baden-Powell on the patrol system, Scouter roles, training, and the game of Scouting."
       },
       {
         "name": "B.P. on Character & Citizenship",
         "count": 20,
         "post_count": 19,
-        "podcast_count": 1
+        "podcast_count": 1,
+        "description": "Baden-Powell on ethics, faith, international brotherhood, and character."
       },
       {
         "name": "BSA Membership & Inclusion",
         "count": 32,
         "post_count": 27,
-        "podcast_count": 5
+        "podcast_count": 5,
+        "description": "Scouting's evolving membership policies, inclusion of girls and youth with disabilities, and the broader question of who Scouting is for.",
+        "display_name": "Membership & Inclusion"
       },
       {
         "name": "Organizational Structure",
         "count": 5,
         "post_count": 4,
-        "podcast_count": 1
+        "podcast_count": 1,
+        "description": "How troops, districts, councils, and chartered organizations fit together."
       }
     ]
   },
@@ -283,43 +324,50 @@
         "name": "Scout Law & Oath",
         "count": 57,
         "post_count": 42,
-        "podcast_count": 15
+        "podcast_count": 15,
+        "description": "The Scout Oath and Law as living ideals: what each point means and how it shapes Scout character."
       },
       {
         "name": "What is Meant by Character",
         "count": 18,
         "post_count": 18,
-        "podcast_count": 0
+        "podcast_count": 0,
+        "description": "Defining character and the philosophical treatment of values."
       },
       {
         "name": "How Scouting Builds Character",
         "count": 36,
         "post_count": 31,
-        "podcast_count": 5
+        "podcast_count": 5,
+        "description": "Scouting as a vehicle for character growth through the patrol method and outdoor experience."
       },
       {
         "name": "Character & Values in Action",
         "count": 18,
         "post_count": 18,
-        "podcast_count": 0
+        "podcast_count": 0,
+        "description": "Specific virtues, Scout Law points, and examples of character in practice."
       },
       {
         "name": "Citizenship & Patriotism",
         "count": 10,
         "post_count": 7,
-        "podcast_count": 3
+        "podcast_count": 3,
+        "description": "What it means to be a good citizen, the Scout's duty to country, and Scouting's relationship with civic life."
       },
       {
         "name": "Spirituality & Religion",
         "count": 16,
         "post_count": 14,
-        "podcast_count": 2
+        "podcast_count": 2,
+        "description": "The place of faith, reverence, and spiritual development in Scouting."
       },
       {
         "name": "Kindness Empathy & Inclusion",
         "count": 27,
         "post_count": 20,
-        "podcast_count": 7
+        "podcast_count": 7,
+        "description": "Building troops where every Scout belongs: addressing bullying, modeling kindness, and creating genuine inclusion."
       }
     ]
   },
@@ -333,31 +381,36 @@
         "name": "Scout Parents",
         "count": 17,
         "post_count": 7,
-        "podcast_count": 10
+        "podcast_count": 10,
+        "description": "The unique challenge of being both a parent and a Scout leader for the same young person."
       },
       {
         "name": "Fundraising & Finances",
         "count": 11,
         "post_count": 8,
-        "podcast_count": 3
+        "podcast_count": 3,
+        "description": "Troop finances, fundraising approaches, and keeping money in its proper place in Scouting."
       },
       {
         "name": "Summer Camp",
         "count": 21,
         "post_count": 13,
-        "podcast_count": 8
+        "podcast_count": 8,
+        "description": "Getting the most out of Scout summer camp for the troop, individual Scouts, and adult leaders."
       },
       {
         "name": "International Scouting",
         "count": 19,
         "post_count": 9,
-        "podcast_count": 10
+        "podcast_count": 10,
+        "description": "Scouting around the world and what the global movement has to teach American Scouters."
       },
       {
         "name": "Personal Reflection",
         "count": 49,
         "post_count": 40,
-        "podcast_count": 9
+        "podcast_count": 9,
+        "description": "Clarke's personal reflections on Scouting, leadership, and thirty years as a Scoutmaster."
       }
     ]
   },
@@ -371,25 +424,29 @@
         "name": "Quotes and Brief Reflections",
         "count": 13,
         "post_count": 13,
-        "podcast_count": 0
+        "podcast_count": 0,
+        "description": "Short observations, quotations, and brief meditations on Scouting and leadership."
       },
       {
         "name": "Opening Jokes",
         "count": 368,
         "post_count": 0,
-        "podcast_count": 368
+        "podcast_count": 368,
+        "description": "Clarke's opening jokes from the Scoutmaster podcast."
       },
       {
         "name": "Brick Mason Episodes",
         "count": 7,
         "post_count": 0,
-        "podcast_count": 7
+        "podcast_count": 7,
+        "description": "Podcast segments featuring Clarke's friend and fellow Scouter, the Brick Mason."
       },
       {
         "name": "This Has to Be the Truth",
         "count": 21,
         "post_count": 0,
-        "podcast_count": 21
+        "podcast_count": 21,
+        "description": "Listener stories from the Scoutmaster podcast."
       }
     ]
   }

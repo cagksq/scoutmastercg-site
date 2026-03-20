@@ -1,13 +1,14 @@
 {{ define "main" }}
   <article class="mw7 center ph3 pb5">
 
-    {{/* Find the main category this topic belongs to */}}
+    {{/* Find parent category + description from topic_structure */}}
     {{ range site.Data.topic_structure }}
       {{ $parent := .name }}
       {{ range .subcategories }}
         {{ if eq .name $.Title }}
-          {{ $.Scratch.Set "parentCat" $parent }}
+          {{ $.Scratch.Set "parentCat"  $parent }}
           {{ $.Scratch.Set "parentSlug" ($parent | urlize) }}
+          {{ $.Scratch.Set "topicDesc"  .description }}
         {{ end }}
       {{ end }}
     {{ end }}
@@ -23,6 +24,7 @@
     </nav>
 
     <h1 class="topics-page-title">{{ .Title }}</h1>
+    {{ with $.Scratch.Get "topicDesc" }}<p class="topics-page-desc">{{ . }}</p>{{ end }}
     <p class="topics-page-count">{{ len .Pages }} posts · {{ len $podMatches }} podcast segments</p>
 
     <div class="topics-filter-bar">
@@ -73,14 +75,14 @@
     document.querySelectorAll('.topics-filter-btn').forEach(function(b) {
       b.classList.toggle('active', b === btn);
     });
-    var postsSection  = document.getElementById('smcg-posts-section');
-    var podSection    = document.getElementById('smcg-podcasts-section');
-    var sortBar       = document.getElementById('smcg-sort-bar');
-    var showPosts     = filter === 'all' || filter === 'posts';
-    var showPodcasts  = filter === 'all' || filter === 'podcast';
-    if (postsSection)  postsSection.hidden  = !showPosts;
-    if (podSection)    podSection.hidden    = !showPodcasts;
-    if (sortBar)       sortBar.hidden       = !showPosts;
+    var postsSection = document.getElementById('smcg-posts-section');
+    var podSection   = document.getElementById('smcg-podcasts-section');
+    var sortBar      = document.getElementById('smcg-sort-bar');
+    var showPosts    = filter === 'all' || filter === 'posts';
+    var showPodcasts = filter === 'all' || filter === 'podcast';
+    if (postsSection) postsSection.hidden = !showPosts;
+    if (podSection)   podSection.hidden   = !showPodcasts;
+    if (sortBar)      sortBar.hidden      = !showPosts;
   };
   </script>
 {{ end }}
