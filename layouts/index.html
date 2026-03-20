@@ -20,14 +20,14 @@
 
   {{/* Topic accordion */}}
   <section class="topics-section">
-    <h2 class="topics-heading">Browse 900+ Blog Posts by Topic</h2>
+    <h2 class="topics-heading">Browse 1,700+ Blog Posts &amp; Podcast Clips by Topic</h2>
     <div class="topics-list">
       {{ range $i, $main := site.Data.topic_structure }}
         <div class="topic-main" id="{{ $main.name | urlize }}">
           <button class="topic-main-btn" onclick="smcgToggle(this)" aria-expanded="false">
             <span class="topic-main-name">{{ $main.name }}</span>
             <span class="topic-main-meta">
-              <span class="topic-row-count">{{ $main.post_count }} posts · {{ $main.podcast_count }} podcast segments</span>
+              <span class="topic-row-count">{{ $main.post_count }} posts · {{ $main.podcast_count }} clips</span>
             </span>
             <span class="topic-main-arrow">›</span>
           </button>
@@ -40,7 +40,7 @@
                   {{ with .description }}<span class="topic-sub-desc">{{ . }}</span>{{ end }}
                 </span>
                 <span class="topic-sub-meta">
-                  <span class="topic-row-count">{{ .post_count }} posts · {{ .podcast_count }} podcast segments</span>
+                  <span class="topic-row-count">{{ .post_count }} posts · {{ .podcast_count }} clips</span>
                 </span>
                 <span class="topic-row-arrow">›</span>
               </a>
