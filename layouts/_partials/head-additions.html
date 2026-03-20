@@ -394,7 +394,8 @@
 
   /* ── Episode audio player ────────────────────────────── */
   .smcg-player {
-    background: #1a2a10;
+    background: #f5f3ef;
+    border: 1px solid #ddd8cf;
     border-radius: 8px;
     padding: 1rem 1.25rem 1rem;
     margin: 0 0 1.75rem;
@@ -410,7 +411,7 @@
   .smcg-player-play {
     width: 52px; height: 52px;
     border-radius: 50%;
-    background: #527a40;
+    background: #3B4D1E;
     border: none;
     cursor: pointer;
     display: flex; align-items: center; justify-content: center;
@@ -418,21 +419,21 @@
     padding: 0;
     transition: background 0.15s, transform 0.1s;
   }
-  .smcg-player-play:hover  { background: #3B4D1E; }
+  .smcg-player-play:hover  { background: #2c3a16; }
   .smcg-player-play:active { transform: scale(0.93); }
   .smcg-player-play svg { width: 22px; height: 22px; fill: #fff; }
   .smcg-player-skip {
     background: none;
     border: none;
     cursor: pointer;
-    color: #8aaa72;
+    color: #527a40;
     display: flex; flex-direction: column;
     align-items: center;
     gap: 1px;
     padding: 4px 8px;
     transition: color 0.15s;
   }
-  .smcg-player-skip:hover { color: #c8e0b0; }
+  .smcg-player-skip:hover { color: #3B4D1E; }
   .smcg-player-skip svg { width: 20px; height: 20px; fill: currentColor; }
   .smcg-player-skip span {
     font-size: 0.6rem;
@@ -449,14 +450,14 @@
     background: none;
     border: none;
     cursor: pointer;
-    color: #5a7a48;
+    color: #999;
     font-family: 'Roboto', sans-serif;
     font-size: 0.68rem;
     padding: 3px 6px;
     border-radius: 3px;
     transition: color 0.1s, background 0.1s;
   }
-  .smcg-player-spd:hover { color: #c8e0b0; }
+  .smcg-player-spd:hover { color: #3B4D1E; }
   .smcg-player-spd.on { color: #fff; background: #3B4D1E; }
   .smcg-player-progress-row {
     display: flex;
@@ -466,7 +467,7 @@
   .smcg-player-time, .smcg-player-rem {
     font-family: monospace;
     font-size: 0.72rem;
-    color: #6a8a58;
+    color: #666;
     white-space: nowrap;
     flex-shrink: 0;
     min-width: 2.8rem;
@@ -475,7 +476,7 @@
   .smcg-player-track {
     flex: 1;
     height: 5px;
-    background: rgba(255,255,255,0.12);
+    background: rgba(0,0,0,0.15);
     border-radius: 3px;
     position: relative;
     cursor: pointer;
@@ -497,7 +498,7 @@
     transform: translateY(-50%);
     width: 14px; height: 14px;
     border-radius: 50%;
-    background: #7ab060;
+    background: #3B4D1E;
     opacity: 0;
     transition: opacity 0.15s;
   }
@@ -507,7 +508,7 @@
     top: -4px;
     width: 2px;
     height: calc(100% + 8px);
-    background: rgba(255,255,255,0.25);
+    background: rgba(59,77,30,0.45);
     border-radius: 1px;
     transform: translateX(-50%);
     pointer-events: none;
