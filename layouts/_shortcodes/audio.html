@@ -5,12 +5,6 @@
 
 <div class="smcg-card" id="smcg-card-{{ $n }}">
 
-  <div class="smcg-card-header">
-    <span class="smcg-card-phase" id="smcg-card-phase-{{ $n }}">INTRO</span>
-    {{ with $ep }}<span class="smcg-card-ep">EP&nbsp;{{ . }}</span>{{ end }}
-    {{ with $sub }}<span class="smcg-card-sub">{{ . }}</span>{{ end }}
-  </div>
-
   <div class="smcg-card-controls">
     <button class="smcg-card-play" id="smcg-card-play-{{ $n }}" aria-label="Play">
       <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
@@ -36,7 +30,6 @@
   var elDur   = document.getElementById("smcg-card-dur-"  + {{ $n }});
   var cTrack  = document.getElementById("smcg-card-track-" + {{ $n }});
   var cFill   = document.getElementById("smcg-card-fill-"  + {{ $n }});
-  var cPhase  = document.getElementById("smcg-card-phase-" + {{ $n }});
 
   var SVG_PLAY  = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
   var SVG_PAUSE = '<svg viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
@@ -60,9 +53,6 @@
     if (ga && ga.duration && isFinite(ga.duration)) {
       cFill.style.width = (detail.time / ga.duration * 100) + "%";
       elDur.textContent = fmt(ga.duration);
-      var isEpisode = ga.dataset.phase === "episode";
-      cPhase.textContent = isEpisode ? "EPISODE" : "INTRO";
-      if (isEpisode) cPhase.classList.add("ep"); else cPhase.classList.remove("ep");
     }
   }
 
