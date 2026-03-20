@@ -20,6 +20,11 @@ theme = "ananke"
     weight = 1
 
   [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 2
+
+  [[menu.main]]
     name = "Podcast Archive"
     url = "/podcasts/"
     weight = 3

@@ -1,0 +1,86 @@
+{{ define "main" }}
+{{ $items := site.Data.resources }}
+
+{{/* Collect unique categories in order */}}
+{{ $cats := slice }}
+{{ range $items }}
+  {{ if not (in $cats .category) }}
+    {{ $cats = $cats | append .category }}
+  {{ end }}
+{{ end }}
+
+<div class="res-page mw8 center ph3 pb5">
+
+  <div class="res-header">
+    <h1 class="res-title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="res-subtitle">{{ . }}</p>{{ end }}
+  </div>
+
+  {{/* Category filter tabs */}}
+  <div class="res-filter-bar" role="tablist">
+    <button class="res-filter-btn active" data-cat="all" onclick="resFilter('all',this)">All</button>
+    {{ range $cats }}
+    <button class="res-filter-btn" data-cat="{{ . }}" onclick="resFilter({{ . | jsonify }},this)">{{ . }}</button>
+    {{ end }}
+  </div>
+
+  {{/* Card gallery */}}
+  <div class="res-gallery" id="res-gallery">
+    {{ range $items }}
+    {{ $pdfUrl := .pdf_path }}
+    <div class="res-card" data-cat="{{ .category }}" data-title="{{ .title }}" data-pdf="{{ $pdfUrl }}">
+      <div class="res-card-thumb" onclick="resOpen({{ $pdfUrl | jsonify }}, {{ .title | jsonify }})">
+        <img src="{{ .thumb_path }}" alt="{{ .title }}" loading="lazy"
+             onerror="this.parentElement.classList.add('res-thumb-missing')">
+        <div class="res-card-overlay"><span>View</span></div>
+      </div>
+      <div class="res-card-title">{{ .title }}</div>
+    </div>
+    {{ end }}
+  </div>
+
+</div>
+
+{{/* Viewer panel */}}
+<div class="res-viewer-backdrop" id="res-backdrop" onclick="resClose()" style="display:none;"></div>
+<div class="res-viewer" id="res-viewer" style="display:none;">
+  <div class="res-viewer-header">
+    <span class="res-viewer-title" id="res-viewer-title"></span>
+    <div class="res-viewer-actions">
+      <a class="res-viewer-btn" id="res-viewer-download" download>Download</a>
+      <a class="res-viewer-btn res-viewer-btn--outline" id="res-viewer-newtab" target="_blank" rel="noopener">Open in new tab</a>
+      <button class="res-viewer-close" onclick="resClose()" aria-label="Close">✕</button>
+    </div>
+  </div>
+  <iframe class="res-viewer-frame" id="res-viewer-frame" src="" title="PDF viewer"></iframe>
+</div>
+
+<script>
+function resFilter(cat, btn) {
+  document.querySelectorAll('.res-filter-btn').forEach(function(b){ b.classList.remove('active'); });
+  btn.classList.add('active');
+  document.querySelectorAll('.res-card').forEach(function(c){
+    c.style.display = (cat === 'all' || c.dataset.cat === cat) ? '' : 'none';
+  });
+}
+
+function resOpen(pdfPath, title) {
+  document.getElementById('res-viewer-title').textContent = title;
+  document.getElementById('res-viewer-frame').src = pdfPath;
+  document.getElementById('res-viewer-download').href = pdfPath;
+  document.getElementById('res-viewer-newtab').href = pdfPath;
+  document.getElementById('res-backdrop').style.display = '';
+  document.getElementById('res-viewer').style.display = '';
+  document.body.style.overflow = 'hidden';
+}
+
+function resClose() {
+  document.getElementById('res-backdrop').style.display = 'none';
+  document.getElementById('res-viewer').style.display = 'none';
+  document.getElementById('res-viewer-frame').src = '';
+  document.body.style.overflow = '';
+}
+
+document.addEventListener('keydown', function(e){ if(e.key === 'Escape') resClose(); });
+</script>
+{{ end }}

@@ -1,0 +1,682 @@
+[
+  {
+    "category": "Advancement",
+    "title": "1st class 1 a",
+    "filename": "1st class 1 a.pdf",
+    "slug": "1st-class-1-a",
+    "pdf_path": "/PDF /Advancement/1st class 1 a.pdf",
+    "thumb_path": "/images/resources/Advancement/1st-class-1-a.png"
+  },
+  {
+    "category": "Advancement",
+    "title": "How to Use a Blue card",
+    "filename": "How to Use a Blue card.pdf",
+    "slug": "how-to-use-a-blue-card",
+    "pdf_path": "/PDF /Advancement/How to Use a Blue card.pdf",
+    "thumb_path": "/images/resources/Advancement/how-to-use-a-blue-card.png"
+  },
+  {
+    "category": "Advancement",
+    "title": "How to Use a Merit Badge Blue Card",
+    "filename": "How to Use a Merit Badge Blue Card.pdf",
+    "slug": "how-to-use-a-merit-badge-blue-card",
+    "pdf_path": "/PDF /Advancement/How to Use a Merit Badge Blue Card.pdf",
+    "thumb_path": "/images/resources/Advancement/how-to-use-a-merit-badge-blue-card.png"
+  },
+  {
+    "category": "Advancement",
+    "title": "One Page Scoutmaster Conferences",
+    "filename": "One Page Scoutmaster Conferences.pdf",
+    "slug": "one-page-scoutmaster-conferences",
+    "pdf_path": "/PDF /Advancement/One Page Scoutmaster Conferences.pdf",
+    "thumb_path": "/images/resources/Advancement/one-page-scoutmaster-conferences.png"
+  },
+  {
+    "category": "Advancement",
+    "title": "Phasing in New Rank Requirements 2016",
+    "filename": "Phasing in New Rank Requirements 2016.pdf",
+    "slug": "phasing-in-new-rank-requirements-2016",
+    "pdf_path": "/PDF /Advancement/Phasing in New Rank Requirements 2016.pdf",
+    "thumb_path": "/images/resources/Advancement/phasing-in-new-rank-requirements-2016.png"
+  },
+  {
+    "category": "Camping Gear",
+    "title": "Gutter Spike Tent Stakes",
+    "filename": "Gutter Spike Tent Stakes.pdf",
+    "slug": "gutter-spike-tent-stakes",
+    "pdf_path": "/PDF /Camping Gear/Gutter Spike Tent Stakes.pdf",
+    "thumb_path": "/images/resources/Camping Gear/gutter-spike-tent-stakes.png"
+  },
+  {
+    "category": "Camping Gear",
+    "title": "Keep Your Camping Gear Dry",
+    "filename": "Keep Your Camping Gear Dry.pdf",
+    "slug": "keep-your-camping-gear-dry",
+    "pdf_path": "/PDF /Camping Gear/Keep Your Camping Gear Dry.pdf",
+    "thumb_path": "/images/resources/Camping Gear/keep-your-camping-gear-dry.png"
+  },
+  {
+    "category": "Camping Gear",
+    "title": "Outdoor Clothing Basics",
+    "filename": "Outdoor Clothing Basics.pdf",
+    "slug": "outdoor-clothing-basics",
+    "pdf_path": "/PDF /Camping Gear/Outdoor Clothing Basics.pdf",
+    "thumb_path": "/images/resources/Camping Gear/outdoor-clothing-basics.png"
+  },
+  {
+    "category": "Camping Gear",
+    "title": "Scoumastercg Gear Shopping Guide",
+    "filename": "Scoumastercg Gear Shopping Guide.pdf",
+    "slug": "scoumastercg-gear-shopping-guide",
+    "pdf_path": "/PDF /Camping Gear/Scoumastercg Gear Shopping Guide.pdf",
+    "thumb_path": "/images/resources/Camping Gear/scoumastercg-gear-shopping-guide.png"
+  },
+  {
+    "category": "Camping Gear",
+    "title": "Sleeping Warm",
+    "filename": "Sleeping Warm.pdf",
+    "slug": "sleeping-warm",
+    "pdf_path": "/PDF /Camping Gear/Sleeping Warm.pdf",
+    "thumb_path": "/images/resources/Camping Gear/sleeping-warm.png"
+  },
+  {
+    "category": "Camping Gear",
+    "title": "Three Things Parent's Can Do to Help with Gear",
+    "filename": "Three Things Parent's Can Do to Help with Gear.pdf",
+    "slug": "three-things-parent-s-can-do-to-help-with-gear",
+    "pdf_path": "/PDF /Camping Gear/Three Things Parent's Can Do to Help with Gear.pdf",
+    "thumb_path": "/images/resources/Camping Gear/three-things-parent-s-can-do-to-help-with-gear.png"
+  },
+  {
+    "category": "Camping Gear",
+    "title": "When You Go Camping Go Light!",
+    "filename": "When You Go Camping Go Light!.pdf",
+    "slug": "when-you-go-camping-go-light",
+    "pdf_path": "/PDF /Camping Gear/When You Go Camping Go Light!.pdf",
+    "thumb_path": "/images/resources/Camping Gear/when-you-go-camping-go-light.png"
+  },
+  {
+    "category": "Camping Gear",
+    "title": "backpack basics",
+    "filename": "backpack basics.pdf",
+    "slug": "backpack-basics",
+    "pdf_path": "/PDF /Camping Gear/backpack basics.pdf",
+    "thumb_path": "/images/resources/Camping Gear/backpack-basics.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "AXE CARE",
+    "filename": "AXE CARE.pdf",
+    "slug": "axe-care",
+    "pdf_path": "/PDF /Camping Skills/AXE CARE.pdf",
+    "thumb_path": "/images/resources/Camping Skills/axe-care.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "Disposable Gas Canisters or Wood",
+    "filename": "Disposable Gas Canisters or Wood.pdf",
+    "slug": "disposable-gas-canisters-or-wood",
+    "pdf_path": "/PDF /Camping Skills/Disposable Gas Canisters or Wood.pdf",
+    "thumb_path": "/images/resources/Camping Skills/disposable-gas-canisters-or-wood.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "Fire by Friction",
+    "filename": "Fire by Friction.pdf",
+    "slug": "fire-by-friction",
+    "pdf_path": "/PDF /Camping Skills/Fire by Friction.pdf",
+    "thumb_path": "/images/resources/Camping Skills/fire-by-friction.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "How to Build a Campfire",
+    "filename": "How to Build a Campfire.pdf",
+    "slug": "how-to-build-a-campfire",
+    "pdf_path": "/PDF /Camping Skills/How to Build a Campfire.pdf",
+    "thumb_path": "/images/resources/Camping Skills/how-to-build-a-campfire.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "How to make a fire in the rain",
+    "filename": "How to make a fire in the rain.pdf",
+    "slug": "how-to-make-a-fire-in-the-rain",
+    "pdf_path": "/PDF /Camping Skills/How to make a fire in the rain.pdf",
+    "thumb_path": "/images/resources/Camping Skills/how-to-make-a-fire-in-the-rain.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "Lightning Safety",
+    "filename": "Lightning Safety.pdf",
+    "slug": "lightning-safety",
+    "pdf_path": "/PDF /Camping Skills/Lightning Safety.pdf",
+    "thumb_path": "/images/resources/Camping Skills/lightning-safety.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "Pioneering Chair",
+    "filename": "Pioneering Chair.pdf",
+    "slug": "pioneering-chair",
+    "pdf_path": "/PDF /Camping Skills/Pioneering Chair.pdf",
+    "thumb_path": "/images/resources/Camping Skills/pioneering-chair.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "Simple Camp Seat",
+    "filename": "Simple Camp Seat.pdf",
+    "slug": "simple-camp-seat",
+    "pdf_path": "/PDF /Camping Skills/Simple Camp Seat.pdf",
+    "thumb_path": "/images/resources/Camping Skills/simple-camp-seat.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "Top Ten Fire Starters",
+    "filename": "Top Ten Fire Starters.pdf",
+    "slug": "top-ten-fire-starters",
+    "pdf_path": "/PDF /Camping Skills/Top Ten Fire Starters.pdf",
+    "thumb_path": "/images/resources/Camping Skills/top-ten-fire-starters.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "philmont dining fly",
+    "filename": "philmont dining fly.pdf",
+    "slug": "philmont-dining-fly",
+    "pdf_path": "/PDF /Camping Skills/philmont dining fly.pdf",
+    "thumb_path": "/images/resources/Camping Skills/philmont-dining-fly.png"
+  },
+  {
+    "category": "Camping Skills",
+    "title": "wilderness emergencies",
+    "filename": "wilderness emergencies.pdf",
+    "slug": "wilderness-emergencies",
+    "pdf_path": "/PDF /Camping Skills/wilderness emergencies.pdf",
+    "thumb_path": "/images/resources/Camping Skills/wilderness-emergencies.png"
+  },
+  {
+    "category": "Cooking",
+    "title": "Favorite Recipies - Scoutmastercg.com",
+    "filename": "Favorite Recipies - Scoutmastercg.com.pdf",
+    "slug": "favorite-recipies-scoutmastercg-com",
+    "pdf_path": "/PDF /Cooking/Favorite Recipies - Scoutmastercg.com.pdf",
+    "thumb_path": "/images/resources/Cooking/favorite-recipies-scoutmastercg-com.png"
+  },
+  {
+    "category": "Cooking",
+    "title": "How to Wash Dishes When Camping",
+    "filename": "How to Wash Dishes When Camping.pdf",
+    "slug": "how-to-wash-dishes-when-camping",
+    "pdf_path": "/PDF /Cooking/How to Wash Dishes When Camping.pdf",
+    "thumb_path": "/images/resources/Cooking/how-to-wash-dishes-when-camping.png"
+  },
+  {
+    "category": "Cooking",
+    "title": "The highly evolved messkit",
+    "filename": "The highly evolved messkit.pdf",
+    "slug": "the-highly-evolved-messkit",
+    "pdf_path": "/PDF /Cooking/The highly evolved messkit.pdf",
+    "thumb_path": "/images/resources/Cooking/the-highly-evolved-messkit.png"
+  },
+  {
+    "category": "Games",
+    "title": "Alligator River",
+    "filename": "GAME - Alligator River.pdf",
+    "slug": "game-alligator-river",
+    "pdf_path": "/PDF /Games/GAME - Alligator River.pdf",
+    "thumb_path": "/images/resources/Games/game-alligator-river.png"
+  },
+  {
+    "category": "Games",
+    "title": "Eight Knot Contest",
+    "filename": "GAME - Eight Knot Contest.pdf",
+    "slug": "game-eight-knot-contest",
+    "pdf_path": "/PDF /Games/GAME - Eight Knot Contest.pdf",
+    "thumb_path": "/images/resources/Games/game-eight-knot-contest.png"
+  },
+  {
+    "category": "Games",
+    "title": "Heaving Bar",
+    "filename": "GAME - Heaving Bar.pdf",
+    "slug": "game-heaving-bar",
+    "pdf_path": "/PDF /Games/GAME - Heaving Bar.pdf",
+    "thumb_path": "/images/resources/Games/game-heaving-bar.png"
+  },
+  {
+    "category": "Games",
+    "title": "Isotope",
+    "filename": "GAME - Isotope.pdf",
+    "slug": "game-isotope",
+    "pdf_path": "/PDF /Games/GAME - Isotope.pdf",
+    "thumb_path": "/images/resources/Games/game-isotope.png"
+  },
+  {
+    "category": "Games",
+    "title": "Molkky",
+    "filename": "GAME - Molkky.pdf",
+    "slug": "game-molkky",
+    "pdf_path": "/PDF /Games/GAME - Molkky.pdf",
+    "thumb_path": "/images/resources/Games/game-molkky.png"
+  },
+  {
+    "category": "Games",
+    "title": "Ships in the Fog",
+    "filename": "GAME - Ships in the Fog.pdf",
+    "slug": "game-ships-in-the-fog",
+    "pdf_path": "/PDF /Games/GAME - Ships in the Fog.pdf",
+    "thumb_path": "/images/resources/Games/game-ships-in-the-fog.png"
+  },
+  {
+    "category": "Games",
+    "title": "Thurman Throw",
+    "filename": "GAME - Thurman Throw.pdf",
+    "slug": "game-thurman-throw",
+    "pdf_path": "/PDF /Games/GAME - Thurman Throw.pdf",
+    "thumb_path": "/images/resources/Games/game-thurman-throw.png"
+  },
+  {
+    "category": "Games",
+    "title": "GAME Ship in the Fog",
+    "filename": "GAME Ship in the Fog.pdf",
+    "slug": "game-ship-in-the-fog",
+    "pdf_path": "/PDF /Games/GAME Ship in the Fog.pdf",
+    "thumb_path": "/images/resources/Games/game-ship-in-the-fog.png"
+  },
+  {
+    "category": "Games",
+    "title": "GAME Snowball Battle Royale",
+    "filename": "GAME Snowball Battle Royale.pdf",
+    "slug": "game-snowball-battle-royale",
+    "pdf_path": "/PDF /Games/GAME Snowball Battle Royale.pdf",
+    "thumb_path": "/images/resources/Games/game-snowball-battle-royale.png"
+  },
+  {
+    "category": "Knots and Ropework",
+    "title": "Constrictor Knot",
+    "filename": "KNOTS - Constrictor Knot.pdf",
+    "slug": "knots-constrictor-knot",
+    "pdf_path": "/PDF /Knots and Ropework/KNOTS - Constrictor Knot.pdf",
+    "thumb_path": "/images/resources/Knots and Ropework/knots-constrictor-knot.png"
+  },
+  {
+    "category": "Knots and Ropework",
+    "title": "Rigging a Tarp",
+    "filename": "KNOTS - Rigging a Tarp.pdf",
+    "slug": "knots-rigging-a-tarp",
+    "pdf_path": "/PDF /Knots and Ropework/KNOTS - Rigging a Tarp.pdf",
+    "thumb_path": "/images/resources/Knots and Ropework/knots-rigging-a-tarp.png"
+  },
+  {
+    "category": "Knots and Ropework",
+    "title": "Turks Head, Left Handed",
+    "filename": "KNOTS - Turks Head, Left Handed.pdf",
+    "slug": "knots-turks-head-left-handed",
+    "pdf_path": "/PDF /Knots and Ropework/KNOTS - Turks Head, Left Handed.pdf",
+    "thumb_path": "/images/resources/Knots and Ropework/knots-turks-head-left-handed.png"
+  },
+  {
+    "category": "Knots and Ropework",
+    "title": "Turks Head",
+    "filename": "KNOTS - Turks Head.pdf",
+    "slug": "knots-turks-head",
+    "pdf_path": "/PDF /Knots and Ropework/KNOTS - Turks Head.pdf",
+    "thumb_path": "/images/resources/Knots and Ropework/knots-turks-head.png"
+  },
+  {
+    "category": "Knots and Ropework",
+    "title": "KNOTS Bottle Sling Knot",
+    "filename": "KNOTS Bottle Sling Knot.pdf",
+    "slug": "knots-bottle-sling-knot",
+    "pdf_path": "/PDF /Knots and Ropework/KNOTS Bottle Sling Knot.pdf",
+    "thumb_path": "/images/resources/Knots and Ropework/knots-bottle-sling-knot.png"
+  },
+  {
+    "category": "Knots and Ropework",
+    "title": "KNOTS Carrick Bend",
+    "filename": "KNOTS Carrick Bend.pdf",
+    "slug": "knots-carrick-bend",
+    "pdf_path": "/PDF /Knots and Ropework/KNOTS Carrick Bend.pdf",
+    "thumb_path": "/images/resources/Knots and Ropework/knots-carrick-bend.png"
+  },
+  {
+    "category": "Knots and Ropework",
+    "title": "KNOTS Trucker's Hitch",
+    "filename": "KNOTS Trucker's Hitch.pdf",
+    "slug": "knots-trucker-s-hitch",
+    "pdf_path": "/PDF /Knots and Ropework/KNOTS Trucker's Hitch.pdf",
+    "thumb_path": "/images/resources/Knots and Ropework/knots-trucker-s-hitch.png"
+  },
+  {
+    "category": "Knots and Ropework",
+    "title": "Scouting Knots from 1925",
+    "filename": "Scouting Knots from 1925.pdf",
+    "slug": "scouting-knots-from-1925",
+    "pdf_path": "/PDF /Knots and Ropework/Scouting Knots from 1925.pdf",
+    "thumb_path": "/images/resources/Knots and Ropework/scouting-knots-from-1925.png"
+  },
+  {
+    "category": "Miscellaneous",
+    "title": "Bridge Builder Poem",
+    "filename": "Bridge Builder Poem.pdf",
+    "slug": "bridge-builder-poem",
+    "pdf_path": "/PDF /Miscellaneous/Bridge Builder Poem.pdf",
+    "thumb_path": "/images/resources/Miscellaneous/bridge-builder-poem.png"
+  },
+  {
+    "category": "Miscellaneous",
+    "title": "Robert W. Service Ballads",
+    "filename": "Robert W. Service Ballads.pdf",
+    "slug": "robert-w-service-ballads",
+    "pdf_path": "/PDF /Miscellaneous/Robert W. Service Ballads.pdf",
+    "thumb_path": "/images/resources/Miscellaneous/robert-w-service-ballads.png"
+  },
+  {
+    "category": "Miscellaneous",
+    "title": "Robert W. Service Poems",
+    "filename": "Robert W. Service Poems.pdf",
+    "slug": "robert-w-service-poems",
+    "pdf_path": "/PDF /Miscellaneous/Robert W. Service Poems.pdf",
+    "thumb_path": "/images/resources/Miscellaneous/robert-w-service-poems.png"
+  },
+  {
+    "category": "Miscellaneous",
+    "title": "Scout Camp Law 1x3 banner",
+    "filename": "Scout Camp Law 1x3 banner.pdf",
+    "slug": "scout-camp-law-1x3-banner",
+    "pdf_path": "/PDF /Miscellaneous/Scout Camp Law 1x3 banner.pdf",
+    "thumb_path": "/images/resources/Miscellaneous/scout-camp-law-1x3-banner.png"
+  },
+  {
+    "category": "Miscellaneous",
+    "title": "Scoutmaster Podcast Jokes",
+    "filename": "Scoutmaster Podcast Jokes.pdf",
+    "slug": "scoutmaster-podcast-jokes",
+    "pdf_path": "/PDF /Miscellaneous/Scoutmaster Podcast Jokes.pdf",
+    "thumb_path": "/images/resources/Miscellaneous/scoutmaster-podcast-jokes.png"
+  },
+  {
+    "category": "Miscellaneous",
+    "title": "So Far, So Good -sample",
+    "filename": "So Far, So Good -sample.pdf",
+    "slug": "so-far-so-good-sample",
+    "pdf_path": "/PDF /Miscellaneous/So Far, So Good -sample.pdf",
+    "thumb_path": "/images/resources/Miscellaneous/so-far-so-good-sample.png"
+  },
+  {
+    "category": "Miscellaneous",
+    "title": "Twas our first night out camping (Xmas Poem)",
+    "filename": "Twas our first night out camping (Xmas Poem).pdf",
+    "slug": "twas-our-first-night-out-camping-xmas-poem",
+    "pdf_path": "/PDF /Miscellaneous/Twas our first night out camping (Xmas Poem).pdf",
+    "thumb_path": "/images/resources/Miscellaneous/twas-our-first-night-out-camping-xmas-poem.png"
+  },
+  {
+    "category": "Miscellaneous",
+    "title": "twas the first night",
+    "filename": "twas the first night.pdf",
+    "slug": "twas-the-first-night",
+    "pdf_path": "/PDF /Miscellaneous/twas the first night.pdf",
+    "thumb_path": "/images/resources/Miscellaneous/twas-the-first-night.png"
+  },
+  {
+    "category": "Nature Study",
+    "title": "Setons Seasonal Moons",
+    "filename": "Setons Seasonal Moons.pdf",
+    "slug": "setons-seasonal-moons",
+    "pdf_path": "/PDF /Nature Study/Setons Seasonal Moons.pdf",
+    "thumb_path": "/images/resources/Nature Study/setons-seasonal-moons.png"
+  },
+  {
+    "category": "Nature Study",
+    "title": "Sky Tour of the Circumpolar Consellations",
+    "filename": "Sky Tour of the Circumpolar Consellations.pdf",
+    "slug": "sky-tour-of-the-circumpolar-consellations",
+    "pdf_path": "/PDF /Nature Study/Sky Tour of the Circumpolar Consellations.pdf",
+    "thumb_path": "/images/resources/Nature Study/sky-tour-of-the-circumpolar-consellations.png"
+  },
+  {
+    "category": "Nature Study",
+    "title": "Sky Tour",
+    "filename": "Sky Tour.pdf",
+    "slug": "sky-tour",
+    "pdf_path": "/PDF /Nature Study/Sky Tour.pdf",
+    "thumb_path": "/images/resources/Nature Study/sky-tour.png"
+  },
+  {
+    "category": "Neckercheif Slides",
+    "title": "BALL IN CAGE NECKERCHIEF SLIDE",
+    "filename": "BALL IN CAGE NECKERCHIEF SLIDE.pdf",
+    "slug": "ball-in-cage-neckerchief-slide",
+    "pdf_path": "/PDF /Neckercheif Slides/BALL IN CAGE NECKERCHIEF SLIDE.pdf",
+    "thumb_path": "/images/resources/Neckercheif Slides/ball-in-cage-neckerchief-slide.png"
+  },
+  {
+    "category": "Neckercheif Slides",
+    "title": "Neckercheif Knots and Folds",
+    "filename": "Neckercheif Knots and Folds.pdf",
+    "slug": "neckercheif-knots-and-folds",
+    "pdf_path": "/PDF /Neckercheif Slides/Neckercheif Knots and Folds.pdf",
+    "thumb_path": "/images/resources/Neckercheif Slides/neckercheif-knots-and-folds.png"
+  },
+  {
+    "category": "Neckercheif Slides",
+    "title": "ROYAL CARRICK NECKERCHEIF SLIDE",
+    "filename": "ROYAL CARRICK NECKERCHEIF SLIDE.pdf",
+    "slug": "royal-carrick-neckercheif-slide",
+    "pdf_path": "/PDF /Neckercheif Slides/ROYAL CARRICK NECKERCHEIF SLIDE.pdf",
+    "thumb_path": "/images/resources/Neckercheif Slides/royal-carrick-neckercheif-slide.png"
+  },
+  {
+    "category": "Neckercheif Slides",
+    "title": "TURK'S HEAD NECKERCHIEF SLIDE",
+    "filename": "TURK'S HEAD NECKERCHIEF SLIDE.pdf",
+    "slug": "turk-s-head-neckerchief-slide",
+    "pdf_path": "/PDF /Neckercheif Slides/TURK'S HEAD NECKERCHIEF SLIDE.pdf",
+    "thumb_path": "/images/resources/Neckercheif Slides/turk-s-head-neckerchief-slide.png"
+  },
+  {
+    "category": "Program Ideas",
+    "title": "Court-of-Honor-Candle-Stand",
+    "filename": "Court-of-Honor-Candle-Stand.pdf",
+    "slug": "court-of-honor-candle-stand",
+    "pdf_path": "/PDF /Program Ideas/Court-of-Honor-Candle-Stand.pdf",
+    "thumb_path": "/images/resources/Program Ideas/court-of-honor-candle-stand.png"
+  },
+  {
+    "category": "Program Ideas",
+    "title": "Instructional Methods for Scouts",
+    "filename": "Instructional Methods for Scouts.pdf",
+    "slug": "instructional-methods-for-scouts",
+    "pdf_path": "/PDF /Program Ideas/Instructional Methods for Scouts.pdf",
+    "thumb_path": "/images/resources/Program Ideas/instructional-methods-for-scouts.png"
+  },
+  {
+    "category": "Program Ideas",
+    "title": "Night-Hike",
+    "filename": "Night-Hike.pdf",
+    "slug": "night-hike",
+    "pdf_path": "/PDF /Program Ideas/Night-Hike.pdf",
+    "thumb_path": "/images/resources/Program Ideas/night-hike.png"
+  },
+  {
+    "category": "Program Ideas",
+    "title": "court-of-honor-script",
+    "filename": "court-of-honor-script.pdf",
+    "slug": "court-of-honor-script",
+    "pdf_path": "/PDF /Program Ideas/court-of-honor-script.pdf",
+    "thumb_path": "/images/resources/Program Ideas/court-of-honor-script.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "Atomic Scouting",
+    "filename": "Atomic Scouting.pdf",
+    "slug": "atomic-scouting",
+    "pdf_path": "/PDF /Scouters/Atomic Scouting.pdf",
+    "thumb_path": "/images/resources/Scouters/atomic-scouting.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "Card for New Adult Volunteers",
+    "filename": "Card for New Adult Volunteers.pdf",
+    "slug": "card-for-new-adult-volunteers",
+    "pdf_path": "/PDF /Scouters/Card for New Adult Volunteers.pdf",
+    "thumb_path": "/images/resources/Scouters/card-for-new-adult-volunteers.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "Fifteen Thoughts for Scout Leaders",
+    "filename": "Fifteen Thoughts for Scout Leaders.pdf",
+    "slug": "fifteen-thoughts-for-scout-leaders",
+    "pdf_path": "/PDF /Scouters/Fifteen Thoughts for Scout Leaders.pdf",
+    "thumb_path": "/images/resources/Scouters/fifteen-thoughts-for-scout-leaders.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "Fifteen Thoughts for Scouters",
+    "filename": "Fifteen Thoughts for Scouters.pdf",
+    "slug": "fifteen-thoughts-for-scouters",
+    "pdf_path": "/PDF /Scouters/Fifteen Thoughts for Scouters.pdf",
+    "thumb_path": "/images/resources/Scouters/fifteen-thoughts-for-scouters.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "Key Skills for Scouters cartoon",
+    "filename": "Key Skills for Scouters cartoon.pdf",
+    "slug": "key-skills-for-scouters-cartoon",
+    "pdf_path": "/PDF /Scouters/Key Skills for Scouters cartoon.pdf",
+    "thumb_path": "/images/resources/Scouters/key-skills-for-scouters-cartoon.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "One-Aim-One-Method",
+    "filename": "One-Aim-One-Method.pdf",
+    "slug": "one-aim-one-method",
+    "pdf_path": "/PDF /Scouters/One-Aim-One-Method.pdf",
+    "thumb_path": "/images/resources/Scouters/one-aim-one-method.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "Principles of Scoutmastership",
+    "filename": "Principles of Scoutmastership.pdf",
+    "slug": "principles-of-scoutmastership",
+    "pdf_path": "/PDF /Scouters/Principles of Scoutmastership.pdf",
+    "thumb_path": "/images/resources/Scouters/principles-of-scoutmastership.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "Scouter Skills Cartoon",
+    "filename": "Scouter Skills Cartoon.pdf",
+    "slug": "scouter-skills-cartoon",
+    "pdf_path": "/PDF /Scouters/Scouter Skills Cartoon.pdf",
+    "thumb_path": "/images/resources/Scouters/scouter-skills-cartoon.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "Talking With Scouts About Tragic Events",
+    "filename": "Talking With Scouts About Tragic Events.pdf",
+    "slug": "talking-with-scouts-about-tragic-events",
+    "pdf_path": "/PDF /Scouters/Talking With Scouts About Tragic Events.pdf",
+    "thumb_path": "/images/resources/Scouters/talking-with-scouts-about-tragic-events.png"
+  },
+  {
+    "category": "Scouters",
+    "title": "Why Do Scouts go Camping",
+    "filename": "Why Do Scouts go Camping.pdf",
+    "slug": "why-do-scouts-go-camping",
+    "pdf_path": "/PDF /Scouters/Why Do Scouts go Camping.pdf",
+    "thumb_path": "/images/resources/Scouters/why-do-scouts-go-camping.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "10 Ways to Frustrate a Youth Leader",
+    "filename": "10 Ways to Frustrate a Youth Leader.pdf",
+    "slug": "10-ways-to-frustrate-a-youth-leader",
+    "pdf_path": "/PDF /Youth Leadership/10 Ways to Frustrate a Youth Leader.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/10-ways-to-frustrate-a-youth-leader.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "Every Scout a Leader",
+    "filename": "Every Scout a Leader.pdf",
+    "slug": "every-scout-a-leader",
+    "pdf_path": "/PDF /Youth Leadership/Every Scout a Leader.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/every-scout-a-leader.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "Fifteen Minute Patrol Leader Training",
+    "filename": "Fifteen Minute Patrol Leader Training.pdf",
+    "slug": "fifteen-minute-patrol-leader-training",
+    "pdf_path": "/PDF /Youth Leadership/Fifteen Minute Patrol Leader Training.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/fifteen-minute-patrol-leader-training.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "Ladder of Youth Leadership in Scouting",
+    "filename": "Ladder of Youth Leadership in Scouting.pdf",
+    "slug": "ladder-of-youth-leadership-in-scouting",
+    "pdf_path": "/PDF /Youth Leadership/Ladder of Youth Leadership in Scouting.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/ladder-of-youth-leadership-in-scouting.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "Leadership Development Landmarks",
+    "filename": "Leadership Development Landmarks.pdf",
+    "slug": "leadership-development-landmarks",
+    "pdf_path": "/PDF /Youth Leadership/Leadership Development Landmarks.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/leadership-development-landmarks.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "Leadership-Self-Evaluation",
+    "filename": "Leadership-Self-Evaluation.pdf",
+    "slug": "leadership-self-evaluation",
+    "pdf_path": "/PDF /Youth Leadership/Leadership-Self-Evaluation.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/leadership-self-evaluation.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "Patrol Leaders Council Infographic",
+    "filename": "Patrol Leaders Council Infographic.pdf",
+    "slug": "patrol-leaders-council-infographic",
+    "pdf_path": "/PDF /Youth Leadership/Patrol Leaders Council Infographic.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/patrol-leaders-council-infographic.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "Patrol System Self Assesment Tool",
+    "filename": "Patrol System Self Assesment Tool.pdf",
+    "slug": "patrol-system-self-assesment-tool",
+    "pdf_path": "/PDF /Youth Leadership/Patrol System Self Assesment Tool.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/patrol-system-self-assesment-tool.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "Patrol-Choice-Chart",
+    "filename": "Patrol-Choice-Chart.pdf",
+    "slug": "patrol-choice-chart",
+    "pdf_path": "/PDF /Youth Leadership/Patrol-Choice-Chart.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/patrol-choice-chart.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "The Patrol Leader's Real Power",
+    "filename": "The Patrol Leader's Real Power.pdf",
+    "slug": "the-patrol-leader-s-real-power",
+    "pdf_path": "/PDF /Youth Leadership/The Patrol Leader's Real Power.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/the-patrol-leader-s-real-power.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "Troop Positions of Responsibility",
+    "filename": "Troop Positions of Responsibility.pdf",
+    "slug": "troop-positions-of-responsibility",
+    "pdf_path": "/PDF /Youth Leadership/Troop Positions of Responsibility.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/troop-positions-of-responsibility.png"
+  },
+  {
+    "category": "Youth Leadership",
+    "title": "patrol log pdf free",
+    "filename": "patrol log pdf free.pdf",
+    "slug": "patrol-log-pdf-free",
+    "pdf_path": "/PDF /Youth Leadership/patrol log pdf free.pdf",
+    "thumb_path": "/images/resources/Youth Leadership/patrol-log-pdf-free.png"
+  }
+]

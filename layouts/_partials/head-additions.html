@@ -874,6 +874,176 @@
   .topics-page-row-note {
     font-style: italic;
   }
+
+  /* ── Resources page ─────────────────────────────────── */
+  .res-page { padding-top: 2rem; }
+  .res-header { margin-bottom: 1.5rem; }
+  .res-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    color: #2a2a2a;
+    margin: 0 0 0.3rem;
+  }
+  .res-subtitle {
+    font-size: 0.85rem;
+    color: #888;
+    font-style: italic;
+    margin: 0;
+  }
+  /* Filter bar */
+  .res-filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-bottom: 1.5rem;
+  }
+  .res-filter-btn {
+    background: none;
+    border: 1px solid #d0ccc4;
+    border-radius: 3px;
+    padding: 4px 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.72rem;
+    color: #666;
+    cursor: pointer;
+    transition: background 0.12s, color 0.12s, border-color 0.12s;
+  }
+  .res-filter-btn:hover { border-color: #3B4D1E; color: #3B4D1E; }
+  .res-filter-btn.active { background: #3B4D1E; color: #fff; border-color: #3B4D1E; }
+  /* Gallery grid */
+  .res-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1rem;
+  }
+  .res-card { display: flex; flex-direction: column; }
+  .res-card-thumb {
+    position: relative;
+    background: #f0ede8;
+    border: 1px solid #ddd8cf;
+    border-radius: 4px;
+    overflow: hidden;
+    cursor: pointer;
+    aspect-ratio: 3/4;
+  }
+  .res-card-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .res-thumb-missing::after {
+    content: 'PDF';
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    color: #aaa;
+    font-family: 'Roboto', sans-serif;
+  }
+  .res-card-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(59,77,30,0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  .res-card-overlay span {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+  }
+  .res-card-thumb:hover .res-card-overlay { opacity: 1; }
+  .res-card-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.72rem;
+    color: #444;
+    margin-top: 0.4rem;
+    line-height: 1.35;
+  }
+  /* Viewer */
+  .res-viewer-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+    z-index: 1000;
+  }
+  .res-viewer {
+    position: fixed;
+    top: 5vh;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+    max-width: 800px;
+    min-width: 320px;
+    height: 90vh;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.3);
+    z-index: 1001;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .res-viewer-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #e8e4de;
+    background: #f5f3ef;
+    flex-shrink: 0;
+  }
+  .res-viewer-title {
+    flex: 1;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #2a2a2a;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .res-viewer-actions { display: flex; align-items: center; gap: 0.5rem; flex-shrink: 0; }
+  .res-viewer-btn {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.72rem;
+    padding: 4px 10px;
+    border-radius: 3px;
+    background: #3B4D1E;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+  }
+  .res-viewer-btn--outline { background: none; border: 1px solid #3B4D1E; color: #3B4D1E; }
+  .res-viewer-btn--outline:hover { background: #3B4D1E; color: #fff; }
+  .res-viewer-close {
+    background: none;
+    border: none;
+    font-size: 1rem;
+    color: #888;
+    cursor: pointer;
+    padding: 2px 4px;
+    line-height: 1;
+  }
+  .res-viewer-close:hover { color: #2a2a2a; }
+  .res-viewer-frame {
+    flex: 1;
+    width: 100%;
+    border: none;
+  }
+  @media (max-width: 640px) {
+    .res-viewer { width: 95%; top: 2vh; height: 96vh; }
+    .res-gallery { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); }
+  }
 </style>
 
 <div id="smcg-share-overlay" hidden>
