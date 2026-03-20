@@ -21,6 +21,8 @@
       <a href="/">All Topics</a>
       <span class="smcg-breadcrumb-sep">›</span>
       <a href="/#{{ $.Scratch.Get "parentSlug" }}">{{ $.Scratch.Get "parentCat" }}</a>
+      <span class="smcg-breadcrumb-sep">›</span>
+      {{ .Title }}
     </nav>
 
     <h1 class="topics-page-title">{{ .Title }}</h1>
@@ -54,7 +56,7 @@
 
     {{ if $podMatches }}
       <div id="smcg-podcasts-section">
-        <h2 class="topics-page-section-heading">Podcast Sections</h2>
+        <h2 class="topics-page-section-heading">Podcast Clips</h2>
         <div class="topics-page-list">
           {{ range $podMatches }}
             <a class="topics-page-row topics-page-row--podcast" href="/podcasts/episode-{{ .episode }}/?t={{ .timestamp }}" data-sort="{{ printf "%04d" .episode }}">
