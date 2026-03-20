@@ -1,27 +1,15 @@
 {{/* Global audio engine — audio element + smcgPlayer API. No sticky bar. */}}
-<audio id="smcg-audio" preload="metadata" data-phase="intro" style="display:none;"></audio>
+<audio id="smcg-audio" preload="metadata" style="display:none;"></audio>
 
 <script>
 (function() {
-  var INTRO = "https://scoutmastercg-podcast.s3.us-east-005.backblazeb2.com/intro.mp3";
-
-  var audio   = document.getElementById("smcg-audio");
-
-  var SVG_PLAY  = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
-  var SVG_PAUSE = '<svg viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
+  var audio = document.getElementById("smcg-audio");
 
   var s = {
-    episode:      null,
-    subtitle:     null,
-    pathname:     null,
-    playedIntro:  false,
-    seekTarget:   0
+    episode:  null,
+    subtitle: null,
+    pathname: null
   };
-
-  function fmt(sec) {
-    sec = Math.floor(sec || 0);
-    return Math.floor(sec / 60) + ":" + (sec % 60 < 10 ? "0" : "") + sec % 60;
-  }
 
   function fire() {
     document.dispatchEvent(new CustomEvent("smcg:state", {
@@ -29,74 +17,53 @@
     }));
   }
 
-  function setPhase(isEpisode) {
-    audio.dataset.phase = isEpisode ? "episode" : "intro";
-  }
+  audio.addEventListener("play",       function() { fire(); });
+  audio.addEventListener("pause",      function() { fire(); });
+  audio.addEventListener("timeupdate", function() { fire(); });
 
-  function switchToEpisode(seekSecs) {
-    s.playedIntro = true;
-    setPhase(true);
-    audio.src = s.episode;
-    audio.load();
-    audio.addEventListener("loadedmetadata", function() {
-      if (seekSecs > 0) audio.currentTime = seekSecs;
-      audio.play();
-    }, { once: true });
-  }
-
-  audio.addEventListener("play",  function() { fire(); });
-  audio.addEventListener("pause", function() { fire(); });
-
-  audio.addEventListener("timeupdate", function() {
+  audio.addEventListener("ended", function() {
+    if (s.pathname) {
+      localStorage.setItem("smcg_played_" + s.pathname, "true");
+      localStorage.removeItem("smcg_resume_" + s.pathname);
+    }
     fire();
   });
 
-  audio.addEventListener("ended", function() {
-    if (!s.playedIntro) {
-      switchToEpisode(s.seekTarget);
-    } else {
-      if (s.pathname) {
-        localStorage.setItem("smcg_played_" + s.pathname, "true");
-        localStorage.removeItem("smcg_resume_" + s.pathname);
-      }
-      fire();
-    }
-  });
-
   setInterval(function() {
-    if (s.playedIntro && !audio.paused && !audio.ended && audio.currentTime > 0 && s.pathname)
+    if (!audio.paused && !audio.ended && audio.currentTime > 0 && s.pathname)
       localStorage.setItem("smcg_resume_" + s.pathname, Math.floor(audio.currentTime));
   }, 5000);
 
   window.smcgPlayer = {
     load: function(episodeUrl, ep, subtitle, pathname, seekSecs) {
-      if (s.episode === episodeUrl && s.playedIntro) {
+      s.pathname = pathname;
+      if (s.episode === episodeUrl) {
         if (audio.paused) audio.play(); else audio.pause();
         return;
       }
-      s.episode     = episodeUrl;
-      s.subtitle    = subtitle;
-      s.pathname    = pathname;
-      s.seekTarget  = seekSecs || 0;
-      s.playedIntro = false;
-      setPhase(false);
-      audio.src = INTRO;
+      s.episode  = episodeUrl;
+      s.subtitle = subtitle;
+      audio.src  = episodeUrl;
       audio.load();
-      audio.play();
+      if (seekSecs > 0) {
+        audio.addEventListener("loadedmetadata", function() {
+          audio.currentTime = seekSecs;
+          audio.play();
+        }, { once: true });
+      } else {
+        audio.play();
+      }
     },
 
     seekTo: function(seconds, episodeUrl, ep, subtitle, pathname) {
-      if (s.episode === episodeUrl && s.playedIntro) {
+      s.pathname = pathname;
+      if (s.episode === episodeUrl) {
         audio.currentTime = seconds;
         audio.play();
       } else {
-        s.episode     = episodeUrl;
-        s.subtitle    = subtitle;
-        s.pathname    = pathname;
-        s.seekTarget  = seconds;
-        s.playedIntro = true;
-        setPhase(true);
-        audio.src = episodeUrl;
+        s.episode  = episodeUrl;
+        s.subtitle = subtitle;
+        audio.src  = episodeUrl;
         audio.load();
         audio.addEventListener("loadedmetadata", function() {
           audio.currentTime = seconds;
@@ -106,7 +73,7 @@
     },
 
     getState: function() {
-      return { episode: s.episode, playing: !audio.paused, time: audio.currentTime, playedIntro: s.playedIntro };
+      return { episode: s.episode, playing: !audio.paused, time: audio.currentTime, playedIntro: true };
     }
   };
 
