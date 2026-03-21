@@ -4,10 +4,14 @@
   <div class="smcg-hero">
     <h1 class="smcg-hero-hed">30 years of thinking about<br>what makes Scouting work.</h1>
     <p class="smcg-hero-quote">"Scouting is unlike any other youth program;<br>the basics take minutes to learn and a lifetime to master."</p>
+    <div class="smcg-hero-byline">
+      <span class="smcg-hero-author">— Clarke Green</span>
+      <a href="/author-bio/" class="smcg-hero-bio-link">about the author</a>
+    </div>
   </div>
 
   {{/* Site search */}}
-  <div style="padding:0.75rem 1.25rem 0;">
+  <div class="smcg-content-wrap" style="padding:0.75rem 1.25rem 0;">
     <form action="https://www.google.com/search" method="get" target="_blank" style="display:flex; gap:0.5rem;">
       <input type="hidden" name="q" value="">
       <input type="search" id="site-search" name="q" placeholder="Search scoutmastercg.com…"
@@ -19,7 +23,7 @@
   </div>
 
   {{/* Topic accordion */}}
-  <section class="topics-section">
+  <section class="topics-section smcg-content-wrap">
     <h2 class="topics-heading">Browse 1,700+ Blog Posts &amp; Podcast Clips by Topic</h2>
     <div class="topics-list">
       {{ range $i, $main := site.Data.topic_structure }}

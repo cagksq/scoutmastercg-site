@@ -1,10 +1,12 @@
 <nav class="smcg-nav" role="navigation">
-  <a href="/" class="smcg-nav-brand">SCOUTMASTER<span>CG</span></a>
-  {{ if .Site.Menus.main }}
-  <ul class="smcg-nav-links">
-    {{ range .Site.Menus.main }}
-    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+  <div class="smcg-nav-inner">
+    <a href="/" class="smcg-nav-brand">SCOUTMASTER<span>CG</span></a>
+    {{ if .Site.Menus.main }}
+    <ul class="smcg-nav-links">
+      {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
     {{ end }}
-  </ul>
-  {{ end }}
+  </div>
 </nav>

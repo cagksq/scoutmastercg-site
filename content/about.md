@@ -4,19 +4,7 @@ date: 2026-02-25
 draft: false
 ---
 
-Clarke Green became a Scoutmaster in 1984 at the age of 24 and continued in that position for the next thirty years. During that time somewhere north of 120 of his Scouts earned the rank of Eagle.
-
-In 2005 he started a blog as a place to think through what he was learning and share it with other volunteers. He added a podcast, and by the time he stopped blogging and podcasting in 2019 there were nearly a thousand posts and 300+ episodes.
-
-Clarke was never an official of the BSA or any other Scouting organization. Everything here represents one Scoutmaster's experience and should be confirmed against current official guidance.
-
-He also staffed his council's summer camp for twelve years, including two seasons as camp director, and is the author of three books: *Thoughts on Scouting*, *The Scouting Journey*, and *So Far, So Good*.
-
-**Recognition:** Silver Beaver · District Award of Merit · Scoutmaster Award of Merit · Boy Scout Leader's Training Award · Vigil Honor, Order of the Arrow
-
----
-
-## Author's Introduction
+<p class="smcg-bio-byline">by Clarke Green · February 25, 2026</p>
 
 Almost all of my writing and speaking here focuses on the idea that Scouting works when the Scouts are in charge and adults know when to get out of the way. I said this in a hundred different ways over fifteen years, and every troop I've ever known has struggled with it, including mine.
 
@@ -40,7 +28,23 @@ One of the best things about the blog was interacting with readers and listeners
 
 I've said everything I intend to say on the subject — roughly a thousand times, as it turns out, and it's all here. Please don't write asking for more; there isn't any. Step away from this screen and go outside with some Scouts. That's my best advice, and it's free.
 
-Clarke's current writing is available at [cagksq.com](https://cagksq.com).
+<p class="smcg-bio-cagksq">Clarke's current writing is available at <a href="https://cagksq.com">cagksq.com</a>.</p>
+
+---
+
+<div class="smcg-bio-facts">
+
+Clarke Green became a Scoutmaster in 1984 at the age of 24 and continued in that position for the next thirty years. During that time somewhere north of 120 of his Scouts earned the rank of Eagle.
+
+In 2005 he started a blog as a place to think through what he was learning and share it with other volunteers. He added a podcast, and by the time he stopped blogging and podcasting in 2019 there were nearly a thousand posts and 300+ episodes.
+
+Clarke was never an official of the BSA or any other Scouting organization. Everything here represents one Scoutmaster's experience and should be confirmed against current official guidance.
+
+He also staffed his council's summer camp for twelve years, including two seasons as camp director, and is the author of three books: *Thoughts on Scouting*, *The Scouting Journey*, and *So Far, So Good*.
+
+**Recognition:** Silver Beaver · District Award of Merit · Scoutmaster Award of Merit · Boy Scout Leader's Training Award · Vigil Honor, Order of the Arrow
+
+</div>
 
 ---
 

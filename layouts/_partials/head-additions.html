@@ -24,8 +24,19 @@
   .post-footer button:hover {
     color: #FFE066 !important;
   }
+  /* ── Author bio byline ───────────────────────────────── */
+  .smcg-bio-byline { font-family: 'Roboto', sans-serif; font-size: .875rem; letter-spacing: .1em; color: #555; margin: 0 0 1.5rem; text-align: center; border-top: 1px solid #ddd; padding-top: 0.75rem; }
+  article.page-about time { display: none; }
+  article.page-about h1 { text-align: center; margin-bottom: 0.5rem; }
+  article.page-about aside { display: none; }
+  .smcg-bio-facts, .smcg-bio-facts p, .smcg-bio-facts strong { font-family: 'Roboto', sans-serif; font-size: 0.95rem; }
+  .smcg-bio-cagksq { font-family: 'Roboto', sans-serif; font-size: 0.95rem; text-align: center; }
+
+  /* ── Page content wrapper ────────────────────────────── */
+  .smcg-content-wrap { max-width: 860px; margin: 0 auto; }
+
   /* ── Browse by Topic accordion ──────────────────────── */
-  .topics-section { padding: 0; margin: 0; }
+  .topics-section { padding: 0; margin: 0 auto; }
   .topics-heading {
     font-family: 'Playfair Display', serif;
     font-size: 1.75rem;
@@ -232,7 +243,11 @@
   .smcg-hero-sub { font-family: 'Roboto', sans-serif; font-size: 0.95rem; color: #b8cfe8; letter-spacing: 0.04em; margin: 0; }
   .smcg-hero-sub a { color: #b8cfe8; text-decoration: none; }
   .smcg-hero-sub a:hover { color: #e8f0d8; }
-  .smcg-hero-quote { font-family: Roboto, sans-serif; font-size: 24px; font-weight: 100; font-style: italic; color: white; line-height: 1.2; opacity: 0.7; margin-top: 18px; margin-bottom: 0; text-align: center; }
+  .smcg-hero-quote { font-family: Roboto, sans-serif; font-size: 24px; font-weight: 100; font-style: italic; color: white; line-height: 1.2; opacity: 0.7; margin-top: 18px; margin-bottom: 0.15rem; text-align: center; }
+  .smcg-hero-byline { display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem; max-width: 600px; margin: 0.35rem auto 0; padding: 0 0.5rem; }
+  .smcg-hero-bio-link { font-family: 'Roboto', sans-serif; font-size: 0.75rem; font-weight: 100; font-style: italic; color: #b8cfe8; text-decoration: none; opacity: 0.7; }
+  .smcg-hero-bio-link:hover { color: #e8f0d8; opacity: 1; }
+  .smcg-hero-author { font-family: 'Roboto', sans-serif; font-size: 1.1rem; font-weight: 100; font-style: italic; color: white; opacity: 0.6; }
   .smcg-start-here { max-width: 34em; margin: 1.5rem auto; padding: 0 1.5rem 1.5rem; border-bottom: 1px solid #ddd; }
   .smcg-start-here h2 { font-family: 'Playfair Display', serif; font-size: 1.25rem; color: #3B4D1E; margin-bottom: 1rem; }
   .smcg-start-here ul { list-style: none; padding: 0; margin: 0; }
@@ -242,12 +257,17 @@
 
   /* ── Navigation ───────────────────────────────────────── */
   .smcg-nav {
+    background: #3B4D1E;
+    height: 48px;
+  }
+  .smcg-nav-inner {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 1.5rem;
-    background: #3B4D1E;
-    height: 48px;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 1.25rem;
+    height: 100%;
   }
   .smcg-nav-brand {
     font-family: 'Bebas Neue', sans-serif;
