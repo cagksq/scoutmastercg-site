@@ -34,13 +34,18 @@
           <div class="topic-sub-list" hidden>
             {{ range $main.subcategories }}
               {{ $slug := .name | urlize }}
-              <a class="topic-sub-row" href="/topics/{{ $slug }}/">
+              {{ $href := printf "/topics/%s/" $slug }}{{ with .url }}{{ $href = . }}{{ end }}
+              <a class="topic-sub-row" href="{{ $href }}">
                 <span class="topic-sub-left">
                   <span class="topic-sub-name">{{ with .display_name }}{{ . }}{{ else }}{{ .name }}{{ end }}</span>
                   {{ with .description }}<span class="topic-sub-desc">{{ . }}</span>{{ end }}
                 </span>
                 <span class="topic-sub-meta">
+                  {{ if .pdf_count }}
+                  <span class="topic-row-count">{{ .pdf_count }} PDFs</span>
+                  {{ else }}
                   <span class="topic-row-count">{{ .post_count }} posts · {{ .podcast_count }} clips</span>
+                  {{ end }}
                 </span>
                 <span class="topic-row-arrow">›</span>
               </a>

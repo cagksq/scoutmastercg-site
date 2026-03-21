@@ -9,14 +9,6 @@
   },
   {
     "category": "Advancement",
-    "title": "How to Use a Blue card",
-    "filename": "How to Use a Blue card.pdf",
-    "slug": "how-to-use-a-blue-card",
-    "pdf_path": "/PDF /Advancement/How to Use a Blue card.pdf",
-    "thumb_path": "/images/resources/Advancement/how-to-use-a-blue-card.png"
-  },
-  {
-    "category": "Advancement",
     "title": "How to Use a Merit Badge Blue Card",
     "filename": "How to Use a Merit Badge Blue Card.pdf",
     "slug": "how-to-use-a-merit-badge-blue-card",
@@ -30,14 +22,6 @@
     "slug": "one-page-scoutmaster-conferences",
     "pdf_path": "/PDF /Advancement/One Page Scoutmaster Conferences.pdf",
     "thumb_path": "/images/resources/Advancement/one-page-scoutmaster-conferences.png"
-  },
-  {
-    "category": "Advancement",
-    "title": "Phasing in New Rank Requirements 2016",
-    "filename": "Phasing in New Rank Requirements 2016.pdf",
-    "slug": "phasing-in-new-rank-requirements-2016",
-    "pdf_path": "/PDF /Advancement/Phasing in New Rank Requirements 2016.pdf",
-    "thumb_path": "/images/resources/Advancement/phasing-in-new-rank-requirements-2016.png"
   },
   {
     "category": "Camping Gear",
@@ -273,14 +257,6 @@
   },
   {
     "category": "Games",
-    "title": "GAME Ship in the Fog",
-    "filename": "GAME Ship in the Fog.pdf",
-    "slug": "game-ship-in-the-fog",
-    "pdf_path": "/PDF /Games/GAME Ship in the Fog.pdf",
-    "thumb_path": "/images/resources/Games/game-ship-in-the-fog.png"
-  },
-  {
-    "category": "Games",
     "title": "GAME Snowball Battle Royale",
     "filename": "GAME Snowball Battle Royale.pdf",
     "slug": "game-snowball-battle-royale",
@@ -369,14 +345,6 @@
   },
   {
     "category": "Miscellaneous",
-    "title": "Robert W. Service Poems",
-    "filename": "Robert W. Service Poems.pdf",
-    "slug": "robert-w-service-poems",
-    "pdf_path": "/PDF /Miscellaneous/Robert W. Service Poems.pdf",
-    "thumb_path": "/images/resources/Miscellaneous/robert-w-service-poems.png"
-  },
-  {
-    "category": "Miscellaneous",
     "title": "Scout Camp Law 1x3 banner",
     "filename": "Scout Camp Law 1x3 banner.pdf",
     "slug": "scout-camp-law-1x3-banner",
@@ -393,27 +361,11 @@
   },
   {
     "category": "Miscellaneous",
-    "title": "So Far, So Good -sample",
-    "filename": "So Far, So Good -sample.pdf",
-    "slug": "so-far-so-good-sample",
-    "pdf_path": "/PDF /Miscellaneous/So Far, So Good -sample.pdf",
-    "thumb_path": "/images/resources/Miscellaneous/so-far-so-good-sample.png"
-  },
-  {
-    "category": "Miscellaneous",
     "title": "Twas our first night out camping (Xmas Poem)",
     "filename": "Twas our first night out camping (Xmas Poem).pdf",
     "slug": "twas-our-first-night-out-camping-xmas-poem",
     "pdf_path": "/PDF /Miscellaneous/Twas our first night out camping (Xmas Poem).pdf",
     "thumb_path": "/images/resources/Miscellaneous/twas-our-first-night-out-camping-xmas-poem.png"
-  },
-  {
-    "category": "Miscellaneous",
-    "title": "twas the first night",
-    "filename": "twas the first night.pdf",
-    "slug": "twas-the-first-night",
-    "pdf_path": "/PDF /Miscellaneous/twas the first night.pdf",
-    "thumb_path": "/images/resources/Miscellaneous/twas-the-first-night.png"
   },
   {
     "category": "Nature Study",
@@ -430,14 +382,6 @@
     "slug": "sky-tour-of-the-circumpolar-consellations",
     "pdf_path": "/PDF /Nature Study/Sky Tour of the Circumpolar Consellations.pdf",
     "thumb_path": "/images/resources/Nature Study/sky-tour-of-the-circumpolar-consellations.png"
-  },
-  {
-    "category": "Nature Study",
-    "title": "Sky Tour",
-    "filename": "Sky Tour.pdf",
-    "slug": "sky-tour",
-    "pdf_path": "/PDF /Nature Study/Sky Tour.pdf",
-    "thumb_path": "/images/resources/Nature Study/sky-tour.png"
   },
   {
     "category": "Neckercheif Slides",
@@ -462,14 +406,6 @@
     "slug": "royal-carrick-neckercheif-slide",
     "pdf_path": "/PDF /Neckercheif Slides/ROYAL CARRICK NECKERCHEIF SLIDE.pdf",
     "thumb_path": "/images/resources/Neckercheif Slides/royal-carrick-neckercheif-slide.png"
-  },
-  {
-    "category": "Neckercheif Slides",
-    "title": "TURK'S HEAD NECKERCHIEF SLIDE",
-    "filename": "TURK'S HEAD NECKERCHIEF SLIDE.pdf",
-    "slug": "turk-s-head-neckerchief-slide",
-    "pdf_path": "/PDF /Neckercheif Slides/TURK'S HEAD NECKERCHIEF SLIDE.pdf",
-    "thumb_path": "/images/resources/Neckercheif Slides/turk-s-head-neckerchief-slide.png"
   },
   {
     "category": "Program Ideas",
@@ -529,14 +465,6 @@
   },
   {
     "category": "Scouters",
-    "title": "Fifteen Thoughts for Scouters",
-    "filename": "Fifteen Thoughts for Scouters.pdf",
-    "slug": "fifteen-thoughts-for-scouters",
-    "pdf_path": "/PDF /Scouters/Fifteen Thoughts for Scouters.pdf",
-    "thumb_path": "/images/resources/Scouters/fifteen-thoughts-for-scouters.png"
-  },
-  {
-    "category": "Scouters",
     "title": "Key Skills for Scouters cartoon",
     "filename": "Key Skills for Scouters cartoon.pdf",
     "slug": "key-skills-for-scouters-cartoon",
@@ -558,14 +486,6 @@
     "slug": "principles-of-scoutmastership",
     "pdf_path": "/PDF /Scouters/Principles of Scoutmastership.pdf",
     "thumb_path": "/images/resources/Scouters/principles-of-scoutmastership.png"
-  },
-  {
-    "category": "Scouters",
-    "title": "Scouter Skills Cartoon",
-    "filename": "Scouter Skills Cartoon.pdf",
-    "slug": "scouter-skills-cartoon",
-    "pdf_path": "/PDF /Scouters/Scouter Skills Cartoon.pdf",
-    "thumb_path": "/images/resources/Scouters/scouter-skills-cartoon.png"
   },
   {
     "category": "Scouters",

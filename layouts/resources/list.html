@@ -9,78 +9,89 @@
   {{ end }}
 {{ end }}
 
-<div class="res-page mw8 center ph3 pb5">
+<div class="res-layout">
 
-  <div class="res-header">
-    <h1 class="res-title">{{ .Title }}</h1>
-    {{ with .Params.subtitle }}<p class="res-subtitle">{{ . }}</p>{{ end }}
-  </div>
+  {{/* Left sidebar */}}
+  <aside class="res-sidebar">
+    <div class="res-sidebar-top">
+      <h1 class="res-sidebar-title">{{ .Title }}</h1>
+      {{ with .Params.subtitle }}<p class="res-sidebar-sub">{{ . }}</p>{{ end }}
+    </div>
 
-  {{/* Category filter tabs */}}
-  <div class="res-filter-bar" role="tablist">
-    <button class="res-filter-btn active" data-cat="all" onclick="resFilter('all',this)">All</button>
-    {{ range $cats }}
-    <button class="res-filter-btn" data-cat="{{ . }}" onclick="resFilter({{ . | jsonify }},this)">{{ . }}</button>
+    {{ range $ci, $cat := $cats }}
+    <div class="res-cat-section{{ if eq $ci 0 }} open{{ end }}">
+      <button class="res-cat-hdr" onclick="resCatToggle(this)">
+        <span>{{ $cat }}</span>
+        <svg class="res-cat-arrow" viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M1 1l4 4 4-4"/></svg>
+      </button>
+      <ul class="res-cat-list">
+        {{ range $items }}
+        {{ if eq .category $cat }}
+        <li><button class="res-item-btn" data-pdf="{{ .pdf_path }}" data-title="{{ .title }}" onclick="resLoad(this)">{{ .title }}</button></li>
+        {{ end }}
+        {{ end }}
+      </ul>
+    </div>
     {{ end }}
-  </div>
 
-  {{/* Card gallery */}}
-  <div class="res-gallery" id="res-gallery">
-    {{ range $items }}
-    {{ $pdfUrl := .pdf_path }}
-    <div class="res-card" data-cat="{{ .category }}" data-title="{{ .title }}" data-pdf="{{ $pdfUrl }}">
-      <div class="res-card-thumb" onclick="resOpen({{ $pdfUrl | jsonify }}, {{ .title | jsonify }})">
-        <img src="{{ .thumb_path }}" alt="{{ .title }}" loading="lazy"
-             onerror="this.parentElement.classList.add('res-thumb-missing')">
-        <div class="res-card-overlay"><span>View</span></div>
+  </aside>
+
+  {{/* Right viewer */}}
+  <div class="res-main">
+    <div class="res-main-hdr">
+      <button class="res-mob-back" onclick="resMobBack()">← List</button>
+      <span class="res-main-title" id="res-title">Select a resource from the list</span>
+      <div class="res-main-actions" id="res-actions" style="visibility:hidden">
+        <a class="res-action-btn res-action-btn--outline" id="res-tab" href="#" target="_blank" rel="noopener">Open in new tab</a>
+        <a class="res-action-btn" id="res-dl" href="#" download>Download</a>
       </div>
-      <div class="res-card-title">{{ .title }}</div>
     </div>
-    {{ end }}
-  </div>
-
-</div>
-
-{{/* Viewer panel */}}
-<div class="res-viewer-backdrop" id="res-backdrop" onclick="resClose()" style="display:none;"></div>
-<div class="res-viewer" id="res-viewer" style="display:none;">
-  <div class="res-viewer-header">
-    <span class="res-viewer-title" id="res-viewer-title"></span>
-    <div class="res-viewer-actions">
-      <a class="res-viewer-btn" id="res-viewer-download" download>Download</a>
-      <a class="res-viewer-btn res-viewer-btn--outline" id="res-viewer-newtab" target="_blank" rel="noopener">Open in new tab</a>
-      <button class="res-viewer-close" onclick="resClose()" aria-label="Close">✕</button>
+    <div class="res-frame-wrap">
+      <iframe id="res-frame" src="" title="Resource viewer"></iframe>
+      <div class="res-empty" id="res-empty">Select a resource from the list to view it here</div>
     </div>
   </div>
-  <iframe class="res-viewer-frame" id="res-viewer-frame" src="" title="PDF viewer"></iframe>
+
 </div>
 
 <script>
-function resFilter(cat, btn) {
-  document.querySelectorAll('.res-filter-btn').forEach(function(b){ b.classList.remove('active'); });
+(function() {
+  function fitLayout() {
+    var el = document.querySelector('.res-layout');
+    if (!el) return;
+    el.style.height = (window.innerHeight - el.getBoundingClientRect().top) + 'px';
+    document.documentElement.style.overflowY = 'hidden';
+  }
+  document.addEventListener('DOMContentLoaded', fitLayout);
+  window.addEventListener('resize', fitLayout);
+})();
+
+function resCatToggle(btn) {
+  btn.closest('.res-cat-section').classList.toggle('open');
+}
+
+function resLoad(btn) {
+  var pdf = btn.dataset.pdf;
+  var title = btn.dataset.title;
+  // #view=Fit tells the browser PDF viewer to fit the whole page in the frame
+  document.getElementById('res-frame').src = pdf + '#view=Fit';
+  var titleEl = document.getElementById('res-title');
+  titleEl.textContent = title;
+  titleEl.classList.add('loaded');
+  document.getElementById('res-dl').href = pdf;
+  document.getElementById('res-tab').href = pdf;
+  document.getElementById('res-actions').style.visibility = '';
+  document.getElementById('res-empty').style.display = 'none';
+  document.querySelectorAll('.res-item-btn').forEach(function(b) { b.classList.remove('active'); });
   btn.classList.add('active');
-  document.querySelectorAll('.res-card').forEach(function(c){
-    c.style.display = (cat === 'all' || c.dataset.cat === cat) ? '' : 'none';
-  });
+  // Mobile: switch to viewer panel
+  if (window.innerWidth <= 700) {
+    document.querySelector('.res-layout').classList.add('mob-viewing');
+  }
 }
 
-function resOpen(pdfPath, title) {
-  document.getElementById('res-viewer-title').textContent = title;
-  document.getElementById('res-viewer-frame').src = pdfPath;
-  document.getElementById('res-viewer-download').href = pdfPath;
-  document.getElementById('res-viewer-newtab').href = pdfPath;
-  document.getElementById('res-backdrop').style.display = '';
-  document.getElementById('res-viewer').style.display = '';
-  document.body.style.overflow = 'hidden';
+function resMobBack() {
+  document.querySelector('.res-layout').classList.remove('mob-viewing');
 }
-
-function resClose() {
-  document.getElementById('res-backdrop').style.display = 'none';
-  document.getElementById('res-viewer').style.display = 'none';
-  document.getElementById('res-viewer-frame').src = '';
-  document.body.style.overflow = '';
-}
-
-document.addEventListener('keydown', function(e){ if(e.key === 'Escape') resClose(); });
 </script>
 {{ end }}

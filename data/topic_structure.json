@@ -173,6 +173,12 @@
         "post_count": 11,
         "podcast_count": 25,
         "description": "How patrols plan and run their own programs, meetings, and outings."
+      },
+      {
+        "name": "Downloadable Resources",
+        "url": "/resources/",
+        "pdf_count": 75,
+        "description": "Free printable guides, instruction sheets, and program materials from the ScoutmasterCG archive."
       }
     ]
   },
