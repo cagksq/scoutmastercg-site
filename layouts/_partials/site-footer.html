@@ -1,11 +1,7 @@
 <footer class="smcg-footer" role="contentinfo">
   <p class="smcg-footer-disclaimer">The material in this archive was created before 2019. Scouting regulations and policies, websites, and contact details mentioned are no longer current. The core ideas about Scouting hopefully remain relevant.</p>
   <nav>
-    <a href="/">Home</a> ·
-    <a href="/podcasts/">Podcast</a> ·
-    <a href="/categories/">Topics</a> ·
-    <a href="/about/">About</a> ·
-    <a href="/index.xml">RSS</a>
+    {{ $items := .Site.Menus.main }}{{ range $i, $item := $items }}<a href="{{ $item.URL }}">{{ $item.Name }}</a>{{ if lt (add $i 1) (len $items) }} · {{ end }}{{ end }}
   </nav>
   <a href="/admin" class="smcg-footer-admin">Admin</a>
 </footer>

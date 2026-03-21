@@ -3,9 +3,7 @@
     <a href="/" class="smcg-nav-brand">SCOUTMASTER<span>CG</span></a>
     {{ if .Site.Menus.main }}
     <ul class="smcg-nav-links">
-      {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-      {{ end }}
+      {{ $items := .Site.Menus.main }}{{ range $i, $item := $items }}<li><a href="{{ $item.URL }}">{{ $item.Name }}</a></li>{{ if lt (add $i 1) (len $items) }}<li class="smcg-nav-dot">·</li>{{ end }}{{ end }}
     </ul>
     {{ end }}
   </div>
